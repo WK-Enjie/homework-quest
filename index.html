@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homework Quest 🎮</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Start Screen -->
+        <div id="startScreen" class="screen active">
+            <div class="quest-logo">
+                <h1>📚 Homework Quest</h1>
+                <p class="tagline">Turn your homework into an adventure!</p>
+            </div>
+            
+            <div class="quest-input-box">
+                <label for="questCode">Enter Quest Code:</label>
+                <input type="text" id="questCode" placeholder="e.g., math-quest-01" autofocus>
+                <button onclick="startQuest()" class="btn-primary">Start Quest</button>
+            </div>
+
+            <div class="info-box">
+                <h3>📋 Available Sample Quests:</h3>
+                <ul>
+                    <li><code>sample-math-quest</code> - Mathematics Challenge</li>
+                    <li><em>Ask your teacher for more quest codes!</em></li>
+                </ul>
+            </div>
+        </div>
+
+        <!-- Quest Screen -->
+        <div id="questScreen" class="screen">
+            <div class="quest-header">
+                <div class="quest-info">
+                    <h2 id="questTitle">Quest Title</h2>
+                    <div class="quest-meta">
+                        <span class="badge" id="subject">Subject</span>
+                        <span class="badge" id="difficulty">Difficulty</span>
+                    </div>
+                    <p id="description"></p>
+                </div>
+                <div class="timer-box">
+                    <div class="timer-label">⏱️ Time</div>
+                    <div id="timer" class="timer">00:00</div>
+                </div>
+            </div>
+
+            <div class="progress-bar">
+                <div id="progressFill" class="progress-fill"></div>
+            </div>
+
+            <div id="questionsContainer" class="questions-container">
+                <!-- Questions will be loaded here -->
+            </div>
+
+            <button onclick="submitQuest()" class="btn-submit">Submit Quest 🎯</button>
+        </div>
+
+        <!-- Results Screen -->
+        <div id="resultsScreen" class="screen">
+            <div class="results-container">
+                <h1 class="results-title">Quest Complete! 🎉</h1>
+                
+                <div class="results-stats">
+                    <div class="stat-card">
+                        <div class="stat-icon">⭐</div>
+                        <div class="stat-value" id="scoreValue">0</div>
+                        <div class="stat-label">Score</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon">✅</div>
+                        <div class="stat-value" id="correctValue">0</div>
+                        <div class="stat-label">Correct</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon">⏱️</div>
+                        <div class="stat-value" id="timeValue">00:00</div>
+                        <div class="stat-label">Time</div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon">🎯</div>
+                        <div class="stat-value" id="percentageValue">0%</div>
+                        <div class="stat-label">Accuracy</div>
+                    </div>
+                </div>
+
+                <div id="achievementBadge" class="achievement-badge"></div>
+
+                <div class="results-breakdown" id="resultsBreakdown">
+                    <!-- Detailed results will appear here -->
+                </div>
+
+                <div class="results-actions">
+                    <button onclick="location.reload()" class="btn-primary">New Quest</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Error Message -->
+        <div id="errorMessage" class="error-message hidden">
+            <span id="errorText"></span>
+        </div>
+    </div>
+
+    <script src="js/timer.js"></script>
+    <script src="js/questHandler.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>
