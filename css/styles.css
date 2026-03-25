@@ -518,3 +518,70 @@ body {
     color: #856404;
     font-size: 0.9em;
 }
+/* ==========================================
+   FRACTION FORMATTING STYLES
+   ========================================== */
+
+/* Inline fraction style (3/4 using sup/sub) */
+.fraction {
+    display: inline-block;
+    white-space: nowrap;
+}
+
+.fraction sup {
+    font-size: 0.75em;
+    vertical-align: super;
+    line-height: 0;
+}
+
+.fraction sub {
+    font-size: 0.75em;
+    vertical-align: sub;
+    line-height: 0;
+}
+
+/* Stacked fraction style (vertical layout) */
+.fraction-stacked {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    margin: 0 0.2em;
+}
+
+.frac-top {
+    display: block;
+    font-size: 0.85em;
+    line-height: 1;
+    padding-bottom: 1px;
+}
+
+.frac-line {
+    display: block;
+    border-top: 1px solid currentColor;
+    margin: 0 0.1em;
+}
+
+.frac-bottom {
+    display: block;
+    font-size: 0.85em;
+    line-height: 1;
+    padding-top: 1px;
+}
+
+/* Make fractions look good in different contexts */
+.question-text .fraction,
+.question-text .fraction-stacked {
+    font-weight: 600;
+    color: #667eea;
+}
+
+.option-btn .fraction,
+.option-btn .fraction-stacked {
+    font-weight: 500;
+}
+
+/* Larger fractions in results */
+.result-question .fraction,
+.result-question .fraction-stacked {
+    font-size: 1.1em;
+}
