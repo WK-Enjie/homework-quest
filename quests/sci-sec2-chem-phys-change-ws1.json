@@ -1,0 +1,708 @@
+{
+  "questTitle": "Sec 2 Science: Chemical & Physical Change Worksheet 1",
+  "subject": "Science (Chemistry)",
+  "difficulty": "Medium",
+  "description": "Test your understanding of chemical and physical changes! This worksheet covers rusting, combustion, acid reactions, gas tests, electrolysis, electroplating, and thermal decomposition. Read each question carefully and apply your knowledge!",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Chemical vs Physical Change",
+      "question": "Which of the following is a characteristic of a CHEMICAL change?",
+      "options": [
+        "New substance is formed",
+        "Change in shape only",
+        "Change in state only",
+        "Easily reversible"
+      ],
+      "answer": "New substance is formed",
+      "points": 5
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Chemical vs Physical Change (continued)",
+      "question": "Based on what you know about chemical changes (new substance formed), which of the following is a PHYSICAL change?",
+      "options": [
+        "Burning of paper",
+        "Melting of ice",
+        "Rusting of iron",
+        "Digestion of food"
+      ],
+      "answer": "Melting of ice",
+      "points": 5
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Chemical vs Physical Change (continued)",
+      "question": "You identified that melting of ice is a physical change because no new substance is formed. Using the same reasoning, why is rusting considered a CHEMICAL change?",
+      "options": [
+        "The iron changes colour",
+        "The iron becomes weaker",
+        "The iron becomes rough",
+        "A new substance (iron oxide) is formed"
+      ],
+      "answer": "A new substance (iron oxide) is formed",
+      "points": 5
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Rusting of Iron",
+      "question": "What are the TWO conditions needed for iron to rust?",
+      "options": [
+        "Water and oxygen",
+        "Water and carbon dioxide",
+        "Oxygen and heat",
+        "Water and salt only"
+      ],
+      "answer": "Water and oxygen",
+      "points": 5
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Rusting of Iron (continued)",
+      "question": "You learned that BOTH water AND oxygen are needed for rusting. A student sets up three test tubes with iron nails:\n\n• Tube A: Iron nail in dry air (calcium chloride absorbs all moisture)\n• Tube B: Iron nail in boiled water covered with oil layer\n• Tube C: Iron nail in tap water exposed to air\n\nWhich tube will show rusting after one week?",
+      "options": [
+        "Tube A only",
+        "Tube B only",
+        "Tube C only",
+        "All three tubes"
+      ],
+      "answer": "Tube C only",
+      "points": 10
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Rusting of Iron (continued)",
+      "question": "In the previous experiment, Tube A has dry air (no water) and Tube C has both water and oxygen (so it rusts). For Tube B, the nail is in boiled water covered with oil. Why does this nail NOT rust?",
+      "options": [
+        "Oil reacts with water to prevent rusting",
+        "Boiled water is too hot for rusting",
+        "Boiled water contains chemicals that prevent rusting",
+        "Boiled water has no dissolved oxygen, and the oil layer prevents oxygen from entering"
+      ],
+      "answer": "Boiled water has no dissolved oxygen, and the oil layer prevents oxygen from entering",
+      "points": 10
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Rusting of Iron (continued)",
+      "question": "Since rusting needs water and oxygen, we can prevent rusting by blocking these from reaching the iron. Which of the following is NOT a correct method to prevent rusting?",
+      "options": [
+        "Applying a layer of oil or grease",
+        "Washing with water regularly",
+        "Painting the iron surface",
+        "Coating with zinc (galvanising)"
+      ],
+      "answer": "Washing with water regularly",
+      "points": 5
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Rusting of Iron (continued)",
+      "question": "Painting is a common method to prevent rusting. How exactly does painting prevent iron from rusting?",
+      "options": [
+        "Paint reacts with iron to make it stronger",
+        "Paint absorbs all the oxygen in the air",
+        "Paint acts as a protective barrier, preventing water and oxygen from reaching the iron",
+        "Paint makes the iron surface too smooth for rust to form"
+      ],
+      "answer": "Paint acts as a protective barrier, preventing water and oxygen from reaching the iron",
+      "points": 5
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Rusting of Iron ⭐ APPLICATION",
+      "question": "A bicycle chain is made of iron and is starting to rust. Based on what you learned about rusting conditions (water + oxygen) and prevention methods (blocking water and oxygen), which combination of actions would BEST prevent further rusting?",
+      "options": [
+        "Wash with water and leave to dry in the sun",
+        "Clean off existing rust, dry thoroughly, and apply oil",
+        "Paint over the rust without cleaning",
+        "Soak in salt water to remove rust"
+      ],
+      "answer": "Clean off existing rust, dry thoroughly, and apply oil",
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Combustion",
+      "question": "What are the THREE conditions needed for combustion (fire) to occur?",
+      "options": [
+        "Fuel, water, and heat",
+        "Fuel, carbon dioxide, and heat",
+        "Fuel, oxygen, and water",
+        "Fuel, oxygen, and heat"
+      ],
+      "answer": "Fuel, oxygen, and heat",
+      "points": 5
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Combustion (continued)",
+      "question": "You identified that fuel, oxygen, and heat are needed for fire. These three conditions form what is commonly called the:",
+      "options": [
+        "Fire triangle",
+        "Fire square",
+        "Combustion circle",
+        "Heat pyramid"
+      ],
+      "answer": "Fire triangle",
+      "points": 5
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Combustion (continued)",
+      "question": "When there is plenty of oxygen, a fuel undergoes COMPLETE combustion. What are the products formed during complete combustion?",
+      "options": [
+        "Carbon monoxide and water",
+        "Carbon and hydrogen",
+        "Carbon dioxide and water",
+        "Oxygen and heat"
+      ],
+      "answer": "Carbon dioxide and water",
+      "points": 5
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Combustion (continued)",
+      "question": "Complete combustion produces carbon dioxide and water. Which word equation correctly represents the COMPLETE combustion of methane (natural gas used in cooking)?",
+      "options": [
+        "Methane + Oxygen → Carbon dioxide + Water",
+        "Methane + Oxygen → Carbon monoxide + Water",
+        "Methane + Carbon dioxide → Oxygen + Water",
+        "Methane → Carbon + Hydrogen"
+      ],
+      "answer": "Methane + Oxygen → Carbon dioxide + Water",
+      "points": 10
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Combustion (continued)",
+      "question": "When there is not enough oxygen, INCOMPLETE combustion occurs. Instead of carbon dioxide, a different gas is formed. What is this gas and why is it dangerous?",
+      "options": [
+        "Carbon dioxide - it causes global warming",
+        "Water vapour - it causes humidity",
+        "Oxygen - it causes explosions",
+        "Carbon monoxide - it is a poisonous gas"
+      ],
+      "answer": "Carbon monoxide - it is a poisonous gas",
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Combustion ⭐ APPLICATION",
+      "question": "The fire triangle shows that fire needs fuel, oxygen, and heat. To put out a fire, we need to remove at least ONE of these. A fire breaks out in a kitchen due to burning cooking oil. Which method would be MOST effective and safe?",
+      "options": [
+        "Pour water on it (water can cause hot oil to splatter)",
+        "Blow air on it to cool it down",
+        "Cover with a fire blanket to cut off oxygen supply",
+        "Add more oil to dilute it"
+      ],
+      "answer": "Cover with a fire blanket to cut off oxygen supply",
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Acid Reactions - With Metals",
+      "question": "When a metal reacts with an acid, what are the TWO products formed?",
+      "options": [
+        "Salt and water",
+        "Salt and hydrogen gas",
+        "Salt and oxygen gas",
+        "Salt and carbon dioxide"
+      ],
+      "answer": "Salt and hydrogen gas",
+      "points": 5
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Acid Reactions - With Metals (continued)",
+      "question": "You learned that metal + acid produces salt + hydrogen. Which word equation correctly shows the reaction between zinc and hydrochloric acid?",
+      "options": [
+        "Zinc + Hydrochloric acid → Zinc chloride + Water",
+        "Zinc + Hydrochloric acid → Zinc chloride + Oxygen",
+        "Zinc + Hydrochloric acid → Zinc chloride + Hydrogen",
+        "Zinc + Hydrochloric acid → Zinc chloride + Carbon dioxide"
+      ],
+      "answer": "Zinc + Hydrochloric acid → Zinc chloride + Hydrogen",
+      "points": 10
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Acid Reactions - With Metals (continued)",
+      "question": "During the reaction between magnesium ribbon and dilute sulfuric acid, bubbles are observed rising from the magnesium. Based on the equation Metal + Acid → Salt + Hydrogen, what gas is being produced?",
+      "options": [
+        "Hydrogen",
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen"
+      ],
+      "answer": "Hydrogen",
+      "points": 5
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Acid Reactions - With Carbonates",
+      "question": "When a carbonate compound reacts with an acid, what are the THREE products formed?",
+      "options": [
+        "Salt, water, and hydrogen",
+        "Salt, water, and carbon dioxide",
+        "Salt, water, and oxygen",
+        "Salt and hydrogen only"
+      ],
+      "answer": "Salt, water, and carbon dioxide",
+      "points": 5
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Acid Reactions - With Carbonates (continued)",
+      "question": "You learned that carbonate + acid produces salt + water + carbon dioxide. Calcium carbonate (found in limestone, chalk, and seashells) reacts with hydrochloric acid. Which word equation is correct?",
+      "options": [
+        "Calcium carbonate + Hydrochloric acid → Calcium chloride + Water + Hydrogen",
+        "Calcium carbonate + Hydrochloric acid → Calcium chloride + Water + Oxygen",
+        "Calcium carbonate + Hydrochloric acid → Calcium chloride + Hydrogen + Carbon dioxide",
+        "Calcium carbonate + Hydrochloric acid → Calcium chloride + Water + Carbon dioxide"
+      ],
+      "answer": "Calcium carbonate + Hydrochloric acid → Calcium chloride + Water + Carbon dioxide",
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Acid Reactions - With Alkalis",
+      "question": "When an acid reacts with an alkali (base), what are the TWO products formed?",
+      "options": [
+        "Salt and water",
+        "Salt and hydrogen",
+        "Salt and oxygen",
+        "Salt and carbon dioxide"
+      ],
+      "answer": "Salt and water",
+      "points": 5
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Acid Reactions - With Alkalis (continued)",
+      "question": "The reaction between an acid and an alkali produces salt and water. This type of reaction has a special name. What is it called?",
+      "options": [
+        "Combustion",
+        "Oxidation",
+        "Neutralisation",
+        "Decomposition"
+      ],
+      "answer": "Neutralisation",
+      "points": 5
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Acid Reactions - With Alkalis (continued)",
+      "question": "In a neutralisation reaction, sodium hydroxide (an alkali) reacts with hydrochloric acid. The salt formed takes its first name from the metal in the alkali (sodium) and its second name from the acid (chloride from hydrochloric). What salt is formed?",
+      "options": [
+        "Sodium chloride",
+        "Sodium sulfate",
+        "Sodium nitrate",
+        "Sodium carbonate"
+      ],
+      "answer": "Sodium chloride",
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Acid Reactions ⭐ SUMMARY",
+      "question": "Let's review all three acid reactions:\n• Acid + Metal → Salt + Hydrogen\n• Acid + Carbonate → Salt + Water + Carbon dioxide\n• Acid + Alkali → Salt + Water\n\nA student adds dilute hydrochloric acid to an unknown white powder. Bubbles are produced and the gas turns limewater milky. The unknown substance is most likely a:",
+      "options": [
+        "Metal (produces hydrogen, not CO₂)",
+        "Carbonate (produces CO₂ which turns limewater milky)",
+        "Alkali (produces only water, no gas)",
+        "Pure water"
+      ],
+      "answer": "Carbonate (produces CO₂ which turns limewater milky)",
+      "points": 10
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Gas Tests - Carbon Dioxide",
+      "question": "What is the standard laboratory test to confirm that a gas is carbon dioxide?",
+      "options": [
+        "Smell the gas",
+        "Insert a lighted splint and listen for a pop sound",
+        "See if the gas is colourless",
+        "Bubble the gas through limewater and see if it turns milky/cloudy"
+      ],
+      "answer": "Bubble the gas through limewater and see if it turns milky/cloudy",
+      "points": 5
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Gas Tests - Carbon Dioxide (continued)",
+      "question": "You learned that carbon dioxide turns limewater milky. This happens because carbon dioxide reacts with limewater to form a new white substance. This white substance is:",
+      "options": [
+        "Calcium carbonate (which is insoluble and appears as white cloudiness)",
+        "Salt",
+        "Sodium chloride",
+        "Water"
+      ],
+      "answer": "Calcium carbonate (which is insoluble and appears as white cloudiness)",
+      "points": 10
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Gas Tests - Hydrogen",
+      "question": "What is the standard laboratory test to confirm that a gas is hydrogen?",
+      "options": [
+        "Bubble through limewater and see if it turns milky",
+        "Insert a lighted splint and listen for a 'pop' sound",
+        "Smell the gas for a sharp odour",
+        "See if the gas rises upward"
+      ],
+      "answer": "Insert a lighted splint and listen for a 'pop' sound",
+      "points": 5
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Gas Tests - Hydrogen (continued)",
+      "question": "When testing for hydrogen, the lighted splint makes a 'pop' sound and gets extinguished (goes out). Why does this happen?",
+      "options": [
+        "Hydrogen absorbs all the heat from the flame",
+        "Hydrogen is heavier than air and pushes the flame away",
+        "Hydrogen burns rapidly with oxygen in a small explosion, using up the available oxygen",
+        "Hydrogen freezes the flame"
+      ],
+      "answer": "Hydrogen burns rapidly with oxygen in a small explosion, using up the available oxygen",
+      "points": 10
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Gas Tests ⭐ APPLICATION",
+      "question": "A student collects a gas from a chemical reaction in a test tube. She performs two tests:\n\nTest 1: Inserts a lighted splint → Hears a squeaky 'pop' sound and the splint goes out\nTest 2: Bubbles another sample through limewater → Limewater remains clear\n\nBased on these results, what gas did she collect?",
+      "options": [
+        "Carbon dioxide (would turn limewater milky)",
+        "Nitrogen",
+        "Oxygen",
+        "Hydrogen (gives pop sound with lighted splint, doesn't affect limewater)"
+      ],
+      "answer": "Hydrogen (gives pop sound with lighted splint, doesn't affect limewater)",
+      "points": 10
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Electrolysis",
+      "question": "What is electrolysis?",
+      "options": [
+        "Using electricity to break down a compound into simpler substances",
+        "Using heat to break down a compound",
+        "Using electricity to join elements together",
+        "Using light to break down a compound"
+      ],
+      "answer": "Using electricity to break down a compound into simpler substances",
+      "points": 5
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Electrolysis (continued)",
+      "question": "For electrolysis to work, electric current must be able to flow through the compound. The compound must therefore be:",
+      "options": [
+        "A solid crystal",
+        "In gaseous form",
+        "Dissolved in water or in molten (melted) form",
+        "Frozen solid"
+      ],
+      "answer": "Dissolved in water or in molten (melted) form",
+      "points": 5
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Electrolysis (continued)",
+      "question": "You learned that the compound must be dissolved or molten for electrolysis to work. Why is this necessary?",
+      "options": [
+        "So the charged particles (ions) are free to move and carry the electric current",
+        "So it can conduct heat better",
+        "So the compound can evaporate easily",
+        "So the electrodes can dissolve"
+      ],
+      "answer": "So the charged particles (ions) are free to move and carry the electric current",
+      "points": 10
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Electrolysis (continued)",
+      "question": "During electrolysis of water (with a little acid added to help conduct electricity), gases are produced at both electrodes. What gases are produced?",
+      "options": [
+        "Carbon dioxide at both electrodes",
+        "Hydrogen at both electrodes",
+        "Only hydrogen is produced",
+        "Hydrogen at the negative electrode, oxygen at the positive electrode"
+      ],
+      "answer": "Hydrogen at the negative electrode, oxygen at the positive electrode",
+      "points": 10
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Electrolysis (continued)",
+      "question": "In the electrolysis of water, a student measures the gases collected:\n• Gas at negative electrode: 20 cm³\n• Gas at positive electrode: 10 cm³\n\nThe volume of hydrogen is TWICE the volume of oxygen. This shows that water contains:",
+      "options": [
+        "Equal amounts of hydrogen and oxygen",
+        "Twice as many hydrogen particles as oxygen particles",
+        "Twice as many oxygen particles as hydrogen particles",
+        "Only hydrogen"
+      ],
+      "answer": "Twice as many hydrogen particles as oxygen particles",
+      "points": 10
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Electrolysis ⭐ APPLICATION",
+      "question": "Electrolysis is used in industry to extract aluminium metal from aluminium ore. Why can't we simply heat aluminium ore with carbon (like we do for iron) to extract the aluminium?",
+      "options": [
+        "Aluminium is too cheap to use carbon",
+        "Carbon does not exist in nature",
+        "Aluminium is very reactive, so it holds onto oxygen very strongly and cannot be separated by heating with carbon alone",
+        "Heating aluminium ore would produce toxic gases"
+      ],
+      "answer": "Aluminium is very reactive, so it holds onto oxygen very strongly and cannot be separated by heating with carbon alone",
+      "points": 10
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Electroplating",
+      "question": "What is electroplating?",
+      "options": [
+        "Using electricity to coat an object with a thin layer of metal",
+        "Using electricity to break down metals",
+        "Using heat to melt metals together",
+        "Using chemicals to remove metal coatings"
+      ],
+      "answer": "Using electricity to coat an object with a thin layer of metal",
+      "points": 5
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Electroplating (continued)",
+      "question": "In electroplating, we have two electrodes connected to a power supply. The object we want to coat with metal is connected to which electrode?",
+      "options": [
+        "The positive electrode",
+        "Both electrodes",
+        "The negative electrode",
+        "Neither electrode - it floats in the solution"
+      ],
+      "answer": "The negative electrode",
+      "points": 10
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Electroplating (continued)",
+      "question": "You learned that the object to be plated is connected to the negative electrode. The metal that will be used as the coating is connected to which electrode?",
+      "options": [
+        "The positive electrode",
+        "The negative electrode",
+        "Both electrodes",
+        "Neither electrode"
+      ],
+      "answer": "The positive electrode",
+      "points": 10
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Electroplating (continued)",
+      "question": "Electroplating is used for many purposes. Which of the following is NOT a reason for electroplating an object?",
+      "options": [
+        "To make the object look more attractive (e.g., gold-plated jewellery)",
+        "To protect the object from rusting or corrosion",
+        "To make the object more durable and scratch-resistant",
+        "To make the object lighter in weight"
+      ],
+      "answer": "To make the object lighter in weight",
+      "points": 5
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Electroplating ⭐ APPLICATION",
+      "question": "A factory wants to electroplate steel spoons with silver to make them look more attractive. Based on what you learned:\n• Object to be plated → negative electrode\n• Coating metal → positive electrode\n• Solution must contain ions of the coating metal\n\nWhich setup is correct?",
+      "options": [
+        "Steel spoon at positive electrode, silver at negative electrode, in silver nitrate solution",
+        "Steel spoon at negative electrode, silver at positive electrode, in silver nitrate solution",
+        "Steel spoon at negative electrode, silver at positive electrode, in sodium chloride solution",
+        "Steel spoon at positive electrode, silver at negative electrode, in sodium chloride solution"
+      ],
+      "answer": "Steel spoon at negative electrode, silver at positive electrode, in silver nitrate solution",
+      "points": 10
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Thermal Decomposition",
+      "question": "What is thermal decomposition?",
+      "options": [
+        "Breaking down a compound using electricity",
+        "Combining elements using heat",
+        "Breaking down a compound using heat",
+        "Dissolving a compound in hot water"
+      ],
+      "answer": "Breaking down a compound using heat",
+      "points": 5
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Thermal Decomposition (continued)",
+      "question": "Thermal decomposition uses heat to break down compounds. When copper carbonate (a green powder) is heated strongly, it decomposes into:",
+      "options": [
+        "Copper oxide (black) and carbon dioxide",
+        "Copper and carbon dioxide",
+        "Copper oxide and oxygen",
+        "Copper and oxygen"
+      ],
+      "answer": "Copper oxide (black) and carbon dioxide",
+      "points": 10
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Thermal Decomposition (continued)",
+      "question": "You learned that heating copper carbonate produces copper oxide and carbon dioxide. A student heats green copper carbonate powder and observes:\n• The green powder turns black\n• A gas is released\n\nHow can the student confirm that the gas released is carbon dioxide?",
+      "options": [
+        "Smell the gas",
+        "Bubble the gas through limewater and check if it turns milky",
+        "Insert a lighted splint and listen for a pop sound",
+        "See if the gas is visible"
+      ],
+      "answer": "Bubble the gas through limewater and check if it turns milky",
+      "points": 10
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Thermal Decomposition (continued)",
+      "question": "Most metal carbonates decompose when heated. However, some carbonates of very reactive metals (like sodium and potassium) do NOT decompose easily with a Bunsen burner. Which of the following carbonates does NOT decompose when heated with a Bunsen burner?",
+      "options": [
+        "Copper carbonate (decomposes easily)",
+        "Zinc carbonate (decomposes when heated)",
+        "Calcium carbonate (decomposes at high temperature)",
+        "Sodium carbonate (too stable, does not decompose with Bunsen burner)"
+      ],
+      "answer": "Sodium carbonate (too stable, does not decompose with Bunsen burner)",
+      "points": 10
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Thermal Decomposition ⭐ APPLICATION",
+      "question": "In the construction industry, quicklime (calcium oxide) is produced by heating limestone (calcium carbonate) in large kilns. This is thermal decomposition:\n\nCalcium carbonate → Calcium oxide + ?\n\nWhat is the other product of this reaction?",
+      "options": [
+        "Carbon dioxide",
+        "Water",
+        "Oxygen",
+        "Hydrogen"
+      ],
+      "answer": "Carbon dioxide",
+      "points": 10
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "problemSet": "MIXED REVIEW: Identifying Reactions",
+      "question": "A student adds dilute sulfuric acid to magnesium ribbon. The magnesium ribbon fizzes rapidly and eventually disappears. Bubbles of gas are produced.\n\nRecall: Metal + Acid → Salt + Hydrogen\n\nWhat type of reaction is this?",
+      "options": [
+        "Acid + Metal reaction",
+        "Acid + Carbonate reaction",
+        "Acid + Alkali (neutralisation)",
+        "Thermal decomposition"
+      ],
+      "answer": "Acid + Metal reaction",
+      "points": 5
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "problemSet": "MIXED REVIEW: Identifying Reactions (continued)",
+      "question": "In the previous question, magnesium reacted with sulfuric acid to produce a salt and hydrogen gas. The hydrogen gas produced is tested with a lighted splint. What would you expect to observe?",
+      "options": [
+        "The splint continues to burn normally",
+        "The splint burns with a squeaky 'pop' sound and goes out",
+        "The limewater turns milky",
+        "The splint produces black smoke"
+      ],
+      "answer": "The splint burns with a squeaky 'pop' sound and goes out",
+      "points": 10
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "problemSet": "MIXED REVIEW: Identifying Reactions (continued)",
+      "question": "Sodium hydroxide solution (an alkali) is added to dilute nitric acid. The mixture becomes warm, showing that a reaction has occurred.\n\nRecall: Acid + Alkali → Salt + Water\n\nWhat is the name of this type of reaction?",
+      "options": [
+        "Neutralisation",
+        "Combustion",
+        "Thermal decomposition",
+        "Electrolysis"
+      ],
+      "answer": "Neutralisation",
+      "points": 5
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "problemSet": "MIXED REVIEW: Identifying Reactions (continued)",
+      "question": "Comparing rusting and electrolysis:\n\n• Rusting needs water and oxygen\n• Electrolysis needs electricity and a dissolved/molten compound\n\nBoth are examples of chemical changes because:",
+      "options": [
+        "Both involve a change in temperature",
+        "Both involve a change in colour only",
+        "Both are reversible changes",
+        "Both produce new substances that are different from the starting materials"
+      ],
+      "answer": "Both produce new substances that are different from the starting materials",
+      "points": 10
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "problemSet": "MIXED REVIEW ⭐ FINAL CHALLENGE",
+      "question": "A student performs four experiments:\n\nExperiment 1: Heats green copper carbonate powder → Gas produced turns limewater milky\nExperiment 2: Adds hydrochloric acid to sodium carbonate → Fizzing occurs, gas turns limewater milky\nExperiment 3: Adds hydrochloric acid to zinc metal → Fizzing occurs, gas gives 'pop' sound with lighted splint\nExperiment 4: Electrolyses water → Gas at negative electrode gives 'pop' sound with lighted splint\n\nWhich experiments produce HYDROGEN gas?",
+      "options": [
+        "Experiments 1 and 2 (both produce carbon dioxide)",
+        "Experiments 2 and 3",
+        "Experiments 3 and 4 (both produce hydrogen - pop sound test)",
+        "Experiments 1 and 4"
+      ],
+      "answer": "Experiments 3 and 4 (both produce hydrogen - pop sound test)",
+      "points": 15
+    }
+  ]
+}
