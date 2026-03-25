@@ -97,7 +97,7 @@ function displayQuest() {
     });
 }
 
-// Create question card
+// Create question card with stacked fraction support
 function createQuestionCard(question, index) {
     const card = document.createElement('div');
     card.className = 'question-card';
@@ -116,12 +116,15 @@ function createQuestionCard(question, index) {
         </div>
     `;
     
-    const questionText = `<div class="question-text">${question.question}</div>`;
+    // Format question text with stacked fractions
+    const formattedQuestion = fractionFormatter.formatStacked(question.question);
+    const questionText = `<div class="question-text">${formattedQuestion}</div>`;
     
     // Optional hint display
     let hintDisplay = '';
     if (question.hint) {
-        hintDisplay = `<div class="question-hint">💡 Hint: ${question.hint}</div>`;
+        const formattedHint = fractionFormatter.formatStacked(question.hint);
+        hintDisplay = `<div class="question-hint">💡 Hint: ${formattedHint}</div>`;
     }
     
     let inputArea = '';
@@ -129,11 +132,13 @@ function createQuestionCard(question, index) {
     if (question.type === 'mcq') {
         inputArea = '<div class="options-container">';
         question.options.forEach((option, optIndex) => {
+            // Format fractions in options using stacked format
+            const formattedOption = fractionFormatter.formatStacked(option);
             // Escape quotes in options to prevent breaking HTML
             const escapedOption = option.replace(/'/g, "\\'").replace(/"/g, '&quot;');
             inputArea += `
                 <button class="option-btn" onclick="selectOption(${question.id}, '${escapedOption}', this)">
-                    ${option}
+                    ${formattedOption}
                 </button>
             `;
         });
@@ -143,7 +148,7 @@ function createQuestionCard(question, index) {
             <input type="text" 
                    class="fill-input" 
                    id="fill-${question.id}" 
-                   placeholder="Type your answer here..."
+                   placeholder="Type your answer here (e.g., 3/4 or 2 3/4)..."
                    oninput="saveFillAnswer(${question.id}, this.value)">
         `;
     }
@@ -202,7 +207,7 @@ function submitQuest() {
     showScreen('resultsScreen');
 }
 
-// Display results
+// Display results with stacked fraction support
 function displayResults(results) {
     // Set stats
     document.getElementById('scoreValue').textContent = 
@@ -241,11 +246,16 @@ function displayResults(results) {
         const resultItem = document.createElement('div');
         resultItem.className = `result-item ${detail.isCorrect ? 'correct' : 'incorrect'}`;
         
+        // Format fractions in questions and answers using stacked format
+        const formattedQuestion = fractionFormatter.formatStacked(detail.questionText);
+        const formattedUserAnswer = fractionFormatter.formatStacked(detail.userAnswer);
+        const formattedCorrectAnswer = fractionFormatter.formatStacked(detail.correctAnswer);
+        
         resultItem.innerHTML = `
             <div class="result-question">
-                <div><strong>Q${detail.questionNumber}:</strong> ${detail.questionText}</div>
-                <div class="your-answer">Your answer: ${detail.userAnswer}</div>
-                ${!detail.isCorrect ? `<div class="correct-answer">Correct answer: ${detail.correctAnswer}</div>` : ''}
+                <div><strong>Q${detail.questionNumber}:</strong> ${formattedQuestion}</div>
+                <div class="your-answer">Your answer: ${formattedUserAnswer}</div>
+                ${!detail.isCorrect ? `<div class="correct-answer">Correct answer: ${formattedCorrectAnswer}</div>` : ''}
             </div>
             <div class="result-status">${detail.isCorrect ? '✓ Correct' : '✗ Incorrect'}</div>
         `;
