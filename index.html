@@ -17,14 +17,18 @@
             
             <div class="quest-input-box">
                 <label for="questCode">Enter Quest Code:</label>
-                <input type="text" id="questCode" placeholder="e.g., math-quest-01" autofocus>
+                <input type="text" id="questCode" placeholder="e.g., math-p6-revision-ws1" autofocus>
                 <button onclick="startQuest()" class="btn-primary">Start Quest</button>
             </div>
 
             <div class="info-box">
-                <h3>📋 Available Sample Quests:</h3>
+                <h3>📋 Available Quests:</h3>
                 <ul>
-                    <li><code>sample-math-quest</code> - Mathematics Challenge</li>
+                    <li><code>sample-math-quest</code> - Mathematics Sample</li>
+                    <li><code>sample-science-quest</code> - Science Sample</li>
+                    <li><code>math-p6-revision-ws1</code> - P6 Math Revision</li>
+                    <li><code>math-p4-revision-ws1</code> - P4 Math Revision</li>
+                    <li><code>sci-sec2-chem-phys-change-ws1</code> - Sec 2 Science</li>
                     <li><em>Ask your teacher for more quest codes!</em></li>
                 </ul>
             </div>
@@ -104,6 +108,9 @@
         </div>
     </div>
 
+    <!-- Load scripts in correct order -->
+    <script src="js/fractionFormatter.js"></script>
+    <script src="js/mathParser.js"></script>
     <script src="js/timer.js"></script>
     <script src="js/questHandler.js"></script>
     <script src="js/app.js"></script>
