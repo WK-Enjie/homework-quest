@@ -1,0 +1,708 @@
+{
+  "questTitle": "Sec 1 Math Revision: Algebra Worksheet 1",
+  "subject": "Mathematics",
+  "difficulty": "Medium",
+  "description": "Master algebraic expressions! This worksheet covers addition, subtraction, multiplication with brackets, and word problems. Simplify expressions carefully and watch your signs!",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Like Terms",
+      "question": "Like terms are terms that have the same variable(s) raised to the same power. Which of the following are like terms?",
+      "options": [
+        "2x and 2y",
+        "3x and 5x",
+        "3x² and 3x",
+        "4 and 4x"
+      ],
+      "answer": "3x and 5x",
+      "points": 5
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Like Terms (continued)",
+      "question": "You identified that 3x and 5x are like terms because they both have the variable x to the power of 1. Simplify: 3x + 5x",
+      "options": [
+        "8x",
+        "8x²",
+        "15x",
+        "15x²"
+      ],
+      "answer": "8x",
+      "points": 5
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Like Terms (continued)",
+      "question": "When adding or subtracting like terms, we add or subtract the coefficients (the numbers in front). Simplify: 7y - 3y + 2y",
+      "options": [
+        "12y",
+        "2y",
+        "4y",
+        "6y"
+      ],
+      "answer": "6y",
+      "points": 5
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Like Terms (continued)",
+      "question": "When there are different variables, group the like terms together first. Simplify: 4a + 3b - 2a + 5b",
+      "options": [
+        "6a + 8b",
+        "6a + 2b",
+        "2a + 8b",
+        "2a - 2b"
+      ],
+      "answer": "2a + 8b",
+      "points": 5
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Addition of Algebraic Expressions",
+      "question": "To find the SUM of two expressions, we ADD them. Find the sum of 3x + 2 and 5x + 7.\n\nThis means: (3x + 2) + (5x + 7)",
+      "options": [
+        "8x + 9",
+        "8x - 5",
+        "2x + 9",
+        "15x + 14"
+      ],
+      "answer": "8x + 9",
+      "points": 5
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Addition of Algebraic Expressions (continued)",
+      "question": "Add: (4a - 3b) + (2a + 5b)\n\nGroup like terms: (4a + 2a) + (-3b + 5b)",
+      "options": [
+        "6a - 8b",
+        "6a + 2b",
+        "2a + 2b",
+        "2a - 2b"
+      ],
+      "answer": "6a + 2b",
+      "points": 5
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Addition of Algebraic Expressions (continued)",
+      "question": "Find the sum of 2x + 3y - 4 and 5x - 2y + 7.\n\n(2x + 3y - 4) + (5x - 2y + 7)\n= (2x + 5x) + (3y - 2y) + (-4 + 7)",
+      "options": [
+        "7x + 5y + 3",
+        "3x + 5y - 11",
+        "7x + y + 3",
+        "7x - y + 3"
+      ],
+      "answer": "7x + y + 3",
+      "points": 10
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Addition of Algebraic Expressions ⭐ MAIN QUESTION",
+      "question": "Find the sum of 3x + 5y, 6x - 3y, and -2x + y.\n\n(3x + 5y) + (6x - 3y) + (-2x + y)",
+      "options": [
+        "7x + y",
+        "7x + 3y",
+        "11x + y",
+        "7x - y"
+      ],
+      "answer": "7x + 3y",
+      "points": 10
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Addition with Decimals",
+      "question": "Add: (1.5x + 2.3) + (2.5x - 1.3)",
+      "options": [
+        "4x + 1",
+        "4x + 3.6",
+        "3x + 1",
+        "-x + 1"
+      ],
+      "answer": "4x + 1",
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Addition with Decimals (continued)",
+      "question": "Find the sum of 0.5a - 2b and 1.5a + 3b.",
+      "options": [
+        "2a + b",
+        "2a - b",
+        "a + b",
+        "2a + 5b"
+      ],
+      "answer": "2a + b",
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Subtraction of Algebraic Expressions",
+      "question": "To SUBTRACT an expression, we change ALL the signs in the expression being subtracted. What is the result of subtracting (3x + 2) from (7x + 5)?\n\nThis means: (7x + 5) - (3x + 2)",
+      "options": [
+        "4x + 3",
+        "10x + 7",
+        "4x + 7",
+        "-4x - 3"
+      ],
+      "answer": "4x + 3",
+      "points": 5
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Subtraction of Algebraic Expressions (continued)",
+      "question": "Be careful with signs! Subtract (2a - 5b) from (6a + 3b).\n\n(6a + 3b) - (2a - 5b)\n= 6a + 3b - 2a + 5b (the -5b becomes +5b)",
+      "options": [
+        "4a - 2b",
+        "4a + 8b",
+        "8a - 2b",
+        "8a + 8b"
+      ],
+      "answer": "4a + 8b",
+      "points": 10
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Subtraction of Algebraic Expressions (continued)",
+      "question": "In the previous question, why did -5b become +5b?\n\n(6a + 3b) - (2a - 5b)",
+      "options": [
+        "Because we are subtracting, the negative sign outside changes -5b to +5b",
+        "Because -5b is always positive",
+        "Because we made a mistake",
+        "Because subtraction means addition"
+      ],
+      "answer": "Because we are subtracting, the negative sign outside changes -5b to +5b",
+      "points": 5
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Subtraction of Algebraic Expressions (continued)",
+      "question": "Subtract 4x - 3y + 2 from 7x + 2y - 5.\n\n(7x + 2y - 5) - (4x - 3y + 2)\n= 7x + 2y - 5 - 4x + 3y - 2",
+      "options": [
+        "3x + 5y - 7",
+        "3x - y - 3",
+        "11x - y - 3",
+        "3x + 5y - 3"
+      ],
+      "answer": "3x + 5y - 7",
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Subtraction of Algebraic Expressions ⭐ MAIN QUESTION",
+      "question": "Subtract 5x - 2y + 3 from the sum of 3x + 4y and 6x - y - 1.\n\nStep 1: Sum = (3x + 4y) + (6x - y - 1) = 9x + 3y - 1\nStep 2: (9x + 3y - 1) - (5x - 2y + 3)",
+      "options": [
+        "4x + y - 4",
+        "4x + 5y - 4",
+        "14x + y + 2",
+        "4x + 5y + 2"
+      ],
+      "answer": "4x + 5y - 4",
+      "points": 15
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Subtraction with Decimals",
+      "question": "Subtract 1.2x - 0.8 from 3.2x + 1.2.\n\n(3.2x + 1.2) - (1.2x - 0.8)",
+      "options": [
+        "2x + 0.4",
+        "2x + 2",
+        "4.4x + 0.4",
+        "2x - 2"
+      ],
+      "answer": "2x + 2",
+      "points": 10
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Multiplication with Brackets",
+      "question": "When multiplying a number by a bracket, we multiply EACH term inside the bracket. Expand: 3(x + 4)",
+      "options": [
+        "3x + 4",
+        "3x + 12",
+        "3x + 7",
+        "x + 12"
+      ],
+      "answer": "3x + 12",
+      "points": 5
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Multiplication with Brackets (continued)",
+      "question": "Remember to multiply ALL terms. Expand: 5(2x - 3)",
+      "options": [
+        "10x - 3",
+        "7x - 3",
+        "10x - 15",
+        "10x + 15"
+      ],
+      "answer": "10x - 15",
+      "points": 5
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Multiplication with Brackets (continued)",
+      "question": "Be careful with negative signs! Expand: -2(3x - 4)\n\n-2 × 3x = -6x\n-2 × (-4) = +8",
+      "options": [
+        "-6x - 8",
+        "-6x + 8",
+        "6x - 8",
+        "6x + 8"
+      ],
+      "answer": "-6x + 8",
+      "points": 10
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Multiplication with Brackets (continued)",
+      "question": "Expand: 4(2a - 3b + 5)",
+      "options": [
+        "8a - 12b + 20",
+        "8a - 3b + 5",
+        "8a + 12b + 20",
+        "6a - 7b + 9"
+      ],
+      "answer": "8a - 12b + 20",
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Multiplication with Brackets (continued)",
+      "question": "Expand: -3(2x - 5y - 1)",
+      "options": [
+        "-6x + 15y + 3",
+        "-6x - 15y - 3",
+        "6x - 15y + 3",
+        "-6x + 15y - 1"
+      ],
+      "answer": "-6x + 15y + 3",
+      "points": 10
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Multiplication with Brackets (continued)",
+      "question": "Expand: x(x + 5)\n\nNote: x × x = x²",
+      "options": [
+        "x² + 5",
+        "x + 5x",
+        "x² + 5x",
+        "2x + 5"
+      ],
+      "answer": "x² + 5x",
+      "points": 10
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Multiplication with Brackets (continued)",
+      "question": "Expand: 2x(3x - 4)\n\n2x × 3x = 6x²\n2x × (-4) = -8x",
+      "options": [
+        "6x² - 8x",
+        "6x - 8x",
+        "5x² - 4",
+        "6x² - 4"
+      ],
+      "answer": "6x² - 8x",
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Multiplication with Brackets ⭐ MAIN QUESTION",
+      "question": "Expand and simplify: 3(2x - 5) + 4(x + 2)\n\nStep 1: 3(2x - 5) = 6x - 15\nStep 2: 4(x + 2) = 4x + 8\nStep 3: Add them together",
+      "options": [
+        "10x - 7",
+        "10x + 7",
+        "10x - 23",
+        "7x - 7"
+      ],
+      "answer": "10x - 7",
+      "points": 15
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Simplifying Expressions with Brackets",
+      "question": "Expand and simplify: 5(x + 3) - 2(x - 4)\n\nStep 1: 5(x + 3) = 5x + 15\nStep 2: -2(x - 4) = -2x + 8\nStep 3: 5x + 15 - 2x + 8",
+      "options": [
+        "3x + 7",
+        "3x + 23",
+        "7x + 23",
+        "3x - 7"
+      ],
+      "answer": "3x + 23",
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Simplifying Expressions with Brackets (continued)",
+      "question": "In the previous question, why did -2(x - 4) become -2x + 8 and not -2x - 8?",
+      "options": [
+        "-2 × (-4) = +8, because negative × negative = positive",
+        "We made a calculation error",
+        "The minus sign disappears",
+        "We always add 8"
+      ],
+      "answer": "-2 × (-4) = +8, because negative × negative = positive",
+      "points": 5
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Simplifying Expressions with Brackets (continued)",
+      "question": "Expand and simplify: 4(2a - 3) - 3(a + 5)",
+      "options": [
+        "5a - 27",
+        "5a + 27",
+        "11a - 27",
+        "5a - 3"
+      ],
+      "answer": "5a - 27",
+      "points": 10
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Simplifying Expressions with Brackets (continued)",
+      "question": "Expand and simplify: 2(3x + y) + 5(x - 2y)",
+      "options": [
+        "11x - 8y",
+        "11x + 8y",
+        "11x - 3y",
+        "6x - 8y"
+      ],
+      "answer": "11x - 8y",
+      "points": 10
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Simplifying Expressions with Brackets (continued)",
+      "question": "Expand and simplify: 6(x - 2) - 4(2x - 3)",
+      "options": [
+        "-2x",
+        "2x",
+        "-2x - 24",
+        "-2x + 24"
+      ],
+      "answer": "-2x",
+      "points": 10
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Simplifying Expressions with Brackets (continued)",
+      "question": "Let's check the previous answer step by step:\n\n6(x - 2) - 4(2x - 3)\n= 6x - 12 - 8x + 12\n= 6x - 8x - 12 + 12\n= -2x + 0\n\nWhat is the simplified answer?",
+      "options": [
+        "-2x",
+        "2x",
+        "0",
+        "-2x + 24"
+      ],
+      "answer": "-2x",
+      "points": 5
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Simplifying Expressions with Brackets ⭐ MAIN QUESTION",
+      "question": "Expand and simplify: 7(2x - 1) - 3(4x + 5) + 2(x - 3)",
+      "options": [
+        "4x - 28",
+        "4x + 28",
+        "16x - 28",
+        "4x - 16"
+      ],
+      "answer": "4x - 28",
+      "points": 15
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Square Brackets and Nested Brackets",
+      "question": "Square brackets [ ] work the same as round brackets ( ). When you see a minus sign before square brackets, it changes ALL the signs inside.\n\nSimplify: -[3x + 5]",
+      "options": [
+        "3x + 5",
+        "-3x + 5",
+        "-3x - 5",
+        "3x - 5"
+      ],
+      "answer": "-3x - 5",
+      "points": 5
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Square Brackets and Nested Brackets (continued)",
+      "question": "Simplify: -[4x - 7]\n\nThe negative sign changes ALL signs inside:\n-[4x - 7] = -4x + 7",
+      "options": [
+        "-4x - 7",
+        "-4x + 7",
+        "4x + 7",
+        "4x - 7"
+      ],
+      "answer": "-4x + 7",
+      "points": 5
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Square Brackets and Nested Brackets (continued)",
+      "question": "For nested brackets, work from the INSIDE OUT. Simplify the inner bracket first.\n\nSimplify: 5 - [3 + 2(x - 4)]\n\nStep 1: Expand 2(x - 4) = 2x - 8\nSo we have: 5 - [3 + 2x - 8]",
+      "options": [
+        "5 - [2x - 5]",
+        "5 - [2x + 11]",
+        "5 - [2x - 11]",
+        "5 - [2x + 5]"
+      ],
+      "answer": "5 - [2x - 5]",
+      "points": 10
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Square Brackets and Nested Brackets (continued)",
+      "question": "Continuing from the previous question:\n\n5 - [2x - 5]\n\nNow remove the square bracket by changing ALL signs inside:\n= 5 - 2x + 5",
+      "options": [
+        "10 - 2x",
+        "-2x",
+        "2x + 10",
+        "-2x + 10"
+      ],
+      "answer": "10 - 2x",
+      "points": 10
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Square Brackets and Nested Brackets (continued)",
+      "question": "Simplify: 8 - [5 - 3(2x - 1)]\n\nStep 1: Expand 3(2x - 1) = 6x - 3\nStep 2: Inside bracket = 5 - 6x + 3 = 8 - 6x\nStep 3: 8 - [8 - 6x] = 8 - 8 + 6x",
+      "options": [
+        "6x",
+        "-6x",
+        "16 - 6x",
+        "6x + 16"
+      ],
+      "answer": "6x",
+      "points": 10
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Square Brackets and Nested Brackets (continued)",
+      "question": "Simplify step by step: 4x - [3x - 2(x + 5)]\n\nStep 1: Expand 2(x + 5) = 2x + 10\nStep 2: Inside bracket = 3x - 2x - 10 = x - 10\nStep 3: 4x - [x - 10] = 4x - x + 10",
+      "options": [
+        "3x - 10",
+        "3x + 10",
+        "5x + 10",
+        "5x - 10"
+      ],
+      "answer": "3x + 10",
+      "points": 10
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Square Brackets and Nested Brackets ⭐ MAIN QUESTION",
+      "question": "Simplify: 5(x - 4) - [5 - 3(4x - 2)]\n\nStep 1: 5(x - 4) = 5x - 20\nStep 2: Inside bracket: 5 - 3(4x - 2) = 5 - 12x + 6 = 11 - 12x\nStep 3: 5x - 20 - [11 - 12x]",
+      "options": [
+        "17x - 31",
+        "-7x - 31",
+        "17x + 31",
+        "-7x + 31"
+      ],
+      "answer": "17x - 31",
+      "points": 15
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Word Problems",
+      "question": "Ali has (3x + 5) apples. Ben has (2x - 1) apples. How many apples do they have altogether?",
+      "options": [
+        "5x + 6",
+        "5x + 4",
+        "x + 4",
+        "5x - 4"
+      ],
+      "answer": "5x + 4",
+      "points": 5
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Word Problems (continued)",
+      "question": "Cindy has (5x + 8) stickers. She gives (2x + 3) stickers to her friend. How many stickers does Cindy have left?",
+      "options": [
+        "3x + 5",
+        "7x + 11",
+        "3x + 11",
+        "3x - 5"
+      ],
+      "answer": "3x + 5",
+      "points": 5
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Word Problems (continued)",
+      "question": "A rectangle has length (4x + 3) cm and width (2x - 1) cm. The perimeter of a rectangle is 2 × (length + width). Find the perimeter.",
+      "options": [
+        "6x + 2 cm",
+        "12x + 4 cm",
+        "12x + 2 cm",
+        "6x + 4 cm"
+      ],
+      "answer": "12x + 4 cm",
+      "points": 10
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Word Problems (continued)",
+      "question": "Tom scored (3x + 7) marks in Test 1, (2x + 5) marks in Test 2, and (4x - 3) marks in Test 3. What is his total score?",
+      "options": [
+        "9x + 9",
+        "9x - 1",
+        "9x + 15",
+        "9x + 5"
+      ],
+      "answer": "9x + 9",
+      "points": 10
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Word Problems (continued)",
+      "question": "A shop sells pens at $(2x + 1) each and notebooks at $(3x - 2) each. Mary buys 3 pens and 2 notebooks. How much does she pay in total?\n\n3(2x + 1) + 2(3x - 2)",
+      "options": [
+        "12x - 1",
+        "12x + 1",
+        "12x - 7",
+        "5x - 1"
+      ],
+      "answer": "12x - 1",
+      "points": 10
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Word Problems ⭐ MAIN QUESTION",
+      "question": "David has some money. He spends $(3x + 5) on Monday, $(2x - 4) on Tuesday, and saves the rest. If he had $(10x + 8) at first, how much did he save?\n\n(10x + 8) - [(3x + 5) + (2x - 4)]",
+      "options": [
+        "5x + 7",
+        "5x - 7",
+        "15x + 9",
+        "5x + 1"
+      ],
+      "answer": "5x + 7",
+      "points": 15
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Comparison and Finding Values",
+      "question": "An expression A is 3x + 7. Another expression B is 5x - 2. How much more is B than A?\n\nB - A = (5x - 2) - (3x + 7)",
+      "options": [
+        "2x + 9",
+        "2x - 9",
+        "8x + 5",
+        "2x + 5"
+      ],
+      "answer": "2x - 9",
+      "points": 10
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Comparison and Finding Values (continued)",
+      "question": "If 2x + 5 = 13, we can find the value of x by solving:\n2x = 13 - 5 = 8\nx = 8 ÷ 2 = 4\n\nWhat is the value of x?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "4",
+      "points": 5
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Comparison and Finding Values (continued)",
+      "question": "From the previous question, x = 4. Now find the value of 3x + 2.\n\n3(4) + 2 = 12 + 2",
+      "options": [
+        "10",
+        "14",
+        "18",
+        "9"
+      ],
+      "answer": "14",
+      "points": 5
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "problemSet": "MIXED REVIEW",
+      "question": "Simplify: 8x - 3(2x - 5) + 4",
+      "options": [
+        "2x + 19",
+        "2x + 11",
+        "14x + 19",
+        "2x - 11"
+      ],
+      "answer": "2x + 19",
+      "points": 10
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "problemSet": "MIXED REVIEW (continued)",
+      "question": "Expand and simplify: 2(3x - 4) - 5(x - 2) + 3(2x + 1)",
+      "options": [
+        "7x + 5",
+        "7x - 5",
+        "7x + 1",
+        "11x + 5"
+      ],
+      "answer": "7x + 5",
+      "points": 10
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "problemSet": "MIXED REVIEW ⭐ FINAL CHALLENGE",
+      "question": "Simplify: 3(2x - 1) - [4x - 2(3x - 5)] + 7\n\nStep 1: 3(2x - 1) = 6x - 3\nStep 2: Inside bracket: 4x - 2(3x - 5) = 4x - 6x + 10 = -2x + 10\nStep 3: 6x - 3 - [-2x + 10] + 7\nStep 4: 6x - 3 + 2x - 10 + 7",
+      "options": [
+        "8x - 6",
+        "4x - 6",
+        "8x + 6",
+        "8x + 14"
+      ],
+      "answer": "8x - 6",
+      "points": 15
+    }
+  ]
+}
