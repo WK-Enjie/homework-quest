@@ -1,0 +1,697 @@
+{
+  "questTitle": "Secondary 3 E-Math: Standard Form and Applications Worksheet 2",
+  "subject": "Mathematics",
+  "difficulty": "Hard",
+  "description": "Master standard form (scientific notation)! This worksheet covers converting between standard form and ordinary numbers, working with metric prefixes (mega, kilo, milli, micro, nano), performing calculations in standard form, and applying standard form to real-world problems. Show all working clearly!",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Standard Form Basics",
+      "question": "A number in standard form is written as A × 10ⁿ. What are the conditions for A and n?",
+      "options": [
+        "A must be a whole number, n is any integer",
+        "0 < A < 10, n must be positive",
+        "1 ≤ A < 10, n is any integer",
+        "A can be any number, n must be positive"
+      ],
+      "answer": "1 ≤ A < 10, n is any integer",
+      "points": 5
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Standard Form Basics",
+      "question": "Which of the following is correctly written in standard form?",
+      "options": [
+        "10 × 10²",
+        "5.67 × 10⁻³",
+        "0.5 × 10⁴",
+        "12.3 × 10⁵"
+      ],
+      "answer": "5.67 × 10⁻³",
+      "points": 5
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Powers of 10",
+      "question": "What is the value of 10⁶?",
+      "options": [
+        "10,000,000",
+        "60",
+        "100,000",
+        "1,000,000"
+      ],
+      "answer": "1,000,000",
+      "points": 5
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Powers of 10",
+      "question": "What is the value of 10⁻³?",
+      "options": [
+        "0.001",
+        "-0.001",
+        "0.003",
+        "-1000"
+      ],
+      "answer": "0.001",
+      "points": 5
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Converting to Standard Form",
+      "question": "Express 45,000,000 in standard form:",
+      "options": [
+        "4.5 × 10⁸",
+        "45 × 10⁶",
+        "4.5 × 10⁷",
+        "4.5 × 10⁶"
+      ],
+      "answer": "4.5 × 10⁷",
+      "points": 5
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Converting to Standard Form",
+      "question": "Express 0.00034 in standard form:",
+      "options": [
+        "3.4 × 10⁻⁴",
+        "3.4 × 10⁴",
+        "34 × 10⁻⁵",
+        "3.4 × 10⁻³"
+      ],
+      "answer": "3.4 × 10⁻⁴",
+      "points": 5
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Converting to Standard Form",
+      "question": "Express 0.000000507 in standard form:",
+      "options": [
+        "5.07 × 10⁻⁸",
+        "507 × 10⁻⁹",
+        "5.07 × 10⁻⁶",
+        "5.07 × 10⁻⁷"
+      ],
+      "answer": "5.07 × 10⁻⁷",
+      "points": 5
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Converting to Standard Form",
+      "question": "Express 8,230,000,000 in standard form:",
+      "options": [
+        "8.23 × 10⁹",
+        "82.3 × 10⁸",
+        "8.23 × 10¹⁰",
+        "8.23 × 10⁸"
+      ],
+      "answer": "8.23 × 10⁹",
+      "points": 5
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Converting from Standard Form",
+      "question": "Convert 3.56 × 10⁵ to an ordinary number:",
+      "options": [
+        "3,560,000",
+        "356,000",
+        "0.0000356",
+        "35,600"
+      ],
+      "answer": "356,000",
+      "points": 5
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Converting from Standard Form",
+      "question": "Convert 7.2 × 10⁻⁴ to an ordinary number:",
+      "options": [
+        "0.00072",
+        "0.072",
+        "0.0072",
+        "0.000072"
+      ],
+      "answer": "0.00072",
+      "points": 5
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Metric Prefixes - Large Numbers",
+      "question": "Match the metric prefixes with their values:\n\n• kilo (k) = 10³ = 1,000\n• mega (M) = 10⁶ = 1,000,000\n• giga (G) = 10⁹ = 1,000,000,000\n\nWhich row shows the correct values?",
+      "options": [
+        "k = 10³, M = 10⁹, G = 10⁶",
+        "k = 10⁶, M = 10⁹, G = 10¹²",
+        "k = 10², M = 10⁴, G = 10⁶",
+        "k = 10³, M = 10⁶, G = 10⁹"
+      ],
+      "answer": "k = 10³, M = 10⁶, G = 10⁹",
+      "points": 5
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Metric Prefixes - Small Numbers",
+      "question": "Match the metric prefixes with their values:\n\n• milli (m) = 10⁻³ = 0.001\n• micro (μ) = 10⁻⁶ = 0.000001\n• nano (n) = 10⁻⁹ = 0.000000001\n\nWhich row shows the correct values?",
+      "options": [
+        "m = 10⁻³, μ = 10⁻⁹, n = 10⁻⁶",
+        "m = 10⁻¹, μ = 10⁻³, n = 10⁻⁶",
+        "m = 10⁻², μ = 10⁻⁴, n = 10⁻⁶",
+        "m = 10⁻³, μ = 10⁻⁶, n = 10⁻⁹"
+      ],
+      "answer": "m = 10⁻³, μ = 10⁻⁶, n = 10⁻⁹",
+      "points": 5
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Metric Prefixes - Conversions",
+      "question": "Convert 5.2 km to metres and express in standard form.\n\nNote: 1 km (kilo = 10³) = 1000 m\n\n5.2 km = 5.2 × 1000 m = 5200 m",
+      "options": [
+        "5.2 × 10³ m",
+        "5.2 × 10² m",
+        "5.2 × 10⁴ m",
+        "52 × 10² m"
+      ],
+      "answer": "5.2 × 10³ m",
+      "points": 5
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Metric Prefixes - Conversions",
+      "question": "Convert 45 mg to grams and express in standard form.\n\nNote: 1 mg (milli = 10⁻³) = 0.001 g\n\n45 mg = 45 × 10⁻³ g = 0.045 g",
+      "options": [
+        "4.5 × 10⁻¹ g",
+        "45 × 10⁻³ g",
+        "4.5 × 10⁻³ g",
+        "4.5 × 10⁻² g"
+      ],
+      "answer": "4.5 × 10⁻² g",
+      "points": 5
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Metric Prefixes - Conversions",
+      "question": "Convert 3.5 GHz to Hz and express in standard form.\n\nNote: 1 GHz (giga = 10⁹) = 1,000,000,000 Hz\n\n3.5 GHz = 3.5 × 10⁹ Hz",
+      "options": [
+        "35 × 10⁸ Hz",
+        "3.5 × 10⁹ Hz",
+        "3.5 × 10¹² Hz",
+        "3.5 × 10⁶ Hz"
+      ],
+      "answer": "3.5 × 10⁹ Hz",
+      "points": 5
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Metric Prefixes - Conversions",
+      "question": "A computer chip has a transistor width of 7 nanometres. Express this in metres in standard form.\n\nNote: 1 nm (nano = 10⁻⁹) = 0.000000001 m\n\n7 nm = 7 × 10⁻⁹ m",
+      "options": [
+        "7 × 10⁻⁹ m",
+        "7 × 10⁻³ m",
+        "7 × 10⁻¹² m",
+        "7 × 10⁻⁶ m"
+      ],
+      "answer": "7 × 10⁻⁹ m",
+      "points": 5
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Metric Prefixes - Conversions",
+      "question": "A bacteria cell has a length of 2.5 micrometres. Express this in metres in standard form.\n\nNote: 1 μm (micro = 10⁻⁶) = 0.000001 m\n\n2.5 μm = 2.5 × 10⁻⁶ m",
+      "options": [
+        "25 × 10⁻⁷ m",
+        "2.5 × 10⁻³ m",
+        "2.5 × 10⁻⁹ m",
+        "2.5 × 10⁻⁶ m"
+      ],
+      "answer": "2.5 × 10⁻⁶ m",
+      "points": 5
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Calculations - Multiplication",
+      "question": "Calculate: (3 × 10⁴) × (2 × 10⁵)\n\nStep 1: 3 × 2 = 6\nStep 2: 10⁴ × 10⁵ = 10⁹\nAnswer: 6 × 10⁹",
+      "options": [
+        "6 × 10¹",
+        "5 × 10⁹",
+        "6 × 10²⁰",
+        "6 × 10⁹"
+      ],
+      "answer": "6 × 10⁹",
+      "points": 5
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Calculations - Multiplication",
+      "question": "Calculate: (4 × 10⁻³) × (5 × 10⁷)\n\nGive your answer in standard form.",
+      "options": [
+        "2 × 10⁴",
+        "2 × 10⁵",
+        "2 × 10⁻²¹",
+        "20 × 10⁴"
+      ],
+      "answer": "2 × 10⁵",
+      "points": 5
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Calculations - Multiplication (Adjusting)",
+      "question": "Calculate: (8 × 10⁵) × (7 × 10³)\n\nStep 1: 8 × 7 = 56\nStep 2: 10⁵ × 10³ = 10⁸\nStep 3: 56 × 10⁸ = 5.6 × 10⁹ (adjust to standard form)",
+      "options": [
+        "5.6 × 10⁷",
+        "5.6 × 10⁸",
+        "5.6 × 10⁹",
+        "56 × 10⁸"
+      ],
+      "answer": "5.6 × 10⁹",
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Calculations - Division",
+      "question": "Calculate: (9 × 10⁸) ÷ (3 × 10⁵)\n\nStep 1: 9 ÷ 3 = 3\nStep 2: 10⁸ ÷ 10⁵ = 10³",
+      "options": [
+        "3 × 10³",
+        "6 × 10³",
+        "3 × 10⁻³",
+        "3 × 10¹³"
+      ],
+      "answer": "3 × 10³",
+      "points": 5
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Calculations - Division",
+      "question": "Calculate: (6.4 × 10⁻²) ÷ (8 × 10⁴)\n\nGive your answer in standard form.",
+      "options": [
+        "8 × 10⁻⁶",
+        "8 × 10⁻⁸",
+        "8 × 10²",
+        "8 × 10⁻⁷"
+      ],
+      "answer": "8 × 10⁻⁷",
+      "points": 10
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Calculations - Division (Adjusting)",
+      "question": "Calculate: (3.5 × 10⁶) ÷ (7 × 10⁹)\n\nStep 1: 3.5 ÷ 7 = 0.5\nStep 2: 10⁶ ÷ 10⁹ = 10⁻³\nStep 3: 0.5 × 10⁻³ = 5 × 10⁻⁴ (adjust)",
+      "options": [
+        "5 × 10⁻³",
+        "5 × 10³",
+        "0.5 × 10⁻³",
+        "5 × 10⁻⁴"
+      ],
+      "answer": "5 × 10⁻⁴",
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Calculations - Addition/Subtraction",
+      "question": "Calculate: (3.5 × 10⁴) + (2.3 × 10⁴)\n\nSince powers of 10 are the same, add the coefficients:\n(3.5 + 2.3) × 10⁴",
+      "options": [
+        "1.12 × 10⁴",
+        "5.8 × 10⁸",
+        "5.8 × 10²",
+        "5.8 × 10⁴"
+      ],
+      "answer": "5.8 × 10⁴",
+      "points": 5
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Calculations - Addition/Subtraction",
+      "question": "Calculate: (5.2 × 10⁶) + (3.8 × 10⁵)\n\nFirst, express both with the same power of 10:\n5.2 × 10⁶ = 52 × 10⁵\nThen: (52 + 3.8) × 10⁵ = 55.8 × 10⁵ = 5.58 × 10⁶",
+      "options": [
+        "5.58 × 10⁵",
+        "5.58 × 10⁶",
+        "9 × 10¹¹",
+        "9 × 10⁶"
+      ],
+      "answer": "5.58 × 10⁶",
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Calculations - Addition/Subtraction",
+      "question": "Calculate: (8.3 × 10⁻²) - (4.7 × 10⁻³)\n\nExpress both with 10⁻³:\n8.3 × 10⁻² = 83 × 10⁻³\n(83 - 4.7) × 10⁻³ = 78.3 × 10⁻³ = 7.83 × 10⁻²",
+      "options": [
+        "7.83 × 10⁻³",
+        "3.6 × 10⁻²",
+        "3.6 × 10⁻⁵",
+        "7.83 × 10⁻²"
+      ],
+      "answer": "7.83 × 10⁻²",
+      "points": 10
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Real-World Applications - Distance",
+      "question": "The distance from Earth to the Sun is approximately 150 million kilometres. Express this distance in metres in standard form.\n\nNote: 1 million = 10⁶\n\n150 million km = 150 × 10⁶ km\n= 150 × 10⁶ × 10³ m (since 1 km = 10³ m)\n= 150 × 10⁹ m = 1.5 × 10¹¹ m",
+      "options": [
+        "1.5 × 10¹² m",
+        "1.5 × 10⁸ m",
+        "1.5 × 10¹¹ m",
+        "1.5 × 10⁹ m"
+      ],
+      "answer": "1.5 × 10¹¹ m",
+      "points": 10
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Real-World Applications - Population",
+      "question": "The population of China is approximately 1.4 billion people. Express this in standard form.\n\nNote: 1 billion = 10⁹ = 1,000,000,000\n\n1.4 billion = 1.4 × 10⁹",
+      "options": [
+        "1.4 × 10⁹",
+        "1.4 × 10⁶",
+        "1.4 × 10¹²",
+        "1.4 × 10⁸"
+      ],
+      "answer": "1.4 × 10⁹",
+      "points": 5
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Real-World Applications - Mass",
+      "question": "A grain of sand has a mass of approximately 50 micrograms. Express this in grams in standard form.\n\nNote: 1 μg (micro = 10⁻⁶) = 0.000001 g\n\n50 μg = 50 × 10⁻⁶ g = 5 × 10⁻⁵ g",
+      "options": [
+        "5 × 10⁻⁷ g",
+        "5 × 10⁻⁴ g",
+        "5 × 10⁻⁶ g",
+        "5 × 10⁻⁵ g"
+      ],
+      "answer": "5 × 10⁻⁵ g",
+      "points": 5
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Real-World Applications - Computing",
+      "question": "A computer can perform 3.5 trillion calculations per second. Express this in standard form.\n\nNote: 1 trillion = 10¹² = 1,000,000,000,000\n\n3.5 trillion = 3.5 × 10¹²",
+      "options": [
+        "3.5 × 10¹⁵",
+        "3.5 × 10⁹",
+        "3.5 × 10¹⁰",
+        "3.5 × 10¹²"
+      ],
+      "answer": "3.5 × 10¹²",
+      "points": 5
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Real-World Applications - Light",
+      "question": "Light travels at approximately 3 × 10⁸ metres per second. How far does light travel in 1 minute?\n\n1 minute = 60 seconds\nDistance = 3 × 10⁸ × 60 = 180 × 10⁸ m = 1.8 × 10¹⁰ m",
+      "options": [
+        "1.8 × 10¹⁰ m",
+        "1.8 × 10⁸ m",
+        "1.8 × 10¹¹ m",
+        "1.8 × 10⁹ m"
+      ],
+      "answer": "1.8 × 10¹⁰ m",
+      "points": 10
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Real-World Applications - Data Storage",
+      "question": "A hard drive has a capacity of 2 terabytes. Express the capacity in bytes in standard form.\n\nNote: 1 terabyte (tera = 10¹²) = 10¹² bytes\n\n2 terabytes = 2 × 10¹² bytes",
+      "options": [
+        "2 × 10¹⁵ bytes",
+        "2 × 10⁹ bytes",
+        "2 × 10¹⁰ bytes",
+        "2 × 10¹² bytes"
+      ],
+      "answer": "2 × 10¹² bytes",
+      "points": 5
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Real-World Applications - Virus Size",
+      "question": "A typical virus has a diameter of 100 nanometres. How many viruses placed side by side would fit across a width of 1 millimetre?\n\nNote: 1 nm (nano = 10⁻⁹) = 10⁻⁹ m\n      1 mm (milli = 10⁻³) = 10⁻³ m\n\n1 mm = 10⁻³ m = 10⁶ nm\n100 nm = 10² nm\nNumber = 10⁶ ÷ 10² = 10⁴",
+      "options": [
+        "1 × 10⁵",
+        "1 × 10³",
+        "1 × 10⁴",
+        "1 × 10²"
+      ],
+      "answer": "1 × 10⁴",
+      "points": 10
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Combined Problems",
+      "question": "The mass of an electron is 9.1 × 10⁻³¹ kg. The mass of a proton is 1.67 × 10⁻²⁷ kg. How many times heavier is a proton than an electron?\n\nRatio = (1.67 × 10⁻²⁷) ÷ (9.1 × 10⁻³¹)\n= (1.67 ÷ 9.1) × 10⁻²⁷⁺³¹\n= 0.184 × 10⁴\n= 1.84 × 10³ ≈ 1836",
+      "options": [
+        "About 180 times",
+        "About 18000 times",
+        "About 18 times",
+        "About 1800 times"
+      ],
+      "answer": "About 1800 times",
+      "points": 10
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Combined Problems",
+      "question": "A water droplet has a volume of 0.05 mL. Express this in litres in standard form.\n\nNote: 1 mL (milli = 10⁻³) = 10⁻³ L = 0.001 L\n\n0.05 mL = 0.05 × 10⁻³ L = 5 × 10⁻² × 10⁻³ L = 5 × 10⁻⁵ L",
+      "options": [
+        "5 × 10⁻⁴ L",
+        "5 × 10⁻³ L",
+        "5 × 10⁻² L",
+        "5 × 10⁻⁵ L"
+      ],
+      "answer": "5 × 10⁻⁵ L",
+      "points": 5
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Combined Problems",
+      "question": "Singapore's GDP is approximately $400 billion. The population is approximately 5.5 million. Calculate the GDP per capita in standard form.\n\nNote: 1 billion = 10⁹, 1 million = 10⁶\n\nGDP per capita = (4 × 10¹¹) ÷ (5.5 × 10⁶)\n= (4 ÷ 5.5) × 10⁵\n≈ 0.727 × 10⁵\n= 7.27 × 10⁴",
+      "options": [
+        "7.27 × 10⁵",
+        "7.27 × 10³",
+        "7.27 × 10⁶",
+        "7.27 × 10⁴"
+      ],
+      "answer": "7.27 × 10⁴",
+      "points": 15
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Combined Problems",
+      "question": "The thickness of a human hair is about 70 micrometres. Express this in millimetres.\n\nNote: 1 μm (micro = 10⁻⁶) = 10⁻⁶ m\n      1 mm (milli = 10⁻³) = 10⁻³ m\n\n70 μm = 70 × 10⁻⁶ m = 7 × 10⁻⁵ m\nIn mm: 7 × 10⁻⁵ m ÷ 10⁻³ = 7 × 10⁻² mm",
+      "options": [
+        "7 × 10⁻³ mm",
+        "7 × 10⁻¹ mm",
+        "7 × 10⁻² mm",
+        "7 × 10⁻⁴ mm"
+      ],
+      "answer": "7 × 10⁻² mm",
+      "points": 10
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Combined Problems",
+      "question": "A country produces 2.5 million barrels of oil per day. How many barrels are produced in a year (365 days)? Express in standard form.\n\nNote: 1 million = 10⁶\n\n2.5 million × 365 = 2.5 × 10⁶ × 3.65 × 10²\n= 9.125 × 10⁸",
+      "options": [
+        "9.125 × 10⁷",
+        "9.125 × 10⁸",
+        "9.125 × 10⁶",
+        "9.125 × 10⁹"
+      ],
+      "answer": "9.125 × 10⁸",
+      "points": 10
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Combined Problems",
+      "question": "The wavelength of red light is 700 nanometres. The wavelength of blue light is 450 nanometres. What is the difference in wavelength? Express in metres in standard form.\n\nNote: 1 nm (nano = 10⁻⁹) = 10⁻⁹ m\n\nDifference = 700 - 450 = 250 nm = 250 × 10⁻⁹ m = 2.5 × 10⁻⁷ m",
+      "options": [
+        "2.5 × 10⁻⁸ m",
+        "2.5 × 10⁻⁶ m",
+        "2.5 × 10⁻⁵ m",
+        "2.5 × 10⁻⁷ m"
+      ],
+      "answer": "2.5 × 10⁻⁷ m",
+      "points": 10
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Financial Applications with Large Numbers",
+      "question": "A company's revenue is $3.2 billion and its expenses are $2.8 billion. Calculate the profit in standard form.\n\nNote: 1 billion = 10⁹\n\nProfit = 3.2 × 10⁹ - 2.8 × 10⁹ = 0.4 × 10⁹ = 4 × 10⁸",
+      "options": [
+        "6 × 10⁹",
+        "4 × 10⁹",
+        "4 × 10⁷",
+        "4 × 10⁸"
+      ],
+      "answer": "4 × 10⁸",
+      "points": 10
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Financial Applications with Large Numbers",
+      "question": "A tech company is valued at $2.5 trillion. If there are 5 billion shares, what is the price per share?\n\nNote: 1 trillion = 10¹², 1 billion = 10⁹\n\n$2.5 trillion = $2.5 × 10¹² \n5 billion shares = 5 × 10⁹ shares\nPrice per share = (2.5 × 10¹²) ÷ (5 × 10⁹) = 0.5 × 10³ = $500",
+      "options": [
+        "$500",
+        "$50",
+        "$50000",
+        "$5000"
+      ],
+      "answer": "$500",
+      "points": 10
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Financial Applications with Large Numbers",
+      "question": "A government budget is $85 billion. If 15% is allocated to education, how much is spent on education? Express in standard form.\n\nNote: 1 billion = 10⁹\n\n15% of $85 billion = 0.15 × 85 × 10⁹\n= 12.75 × 10⁹ = 1.275 × 10¹⁰",
+      "options": [
+        "1.275 × 10⁸",
+        "1.275 × 10¹⁰",
+        "1.275 × 10⁹",
+        "1.275 × 10¹¹"
+      ],
+      "answer": "1.275 × 10¹⁰",
+      "points": 10
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Scientific Applications",
+      "question": "The speed of sound in air is 340 m/s. A sound takes 4.5 × 10⁻² seconds to travel from source to listener. How far away is the source?\n\nDistance = speed × time\n= 340 × 4.5 × 10⁻² \n= 340 × 0.045\n= 15.3 m",
+      "options": [
+        "153 m",
+        "0.153 m",
+        "15.3 m",
+        "1.53 m"
+      ],
+      "answer": "15.3 m",
+      "points": 10
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Scientific Applications",
+      "question": "A bacterium divides every 20 minutes. Starting with 1 bacterium, how many bacteria will there be after 4 hours?\n\n4 hours = 240 minutes = 12 divisions\nNumber = 2¹² = 4096 = 4.096 × 10³",
+      "options": [
+        "1.2 × 10³",
+        "4.096 × 10⁴",
+        "4.096 × 10²",
+        "4.096 × 10³"
+      ],
+      "answer": "4.096 × 10³",
+      "points": 10
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Scientific Applications",
+      "question": "An atom has a radius of 1.2 × 10⁻¹⁰ m. A nucleus has a radius of 2.4 × 10⁻¹⁵ m. How many times larger is the atom than the nucleus?\n\nRatio = (1.2 × 10⁻¹⁰) ÷ (2.4 × 10⁻¹⁵)\n= (1.2 ÷ 2.4) × 10⁻¹⁰⁺¹⁵\n= 0.5 × 10⁵ = 5 × 10⁴",
+      "options": [
+        "5 × 10³",
+        "5 × 10⁵",
+        "5 × 10⁴",
+        "5 × 10²"
+      ],
+      "answer": "5 × 10⁴",
+      "points": 10
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Scientific Applications",
+      "question": "The Milky Way galaxy contains approximately 200 billion stars. If there are 2 × 10¹¹ galaxies in the observable universe and each has the same number of stars, estimate the total number of stars.\n\nNote: 1 billion = 10⁹, so 200 billion = 2 × 10¹¹\n\n(2 × 10¹¹) × (2 × 10¹¹) = 4 × 10²²",
+      "options": [
+        "4 × 10²¹",
+        "4 × 10²²",
+        "4 × 10²⁰",
+        "4 × 10²³"
+      ],
+      "answer": "4 × 10²²",
+      "points": 15
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "problemSet": "TOPIC 8: Problem Solving ⭐",
+      "question": "A medicine dosage is 0.25 mg per kg of body weight. A patient weighs 72 kg. Calculate the dosage in micrograms.\n\nNote: 1 mg (milli = 10⁻³) = 10³ μg (since micro = 10⁻⁶)\n      So 1 mg = 1000 μg\n\nDosage = 0.25 × 72 = 18 mg\n18 mg = 18 × 10³ μg = 1.8 × 10⁴ μg",
+      "options": [
+        "1.8 × 10² μg",
+        "1.8 × 10⁴ μg",
+        "1.8 × 10⁵ μg",
+        "1.8 × 10³ μg"
+      ],
+      "answer": "1.8 × 10⁴ μg",
+      "points": 15
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "problemSet": "TOPIC 8: Problem Solving ⭐",
+      "question": "The Earth's circumference is approximately 4 × 10⁷ m. If a satellite orbits 400 km above Earth's surface, what is the circumference of its orbit? (Assume circular orbit)\n\nNote: 1 km (kilo = 10³) = 10³ m\n\nAdditional radius = 400 km = 4 × 10⁵ m\nAdditional circumference = 2π × 4 × 10⁵ ≈ 2.5 × 10⁶ m\nTotal ≈ 4 × 10⁷ + 0.25 × 10⁷ ≈ 4.25 × 10⁷ m",
+      "options": [
+        "4.25 × 10⁷ m",
+        "8 × 10⁷ m",
+        "4.4 × 10⁷ m",
+        "4 × 10⁷ m"
+      ],
+      "answer": "4.25 × 10⁷ m",
+      "points": 15
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "problemSet": "TOPIC 8: Problem Solving ⭐",
+      "question": "A water tank holds 5000 litres. Water drains at 2.5 × 10² mL per second. How long does it take to empty the tank?\n\nNote: 1 L = 10³ mL (since milli = 10⁻³, so 1 L = 1000 mL)\n\n5000 L = 5000 × 10³ mL = 5 × 10⁶ mL\nTime = (5 × 10⁶) ÷ (2.5 × 10²) = 2 × 10⁴ seconds\n\nConvert to hours: 2 × 10⁴ ÷ 3600 ≈ 5.56 hours",
+      "options": [
+        "About 20 hours",
+        "About 2 hours",
+        "About 55 hours",
+        "About 5.5 hours"
+      ],
+      "answer": "About 5.5 hours",
+      "points": 15
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "problemSet": "COMPREHENSIVE CHALLENGE: Final Question",
+      "question": "Light from a distant star takes 4.2 years to reach Earth. If light travels at 3 × 10⁸ m/s, calculate the distance to the star in kilometres.\n\nNote: 1 km (kilo = 10³) = 10³ m\n\nSeconds in 4.2 years = 4.2 × 365 × 24 × 3600 ≈ 1.32 × 10⁸ s\nDistance = 3 × 10⁸ × 1.32 × 10⁸ =

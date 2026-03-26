@@ -1,0 +1,708 @@
+{
+  "questTitle": "O-Level Chemistry: Electrolysis Fundamentals Worksheet 1",
+  "subject": "Chemistry",
+  "difficulty": "Hard",
+  "description": "Master the fundamentals of electrolysis! This worksheet covers electrolysis of molten salts, aqueous concentrated and dilute solutions, products at electrodes, observations, half-equations, redox reactions, pH changes, and preferential discharge of ions. Show all working for calculations!",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Basics of Electrolysis",
+      "question": "Electrolysis is defined as the decomposition of an ionic compound using electricity. For electrolysis to occur, the ionic compound must be:",
+      "options": [
+        "Mixed with a covalent compound",
+        "At very low temperature",
+        "In solid state only",
+        "In molten state or dissolved in water (aqueous) to allow ions to move freely"
+      ],
+      "answer": "In molten state or dissolved in water (aqueous) to allow ions to move freely",
+      "points": 5
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Electrodes",
+      "question": "In electrolysis, the electrode connected to the positive terminal of the power supply is called the:",
+      "options": [
+        "Electrolyte",
+        "Cathode",
+        "Anode",
+        "Ion bridge"
+      ],
+      "answer": "Anode",
+      "points": 5
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Ion Movement",
+      "question": "During electrolysis, which statement correctly describes the movement of ions?",
+      "options": [
+        "Ions do not move during electrolysis",
+        "Cations move to the cathode, anions move to the anode",
+        "All ions move to the cathode",
+        "Cations move to the anode, anions move to the cathode"
+      ],
+      "answer": "Cations move to the cathode, anions move to the anode",
+      "points": 5
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Redox at Electrodes",
+      "question": "At the cathode during electrolysis:\n\n• Cations gain electrons\n• Example: Cu²⁺ + 2e⁻ → Cu\n\nThis process is called:",
+      "options": [
+        "Neutralization",
+        "Reduction",
+        "Oxidation",
+        "Precipitation"
+      ],
+      "answer": "Reduction",
+      "points": 5
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Redox at Electrodes (continued)",
+      "question": "At the anode during electrolysis:\n\n• Anions lose electrons\n• Example: 2Cl⁻ → Cl₂ + 2e⁻\n\nThis process is called:",
+      "options": [
+        "Decomposition",
+        "Reduction",
+        "Displacement",
+        "Oxidation"
+      ],
+      "answer": "Oxidation",
+      "points": 5
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Electrolysis of Molten Salts",
+      "question": "When molten lead(II) bromide (PbBr₂) is electrolysed, what ions are present in the molten salt?",
+      "options": [
+        "Pb and Br₂ molecules",
+        "Pb²⁺, Br⁻, H⁺ and OH⁻ ions",
+        "Pb⁴⁺ and Br²⁻ ions",
+        "Pb²⁺ and Br⁻ ions only"
+      ],
+      "answer": "Pb²⁺ and Br⁻ ions only",
+      "points": 5
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Electrolysis of Molten Salts (continued)",
+      "question": "During electrolysis of molten lead(II) bromide:\n\n• At cathode: Pb²⁺ ions gain electrons\n• At anode: Br⁻ ions lose electrons\n\nWhat is the correct half-equation at the CATHODE?",
+      "options": [
+        "Pb²⁺ - 2e⁻ → Pb",
+        "Pb → Pb²⁺ + 2e⁻",
+        "2Pb²⁺ + 4e⁻ → 2Pb",
+        "Pb²⁺ + 2e⁻ → Pb"
+      ],
+      "answer": "Pb²⁺ + 2e⁻ → Pb",
+      "points": 5
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Electrolysis of Molten Salts (continued)",
+      "question": "During electrolysis of molten lead(II) bromide, what is the correct half-equation at the ANODE?",
+      "options": [
+        "2Br⁻ → Br₂ + 2e⁻",
+        "Br⁻ + e⁻ → Br²⁻",
+        "Br₂ + 2e⁻ → 2Br⁻",
+        "Br⁻ → Br + e⁻"
+      ],
+      "answer": "2Br⁻ → Br₂ + 2e⁻",
+      "points": 5
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Electrolysis of Molten Salts - Observations",
+      "question": "During electrolysis of molten lead(II) bromide, what observation would you see at the CATHODE?",
+      "options": [
+        "White precipitate forms",
+        "Blue solution forms",
+        "Silvery grey metal deposited",
+        "Brown/orange gas evolved"
+      ],
+      "answer": "Silvery grey metal deposited",
+      "points": 5
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Electrolysis of Molten Salts - Observations (continued)",
+      "question": "During electrolysis of molten lead(II) bromide, what observation would you see at the ANODE?",
+      "options": [
+        "Green gas evolved",
+        "Silvery grey metal deposited",
+        "Colourless gas evolved",
+        "Brown/reddish-brown gas (bromine vapour) evolved"
+      ],
+      "answer": "Brown/reddish-brown gas (bromine vapour) evolved",
+      "points": 5
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Electrolysis of Molten Salts ⭐ MAIN QUESTION",
+      "question": "Molten sodium chloride is electrolysed using inert electrodes.\n\nWhich row correctly shows the products at each electrode?\n\n| Cathode | Anode |\n|---------|-------|\n| A: Chlorine | Sodium |\n| B: Sodium | Chlorine |\n| C: Hydrogen | Oxygen |\n| D: Sodium | Oxygen |",
+      "options": [
+        "D: Sodium at cathode, Oxygen at anode",
+        "A: Chlorine at cathode, Sodium at anode",
+        "C: Hydrogen at cathode, Oxygen at anode",
+        "B: Sodium at cathode, Chlorine at anode"
+      ],
+      "answer": "B: Sodium at cathode, Chlorine at anode",
+      "points": 10
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Electrolysis of Aqueous Solutions - Introduction",
+      "question": "When an ionic compound is dissolved in water, additional ions are present due to the slight ionisation of water. What are these additional ions?",
+      "options": [
+        "H₂ and O₂",
+        "Na⁺ and Cl⁻",
+        "H₃O⁺ only",
+        "H⁺ and OH⁻"
+      ],
+      "answer": "H⁺ and OH⁻",
+      "points": 5
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Preferential Discharge - Cations",
+      "question": "In aqueous solutions, there is competition between cations to be discharged at the cathode. The electrochemical series helps predict which cation is preferentially discharged.\n\nWhich statement is correct?",
+      "options": [
+        "All cations are discharged equally",
+        "Cations lower in the electrochemical series are preferentially discharged",
+        "Only hydrogen ions are ever discharged",
+        "Cations higher in the electrochemical series are preferentially discharged"
+      ],
+      "answer": "Cations lower in the electrochemical series are preferentially discharged",
+      "points": 10
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Preferential Discharge - Cations (continued)",
+      "question": "Given the electrochemical series (partial):\nK⁺ > Na⁺ > Ca²⁺ > Mg²⁺ > Al³⁺ > Zn²⁺ > Fe²⁺ > H⁺ > Cu²⁺ > Ag⁺\n\nIn an aqueous solution of sodium chloride, which cation will be preferentially discharged at the cathode?",
+      "options": [
+        "Both equally",
+        "Na⁺ (sodium ions)",
+        "Neither - no reaction occurs",
+        "H⁺ (hydrogen ions)"
+      ],
+      "answer": "H⁺ (hydrogen ions)",
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Preferential Discharge - Anions",
+      "question": "At the anode, there is competition between anions. The general order of preferential discharge is:\n\nSO₄²⁻ < NO₃⁻ < OH⁻ < Cl⁻ < Br⁻ < I⁻\n\nWhich anion is most easily discharged (loses electrons most readily)?",
+      "options": [
+        "OH⁻ (hydroxide)",
+        "I⁻ (iodide)",
+        "NO₃⁻ (nitrate)",
+        "SO₄²⁻ (sulfate)"
+      ],
+      "answer": "I⁻ (iodide)",
+      "points": 5
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Preferential Discharge - Concentration Effect",
+      "question": "The concentration of ions also affects preferential discharge. In concentrated sodium chloride solution, chloride ions are discharged at the anode. In dilute sodium chloride solution, which ion is preferentially discharged at the anode?",
+      "options": [
+        "Na⁺ ions",
+        "H⁺ ions",
+        "Cl⁻ ions (chlorine gas produced)",
+        "OH⁻ ions (oxygen gas produced)"
+      ],
+      "answer": "OH⁻ ions (oxygen gas produced)",
+      "points": 10
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Concentrated Sodium Chloride Solution",
+      "question": "In the electrolysis of CONCENTRATED aqueous sodium chloride (brine), what are the ions present in solution?",
+      "options": [
+        "H⁺ and OH⁻ only",
+        "NaCl molecules only",
+        "Na⁺, Cl⁻, H⁺ and OH⁻",
+        "Na⁺ and Cl⁻ only"
+      ],
+      "answer": "Na⁺, Cl⁻, H⁺ and OH⁻",
+      "points": 5
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Concentrated NaCl - Products Initially",
+      "question": "During electrolysis of CONCENTRATED sodium chloride solution:\n\n• At cathode: Na⁺ and H⁺ compete. H⁺ is lower in electrochemical series.\n• At anode: Cl⁻ and OH⁻ compete. Cl⁻ is preferentially discharged when concentrated.\n\nWhat are the products INITIALLY?",
+      "options": [
+        "Cathode: Sodium, Anode: Chlorine",
+        "Cathode: Hydrogen, Anode: Oxygen",
+        "Cathode: Hydrogen, Anode: Chlorine",
+        "Cathode: Sodium, Anode: Oxygen"
+      ],
+      "answer": "Cathode: Hydrogen, Anode: Chlorine",
+      "points": 10
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Concentrated NaCl - Half Equations",
+      "question": "Write the half-equation for the reaction at the CATHODE during electrolysis of concentrated sodium chloride solution.",
+      "options": [
+        "2H₂O + 2e⁻ → H₂ + 2OH⁻",
+        "Na⁺ + e⁻ → Na",
+        "H₂ → 2H⁺ + 2e⁻",
+        "2H⁺ + 2e⁻ → H₂"
+      ],
+      "answer": "2H⁺ + 2e⁻ → H₂",
+      "points": 5
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Concentrated NaCl - Half Equations (continued)",
+      "question": "Write the half-equation for the reaction at the ANODE during electrolysis of concentrated sodium chloride solution.",
+      "options": [
+        "4OH⁻ → O₂ + 2H₂O + 4e⁻",
+        "2Cl⁻ + 2e⁻ → Cl₂",
+        "Cl₂ + 2e⁻ → 2Cl⁻",
+        "2Cl⁻ → Cl₂ + 2e⁻"
+      ],
+      "answer": "2Cl⁻ → Cl₂ + 2e⁻",
+      "points": 5
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Concentrated NaCl - Observations",
+      "question": "During electrolysis of concentrated sodium chloride solution, what observations would you see at the cathode?",
+      "options": [
+        "Blue solution formed",
+        "Brown deposit formed",
+        "Colourless gas evolved that gives a 'pop' sound with a lighted splint",
+        "Yellow-green gas with pungent smell evolved"
+      ],
+      "answer": "Colourless gas evolved that gives a 'pop' sound with a lighted splint",
+      "points": 5
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Concentrated NaCl - Observations (continued)",
+      "question": "During electrolysis of concentrated sodium chloride solution, what observations would you see at the anode?",
+      "options": [
+        "Brown gas evolved",
+        "Yellow-green gas with pungent/choking smell that bleaches damp litmus paper",
+        "Colourless gas with 'pop' sound",
+        "Colourless gas that relights a glowing splint"
+      ],
+      "answer": "Yellow-green gas with pungent/choking smell that bleaches damp litmus paper",
+      "points": 5
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Concentrated NaCl - Products After Some Time",
+      "question": "As electrolysis of concentrated sodium chloride continues:\n• H⁺ ions are removed at cathode\n• Cl⁻ ions are removed at anode\n\nAfter prolonged electrolysis, what happens to the concentration of Cl⁻ ions?",
+      "options": [
+        "All chloride ions are immediately removed",
+        "Concentration remains exactly the same",
+        "Concentration of Cl⁻ increases",
+        "Concentration of Cl⁻ decreases (solution becomes dilute)"
+      ],
+      "answer": "Concentration of Cl⁻ decreases (solution becomes dilute)",
+      "points": 5
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Concentrated NaCl - Products After Some Time (continued)",
+      "question": "When the sodium chloride solution becomes dilute after prolonged electrolysis, the product at the anode changes. What is produced at the anode in DILUTE sodium chloride solution?",
+      "options": [
+        "Sodium metal",
+        "Chlorine gas (Cl₂)",
+        "Hydrogen gas (H₂)",
+        "Oxygen gas (O₂)"
+      ],
+      "answer": "Oxygen gas (O₂)",
+      "points": 10
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Concentrated NaCl - pH Changes",
+      "question": "During electrolysis of concentrated sodium chloride solution:\n• H⁺ ions are discharged at cathode (removed from solution)\n• Na⁺ and OH⁻ ions remain in solution\n\nWhat happens to the pH of the solution after some time?",
+      "options": [
+        "pH fluctuates randomly",
+        "pH remains at 7",
+        "pH decreases (becomes more acidic)",
+        "pH increases (becomes more alkaline)"
+      ],
+      "answer": "pH increases (becomes more alkaline)",
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Concentrated NaCl ⭐ MAIN QUESTION",
+      "question": "After prolonged electrolysis of concentrated sodium chloride solution, the remaining solution becomes alkaline. What compound is formed in this solution and why?",
+      "options": [
+        "Sodium chloride - concentration increases",
+        "Pure water - all ions are removed",
+        "Sodium hydroxide - because Na⁺ and OH⁻ ions remain after H⁺ and Cl⁻ are discharged",
+        "Hydrochloric acid - because chlorine dissolves in water"
+      ],
+      "answer": "Sodium hydroxide - because Na⁺ and OH⁻ ions remain after H⁺ and Cl⁻ are discharged",
+      "points": 15
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Dilute Sulfuric Acid",
+      "question": "In the electrolysis of dilute sulfuric acid (H₂SO₄), what ions are present in the solution?",
+      "options": [
+        "H₂SO₄ molecules only",
+        "S²⁻ and O²⁻ ions",
+        "H⁺, SO₄²⁻ and OH⁻ (from water)",
+        "H⁺ and SO₄²⁻ only"
+      ],
+      "answer": "H⁺, SO₄²⁻ and OH⁻ (from water)",
+      "points": 5
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Dilute Sulfuric Acid - Cathode Product",
+      "question": "At the cathode during electrolysis of dilute sulfuric acid:\n\nH⁺ ions are the only cations that can be discharged (water provides H⁺ and OH⁻).\n\nWhat is the product at the cathode?",
+      "options": [
+        "Oxygen gas",
+        "Hydrogen gas",
+        "Water",
+        "Sulfur"
+      ],
+      "answer": "Hydrogen gas",
+      "points": 5
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Dilute Sulfuric Acid - Anode Product",
+      "question": "At the anode during electrolysis of dilute sulfuric acid:\n\nSO₄²⁻ and OH⁻ compete. OH⁻ is preferentially discharged over SO₄²⁻.\n\nWhat is the product at the anode?",
+      "options": [
+        "Oxygen gas",
+        "Sulfur dioxide",
+        "Hydrogen gas",
+        "Sulfur"
+      ],
+      "answer": "Oxygen gas",
+      "points": 5
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Dilute Sulfuric Acid - Half Equations",
+      "question": "What is the correct half-equation at the ANODE during electrolysis of dilute sulfuric acid?",
+      "options": [
+        "2O²⁻ → O₂ + 4e⁻",
+        "SO₄²⁻ → S + 2O₂ + 2e⁻",
+        "O₂ + 2H₂O + 4e⁻ → 4OH⁻",
+        "4OH⁻ → O₂ + 2H₂O + 4e⁻"
+      ],
+      "answer": "4OH⁻ → O₂ + 2H₂O + 4e⁻",
+      "points": 10
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Dilute Sulfuric Acid - Volume Ratio",
+      "question": "During electrolysis of dilute sulfuric acid:\n\nCathode: 2H⁺ + 2e⁻ → H₂\nAnode: 4OH⁻ → O₂ + 2H₂O + 4e⁻\n\nWhat is the ratio of volume of hydrogen to oxygen produced?",
+      "options": [
+        "4:1",
+        "1:2",
+        "2:1",
+        "1:1"
+      ],
+      "answer": "2:1",
+      "points": 10
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Dilute Sulfuric Acid - Concentration Changes",
+      "question": "During electrolysis of dilute sulfuric acid:\n• H⁺ ions are removed at cathode\n• OH⁻ ions are removed at anode\n• H⁺ and OH⁻ come from water\n\nWhat happens to the concentration of sulfuric acid as electrolysis continues?",
+      "options": [
+        "Concentration stays exactly the same",
+        "Sulfuric acid is completely decomposed",
+        "Concentration increases (water is removed, acid remains)",
+        "Concentration decreases"
+      ],
+      "answer": "Concentration increases (water is removed, acid remains)",
+      "points": 10
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Dilute Sulfuric Acid ⭐ MAIN QUESTION",
+      "question": "In electrolysis of dilute sulfuric acid, 4 moles of electrons flow through the circuit. \n\nAt cathode: 2H⁺ + 2e⁻ → H₂\nAt anode: 4OH⁻ → O₂ + 2H₂O + 4e⁻\n\nHow many moles of hydrogen and oxygen are produced?\n\nHint: 2 mol e⁻ produces 1 mol H₂; 4 mol e⁻ produces 1 mol O₂",
+      "options": [
+        "1 mol H₂ and 1 mol O₂",
+        "4 mol H₂ and 1 mol O₂",
+        "2 mol H₂ and 1 mol O₂",
+        "2 mol H₂ and 2 mol O₂"
+      ],
+      "answer": "2 mol H₂ and 1 mol O₂",
+      "points": 15
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Copper(II) Sulfate Solution",
+      "question": "In the electrolysis of aqueous copper(II) sulfate using inert (carbon/platinum) electrodes, what ions are present?",
+      "options": [
+        "Cu⁺ and SO₄⁻",
+        "Cu²⁺, SO₄²⁻, H⁺ and OH⁻",
+        "CuSO₄ molecules only",
+        "Cu²⁺ and SO₄²⁻ only"
+      ],
+      "answer": "Cu²⁺, SO₄²⁻, H⁺ and OH⁻",
+      "points": 5
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Copper(II) Sulfate - Cathode",
+      "question": "At the cathode during electrolysis of copper(II) sulfate solution:\n\nCu²⁺ and H⁺ compete. Cu²⁺ is lower than H⁺ in the electrochemical series.\n\nWhat is discharged at the cathode?",
+      "options": [
+        "Sulfur",
+        "Copper metal",
+        "Hydrogen gas",
+        "Oxygen gas"
+      ],
+      "answer": "Copper metal",
+      "points": 5
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Copper(II) Sulfate - Cathode Half Equation",
+      "question": "What is the correct half-equation at the cathode during electrolysis of copper(II) sulfate solution?",
+      "options": [
+        "Cu²⁺ + 2e⁻ → Cu",
+        "Cu → Cu²⁺ + 2e⁻",
+        "2H⁺ + 2e⁻ → H₂",
+        "Cu²⁺ + e⁻ → Cu⁺"
+      ],
+      "answer": "Cu²⁺ + 2e⁻ → Cu",
+      "points": 5
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Copper(II) Sulfate - Anode",
+      "question": "At the anode during electrolysis of copper(II) sulfate solution with INERT electrodes:\n\nSO₄²⁻ and OH⁻ compete. OH⁻ is preferentially discharged.\n\nWhat is produced at the anode?",
+      "options": [
+        "Sulfur",
+        "Copper",
+        "Sulfur dioxide",
+        "Oxygen gas"
+      ],
+      "answer": "Oxygen gas",
+      "points": 5
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Copper(II) Sulfate - Observations",
+      "question": "During electrolysis of copper(II) sulfate solution with inert electrodes, what observation would you see at the cathode?",
+      "options": [
+        "Yellow-green gas evolved",
+        "Brown/reddish-brown solid deposited",
+        "Colourless gas evolved",
+        "Blue precipitate formed"
+      ],
+      "answer": "Brown/reddish-brown solid deposited",
+      "points": 5
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Copper(II) Sulfate - Colour Change",
+      "question": "As electrolysis of copper(II) sulfate solution continues, Cu²⁺ ions are removed at the cathode. What happens to the colour of the solution?",
+      "options": [
+        "Colour changes to red",
+        "Colour intensifies (darker blue)",
+        "Colour changes from blue to green",
+        "Blue colour fades and eventually becomes colourless"
+      ],
+      "answer": "Blue colour fades and eventually becomes colourless",
+      "points": 5
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Copper(II) Sulfate - After Prolonged Electrolysis",
+      "question": "After prolonged electrolysis of copper(II) sulfate solution, all Cu²⁺ ions are discharged. What will then be discharged at the cathode?",
+      "options": [
+        "No further reaction occurs",
+        "SO₄²⁻ ions",
+        "H⁺ ions (hydrogen gas evolved)",
+        "OH⁻ ions"
+      ],
+      "answer": "H⁺ ions (hydrogen gas evolved)",
+      "points": 10
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Copper(II) Sulfate - pH Change",
+      "question": "During electrolysis of copper(II) sulfate solution:\n• OH⁻ ions are discharged at anode\n• H⁺ ions remain in solution initially\n\nWhat happens to the pH of the solution as electrolysis proceeds?",
+      "options": [
+        "pH remains neutral at 7",
+        "pH first increases then decreases",
+        "pH increases (becomes alkaline)",
+        "pH decreases (becomes acidic)"
+      ],
+      "answer": "pH decreases (becomes acidic)",
+      "points": 10
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Copper(II) Sulfate ⭐ MAIN QUESTION",
+      "question": "During electrolysis of copper(II) sulfate solution, 0.1 mol of electrons pass through the circuit.\n\nCathode: Cu²⁺ + 2e⁻ → Cu\n\nHow many moles of copper are deposited?\n\nHint: 2 mol of electrons deposit 1 mol of Cu",
+      "options": [
+        "0.025 mol",
+        "0.1 mol",
+        "0.05 mol",
+        "0.2 mol"
+      ],
+      "answer": "0.05 mol",
+      "points": 15
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Dilute Sodium Chloride vs Concentrated",
+      "question": "Compare electrolysis of DILUTE and CONCENTRATED sodium chloride solution.\n\nIn DILUTE sodium chloride solution, what is produced at the anode?",
+      "options": [
+        "Hydrogen gas",
+        "Sodium metal",
+        "Oxygen gas",
+        "Chlorine gas"
+      ],
+      "answer": "Oxygen gas",
+      "points": 5
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Dilute Sodium Chloride - Half Equation at Anode",
+      "question": "In dilute sodium chloride solution, OH⁻ ions are preferentially discharged at the anode (not Cl⁻).\n\nWhat is the correct half-equation at the anode?",
+      "options": [
+        "2Cl⁻ → Cl₂ + 2e⁻",
+        "2H₂O → O₂ + 4H⁺ + 4e⁻",
+        "4OH⁻ → O₂ + 2H₂O + 4e⁻",
+        "Both B and C are acceptable"
+      ],
+      "answer": "Both B and C are acceptable",
+      "points": 10
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Dilute Sodium Chloride - pH Change",
+      "question": "During electrolysis of DILUTE sodium chloride solution:\n• At cathode: H⁺ is discharged\n• At anode: OH⁻ is discharged\n\nSince equal amounts of H⁺ and OH⁻ are removed, what happens to the pH?",
+      "options": [
+        "pH becomes exactly 14",
+        "pH decreases significantly",
+        "pH increases significantly",
+        "pH remains relatively unchanged (neutral)"
+      ],
+      "answer": "pH remains relatively unchanged (neutral)",
+      "points": 10
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Mole Calculations",
+      "question": "During electrolysis of molten zinc chloride:\n\nCathode: Zn²⁺ + 2e⁻ → Zn\n\nIf 4 moles of electrons pass through the circuit, how many moles of zinc are deposited?",
+      "options": [
+        "8 mol",
+        "1 mol",
+        "2 mol",
+        "4 mol"
+      ],
+      "answer": "2 mol",
+      "points": 10
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Mole Calculations (continued)",
+      "question": "During electrolysis:\n\nAnode: 2Br⁻ → Br₂ + 2e⁻\n\nIf 0.5 mol of bromine (Br₂) is produced, how many moles of electrons were released?",
+      "options": [
+        "2 mol",
+        "0.25 mol",
+        "1 mol",
+        "0.5 mol"
+      ],
+      "answer": "1 mol",
+      "points": 10
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Mole Calculations (continued)",
+      "question": "In electrolysis, the charge of an ion determines how many electrons are needed to discharge it.\n\nFor Al³⁺ + 3e⁻ → Al\n\nIf 6 moles of electrons pass through molten aluminium oxide, how many moles of aluminium are produced?",
+      "options": [
+        "18 mol",
+        "2 mol",
+        "6 mol",
+        "3 mol"
+      ],
+      "answer": "2 mol",
+      "points": 10
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Mole Calculations ⭐ MAIN QUESTION",
+      "question": "During electrolysis of dilute sulfuric acid, 0.4 mol of hydrogen gas is produced at the cathode.\n\nCathode: 2H⁺ + 2e⁻ → H₂\nAnode: 4OH⁻ → O₂ + 2H₂O + 4e⁻\n\nCalculate:\n(a) Moles of electrons that passed = 0.4 × 2 = 0.8 mol\n(b) Moles of oxygen produced at anode = ?",
+      "options": [
+        "0.1 mol",
+        "0.4 mol",
+        "0.8 mol",
+        "0.2 mol"
+      ],
+      "answer": "0.2 mol",
+      "points": 15
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "problemSet": "COMPREHENSIVE CHALLENGE: Summary Question",
+      "question": "A student electrolyses concentrated copper(II) chloride solution using inert electrodes.\n\nIons present: Cu²⁺, Cl⁻, H⁺, OH⁻\n\nWhich row correctly identifies the products and the change in pH?\n\n| Cathode | Anode | pH change |\n|---------|-------|-----------|",
+      "options": [
+        "Hydrogen, Oxygen, pH unchanged",
+        "Hydrogen, Chlorine, pH increases",
+        "Copper, Oxygen, pH decreases",
+        "Copper, Chlorine, pH remains unchanged or slightly increases"
+      ],
+      "answer": "Copper, Chlorine, pH remains unchanged or slightly increases",
+      "points": 15
+    }
+  ]
+}

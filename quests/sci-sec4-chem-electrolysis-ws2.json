@@ -1,0 +1,708 @@
+{
+  "questTitle": "O-Level Chemistry: Applications of Electrolysis Worksheet 2",
+  "subject": "Chemistry",
+  "difficulty": "Hard",
+  "description": "Master the applications of electrolysis! This worksheet covers electroplating, extraction of metals, production of sodium hydroxide from brine, purification of metals, mass calculations, and hydrogen fuel cells. Show all working for calculations!",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Industrial Applications Overview",
+      "question": "Electrolysis has many industrial applications. Which of the following is NOT a common application of electrolysis?",
+      "options": [
+        "Purification of metals",
+        "Burning fossil fuels for energy",
+        "Extraction of reactive metals from ores",
+        "Electroplating metals"
+      ],
+      "answer": "Burning fossil fuels for energy",
+      "points": 5
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Electroplating - Introduction",
+      "question": "Electroplating is the process of coating one metal with a thin layer of another metal using electrolysis. What are the main purposes of electroplating?",
+      "options": [
+        "To dissolve the metal",
+        "To make metals conduct electricity better",
+        "To protect from corrosion and improve appearance",
+        "To make metals heavier"
+      ],
+      "answer": "To protect from corrosion and improve appearance",
+      "points": 5
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Electroplating - Setup",
+      "question": "In electroplating an iron spoon with silver:\n\n• The object to be plated (iron spoon) is the...\n• The plating metal (silver) is the...\n\nComplete the sentence:",
+      "options": [
+        "Both are anodes",
+        "Iron spoon is cathode, silver is anode",
+        "Both are cathodes",
+        "Iron spoon is anode, silver is cathode"
+      ],
+      "answer": "Iron spoon is cathode, silver is anode",
+      "points": 10
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Electroplating - Electrolyte",
+      "question": "When electroplating an object with silver, what should the electrolyte contain?",
+      "options": [
+        "A solution containing iron ions",
+        "Pure distilled water",
+        "Any ionic solution",
+        "A solution containing silver ions (e.g., silver nitrate)"
+      ],
+      "answer": "A solution containing silver ions (e.g., silver nitrate)",
+      "points": 5
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Electroplating - Cathode Reaction",
+      "question": "During silver plating of an iron spoon, what happens at the cathode (the spoon)?",
+      "options": [
+        "Silver atoms lose electrons",
+        "Iron atoms dissolve into solution",
+        "Hydrogen gas is evolved",
+        "Silver ions gain electrons and deposit as silver metal on the spoon"
+      ],
+      "answer": "Silver ions gain electrons and deposit as silver metal on the spoon",
+      "points": 5
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Electroplating - Half Equations",
+      "question": "Write the half-equation for the reaction at the cathode during silver electroplating:",
+      "options": [
+        "2Ag⁺ + 2e⁻ → 2Ag",
+        "Ag → Ag⁺ + e⁻",
+        "Ag²⁺ + 2e⁻ → Ag",
+        "Ag⁺ + e⁻ → Ag"
+      ],
+      "answer": "Ag⁺ + e⁻ → Ag",
+      "points": 5
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Electroplating - Anode Reaction",
+      "question": "During silver plating, what happens at the anode (the silver electrode)?",
+      "options": [
+        "Oxygen gas is evolved",
+        "Silver ions are deposited",
+        "No reaction occurs",
+        "Silver atoms dissolve by losing electrons, forming silver ions"
+      ],
+      "answer": "Silver atoms dissolve by losing electrons, forming silver ions",
+      "points": 5
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Electroplating - Anode Half Equation",
+      "question": "Write the half-equation for the reaction at the anode during silver electroplating:",
+      "options": [
+        "Ag + e⁻ → Ag⁻",
+        "Ag⁺ + e⁻ → Ag",
+        "2Ag → 2Ag⁺ + e⁻",
+        "Ag → Ag⁺ + e⁻"
+      ],
+      "answer": "Ag → Ag⁺ + e⁻",
+      "points": 5
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Electroplating - Concentration",
+      "question": "In electroplating with a pure metal anode (e.g., silver anode for silver plating), what happens to the concentration of metal ions in the electrolyte?",
+      "options": [
+        "Concentration fluctuates randomly",
+        "Concentration remains constant (ions deposited = ions dissolved)",
+        "Concentration decreases continuously",
+        "Concentration increases continuously"
+      ],
+      "answer": "Concentration remains constant (ions deposited = ions dissolved)",
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Electroplating ⭐ MAIN QUESTION",
+      "question": "A steel fork is to be electroplated with nickel. Which setup is correct?\n\n| Anode | Cathode | Electrolyte |",
+      "options": [
+        "Steel fork, Nickel, Nickel(II) sulfate solution",
+        "Carbon, Steel fork, Nickel(II) sulfate solution",
+        "Nickel, Steel fork, Nickel(II) sulfate solution",
+        "Steel fork, Nickel, Sodium chloride solution"
+      ],
+      "answer": "Nickel, Steel fork, Nickel(II) sulfate solution",
+      "points": 15
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Extraction of Metals - Introduction",
+      "question": "Electrolysis is used to extract reactive metals from their ores. Why can't reactive metals like aluminium be extracted by reduction with carbon?",
+      "options": [
+        "Carbon reacts with aluminium to form carbides only",
+        "Reactive metals don't form ores",
+        "Carbon is too expensive",
+        "Reactive metals have a stronger affinity for oxygen than carbon; carbon cannot reduce their oxides"
+      ],
+      "answer": "Reactive metals have a stronger affinity for oxygen than carbon; carbon cannot reduce their oxides",
+      "points": 10
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Extraction of Aluminium - The Process",
+      "question": "Aluminium is extracted from its ore, bauxite (Al₂O₃). Before electrolysis, the ore is purified and dissolved in molten cryolite (Na₃AlF₆). Why is cryolite used?",
+      "options": [
+        "To provide sodium for the reaction",
+        "To change the colour of aluminium",
+        "To lower the melting point of aluminium oxide from 2050°C to about 950°C, reducing energy costs",
+        "To increase the melting point of aluminium oxide"
+      ],
+      "answer": "To lower the melting point of aluminium oxide from 2050°C to about 950°C, reducing energy costs",
+      "points": 10
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Extraction of Aluminium - Electrodes",
+      "question": "In the electrolysis of aluminium oxide, what are the electrodes made of?",
+      "options": [
+        "Platinum",
+        "Aluminium metal",
+        "Iron",
+        "Carbon (graphite)"
+      ],
+      "answer": "Carbon (graphite)",
+      "points": 5
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Extraction of Aluminium - Cathode",
+      "question": "At the cathode during electrolysis of molten aluminium oxide:\n\nAl³⁺ ions are attracted to the cathode.\n\nWhat is the half-equation at the cathode?",
+      "options": [
+        "Al³⁺ - 3e⁻ → Al",
+        "Al³⁺ + 3e⁻ → Al",
+        "3Al³⁺ + 9e⁻ → 3Al",
+        "Al → Al³⁺ + 3e⁻"
+      ],
+      "answer": "Al³⁺ + 3e⁻ → Al",
+      "points": 5
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Extraction of Aluminium - Anode",
+      "question": "At the anode during electrolysis of molten aluminium oxide:\n\nO²⁻ ions are attracted to the anode.\n\nWhat is the half-equation at the anode?",
+      "options": [
+        "O²⁻ → O + 2e⁻",
+        "O₂ + 4e⁻ → 2O²⁻",
+        "O²⁻ + 2e⁻ → O²⁺",
+        "2O²⁻ → O₂ + 4e⁻"
+      ],
+      "answer": "2O²⁻ → O₂ + 4e⁻",
+      "points": 5
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Extraction of Aluminium - Anode Consumption",
+      "question": "In the extraction of aluminium, the carbon anodes need to be replaced regularly. Why?",
+      "options": [
+        "Aluminium deposits on the anodes",
+        "The anodes become too cold",
+        "The anodes dissolve in the electrolyte",
+        "Oxygen produced reacts with the hot carbon anodes forming carbon dioxide, wearing them away"
+      ],
+      "answer": "Oxygen produced reacts with the hot carbon anodes forming carbon dioxide, wearing them away",
+      "points": 10
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Extraction of Aluminium - Overall Equation",
+      "question": "What is the overall equation for the electrolysis of aluminium oxide?",
+      "options": [
+        "Al₂O₃ + C → 2Al + CO",
+        "Al₂O₃ → Al₂ + O₃",
+        "2Al₂O₃ → 4Al + 3O₂",
+        "Al₂O₃ → 2Al + 3O"
+      ],
+      "answer": "2Al₂O₃ → 4Al + 3O₂",
+      "points": 10
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Extraction of Aluminium ⭐ MAIN QUESTION",
+      "question": "In the extraction of aluminium, 12 moles of electrons pass through the electrolyte.\n\nCathode: Al³⁺ + 3e⁻ → Al\n\nHow many moles of aluminium are produced?\n\nHint: 3 mol e⁻ produces 1 mol Al",
+      "options": [
+        "12 mol",
+        "3 mol",
+        "4 mol",
+        "36 mol"
+      ],
+      "answer": "4 mol",
+      "points": 15
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Production of Sodium Hydroxide - Chlor-Alkali Process",
+      "question": "The chlor-alkali process involves the electrolysis of concentrated sodium chloride solution (brine) to produce three important products. What are these products?",
+      "options": [
+        "Hydrogen, chlorine, and sodium hydroxide",
+        "Hydrogen, oxygen, and sodium chloride",
+        "Sodium, chlorine, and oxygen",
+        "Sodium, oxygen, and water"
+      ],
+      "answer": "Hydrogen, chlorine, and sodium hydroxide",
+      "points": 10
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Chlor-Alkali Process - Setup",
+      "question": "In the industrial chlor-alkali process, a membrane or diaphragm separates the cathode and anode compartments. Why is this separation necessary?",
+      "options": [
+        "To keep the solution cold",
+        "To make the process faster",
+        "To prevent chlorine and sodium hydroxide from mixing and reacting",
+        "To increase electrical resistance"
+      ],
+      "answer": "To prevent chlorine and sodium hydroxide from mixing and reacting",
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Chlor-Alkali Process - Cathode Reaction",
+      "question": "At the cathode in the chlor-alkali process:\n\nNa⁺ and H⁺ ions are present. H⁺ is preferentially discharged.\n\nWhat is the half-equation and product?",
+      "options": [
+        "Na⁺ + e⁻ → Na (sodium metal)",
+        "2H₂O + 2e⁻ → H₂ + 2OH⁻ (hydrogen gas)",
+        "Both B and D are acceptable",
+        "2H⁺ + 2e⁻ → H₂ (hydrogen gas)"
+      ],
+      "answer": "Both B and D are acceptable",
+      "points": 10
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Chlor-Alkali Process - Anode Reaction",
+      "question": "At the anode in the chlor-alkali process:\n\nCl⁻ and OH⁻ ions are present. In concentrated brine, Cl⁻ is preferentially discharged.\n\nWhat is the half-equation?",
+      "options": [
+        "Cl⁻ → Cl + e⁻",
+        "2Cl⁻ → Cl₂ + 2e⁻",
+        "4OH⁻ → O₂ + 2H₂O + 4e⁻",
+        "Cl₂ + 2e⁻ → 2Cl⁻"
+      ],
+      "answer": "2Cl⁻ → Cl₂ + 2e⁻",
+      "points": 5
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Chlor-Alkali Process - Formation of NaOH",
+      "question": "During the chlor-alkali process:\n\n• H⁺ ions are discharged at cathode\n• Cl⁻ ions are discharged at anode\n• Na⁺ and OH⁻ ions remain in solution\n\nHow is sodium hydroxide formed?",
+      "options": [
+        "Chlorine reacts with water to form NaOH",
+        "By direct combination of Na and OH at the electrode",
+        "Water decomposes to form NaOH",
+        "Na⁺ ions combine with OH⁻ ions remaining in solution to form NaOH"
+      ],
+      "answer": "Na⁺ ions combine with OH⁻ ions remaining in solution to form NaOH",
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Chlor-Alkali Process - Uses of Products",
+      "question": "Which statement correctly describes a use of the products from the chlor-alkali process?",
+      "options": [
+        "Hydrogen is used to make bleach",
+        "All products are disposed as waste",
+        "Sodium hydroxide is used in soap and paper manufacturing",
+        "Chlorine is used as a fuel"
+      ],
+      "answer": "Sodium hydroxide is used in soap and paper manufacturing",
+      "points": 5
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Chlor-Alkali Process - Uses of Chlorine",
+      "question": "Chlorine produced from the chlor-alkali process has many uses. Which is a common use of chlorine?",
+      "options": [
+        "As a food additive",
+        "Making fertilizers",
+        "Water purification and making PVC plastic",
+        "As a fuel in vehicles"
+      ],
+      "answer": "Water purification and making PVC plastic",
+      "points": 5
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Chlor-Alkali Process ⭐ MAIN QUESTION",
+      "question": "In the chlor-alkali process, 4 moles of electrons pass through the electrolyte.\n\nCathode: 2H⁺ + 2e⁻ → H₂\nAnode: 2Cl⁻ → Cl₂ + 2e⁻\n\nHow many moles of hydrogen and chlorine are produced?",
+      "options": [
+        "2 mol H₂ and 4 mol Cl₂",
+        "1 mol H₂ and 1 mol Cl₂",
+        "2 mol H₂ and 2 mol Cl₂",
+        "4 mol H₂ and 4 mol Cl₂"
+      ],
+      "answer": "2 mol H₂ and 2 mol Cl₂",
+      "points": 15
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Purification of Metals - Introduction",
+      "question": "Electrolytic purification (refining) is used to purify metals like copper. In the purification of copper, what serves as the cathode and anode?",
+      "options": [
+        "Cathode: Impure copper, Anode: Carbon",
+        "Cathode: Pure copper (thin sheet), Anode: Impure copper (block)",
+        "Cathode: Impure copper, Anode: Pure copper",
+        "Cathode: Carbon, Anode: Impure copper"
+      ],
+      "answer": "Cathode: Pure copper (thin sheet), Anode: Impure copper (block)",
+      "points": 10
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Purification of Copper - Electrolyte",
+      "question": "In the electrolytic purification of copper, what electrolyte is used?",
+      "options": [
+        "Sodium chloride solution",
+        "Dilute sulfuric acid",
+        "Pure water",
+        "Copper(II) sulfate solution"
+      ],
+      "answer": "Copper(II) sulfate solution",
+      "points": 5
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Purification of Copper - Anode Process",
+      "question": "At the anode (impure copper) during purification:\n\nCopper atoms in the impure copper lose electrons and dissolve into the solution.\n\nWhat is the half-equation?",
+      "options": [
+        "Cu + 2e⁻ → Cu²⁻",
+        "Cu → Cu⁺ + e⁻",
+        "Cu²⁺ + 2e⁻ → Cu",
+        "Cu → Cu²⁺ + 2e⁻"
+      ],
+      "answer": "Cu → Cu²⁺ + 2e⁻",
+      "points": 5
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Purification of Copper - Cathode Process",
+      "question": "At the cathode (pure copper sheet) during purification:\n\nCu²⁺ ions from solution are deposited as pure copper.\n\nWhat is the half-equation?",
+      "options": [
+        "Cu⁺ + e⁻ → Cu",
+        "Cu²⁺ + 2e⁻ → Cu",
+        "2Cu⁺ + 2e⁻ → 2Cu",
+        "Cu → Cu²⁺ + 2e⁻"
+      ],
+      "answer": "Cu²⁺ + 2e⁻ → Cu",
+      "points": 5
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Purification of Copper - Impurities",
+      "question": "The impure copper anode contains impurities like silver, gold, and zinc. During electrolysis:\n\n• Reactive impurities (e.g., zinc) dissolve but don't deposit at cathode\n• Less reactive impurities (e.g., silver, gold) fall to the bottom\n\nWhat is the material that collects at the bottom called?",
+      "options": [
+        "Residue",
+        "Precipitate",
+        "Slag",
+        "Anode mud/sludge"
+      ],
+      "answer": "Anode mud/sludge",
+      "points": 5
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Purification of Copper - Mass Changes",
+      "question": "During electrolytic purification of copper, what happens to the mass of the electrodes?",
+      "options": [
+        "Anode mass increases, cathode mass decreases",
+        "Both electrodes increase in mass",
+        "Both electrodes decrease in mass",
+        "Anode mass decreases, cathode mass increases"
+      ],
+      "answer": "Anode mass decreases, cathode mass increases",
+      "points": 5
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Purification of Copper ⭐ MAIN QUESTION",
+      "question": "During purification of copper, the anode loses 127 g while the cathode gains 127 g (ignoring impurities). If the molar mass of copper is 63.5 g/mol, how many moles of copper were transferred?",
+      "options": [
+        "127 mol",
+        "1 mol",
+        "0.5 mol",
+        "2 mol"
+      ],
+      "answer": "2 mol",
+      "points": 10
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Mass Calculations in Electrolysis",
+      "question": "The relationship between moles of electrons and moles of product depends on the charge of the ion.\n\nFor Cu²⁺ + 2e⁻ → Cu:\nIf 1 mol of Cu is deposited, how many moles of electrons are required?",
+      "options": [
+        "1 mol",
+        "4 mol",
+        "0.5 mol",
+        "2 mol"
+      ],
+      "answer": "2 mol",
+      "points": 5
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Mass Calculations (continued)",
+      "question": "For the electrolysis reaction: Ag⁺ + e⁻ → Ag\n\nIf 0.2 mol of electrons pass through the solution, what mass of silver is deposited?\n\n(Ar of Ag = 108 g/mol)",
+      "options": [
+        "108 g",
+        "21.6 g",
+        "0.2 g",
+        "54 g"
+      ],
+      "answer": "21.6 g",
+      "points": 10
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Mass Calculations (continued)",
+      "question": "During electrolysis of copper(II) sulfate solution, 0.5 mol of electrons pass through.\n\nCu²⁺ + 2e⁻ → Cu\n\nStep 1: Moles of Cu = 0.5 ÷ 2 = 0.25 mol\nStep 2: Mass of Cu = 0.25 × 64 = ?\n\n(Ar of Cu = 64 g/mol)",
+      "options": [
+        "64 g",
+        "16 g",
+        "32 g",
+        "8 g"
+      ],
+      "answer": "16 g",
+      "points": 10
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Mass Calculations (continued)",
+      "question": "In the extraction of aluminium:\n\nAl³⁺ + 3e⁻ → Al\n\nIf 27 g of aluminium is produced (Ar of Al = 27), how many moles of electrons were used?\n\nMoles of Al = 27/27 = 1 mol\nMoles of e⁻ = 1 × 3 = ?",
+      "options": [
+        "3 mol",
+        "27 mol",
+        "1 mol",
+        "9 mol"
+      ],
+      "answer": "3 mol",
+      "points": 10
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Mass Calculations (continued)",
+      "question": "During electrolysis of molten zinc chloride, 13 g of zinc is deposited at the cathode.\n\nZn²⁺ + 2e⁻ → Zn (Ar of Zn = 65 g/mol)\n\nHow many moles of chlorine gas are produced at the anode?\n\nHint: Moles of Zn = 13/65 = 0.2 mol; electrons used = 0.4 mol\nAnode: 2Cl⁻ → Cl₂ + 2e⁻",
+      "options": [
+        "0.1 mol",
+        "0.4 mol",
+        "0.8 mol",
+        "0.2 mol"
+      ],
+      "answer": "0.2 mol",
+      "points": 15
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Mass Calculations ⭐ MAIN QUESTION",
+      "question": "During electroplating, 3.2 g of copper is deposited on a steel object.\n\nCu²⁺ + 2e⁻ → Cu (Ar of Cu = 64 g/mol)\n\nAt the same time, hydrogen gas is evolved at the cathode of another cell in series.\n2H⁺ + 2e⁻ → H₂\n\nWhat volume of hydrogen is produced at STP? (1 mol of gas = 24 dm³ at STP)\n\nMoles of Cu = 3.2/64 = 0.05 mol\nMoles of e⁻ = 0.05 × 2 = 0.1 mol\nMoles of H₂ = 0.1/2 = 0.05 mol",
+      "options": [
+        "0.6 dm³",
+        "4.8 dm³",
+        "2.4 dm³",
+        "1.2 dm³"
+      ],
+      "answer": "1.2 dm³",
+      "points": 15
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Hydrogen Fuel Cells - Introduction",
+      "question": "A hydrogen fuel cell is a device that converts chemical energy from hydrogen directly into electrical energy. What is the overall reaction in a hydrogen fuel cell?",
+      "options": [
+        "H₂O → H₂ + ½O₂",
+        "2H₂O → 2H₂ + O₂",
+        "2H₂ + O₂ → 2H₂O",
+        "H₂ + Cl₂ → 2HCl"
+      ],
+      "answer": "2H₂ + O₂ → 2H₂O",
+      "points": 5
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Hydrogen Fuel Cells - Process",
+      "question": "In a hydrogen fuel cell, hydrogen and oxygen gases are continuously fed to the electrodes. Unlike batteries, fuel cells:",
+      "options": [
+        "Store chemical energy internally",
+        "Run out and need recharging",
+        "Produce electricity as long as fuel (hydrogen) is supplied",
+        "Only work at very low temperatures"
+      ],
+      "answer": "Produce electricity as long as fuel (hydrogen) is supplied",
+      "points": 5
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Hydrogen Fuel Cells - Electrode Reactions",
+      "question": "In an alkaline hydrogen fuel cell:\n\nAt the negative electrode (anode): Hydrogen is oxidised.\n\nWhat is the half-equation?",
+      "options": [
+        "O₂ + 2H₂O + 4e⁻ → 4OH⁻",
+        "H₂ → 2H⁺ + 2e⁻",
+        "2H₂O → O₂ + 4H⁺ + 4e⁻",
+        "2H₂ + 4OH⁻ → 4H₂O + 4e⁻"
+      ],
+      "answer": "2H₂ + 4OH⁻ → 4H₂O + 4e⁻",
+      "points": 10
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Hydrogen Fuel Cells - Electrode Reactions (continued)",
+      "question": "In an alkaline hydrogen fuel cell:\n\nAt the positive electrode (cathode): Oxygen is reduced.\n\nWhat is the half-equation?",
+      "options": [
+        "4OH⁻ → O₂ + 2H₂O + 4e⁻",
+        "O₂ → 2O²⁻",
+        "O₂ + 2H₂O + 4e⁻ → 4OH⁻",
+        "2H₂ + 4OH⁻ → 4H₂O + 4e⁻"
+      ],
+      "answer": "O₂ + 2H₂O + 4e⁻ → 4OH⁻",
+      "points": 10
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Hydrogen Fuel Cells - Products",
+      "question": "What is the ONLY product of a hydrogen fuel cell during operation?",
+      "options": [
+        "Carbon monoxide",
+        "Hydrogen peroxide",
+        "Water",
+        "Carbon dioxide"
+      ],
+      "answer": "Water",
+      "points": 5
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Hydrogen Fuel Cells vs Burning Hydrogen",
+      "question": "Compare hydrogen fuel cells to directly burning hydrogen for energy. Which statement is TRUE?",
+      "options": [
+        "Both methods produce carbon dioxide",
+        "Fuel cells convert chemical energy directly to electrical energy with higher efficiency than burning",
+        "Burning hydrogen is more efficient than fuel cells",
+        "Fuel cells require higher temperatures than burning"
+      ],
+      "answer": "Fuel cells convert chemical energy directly to electrical energy with higher efficiency than burning",
+      "points": 10
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Advantages over Fossil Fuels",
+      "question": "Which is an advantage of hydrogen fuel cells over fossil fuels?",
+      "options": [
+        "Hydrogen is easier to store than petrol",
+        "Hydrogen fuel cells work better in cold weather",
+        "Hydrogen fuel cells produce only water, with no carbon dioxide emissions contributing to climate change",
+        "Hydrogen is cheaper to produce than extracting fossil fuels"
+      ],
+      "answer": "Hydrogen fuel cells produce only water, with no carbon dioxide emissions contributing to climate change",
+      "points": 5
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Advantages over Fossil Fuels (continued)",
+      "question": "Which additional advantage do hydrogen fuel cells have over fossil fuels?",
+      "options": [
+        "Hydrogen can be extracted from crude oil easily",
+        "No sulfur dioxide emissions (no acid rain contribution)",
+        "Fuel cells are much cheaper than petrol engines",
+        "Hydrogen is a non-renewable resource"
+      ],
+      "answer": "No sulfur dioxide emissions (no acid rain contribution)",
+      "points": 5
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Challenges of Hydrogen Fuel Cells",
+      "question": "Despite advantages, hydrogen fuel cells have challenges. Which is a current challenge for hydrogen fuel cell technology?",
+      "options": [
+        "Fuel cells are too large for vehicles",
+        "Water produced causes pollution",
+        "Hydrogen is too dangerous to use",
+        "Storage of hydrogen is difficult (requires high pressure or low temperature); production of hydrogen often uses fossil fuels"
+      ],
+      "answer": "Storage of hydrogen is difficult (requires high pressure or low temperature); production of hydrogen often uses fossil fuels",
+      "points": 10
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Hydrogen Fuel Cells ⭐ MAIN QUESTION",
+      "question": "In a hydrogen fuel cell, 4 moles of electrons flow through the external circuit.\n\nUsing: 2H₂ + 4OH⁻ → 4H₂O + 4e⁻ (at negative electrode)\n\nHow many moles of hydrogen gas are consumed?",
+      "options": [
+        "4 mol",
+        "2 mol",
+        "8 mol",
+        "1 mol"
+      ],
+      "answer": "2 mol",
+      "points": 15
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "problemSet": "COMPREHENSIVE CHALLENGE: Final Question",
+      "question": "A factory uses electrolysis for multiple processes:\n\n1. Electroplating 50 car parts with chromium\n2. Purifying 10 kg of copper\n3. Producing sodium hydroxide from brine\n\nWhich statement about these processes is INCORRECT?",
+      "options": [
+        "In copper purification, impure copper is the cathode and pure copper is the anode",
+        "All three processes use direct current (d.c.) electricity",
+        "In brine electrolysis, hydrogen is produced at the cathode and chlorine at the anode",
+        "In electroplating, the car part is the cathode and chromium is the anode"
+      ],
+      "answer": "In copper purification, impure copper is the cathode and pure copper is the anode",
+      "points": 15
+    }
+  ]
+}

@@ -1,0 +1,708 @@
+{
+  "questTitle": "Secondary 3 E-Math: Indices - Simplification and Equations Worksheet 1",
+  "subject": "Mathematics",
+  "difficulty": "Hard",
+  "description": "Master indices and index notation! This worksheet covers simplifying algebraic expressions with indices, converting from radical/negative indices to positive index form, solving exponential equations using same base method, and compound interest problems. Show all working clearly!",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Index Laws Review",
+      "question": "Which of the following correctly states the law for multiplying powers with the same base?\n\naᵐ × aⁿ = ?",
+      "options": [
+        "aᵐ × aⁿ = aᵐ⁻ⁿ",
+        "aᵐ × aⁿ = (2a)ᵐ⁺ⁿ",
+        "aᵐ × aⁿ = aᵐ⁺ⁿ",
+        "aᵐ × aⁿ = aᵐⁿ"
+      ],
+      "answer": "aᵐ × aⁿ = aᵐ⁺ⁿ",
+      "points": 5
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Index Laws Review",
+      "question": "Which of the following correctly states the law for dividing powers with the same base?\n\naᵐ ÷ aⁿ = ?",
+      "options": [
+        "aᵐ ÷ aⁿ = aᵐ⁻ⁿ",
+        "aᵐ ÷ aⁿ = aⁿ⁻ᵐ",
+        "aᵐ ÷ aⁿ = aᵐⁿ",
+        "aᵐ ÷ aⁿ = aᵐ⁺ⁿ"
+      ],
+      "answer": "aᵐ ÷ aⁿ = aᵐ⁻ⁿ",
+      "points": 5
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Index Laws Review",
+      "question": "Which of the following correctly states the law for raising a power to another power?\n\n(aᵐ)ⁿ = ?",
+      "options": [
+        "(aᵐ)ⁿ = aᵐ/ⁿ",
+        "(aᵐ)ⁿ = aᵐⁿ",
+        "(aᵐ)ⁿ = aᵐ⁺ⁿ",
+        "(aᵐ)ⁿ = aᵐ⁻ⁿ"
+      ],
+      "answer": "(aᵐ)ⁿ = aᵐⁿ",
+      "points": 5
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Zero and Negative Indices",
+      "question": "What is the value of a⁰ where a ≠ 0?",
+      "options": [
+        "Undefined",
+        "a",
+        "0",
+        "1"
+      ],
+      "answer": "1",
+      "points": 5
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Zero and Negative Indices",
+      "question": "Express a⁻ⁿ in positive index form:",
+      "options": [
+        "a⁻ⁿ = 1/aⁿ",
+        "a⁻ⁿ = -1/aⁿ",
+        "a⁻ⁿ = aⁿ",
+        "a⁻ⁿ = -aⁿ"
+      ],
+      "answer": "a⁻ⁿ = 1/aⁿ",
+      "points": 5
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Fractional Indices",
+      "question": "What is the meaning of a^(1/n)?",
+      "options": [
+        "a^(1/n) = a × n",
+        "a^(1/n) = ⁿ√a (the nth root of a)",
+        "a^(1/n) = a/n",
+        "a^(1/n) = n√a"
+      ],
+      "answer": "a^(1/n) = ⁿ√a (the nth root of a)",
+      "points": 5
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Fractional Indices",
+      "question": "Express a^(m/n) in radical form:",
+      "options": [
+        "a^(m/n) = aᵐ/aⁿ",
+        "a^(m/n) = a × m/n",
+        "a^(m/n) = ᵐ√(aⁿ)",
+        "a^(m/n) = ⁿ√(aᵐ) or (ⁿ√a)ᵐ"
+      ],
+      "answer": "a^(m/n) = ⁿ√(aᵐ) or (ⁿ√a)ᵐ",
+      "points": 5
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Converting Radicals to Index Form",
+      "question": "Express √x in index form:",
+      "options": [
+        "x^(-1/2)",
+        "x^2",
+        "x²",
+        "x^(1/2)"
+      ],
+      "answer": "x^(1/2)",
+      "points": 5
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Converting Radicals to Index Form",
+      "question": "Express ³√x² in index form:",
+      "options": [
+        "x^(2/3)",
+        "x^(1/6)",
+        "x^6",
+        "x^(3/2)"
+      ],
+      "answer": "x^(2/3)",
+      "points": 5
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Converting Radicals to Index Form",
+      "question": "Express 1/√x in positive index form:",
+      "options": [
+        "x^(-2)",
+        "x^(1/2)",
+        "-x^(1/2)",
+        "x^(-1/2)"
+      ],
+      "answer": "x^(-1/2)",
+      "points": 5
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Converting Radicals to Index Form",
+      "question": "Express ⁵√x³ in index form:",
+      "options": [
+        "x^(3/5)",
+        "x^(5/3)",
+        "x^(1/15)",
+        "x^15"
+      ],
+      "answer": "x^(3/5)",
+      "points": 5
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Converting Radicals to Index Form ⭐",
+      "question": "Express 1/(⁴√x³) in index form with a positive index:\n\nStep 1: ⁴√x³ = x^(3/4)\nStep 2: 1/x^(3/4) = ?",
+      "options": [
+        "x^(-4/3)",
+        "x^(3/4)",
+        "x^(-3/4)",
+        "x^(4/3)"
+      ],
+      "answer": "x^(-3/4)",
+      "points": 10
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Simplifying with Positive Indices (Numbers)",
+      "question": "Evaluate 8^(2/3):\n\nHint: 8^(2/3) = (³√8)² = ?",
+      "options": [
+        "16",
+        "6",
+        "4",
+        "2"
+      ],
+      "answer": "4",
+      "points": 5
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Simplifying with Positive Indices (Numbers)",
+      "question": "Evaluate 27^(-1/3):\n\nStep 1: 27^(1/3) = ³√27 = 3\nStep 2: 27^(-1/3) = 1/3",
+      "options": [
+        "1/3",
+        "-1/3",
+        "3",
+        "-3"
+      ],
+      "answer": "1/3",
+      "points": 5
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Simplifying with Positive Indices (Numbers)",
+      "question": "Evaluate 16^(3/4):\n\nHint: 16^(3/4) = (⁴√16)³ = 2³ = ?",
+      "options": [
+        "12",
+        "64",
+        "8",
+        "4"
+      ],
+      "answer": "8",
+      "points": 5
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Simplifying with Positive Indices (Numbers)",
+      "question": "Evaluate (1/4)^(-3/2):\n\nStep 1: (1/4)^(1/2) = 1/2\nStep 2: (1/4)^(3/2) = (1/2)³ = 1/8\nStep 3: (1/4)^(-3/2) = 1 ÷ 1/8 = ?",
+      "options": [
+        "1/2",
+        "8",
+        "1/8",
+        "-8"
+      ],
+      "answer": "8",
+      "points": 10
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Simplifying with Positive Indices (Numbers)",
+      "question": "Evaluate 32^(-2/5):\n\nStep 1: 32^(1/5) = ⁵√32 = 2\nStep 2: 32^(2/5) = 2² = 4\nStep 3: 32^(-2/5) = ?",
+      "options": [
+        "-4",
+        "4",
+        "-1/4",
+        "1/4"
+      ],
+      "answer": "1/4",
+      "points": 10
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Simplifying with Positive Indices (Numbers) ⭐",
+      "question": "Evaluate: (8/27)^(-2/3)\n\nHint: First find (8/27)^(1/3), then square it, then take reciprocal.",
+      "options": [
+        "3/2",
+        "2/3",
+        "9/4",
+        "4/9"
+      ],
+      "answer": "9/4",
+      "points": 15
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Algebraic Simplification - Basic",
+      "question": "Simplify: x³ × x⁵",
+      "options": [
+        "x²",
+        "2x⁸",
+        "x⁸",
+        "x¹⁵"
+      ],
+      "answer": "x⁸",
+      "points": 5
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Algebraic Simplification - Basic",
+      "question": "Simplify: y⁸ ÷ y³",
+      "options": [
+        "y²⁴",
+        "y⁵",
+        "y¹¹",
+        "y^(8/3)"
+      ],
+      "answer": "y⁵",
+      "points": 5
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Algebraic Simplification - Basic",
+      "question": "Simplify: (a⁴)³",
+      "options": [
+        "a¹²",
+        "3a⁴",
+        "a⁷",
+        "a^(4/3)"
+      ],
+      "answer": "a¹²",
+      "points": 5
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Algebraic Simplification - Intermediate",
+      "question": "Simplify: (2x³)⁴",
+      "options": [
+        "16x¹²",
+        "2x⁷",
+        "8x¹²",
+        "2x¹²"
+      ],
+      "answer": "16x¹²",
+      "points": 10
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Algebraic Simplification - Intermediate",
+      "question": "Simplify: (3a²b³)²",
+      "options": [
+        "9a⁴b⁵",
+        "3a⁴b⁶",
+        "6a⁴b⁶",
+        "9a⁴b⁶"
+      ],
+      "answer": "9a⁴b⁶",
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Algebraic Simplification - Intermediate",
+      "question": "Simplify and express with positive indices: x⁵ × x⁻³",
+      "options": [
+        "x⁸",
+        "x²",
+        "x⁻²",
+        "x⁻¹⁵"
+      ],
+      "answer": "x²",
+      "points": 5
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Algebraic Simplification - Intermediate",
+      "question": "Simplify and express with positive indices: a⁻⁴ × a⁻²",
+      "options": [
+        "a⁻⁶ = 1/a⁶",
+        "a⁸",
+        "a⁶",
+        "a²"
+      ],
+      "answer": "a⁻⁶ = 1/a⁶",
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Algebraic Simplification - Complex",
+      "question": "Simplify and express with positive indices:\n\n(x⁴y⁻²)/(x⁻¹y³)",
+      "options": [
+        "x³y",
+        "x⁵y⁵",
+        "x³/y⁵",
+        "x⁵/y⁵"
+      ],
+      "answer": "x⁵/y⁵",
+      "points": 10
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Algebraic Simplification - Complex",
+      "question": "Simplify and express with positive indices:\n\n(2a³b⁻²)³",
+      "options": [
+        "2a⁹/b⁶",
+        "8a⁹b⁶",
+        "6a⁹/b⁶",
+        "8a⁹/b⁶"
+      ],
+      "answer": "8a⁹/b⁶",
+      "points": 10
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Algebraic Simplification - Complex",
+      "question": "Simplify and express with positive indices:\n\n(x²y⁻³)⁻² × (x⁻¹y²)³",
+      "options": [
+        "x⁷/y¹²",
+        "y/x",
+        "y¹²/x⁷",
+        "x/y"
+      ],
+      "answer": "y¹²/x⁷",
+      "points": 15
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Algebraic Simplification - Complex",
+      "question": "Simplify and express with positive indices:\n\n[(a²b⁻¹)³ × (a⁻³b²)²] / (ab)⁻¹",
+      "options": [
+        "1/(ab)",
+        "a/b",
+        "ab",
+        "b/a"
+      ],
+      "answer": "ab",
+      "points": 15
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Algebraic Simplification ⭐ MAIN QUESTION",
+      "question": "Simplify and express with positive indices:\n\n√(x⁶y⁴) × ³√(x⁻⁹y⁶) / (xy)²\n\nHint: Convert radicals to index form first.",
+      "options": [
+        "1/(x²y⁴)",
+        "y⁴/x²",
+        "x²y⁴",
+        "y⁴/x"
+      ],
+      "answer": "y⁴/x²",
+      "points": 15
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Solving Exponential Equations - Level 1",
+      "question": "Solve for x: 2ˣ = 8\n\nHint: Express 8 as a power of 2.",
+      "options": [
+        "x = 4",
+        "x = 3",
+        "x = 8",
+        "x = 2"
+      ],
+      "answer": "x = 3",
+      "points": 5
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Solving Exponential Equations - Level 1",
+      "question": "Solve for x: 3ˣ = 81\n\nHint: 81 = 3⁴",
+      "options": [
+        "x = 5",
+        "x = 3",
+        "x = 4",
+        "x = 27"
+      ],
+      "answer": "x = 4",
+      "points": 5
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Solving Exponential Equations - Level 1",
+      "question": "Solve for x: 5ˣ = 1/25\n\nHint: 1/25 = 5⁻²",
+      "options": [
+        "x = -1/2",
+        "x = 1/2",
+        "x = 2",
+        "x = -2"
+      ],
+      "answer": "x = -2",
+      "points": 5
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Solving Exponential Equations - Level 2",
+      "question": "Solve for x: 4ˣ = 32\n\nHint: Express both sides as powers of 2.\n4 = 2², so 4ˣ = 2²ˣ\n32 = 2⁵",
+      "options": [
+        "x = 5",
+        "x = 8",
+        "x = 2/5",
+        "x = 5/2"
+      ],
+      "answer": "x = 5/2",
+      "points": 10
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Solving Exponential Equations - Level 2",
+      "question": "Solve for x: 9ˣ = 27\n\nHint: Express both sides as powers of 3.\n9 = 3², 27 = 3³",
+      "options": [
+        "x = 6",
+        "x = 3",
+        "x = 2/3",
+        "x = 3/2"
+      ],
+      "answer": "x = 3/2",
+      "points": 10
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Solving Exponential Equations - Level 2",
+      "question": "Solve for x: 8ˣ = 1/4\n\nHint: 8 = 2³, 1/4 = 2⁻²\nSo 2³ˣ = 2⁻²",
+      "options": [
+        "x = -2/3",
+        "x = 3/2",
+        "x = 2/3",
+        "x = -3/2"
+      ],
+      "answer": "x = -2/3",
+      "points": 10
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Solving Exponential Equations - Level 3",
+      "question": "Solve for x: 2^(2x+1) = 16\n\nStep 1: 16 = 2⁴\nStep 2: 2x + 1 = 4\nStep 3: x = ?",
+      "options": [
+        "x = 3",
+        "x = 2",
+        "x = 5/2",
+        "x = 3/2"
+      ],
+      "answer": "x = 3/2",
+      "points": 10
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Solving Exponential Equations - Level 3",
+      "question": "Solve for x: 3^(x-2) = 27^x\n\nHint: 27 = 3³, so 27ˣ = 3³ˣ\nThen: x - 2 = 3x",
+      "options": [
+        "x = 1",
+        "x = -2",
+        "x = 2",
+        "x = -1"
+      ],
+      "answer": "x = -1",
+      "points": 15
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Solving Exponential Equations - Level 3",
+      "question": "Solve for x: 4^(x+1) = 8^(x-1)\n\nHint: 4 = 2², 8 = 2³\nSo: 2^(2(x+1)) = 2^(3(x-1))\n2(x+1) = 3(x-1)",
+      "options": [
+        "x = -1",
+        "x = -5",
+        "x = 1",
+        "x = 5"
+      ],
+      "answer": "x = 5",
+      "points": 15
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Solving Exponential Equations - Level 4",
+      "question": "Solve for x: 25^(x+1) = 125^(2x-1)\n\nHint: 25 = 5², 125 = 5³\n5^(2(x+1)) = 5^(3(2x-1))\n2(x+1) = 3(2x-1)",
+      "options": [
+        "x = 1",
+        "x = 5",
+        "x = 4/5",
+        "x = 5/4"
+      ],
+      "answer": "x = 5/4",
+      "points": 15
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Solving Exponential Equations ⭐ MAIN QUESTION",
+      "question": "Solve for x: (1/8)^(2x-3) = 16^(x+1)\n\nHint: 1/8 = 2⁻³, 16 = 2⁴\n2^(-3(2x-3)) = 2^(4(x+1))\n-3(2x-3) = 4(x+1)",
+      "options": [
+        "x = 1",
+        "x = 1/2",
+        "x = -1/2",
+        "x = 2"
+      ],
+      "answer": "x = 1/2",
+      "points": 15
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Compound Interest - Basic Formula",
+      "question": "The compound interest formula is A = P(1 + r/100)ⁿ.\n\nWhat does each variable represent?",
+      "options": [
+        "A = amount, P = percentage, r = rate, n = number of payments",
+        "A = principal, P = amount, r = time, n = rate",
+        "A = final amount, P = principal, r = interest rate (%), n = number of years",
+        "A = annual rate, P = payment, r = ratio, n = number"
+      ],
+      "answer": "A = final amount, P = principal, r = interest rate (%), n = number of years",
+      "points": 5
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Compound Interest - Finding Amount",
+      "question": "$5000 is invested at 4% per annum compound interest for 2 years. Find the final amount.\n\nA = 5000(1 + 4/100)²\nA = 5000(1.04)²\nA = 5000 × 1.0816",
+      "options": [
+        "$5416",
+        "$5408",
+        "$5200",
+        "$5400"
+      ],
+      "answer": "$5408",
+      "points": 10
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Compound Interest - Finding Interest Rate",
+      "question": "$2000 grows to $2420 in 2 years with compound interest. Find the annual interest rate.\n\nA = P(1 + r/100)ⁿ\n2420 = 2000(1 + r/100)²\n1.21 = (1 + r/100)²\n√1.21 = 1 + r/100\n1.1 = 1 + r/100",
+      "options": [
+        "10%",
+        "21%",
+        "11%",
+        "5%"
+      ],
+      "answer": "10%",
+      "points": 10
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Compound Interest - Finding Principal",
+      "question": "After 3 years at 5% per annum compound interest, an investment is worth $5788.125. Find the principal.\n\nA = P(1 + r/100)ⁿ\n5788.125 = P(1.05)³\n5788.125 = P × 1.157625\nP = 5788.125 ÷ 1.157625",
+      "options": [
+        "$5500",
+        "$4800",
+        "$5000",
+        "$4500"
+      ],
+      "answer": "$5000",
+      "points": 10
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Compound Interest - Finding Time",
+      "question": "$1000 is invested at 10% per annum compound interest. After how many complete years will it first exceed $1300?\n\nA = 1000(1.1)ⁿ > 1300\n(1.1)ⁿ > 1.3\n\nCheck: (1.1)¹ = 1.1, (1.1)² = 1.21, (1.1)³ = 1.331",
+      "options": [
+        "4 years",
+        "5 years",
+        "2 years",
+        "3 years"
+      ],
+      "answer": "3 years",
+      "points": 10
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Compound Interest - Finding Rate (Harder)",
+      "question": "A sum of money doubles in 4 years with compound interest. Find the annual interest rate (to nearest %).\n\n2P = P(1 + r/100)⁴\n2 = (1 + r/100)⁴\n⁴√2 = 1 + r/100\n1.189 ≈ 1 + r/100",
+      "options": [
+        "50%",
+        "19%",
+        "15%",
+        "25%"
+      ],
+      "answer": "19%",
+      "points": 15
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Compound Interest - Algebraic Problem",
+      "question": "The principal invested is half of the final amount after 2 years at compound interest. If the interest rate is r% per annum, find r.\n\nLet principal = P, then A = 2P\n2P = P(1 + r/100)²\n2 = (1 + r/100)²\n√2 = 1 + r/100\n1.414 = 1 + r/100",
+      "options": [
+        "r ≈ 41%",
+        "r ≈ 50%",
+        "r ≈ 100%",
+        "r ≈ 21%"
+      ],
+      "answer": "r ≈ 41%",
+      "points": 15
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Compound Interest - Algebraic Problem",
+      "question": "James invests a sum of money at 8% per annum compound interest. After 2 years, his investment is worth $2916. The principal was what fraction of the final amount?\n\nP(1.08)² = 2916\nP × 1.1664 = 2916\nP = 2500\n\nFraction = P/A = 2500/2916",
+      "options": [
+        "625/729",
+        "1/2",
+        "5/6",
+        "25/27"
+      ],
+      "answer": "625/729",
+      "points": 15
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Compound Interest ⭐ MAIN QUESTION",
+      "question": "Sarah invests some money at r% per annum compound interest. After 3 years, her total interest earned equals her original principal. Find r (to nearest %).\n\nLet principal = P\nTotal interest = P (given)\nFinal amount = P + P = 2P\n\n2P = P(1 + r/100)³\n2 = (1 + r/100)³\n³√2 = 1 + r/100\n1.26 = 1 + r/100",
+      "options": [
+        "r ≈ 41%",
+        "r ≈ 20%",
+        "r ≈ 33%",
+        "r ≈ 26%"
+      ],
+      "answer": "r ≈ 26%",
+      "points": 15
+    }
+  ]
+}
