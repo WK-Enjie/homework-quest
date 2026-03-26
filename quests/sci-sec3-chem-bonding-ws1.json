@@ -1,0 +1,710 @@
+{
+  "questTitle": "O-Level Chemistry: Chemical Bonding - Advanced Applications Worksheet 2",
+  "subject": "Chemistry",
+  "difficulty": "Hard",
+  "description": "Deepen your understanding of chemical bonding! This worksheet focuses on comparing ionic and covalent compounds, understanding polyatomic ions, explaining properties based on structure and bonding, and applying knowledge to unfamiliar contexts. Show clear reasoning in your answers!",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "problemSet": "CONCEPT REVIEW: Ionic vs Covalent",
+      "question": "Which statement correctly compares ionic and covalent bonding?",
+      "options": [
+        "Ionic bonding involves sharing electrons; covalent bonding involves transfer of electrons",
+        "Ionic bonding involves transfer of electrons and forms between metals and non-metals; covalent bonding involves sharing electrons and forms between non-metals",
+        "Both involve sharing of electrons but ionic bonds are stronger",
+        "Both involve transfer of electrons but covalent bonds form ions"
+      ],
+      "answer": "Ionic bonding involves transfer of electrons and forms between metals and non-metals; covalent bonding involves sharing electrons and forms between non-metals",
+      "points": 5
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "problemSet": "CONCEPT REVIEW: Forces in Compounds",
+      "question": "In a sample of solid iodine (I₂), what forces must be overcome when it sublimes (changes from solid to gas)?",
+      "options": [
+        "Strong covalent bonds within iodine molecules",
+        "Weak intermolecular forces of attraction between iodine molecules",
+        "Strong ionic bonds between iodine ions",
+        "Strong electrostatic forces between I⁺ and I⁻ ions"
+      ],
+      "answer": "Weak intermolecular forces of attraction between iodine molecules",
+      "points": 5
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "problemSet": "CONCEPT REVIEW: Forces in Compounds",
+      "question": "When sodium chloride is heated until it melts, what is overcome?",
+      "options": [
+        "Weak intermolecular forces between NaCl molecules",
+        "Covalent bonds between Na and Cl atoms",
+        "Strong electrostatic forces of attraction between Na⁺ and Cl⁻ ions",
+        "Weak ionic bonds in the lattice"
+      ],
+      "answer": "Strong electrostatic forces of attraction between Na⁺ and Cl⁻ ions",
+      "points": 5
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Predicting Compound Type",
+      "question": "Predict the type of bonding in potassium bromide (KBr).",
+      "options": [
+        "Covalent bonding (K and Br are both non-metals)",
+        "Ionic bonding (K is a metal and Br is a non-metal)",
+        "Metallic bonding",
+        "No bonding occurs between K and Br"
+      ],
+      "answer": "Ionic bonding (K is a metal and Br is a non-metal)",
+      "points": 5
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Predicting Compound Type",
+      "question": "Predict the type of bonding in phosphorus trichloride (PCl₃).",
+      "options": [
+        "Ionic bonding (P transfers electrons to Cl)",
+        "Metallic bonding",
+        "Covalent bonding (P and Cl are both non-metals)",
+        "Both ionic and covalent bonding"
+      ],
+      "answer": "Covalent bonding (P and Cl are both non-metals)",
+      "points": 5
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Predicting Compound Type",
+      "question": "Predict the type of bonding in calcium nitrate (Ca(NO₃)₂).",
+      "options": [
+        "Only ionic bonding",
+        "Only covalent bonding",
+        "Ionic bonding between Ca²⁺ and NO₃⁻ ions; covalent bonding within the NO₃⁻ ion",
+        "No bonding - it is a mixture"
+      ],
+      "answer": "Ionic bonding between Ca²⁺ and NO₃⁻ ions; covalent bonding within the NO₃⁻ ion",
+      "points": 10
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Predicting Compound Type ⭐",
+      "question": "Identify the type(s) of bonding present in each compound:\n\n(a) MgO\n(b) H₂S\n(c) (NH₄)₂SO₄",
+      "options": [
+        "(a) Covalent; (b) Ionic; (c) Ionic only",
+        "(a) Ionic; (b) Covalent; (c) Covalent only",
+        "(a) Ionic; (b) Covalent; (c) Both ionic and covalent",
+        "(a) Covalent; (b) Covalent; (c) Both ionic and covalent"
+      ],
+      "answer": "(a) Ionic; (b) Covalent; (c) Both ionic and covalent",
+      "points": 10
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Explaining Melting Points",
+      "question": "Explain why magnesium oxide (MgO, melting point 2852°C) has a much higher melting point than sodium chloride (NaCl, melting point 801°C).",
+      "options": [
+        "MgO has covalent bonds while NaCl has ionic bonds",
+        "MgO has weaker electrostatic forces than NaCl",
+        "Mg²⁺ and O²⁻ have higher charges (2+ and 2-) than Na⁺ and Cl⁻ (1+ and 1-), resulting in stronger electrostatic forces of attraction",
+        "MgO has smaller ions so the forces are weaker"
+      ],
+      "answer": "Mg²⁺ and O²⁻ have higher charges (2+ and 2-) than Na⁺ and Cl⁻ (1+ and 1-), resulting in stronger electrostatic forces of attraction",
+      "points": 10
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Explaining Melting Points",
+      "question": "Bromine (Br₂) has a boiling point of 59°C while potassium bromide (KBr) has a melting point of 734°C. Explain this difference.",
+      "options": [
+        "Br₂ has stronger bonds than KBr",
+        "Br₂ is a simple covalent molecule with weak intermolecular forces; KBr is an ionic compound with strong electrostatic forces between K⁺ and Br⁻ ions",
+        "KBr has weak ionic bonds; Br₂ has strong covalent bonds",
+        "Both are ionic but Br₂ has fewer ions"
+      ],
+      "answer": "Br₂ is a simple covalent molecule with weak intermolecular forces; KBr is an ionic compound with strong electrostatic forces between K⁺ and Br⁻ ions",
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Explaining Melting Points",
+      "question": "Hydrogen fluoride (HF) has a higher boiling point than hydrogen chloride (HCl), even though both are simple covalent molecules. Why might this be?",
+      "options": [
+        "HF has stronger covalent bonds within the molecule",
+        "HF has stronger intermolecular forces between molecules than HCl",
+        "HF is ionic while HCl is covalent",
+        "HCl has more electrons so should have a higher boiling point"
+      ],
+      "answer": "HF has stronger intermolecular forces between molecules than HCl",
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Explaining Melting Points ⭐",
+      "question": "Arrange the following in order of increasing melting point and explain:\n\nA: Oxygen (O₂)\nB: Sodium oxide (Na₂O)\nC: Sulfur dioxide (SO₂)",
+      "options": [
+        "B < C < A; all are covalent with increasing molecular size",
+        "A < C < B; A and C are simple covalent with weak intermolecular forces, B is ionic with strong electrostatic forces",
+        "C < A < B; only B has weak intermolecular forces",
+        "A < B < C; B is covalent, C is ionic"
+      ],
+      "answer": "A < C < B; A and C are simple covalent with weak intermolecular forces, B is ionic with strong electrostatic forces",
+      "points": 15
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Electrical Conductivity - Detailed",
+      "question": "Solid lead(II) bromide does not conduct electricity, but molten lead(II) bromide does. What happens to the ions when lead(II) bromide melts?",
+      "options": [
+        "New ions are created when it melts",
+        "The ions, which were in fixed positions in the solid lattice, become free to move",
+        "Free electrons are released from the lead atoms",
+        "The covalent bonds break to form ions"
+      ],
+      "answer": "The ions, which were in fixed positions in the solid lattice, become free to move",
+      "points": 5
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Electrical Conductivity - Detailed",
+      "question": "Ethanol (C₂H₅OH) does not conduct electricity even when liquid. Why?",
+      "options": [
+        "Ethanol is a solid at room temperature",
+        "Ethanol is a simple covalent compound with no ions or free electrons to carry charge",
+        "Ethanol is an ionic compound but ions cannot move",
+        "Ethanol molecules are too large to conduct"
+      ],
+      "answer": "Ethanol is a simple covalent compound with no ions or free electrons to carry charge",
+      "points": 5
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Electrical Conductivity - Detailed",
+      "question": "Hydrochloric acid (HCl dissolved in water) conducts electricity, but hydrogen chloride gas does not. Explain why.",
+      "options": [
+        "HCl gas has ions but they cannot move in the gas state",
+        "When HCl dissolves in water, it ionises to form H⁺ and Cl⁻ ions which are free to move; HCl gas consists of neutral covalent molecules with no ions",
+        "HCl gas conducts better than the solution",
+        "Water provides the electrons needed for conduction"
+      ],
+      "answer": "When HCl dissolves in water, it ionises to form H⁺ and Cl⁻ ions which are free to move; HCl gas consists of neutral covalent molecules with no ions",
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Electrical Conductivity - Detailed",
+      "question": "Glucose (C₆H₁₂O₆) dissolves in water but the solution does not conduct electricity. Sodium chloride dissolves in water and the solution conducts electricity. Explain the difference.",
+      "options": [
+        "Glucose is insoluble so cannot conduct",
+        "Glucose is a simple covalent compound that remains as neutral molecules when dissolved; NaCl is ionic and dissociates into free-moving ions when dissolved",
+        "Both dissociate into ions but glucose ions are larger",
+        "Sodium chloride has more electrons available for conduction"
+      ],
+      "answer": "Glucose is a simple covalent compound that remains as neutral molecules when dissolved; NaCl is ionic and dissociates into free-moving ions when dissolved",
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Electrical Conductivity - Detailed ⭐",
+      "question": "Predict and explain whether molten sodium hydroxide (NaOH) would conduct electricity.",
+      "options": [
+        "No, because NaOH is a covalent compound",
+        "Yes, because when molten, Na⁺ and OH⁻ ions are free to move and carry charge",
+        "No, because the OH⁻ ion is covalent so NaOH cannot conduct",
+        "Yes, because electrons are released when NaOH melts"
+      ],
+      "answer": "Yes, because when molten, Na⁺ and OH⁻ ions are free to move and carry charge",
+      "points": 10
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Polyatomic Ions - Structure Analysis",
+      "question": "The hydroxide ion (OH⁻) contains one oxygen atom and one hydrogen atom. What type of bonding exists between O and H in this ion?",
+      "options": [
+        "Ionic bonding",
+        "Covalent bonding",
+        "Metallic bonding",
+        "No bonding - they are separate ions"
+      ],
+      "answer": "Covalent bonding",
+      "points": 5
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Polyatomic Ions - Structure Analysis",
+      "question": "The carbonate ion (CO₃²⁻) has a charge of 2-. What type of bonding exists between the carbon and oxygen atoms within this ion?",
+      "options": [
+        "Ionic bonding with 2- charge distributed among atoms",
+        "Covalent bonding between the carbon and oxygen atoms",
+        "Metallic bonding",
+        "Electrostatic forces between C²⁺ and O⁻ ions"
+      ],
+      "answer": "Covalent bonding between the carbon and oxygen atoms",
+      "points": 5
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Polyatomic Ions - Structure Analysis",
+      "question": "In calcium carbonate (CaCO₃), identify all types of bonding present.",
+      "options": [
+        "Only ionic bonding between Ca, C, and O",
+        "Only covalent bonding throughout",
+        "Covalent bonding within the CO₃²⁻ ion; ionic bonding (strong electrostatic forces) between Ca²⁺ and CO₃²⁻ ions",
+        "Weak intermolecular forces between Ca and CO₃"
+      ],
+      "answer": "Covalent bonding within the CO₃²⁻ ion; ionic bonding (strong electrostatic forces) between Ca²⁺ and CO₃²⁻ ions",
+      "points": 10
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Polyatomic Ions - Structure Analysis",
+      "question": "Ammonium phosphate has the formula (NH₄)₃PO₄. Identify all types of bonding present.",
+      "options": [
+        "Only ionic bonding",
+        "Only covalent bonding",
+        "Covalent bonding within NH₄⁺ ions, covalent bonding within PO₄³⁻ ions, and ionic bonding between NH₄⁺ and PO₄³⁻ ions",
+        "Ionic bonding within NH₄⁺ and PO₄³⁻, covalent bonding between them"
+      ],
+      "answer": "Covalent bonding within NH₄⁺ ions, covalent bonding within PO₄³⁻ ions, and ionic bonding between NH₄⁺ and PO₄³⁻ ions",
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Polyatomic Ions - Structure Analysis ⭐",
+      "question": "When sodium sulfate (Na₂SO₄) is melted and then electrolysed, what happens at the electrodes?\n\nConsider the types of bonding and which bonds are broken.",
+      "options": [
+        "The covalent bonds within SO₄²⁻ break first",
+        "Na⁺ ions move to the cathode and are reduced; SO₄²⁻ or its decomposition products move to the anode - the ionic bonds are overcome, not the covalent bonds within SO₄²⁻",
+        "No electrolysis occurs because SO₄²⁻ is covalent",
+        "The SO₄²⁻ ion moves to the cathode"
+      ],
+      "answer": "Na⁺ ions move to the cathode and are reduced; SO₄²⁻ or its decomposition products move to the anode - the ionic bonds are overcome, not the covalent bonds within SO₄²⁻",
+      "points": 15
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Comparing Compounds with Polyatomic Ions",
+      "question": "Compare sodium sulfate (Na₂SO₄) and sulfur trioxide (SO₃). Which has the higher melting point and why?",
+      "options": [
+        "SO₃ has higher melting point because S-O covalent bonds are strong",
+        "Na₂SO₄ has higher melting point because it is ionic with strong electrostatic forces; SO₃ is a simple covalent molecule with weak intermolecular forces",
+        "Both have similar melting points because both contain sulfur and oxygen",
+        "SO₃ has higher melting point because it has more atoms"
+      ],
+      "answer": "Na₂SO₄ has higher melting point because it is ionic with strong electrostatic forces; SO₃ is a simple covalent molecule with weak intermolecular forces",
+      "points": 10
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Comparing Compounds with Polyatomic Ions",
+      "question": "Both sodium nitrate (NaNO₃) and nitrogen dioxide (NO₂) contain nitrogen and oxygen. Compare their electrical conductivity.",
+      "options": [
+        "Both conduct electricity when molten",
+        "Neither conducts electricity in any state",
+        "NaNO₃ conducts when molten or dissolved (ionic, free-moving ions); NO₂ does not conduct in any state (simple covalent, no ions)",
+        "NO₂ conducts better because it has more oxygen atoms"
+      ],
+      "answer": "NaNO₃ conducts when molten or dissolved (ionic, free-moving ions); NO₂ does not conduct in any state (simple covalent, no ions)",
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Comparing Compounds with Polyatomic Ions",
+      "question": "Ammonium chloride (NH₄Cl) and methane (CH₄) both contain nitrogen/carbon bonded to hydrogen atoms. Compare their properties.",
+      "options": [
+        "Both are simple covalent compounds with low melting points",
+        "Both are ionic compounds with high melting points",
+        "NH₄Cl is ionic with high melting point and conducts when molten; CH₄ is simple covalent with very low melting point and does not conduct",
+        "CH₄ is ionic; NH₄Cl is covalent"
+      ],
+      "answer": "NH₄Cl is ionic with high melting point and conducts when molten; CH₄ is simple covalent with very low melting point and does not conduct",
+      "points": 10
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Comparing Compounds with Polyatomic Ions ⭐",
+      "question": "Compare the bonding and properties of:\n\nA: CO₂ (carbon dioxide)\nB: Na₂CO₃ (sodium carbonate)\n\nBoth contain carbon and oxygen. What are the key differences?",
+      "options": [
+        "Both are ionic with similar properties",
+        "Both are covalent with low melting points",
+        "CO₂ is simple covalent (low MP, doesn't conduct); Na₂CO₃ is ionic containing the covalent CO₃²⁻ ion (high MP, conducts when molten/dissolved)",
+        "CO₂ is ionic; Na₂CO₃ is covalent"
+      ],
+      "answer": "CO₂ is simple covalent (low MP, doesn't conduct); Na₂CO₃ is ionic containing the covalent CO₃²⁻ ion (high MP, conducts when molten/dissolved)",
+      "points": 15
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Strength of Forces - Comparison",
+      "question": "Rank the following forces from weakest to strongest:\n\nA: Intermolecular forces between CO₂ molecules\nB: Covalent bonds within a CO₂ molecule\nC: Electrostatic forces between Na⁺ and Cl⁻ ions in NaCl",
+      "options": [
+        "B < A < C",
+        "C < B < A",
+        "A < C < B",
+        "A < B ≈ C (intermolecular forces are weakest; covalent bonds and ionic bonds are both strong)"
+      ],
+      "answer": "A < B ≈ C (intermolecular forces are weakest; covalent bonds and ionic bonds are both strong)",
+      "points": 10
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Strength of Forces - Comparison",
+      "question": "When comparing ionic compounds, which factors affect the strength of the electrostatic forces of attraction between ions?",
+      "options": [
+        "Only the size of the ions",
+        "Only the charge on the ions",
+        "Both the charge on the ions and the size of the ions",
+        "The number of electrons in the outer shell only"
+      ],
+      "answer": "Both the charge on the ions and the size of the ions",
+      "points": 5
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Strength of Forces - Comparison",
+      "question": "Lithium fluoride (LiF) and caesium iodide (CsI) are both ionic compounds. LiF has a much higher melting point. Why?",
+      "options": [
+        "LiF has weaker ionic bonds",
+        "Li⁺ and F⁻ are smaller ions than Cs⁺ and I⁻, so the ions are closer together and the electrostatic forces of attraction are stronger",
+        "CsI has covalent character",
+        "LiF has more ions in its lattice"
+      ],
+      "answer": "Li⁺ and F⁻ are smaller ions than Cs⁺ and I⁻, so the ions are closer together and the electrostatic forces of attraction are stronger",
+      "points": 10
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Strength of Forces - Comparison ⭐",
+      "question": "Arrange these ionic compounds in order of increasing melting point and justify:\n\nA: NaCl (Na⁺ and Cl⁻)\nB: MgO (Mg²⁺ and O²⁻)\nC: KBr (K⁺ and Br⁻)",
+      "options": [
+        "B < A < C; MgO has smallest ions",
+        "A < B < C; alphabetical order",
+        "C < A < B; KBr has largest ions with 1+ and 1- charges (weakest), NaCl has medium-sized ions with 1+ and 1- charges, MgO has small ions with 2+ and 2- charges (strongest)",
+        "B < C < A; MgO is covalent"
+      ],
+      "answer": "C < A < B; KBr has largest ions with 1+ and 1- charges (weakest), NaCl has medium-sized ions with 1+ and 1- charges, MgO has small ions with 2+ and 2- charges (strongest)",
+      "points": 15
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Application Questions",
+      "question": "A student heats four substances and records the temperatures at which they melt:\n\nP: 45°C\nQ: 770°C\nR: -78°C\nS: 1610°C\n\nWhich substances are most likely ionic compounds?",
+      "options": [
+        "P and R",
+        "Q and S",
+        "P and Q",
+        "R and S"
+      ],
+      "answer": "Q and S",
+      "points": 5
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Application Questions",
+      "question": "Substance X has the following properties:\n- Melting point: 25°C\n- Does not conduct electricity as solid or liquid\n- Low solubility in water\n\nWhat type of structure does X have?",
+      "options": [
+        "Giant ionic lattice",
+        "Simple molecular (covalent)",
+        "Metallic structure",
+        "Ionic compound with polyatomic ions"
+      ],
+      "answer": "Simple molecular (covalent)",
+      "points": 5
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Application Questions",
+      "question": "Substance Y has the following properties:\n- High melting point (over 800°C)\n- Does not conduct electricity as a solid\n- Conducts electricity when dissolved in water\n- Soluble in water\n\nWhat type of structure does Y have?",
+      "options": [
+        "Simple molecular (covalent)",
+        "Giant ionic lattice",
+        "Metallic structure",
+        "Simple atomic structure"
+      ],
+      "answer": "Giant ionic lattice",
+      "points": 5
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Application Questions",
+      "question": "When solid potassium hydroxide (KOH) is added to water, the solution conducts electricity. Explain why.",
+      "options": [
+        "KOH molecules carry the current",
+        "Water molecules become charged when KOH is added",
+        "KOH is an ionic compound that dissociates in water to form K⁺ and OH⁻ ions that are free to move and carry charge",
+        "Electrons are released from the potassium atoms"
+      ],
+      "answer": "KOH is an ionic compound that dissociates in water to form K⁺ and OH⁻ ions that are free to move and carry charge",
+      "points": 10
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Application Questions",
+      "question": "Silicon tetrachloride (SiCl₄) is a liquid at room temperature that does not conduct electricity and has a low boiling point. Sodium chloride (NaCl) is a solid at room temperature that conducts electricity when molten. Both contain chlorine. Explain the difference in properties.",
+      "options": [
+        "Both are ionic but SiCl₄ has weaker ionic bonds",
+        "SiCl₄ is a simple covalent molecule with weak intermolecular forces; NaCl is an ionic compound with strong electrostatic forces between ions",
+        "SiCl₄ has more chlorine atoms so has weaker bonds",
+        "NaCl is covalent with strong bonds; SiCl₄ is ionic with weak bonds"
+      ],
+      "answer": "SiCl₄ is a simple covalent molecule with weak intermolecular forces; NaCl is an ionic compound with strong electrostatic forces between ions",
+      "points": 10
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Application Questions ⭐",
+      "question": "A compound has the formula XY₄ where X is in Group 4 and Y is in Group 7. Would you expect this compound to be ionic or covalent? Explain.",
+      "options": [
+        "Ionic, because Y atoms will gain electrons from X",
+        "Covalent, because both X (Group 4) and Y (Group 7) are non-metals, so electrons will be shared",
+        "Ionic, because all compounds with 4 Y atoms are ionic",
+        "Cannot be determined from the information given"
+      ],
+      "answer": "Covalent, because both X (Group 4) and Y (Group 7) are non-metals, so electrons will be shared",
+      "points": 10
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "problemSet": "TOPIC 8: Error Analysis",
+      "question": "A student states: 'Simple covalent compounds have low melting points because covalent bonds are weak.'\n\nIs this statement correct?",
+      "options": [
+        "Yes, covalent bonds are weak",
+        "No. Covalent bonds are strong, but simple covalent compounds have low melting points because the intermolecular forces between molecules are weak",
+        "Yes, all bonds in covalent compounds are weak",
+        "No, simple covalent compounds have high melting points"
+      ],
+      "answer": "No. Covalent bonds are strong, but simple covalent compounds have low melting points because the intermolecular forces between molecules are weak",
+      "points": 10
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "problemSet": "TOPIC 8: Error Analysis",
+      "question": "A student states: 'Sodium chloride conducts electricity because it contains electrons.'\n\nIs this statement correct?",
+      "options": [
+        "Yes, electrons carry the current in NaCl",
+        "No. NaCl does conduct (when molten or dissolved), but the current is carried by mobile ions (Na⁺ and Cl⁻), not electrons",
+        "Yes, NaCl releases free electrons when it melts",
+        "No, NaCl never conducts electricity"
+      ],
+      "answer": "No. NaCl does conduct (when molten or dissolved), but the current is carried by mobile ions (Na⁺ and Cl⁻), not electrons",
+      "points": 10
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "problemSet": "TOPIC 8: Error Analysis",
+      "question": "A student states: 'In ammonium chloride (NH₄Cl), the bonding between nitrogen and hydrogen is ionic because NH₄Cl is an ionic compound.'\n\nIs this statement correct?",
+      "options": [
+        "Yes, all bonding in ionic compounds is ionic",
+        "No. While NH₄Cl is an ionic compound (containing NH₄⁺ and Cl⁻), the bonding within the NH₄⁺ ion between N and H is covalent",
+        "Yes, nitrogen transfers electrons to hydrogen",
+        "No, NH₄Cl is not an ionic compound"
+      ],
+      "answer": "No. While NH₄Cl is an ionic compound (containing NH₄⁺ and Cl⁻), the bonding within the NH₄⁺ ion between N and H is covalent",
+      "points": 10
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "problemSet": "TOPIC 8: Error Analysis ⭐",
+      "question": "A student states: 'When ice melts, the covalent bonds between hydrogen and oxygen are broken.'\n\nIdentify and correct the error.",
+      "options": [
+        "The statement is correct",
+        "Error: When ice melts, the weak intermolecular forces between water molecules are overcome, NOT the covalent bonds within water molecules. The covalent bonds remain intact.",
+        "Error: Ice does not contain covalent bonds",
+        "Error: Ice does not melt, it sublimes"
+      ],
+      "answer": "Error: When ice melts, the weak intermolecular forces between water molecules are overcome, NOT the covalent bonds within water molecules. The covalent bonds remain intact.",
+      "points": 10
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "problemSet": "TOPIC 9: Summary Comparisons",
+      "question": "Complete the table:\n\n| Property | Ionic Compounds | Simple Covalent Compounds |\n|----------|-----------------|---------------------------|\n| Melting point | ? | ? |",
+      "options": [
+        "Ionic: Low; Simple Covalent: High",
+        "Ionic: High; Simple Covalent: High",
+        "Ionic: Low; Simple Covalent: Low",
+        "Ionic: High (strong electrostatic forces); Simple Covalent: Low (weak intermolecular forces)"
+      ],
+      "answer": "Ionic: High (strong electrostatic forces); Simple Covalent: Low (weak intermolecular forces)",
+      "points": 5
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "problemSet": "TOPIC 9: Summary Comparisons",
+      "question": "Complete the table:\n\n| Property | Ionic Compounds | Simple Covalent Compounds |\n|----------|-----------------|---------------------------|\n| Electrical conductivity (solid) | ? | ? |",
+      "options": [
+        "Ionic: Conducts; Simple Covalent: Conducts",
+        "Ionic: Does not conduct (ions fixed); Simple Covalent: Does not conduct (no ions/free electrons)",
+        "Ionic: Does not conduct; Simple Covalent: Conducts",
+        "Ionic: Conducts; Simple Covalent: Does not conduct"
+      ],
+      "answer": "Ionic: Does not conduct (ions fixed); Simple Covalent: Does not conduct (no ions/free electrons)",
+      "points": 5
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "problemSet": "TOPIC 9: Summary Comparisons",
+      "question": "Complete the table:\n\n| Property | Ionic Compounds | Simple Covalent Compounds |\n|----------|-----------------|---------------------------|\n| Electrical conductivity (molten) | ? | ? |",
+      "options": [
+        "Ionic: Does not conduct; Simple Covalent: Conducts",
+        "Ionic: Conducts (mobile ions); Simple Covalent: Does not conduct (still no ions/free electrons)",
+        "Both conduct when molten",
+        "Neither conducts when molten"
+      ],
+      "answer": "Ionic: Conducts (mobile ions); Simple Covalent: Does not conduct (still no ions/free electrons)",
+      "points": 5
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "problemSet": "TOPIC 9: Summary Comparisons",
+      "question": "What is the main structural difference between ionic compounds and simple covalent compounds?",
+      "options": [
+        "Ionic compounds are made of molecules; simple covalent compounds are made of ions",
+        "Ionic compounds form giant lattices of ions; simple covalent compounds form individual molecules",
+        "Ionic compounds have weak bonds; simple covalent compounds have strong bonds",
+        "There is no structural difference"
+      ],
+      "answer": "Ionic compounds form giant lattices of ions; simple covalent compounds form individual molecules",
+      "points": 5
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "problemSet": "TOPIC 9: Summary Comparisons ⭐",
+      "question": "Summarise the bonding in sodium carbonate (Na₂CO₃) and explain how its properties relate to its bonding.",
+      "options": [
+        "Only ionic bonding; high melting point due to strong ionic bonds",
+        "Only covalent bonding; low melting point due to weak intermolecular forces",
+        "Covalent bonding within CO₃²⁻ ions, ionic bonding between Na⁺ and CO₃²⁻; high melting point due to strong electrostatic forces between ions; conducts when molten or dissolved due to mobile ions",
+        "Weak intermolecular forces between Na₂CO₃ molecules; low melting point"
+      ],
+      "answer": "Covalent bonding within CO₃²⁻ ions, ionic bonding between Na⁺ and CO₃²⁻; high melting point due to strong electrostatic forces between ions; conducts when molten or dissolved due to mobile ions",
+      "points": 15
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "problemSet": "COMPREHENSIVE CHALLENGE",
+      "question": "Substance Z has the formula Ca(OH)₂. Identify all types of bonding and predict its properties.",
+      "options": [
+        "Only ionic bonding; low melting point; does not conduct",
+        "Only covalent bonding; low melting point; does not conduct in any state",
+        "Covalent bonding within OH⁻ ions; ionic bonding between Ca²⁺ and OH⁻; high melting point; conducts when molten or dissolved",
+        "Metallic bonding; conducts in solid state"
+      ],
+      "answer": "Covalent bonding within OH⁻ ions; ionic bonding between Ca²⁺ and OH⁻; high melting point; conducts when molten or dissolved",
+      "points": 15
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "problemSet": "COMPREHENSIVE CHALLENGE",
+      "question": "Compare the following substances:\n\nA: NH₃ (ammonia)\nB: NH₄Cl (ammonium chloride)\n\nWhich statement correctly describes their similarities and differences?",
+      "options": [
+        "Both are ionic compounds with similar properties",
+        "Both are covalent compounds with similar properties",
+        "NH₃ is a simple covalent molecule (low MP, doesn't conduct); NH₄Cl contains the NH₄⁺ ion (covalent bonding within) bonded ionically to Cl⁻ (high MP, conducts when molten)",
+        "NH₃ is ionic; NH₄Cl is covalent"
+      ],
+      "answer": "NH₃ is a simple covalent molecule (low MP, doesn't conduct); NH₄Cl contains the NH₄⁺ ion (covalent bonding within) bonded ionically to Cl⁻ (high MP, conducts when molten)",
+      "points": 15
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "problemSet": "COMPREHENSIVE CHALLENGE",
+      "question": "A chemist has three white solids:\n\n1. Potassium sulfate (K₂SO₄)\n2. Naphthalene (C₁₀H₈) - a simple covalent compound\n3. Ammonium nitrate (NH₄NO₃)\n\nWhich would conduct electricity when dissolved in water?",
+      "options": [
+        "Only compound 1",
+        "Only compound 2",
+        "Compounds 1 and 3 (both are ionic and dissociate into ions in water)",
+        "All three compounds"
+      ],
+      "answer": "Compounds 1 and 3 (both are ionic and dissociate into ions in water)",
+      "points": 10
+    },
+      
+  {
+      "id": 48,
+      "type": "mcq",
+      "problemSet": "COMPREHENSIVE CHALLENGE",
+      "question": "Explain why calcium oxide (CaO) has a very high melting point (2613°C) compared to carbon monoxide (CO) which has a very low melting point (-205°C).",
+      "options": [
+        "Both are covalent but CaO has stronger bonds",
+        "CaO is an ionic compound with strong electrostatic forces between Ca²⁺ and O²⁻ ions requiring large amounts of energy to overcome; CO is a simple covalent molecule with weak intermolecular forces requiring little energy to overcome",
+        "Both are ionic but CO has smaller ions",
+        "CaO is covalent; CO is ionic"
+      ],
+      "answer": "CaO is an ionic compound with strong electrostatic forces between Ca²⁺ and O²⁻ ions requiring large amounts of energy to overcome; CO is a simple covalent molecule with weak intermolecular forces requiring little energy to overcome",
+      "points": 15
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "problemSet": "COMPREHENSIVE CHALLENGE",
+      "question": "A student investigates four substances and records their properties:\n\nSubstance W: High MP, conducts when molten, does not conduct as solid\nSubstance X: Low MP, does not conduct in any state\nSubstance Y: High MP, conducts when dissolved in water, contains polyatomic ions\nSubstance Z: Very low MP, gas at room temperature, does not conduct\n\nWhich substances are ionic?",
+      "options": [
+        "Only W",
+        "W and Y",
+        "X and Z",
+        "All four substances"
+      ],
+      "answer": "W and Y",
+      "points": 15
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "problemSet": "COMPREHENSIVE CHALLENGE: Final Question",
+      "question": "A student is asked to explain why:\n\n(a) Sodium chloride conducts electricity when molten but not when solid\n(b) Methane does not conduct electricity in any state\n(c) Sodium sulfate conducts electricity when dissolved in water\n\nWhich explanation is correct for all three?",
+      "options": [
+        "(a) Electrons become mobile when NaCl melts; (b) Methane has no electrons; (c) Water provides electrons",
+        "(a) Na⁺ and Cl⁻ ions become mobile when molten; (b) Methane is a simple covalent molecule with no ions or free electrons; (c) Na⁺ and SO₄²⁻ ions dissociate and become mobile in solution",
+        "(a) Covalent bonds break when melted; (b) Methane is ionic; (c) Sodium sulfate is covalent",
+        "(a) New ions form when melted; (b) Methane molecules cannot move; (c) Chemical reaction with water creates ions"
+      ],
+      "answer": "(a) Na⁺ and Cl⁻ ions become mobile when molten; (b) Methane is a simple covalent molecule with no ions or free electrons; (c) Na⁺ and SO₄²⁻ ions dissociate and become mobile in solution",
+      "points": 15
+    }
+  ]
+}
+

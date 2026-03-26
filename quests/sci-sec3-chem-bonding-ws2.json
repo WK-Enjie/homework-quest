@@ -1,0 +1,708 @@
+{
+  "questTitle": "O-Level Chemistry: Chemical Bonding - Ionic and Covalent Compounds Worksheet 1",
+  "subject": "Chemistry",
+  "difficulty": "Hard",
+  "description": "Master chemical bonding! This worksheet covers the formation of ionic and simple covalent compounds, their structures, types of attractive forces (strong electrostatic forces vs weak intermolecular forces), electrical conductivity, and comparing bonding in compounds with polyatomic ions. Show clear understanding of concepts!",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Types of Bonding",
+      "question": "What is an ionic bond?",
+      "options": [
+        "A bond formed by sharing of electrons between two non-metal atoms",
+        "A bond formed by the electrostatic attraction between oppositely charged ions",
+        "A bond formed by the attraction between metal atoms and delocalised electrons",
+        "A bond formed by weak intermolecular forces"
+      ],
+      "answer": "A bond formed by the electrostatic attraction between oppositely charged ions",
+      "points": 5
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Types of Bonding",
+      "question": "What is a covalent bond?",
+      "options": [
+        "A bond formed by the transfer of electrons from a metal to a non-metal",
+        "A bond formed by the attraction between positive and negative ions",
+        "A bond formed by the sharing of one or more pairs of electrons between atoms",
+        "A bond formed by weak forces between molecules"
+      ],
+      "answer": "A bond formed by the sharing of one or more pairs of electrons between atoms",
+      "points": 5
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Types of Bonding",
+      "question": "Ionic bonds typically form between:",
+      "options": [
+        "Two non-metal atoms",
+        "Two metal atoms",
+        "A metal atom and a non-metal atom",
+        "Two noble gas atoms"
+      ],
+      "answer": "A metal atom and a non-metal atom",
+      "points": 5
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Types of Bonding",
+      "question": "Covalent bonds typically form between:",
+      "options": [
+        "A metal atom and a non-metal atom",
+        "Two metal atoms",
+        "Two non-metal atoms",
+        "A metal atom and a noble gas atom"
+      ],
+      "answer": "Two non-metal atoms",
+      "points": 5
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Formation of Ionic Compounds",
+      "question": "When sodium (Na) reacts with chlorine (Cl) to form sodium chloride (NaCl), what happens to the electrons?",
+      "options": [
+        "Sodium and chlorine share electrons equally",
+        "Sodium gains one electron from chlorine",
+        "Sodium loses one electron to chlorine, forming Na⁺ and Cl⁻ ions",
+        "Both atoms lose electrons"
+      ],
+      "answer": "Sodium loses one electron to chlorine, forming Na⁺ and Cl⁻ ions",
+      "points": 5
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Formation of Ionic Compounds",
+      "question": "Why does sodium form a Na⁺ ion when forming ionic compounds?",
+      "options": [
+        "Sodium gains one electron to achieve a stable noble gas configuration",
+        "Sodium loses one electron from its outermost shell to achieve a stable noble gas configuration (like neon)",
+        "Sodium shares its one valence electron",
+        "Sodium needs to gain seven electrons to be stable"
+      ],
+      "answer": "Sodium loses one electron from its outermost shell to achieve a stable noble gas configuration (like neon)",
+      "points": 5
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Formation of Ionic Compounds",
+      "question": "Why does chlorine form a Cl⁻ ion when forming ionic compounds?",
+      "options": [
+        "Chlorine loses one electron to achieve stability",
+        "Chlorine loses seven electrons to achieve stability",
+        "Chlorine gains one electron to achieve a stable noble gas configuration (like argon)",
+        "Chlorine shares one electron with another atom"
+      ],
+      "answer": "Chlorine gains one electron to achieve a stable noble gas configuration (like argon)",
+      "points": 5
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Formation of Ionic Compounds",
+      "question": "When magnesium (Mg) reacts with oxygen (O) to form magnesium oxide (MgO), what ions are formed?",
+      "options": [
+        "Mg⁺ and O⁻",
+        "Mg²⁺ and O²⁻",
+        "Mg⁻ and O⁺",
+        "Mg²⁻ and O²⁺"
+      ],
+      "answer": "Mg²⁺ and O²⁻",
+      "points": 5
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Formation of Ionic Compounds",
+      "question": "In the formation of calcium chloride (CaCl₂), calcium loses 2 electrons. How are these electrons distributed?",
+      "options": [
+        "Both electrons go to one chlorine atom",
+        "Each chlorine atom gains one electron",
+        "The electrons are shared between calcium and chlorine",
+        "The electrons are lost to the surroundings"
+      ],
+      "answer": "Each chlorine atom gains one electron",
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Formation of Ionic Compounds ⭐",
+      "question": "Which electron configuration changes correctly represent the formation of sodium chloride?\n\nNa: 2,8,1 and Cl: 2,8,7",
+      "options": [
+        "Na: 2,8,1 → 2,8,2 (Na⁺) and Cl: 2,8,7 → 2,8,6 (Cl⁻)",
+        "Na: 2,8,1 → 2,8 (Na⁺) and Cl: 2,8,7 → 2,8,8 (Cl⁻)",
+        "Na: 2,8,1 → 2,8,1 (Na⁺) and Cl: 2,8,7 → 2,8,7 (Cl⁻)",
+        "Na: 2,8,1 → 2,7 (Na⁺) and Cl: 2,8,7 → 2,8,8 (Cl⁻)"
+      ],
+      "answer": "Na: 2,8,1 → 2,8 (Na⁺) and Cl: 2,8,7 → 2,8,8 (Cl⁻)",
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Structure of Ionic Compounds",
+      "question": "What is the structure of ionic compounds in the solid state?",
+      "options": [
+        "Simple molecular structure with molecules arranged randomly",
+        "Giant ionic lattice structure with ions arranged in a regular, repeating 3D pattern",
+        "Simple atomic structure with atoms closely packed",
+        "Chain-like structure with ions arranged in lines"
+      ],
+      "answer": "Giant ionic lattice structure with ions arranged in a regular, repeating 3D pattern",
+      "points": 5
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Structure of Ionic Compounds",
+      "question": "In the giant ionic lattice of sodium chloride, how are the ions arranged?",
+      "options": [
+        "Sodium ions are only surrounded by sodium ions",
+        "Each sodium ion is surrounded by chloride ions, and each chloride ion is surrounded by sodium ions",
+        "Ions are arranged randomly throughout the structure",
+        "Sodium and chloride ions are arranged in separate layers"
+      ],
+      "answer": "Each sodium ion is surrounded by chloride ions, and each chloride ion is surrounded by sodium ions",
+      "points": 5
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Structure of Ionic Compounds",
+      "question": "What type of force holds the ions together in an ionic lattice?",
+      "options": [
+        "Weak intermolecular forces of attraction",
+        "Covalent bonds between ions",
+        "Strong electrostatic forces of attraction between oppositely charged ions",
+        "Magnetic forces between ions"
+      ],
+      "answer": "Strong electrostatic forces of attraction between oppositely charged ions",
+      "points": 5
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Structure of Ionic Compounds",
+      "question": "Why do ionic compounds have high melting and boiling points?",
+      "options": [
+        "Because they have weak intermolecular forces that are easy to overcome",
+        "Because a large amount of energy is needed to overcome the strong electrostatic forces of attraction between the oppositely charged ions",
+        "Because the ions are very small",
+        "Because they contain covalent bonds within the lattice"
+      ],
+      "answer": "Because a large amount of energy is needed to overcome the strong electrostatic forces of attraction between the oppositely charged ions",
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Structure of Ionic Compounds ⭐",
+      "question": "Magnesium oxide (MgO) has a higher melting point than sodium chloride (NaCl). Which explanation is correct?",
+      "options": [
+        "MgO has weaker electrostatic forces than NaCl",
+        "Mg²⁺ and O²⁻ have higher charges than Na⁺ and Cl⁻, resulting in stronger electrostatic forces of attraction",
+        "MgO has covalent bonds while NaCl has ionic bonds",
+        "NaCl has a giant lattice structure while MgO does not"
+      ],
+      "answer": "Mg²⁺ and O²⁻ have higher charges than Na⁺ and Cl⁻, resulting in stronger electrostatic forces of attraction",
+      "points": 15
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Formation of Simple Covalent Compounds",
+      "question": "In a molecule of chlorine (Cl₂), how are the two chlorine atoms bonded?",
+      "options": [
+        "By transfer of electrons from one chlorine to another",
+        "By sharing one pair of electrons (single covalent bond)",
+        "By electrostatic attraction between Cl⁺ and Cl⁻ ions",
+        "By weak intermolecular forces"
+      ],
+      "answer": "By sharing one pair of electrons (single covalent bond)",
+      "points": 5
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Formation of Simple Covalent Compounds",
+      "question": "In a molecule of oxygen (O₂), the two oxygen atoms are bonded by a double bond. What does this mean?",
+      "options": [
+        "The atoms share one pair of electrons",
+        "The atoms share two pairs of electrons",
+        "The atoms share three pairs of electrons",
+        "The atoms transfer two electrons"
+      ],
+      "answer": "The atoms share two pairs of electrons",
+      "points": 5
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Formation of Simple Covalent Compounds",
+      "question": "In a molecule of nitrogen (N₂), the two nitrogen atoms are bonded by a triple bond. How many electron pairs are shared?",
+      "options": [
+        "One pair",
+        "Two pairs",
+        "Three pairs",
+        "Four pairs"
+      ],
+      "answer": "Three pairs",
+      "points": 5
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Formation of Simple Covalent Compounds",
+      "question": "In a water molecule (H₂O), how many covalent bonds does the oxygen atom form?",
+      "options": [
+        "One single bond",
+        "Two single bonds",
+        "One double bond",
+        "Three single bonds"
+      ],
+      "answer": "Two single bonds",
+      "points": 5
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Formation of Simple Covalent Compounds",
+      "question": "Why do atoms form covalent bonds?",
+      "options": [
+        "To lose electrons and become positively charged",
+        "To gain electrons and become negatively charged",
+        "To achieve a stable noble gas electron configuration by sharing electrons",
+        "To create free-moving electrons"
+      ],
+      "answer": "To achieve a stable noble gas electron configuration by sharing electrons",
+      "points": 5
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Formation of Simple Covalent Compounds ⭐",
+      "question": "In a molecule of ammonia (NH₃), nitrogen has 5 valence electrons and each hydrogen has 1 valence electron. How many bonding pairs and lone pairs of electrons are around the nitrogen atom?",
+      "options": [
+        "4 bonding pairs, 0 lone pairs",
+        "3 bonding pairs, 1 lone pair",
+        "2 bonding pairs, 2 lone pairs",
+        "1 bonding pair, 3 lone pairs"
+      ],
+      "answer": "3 bonding pairs, 1 lone pair",
+      "points": 10
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Structure of Simple Covalent Compounds",
+      "question": "Simple covalent compounds exist as:",
+      "options": [
+        "Giant ionic lattices",
+        "Giant covalent structures",
+        "Simple molecules",
+        "Metallic lattices"
+      ],
+      "answer": "Simple molecules",
+      "points": 5
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Structure of Simple Covalent Compounds",
+      "question": "Within a simple covalent molecule like H₂O, what type of bond holds the atoms together?",
+      "options": [
+        "Weak intermolecular forces",
+        "Ionic bonds",
+        "Strong covalent bonds",
+        "Electrostatic forces between ions"
+      ],
+      "answer": "Strong covalent bonds",
+      "points": 5
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Structure of Simple Covalent Compounds",
+      "question": "Between simple covalent molecules, what type of force exists?",
+      "options": [
+        "Strong covalent bonds",
+        "Strong ionic bonds",
+        "Weak intermolecular forces of attraction",
+        "Strong electrostatic forces"
+      ],
+      "answer": "Weak intermolecular forces of attraction",
+      "points": 5
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Structure of Simple Covalent Compounds",
+      "question": "Why do simple covalent compounds generally have low melting and boiling points?",
+      "options": [
+        "Because strong covalent bonds between molecules need to be broken",
+        "Because only weak intermolecular forces of attraction between molecules need to be overcome, which requires little energy",
+        "Because they have giant lattice structures",
+        "Because they contain ions that can move freely"
+      ],
+      "answer": "Because only weak intermolecular forces of attraction between molecules need to be overcome, which requires little energy",
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Structure of Simple Covalent Compounds",
+      "question": "When ice melts to form water, what happens?",
+      "options": [
+        "Covalent bonds within water molecules are broken",
+        "Intermolecular forces between water molecules are overcome",
+        "Ionic bonds are broken",
+        "Oxygen-hydrogen bonds are broken"
+      ],
+      "answer": "Intermolecular forces between water molecules are overcome",
+      "points": 10
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Structure of Simple Covalent Compounds ⭐",
+      "question": "Compare the bonds broken when:\n(a) Sodium chloride melts\n(b) Ice melts\n\nWhich statement is correct?",
+      "options": [
+        "Both involve breaking covalent bonds",
+        "Both involve breaking ionic bonds",
+        "(a) involves overcoming strong electrostatic forces between ions; (b) involves overcoming weak intermolecular forces between molecules",
+        "(a) involves overcoming weak forces; (b) involves overcoming strong forces"
+      ],
+      "answer": "(a) involves overcoming strong electrostatic forces between ions; (b) involves overcoming weak intermolecular forces between molecules",
+      "points": 15
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Electrical Conductivity - Ionic Compounds",
+      "question": "Can solid ionic compounds conduct electricity?",
+      "options": [
+        "Yes, because they contain ions",
+        "Yes, because they contain free electrons",
+        "No, because the ions are held in fixed positions in the lattice and cannot move",
+        "No, because they do not contain any charged particles"
+      ],
+      "answer": "No, because the ions are held in fixed positions in the lattice and cannot move",
+      "points": 5
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Electrical Conductivity - Ionic Compounds",
+      "question": "Can molten ionic compounds conduct electricity?",
+      "options": [
+        "No, because all the ions are destroyed when melted",
+        "No, because there are no charged particles",
+        "Yes, because the ions are free to move and carry charge",
+        "Yes, because free electrons are released when melted"
+      ],
+      "answer": "Yes, because the ions are free to move and carry charge",
+      "points": 5
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Electrical Conductivity - Ionic Compounds",
+      "question": "Can ionic compounds dissolved in water conduct electricity?",
+      "options": [
+        "No, because water destroys the ions",
+        "No, because the ions become neutral in water",
+        "Yes, because the ions dissociate and are free to move in solution",
+        "Yes, because water provides free electrons"
+      ],
+      "answer": "Yes, because the ions dissociate and are free to move in solution",
+      "points": 5
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Electrical Conductivity - Ionic Compounds ⭐",
+      "question": "Solid sodium chloride does not conduct electricity, but molten sodium chloride does. Explain why in terms of structure and bonding.",
+      "options": [
+        "In solid NaCl, there are no ions; in molten NaCl, ions are formed",
+        "In solid NaCl, ions are in fixed positions and cannot move; in molten NaCl, ions are free to move and carry charge",
+        "In solid NaCl, covalent bonds prevent conduction; in molten NaCl, covalent bonds break",
+        "In solid NaCl, electrons cannot move; in molten NaCl, electrons are released"
+      ],
+      "answer": "In solid NaCl, ions are in fixed positions and cannot move; in molten NaCl, ions are free to move and carry charge",
+      "points": 10
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Electrical Conductivity - Covalent Compounds",
+      "question": "Can simple covalent compounds conduct electricity in any state?",
+      "options": [
+        "Yes, in the solid state only",
+        "Yes, when molten or dissolved in water",
+        "No, because they do not contain ions or free electrons to carry charge",
+        "Yes, because they contain shared electrons"
+      ],
+      "answer": "No, because they do not contain ions or free electrons to carry charge",
+      "points": 5
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Electrical Conductivity - Covalent Compounds",
+      "question": "Why does pure water (a covalent compound) not conduct electricity?",
+      "options": [
+        "Because water molecules are too small",
+        "Because water contains no ions or free electrons; it consists of neutral molecules",
+        "Because water is a liquid",
+        "Because the covalent bonds in water are too strong"
+      ],
+      "answer": "Because water contains no ions or free electrons; it consists of neutral molecules",
+      "points": 5
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Electrical Conductivity - Comparison ⭐",
+      "question": "Compare the electrical conductivity of sodium chloride and methane (CH₄).\n\nWhich statement is correct?",
+      "options": [
+        "Both conduct electricity when molten",
+        "Neither conducts electricity in any state",
+        "NaCl conducts when molten or in aqueous solution (mobile ions); CH₄ does not conduct in any state (no ions or free electrons)",
+        "CH₄ conducts when dissolved in water; NaCl does not conduct"
+      ],
+      "answer": "NaCl conducts when molten or in aqueous solution (mobile ions); CH₄ does not conduct in any state (no ions or free electrons)",
+      "points": 15
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Polyatomic Ions - Introduction",
+      "question": "What is a polyatomic ion?",
+      "options": [
+        "An ion made of a single atom",
+        "A group of covalently bonded atoms that carries an overall charge",
+        "A neutral molecule",
+        "An ion formed by a single metal atom"
+      ],
+      "answer": "A group of covalently bonded atoms that carries an overall charge",
+      "points": 5
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Polyatomic Ions - Introduction",
+      "question": "Which of the following is an example of a polyatomic ion?",
+      "options": [
+        "Na⁺",
+        "Cl⁻",
+        "SO₄²⁻ (sulfate ion)",
+        "Mg²⁺"
+      ],
+      "answer": "SO₄²⁻ (sulfate ion)",
+      "points": 5
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Polyatomic Ions - Bonding Within",
+      "question": "In the sulfate ion (SO₄²⁻), what type of bonding exists between the sulfur atom and the oxygen atoms?",
+      "options": [
+        "Ionic bonding",
+        "Covalent bonding",
+        "Metallic bonding",
+        "Intermolecular forces"
+      ],
+      "answer": "Covalent bonding",
+      "points": 5
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Polyatomic Ions - Bonding Within",
+      "question": "In the ammonium ion (NH₄⁺), the nitrogen atom is bonded to four hydrogen atoms. What type of bonding holds these atoms together?",
+      "options": [
+        "Ionic bonding",
+        "Covalent bonding",
+        "Electrostatic forces between ions",
+        "Weak intermolecular forces"
+      ],
+      "answer": "Covalent bonding",
+      "points": 5
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Polyatomic Ions - Compounds with Polyatomic Ions",
+      "question": "In sodium sulfate (Na₂SO₄), what types of bonding are present?",
+      "options": [
+        "Only ionic bonding",
+        "Only covalent bonding",
+        "Ionic bonding between Na⁺ and SO₄²⁻; covalent bonding within the SO₄²⁻ ion",
+        "Only intermolecular forces"
+      ],
+      "answer": "Ionic bonding between Na⁺ and SO₄²⁻; covalent bonding within the SO₄²⁻ ion",
+      "points": 10
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Polyatomic Ions - Compounds with Polyatomic Ions",
+      "question": "In ammonium chloride (NH₄Cl), what types of bonding are present?",
+      "options": [
+        "Only covalent bonding throughout",
+        "Only ionic bonding throughout",
+        "Covalent bonding within the NH₄⁺ ion; ionic bonding between NH₄⁺ and Cl⁻",
+        "Only weak intermolecular forces"
+      ],
+      "answer": "Covalent bonding within the NH₄⁺ ion; ionic bonding between NH₄⁺ and Cl⁻",
+      "points": 10
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Polyatomic Ions - Compounds with Polyatomic Ions ⭐",
+      "question": "Ammonium sulfate ((NH₄)₂SO₄) contains both ammonium ions and sulfate ions. Describe all the types of bonding present in this compound.",
+      "options": [
+        "Only ionic bonding",
+        "Only covalent bonding",
+        "Covalent bonding within NH₄⁺ ions, covalent bonding within SO₄²⁻ ions, and ionic bonding between NH₄⁺ and SO₄²⁻ ions",
+        "Ionic bonding within NH₄⁺, ionic bonding within SO₄²⁻, and covalent bonding between them"
+      ],
+      "answer": "Covalent bonding within NH₄⁺ ions, covalent bonding within SO₄²⁻ ions, and ionic bonding between NH₄⁺ and SO₄²⁻ ions",
+      "points": 15
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Comparing Properties",
+      "question": "Sodium chloride has a melting point of 801°C while hydrogen chloride has a melting point of -114°C. Why is there such a large difference?",
+      "options": [
+        "NaCl has weak ionic bonds; HCl has strong covalent bonds",
+        "NaCl has strong electrostatic forces between ions requiring much energy to overcome; HCl has weak intermolecular forces between molecules requiring little energy to overcome",
+        "Both have the same type of bonding but different molecular sizes",
+        "HCl is a gas so it naturally has a lower melting point"
+      ],
+      "answer": "NaCl has strong electrostatic forces between ions requiring much energy to overcome; HCl has weak intermolecular forces between molecules requiring little energy to overcome",
+      "points": 15
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Comparing Properties",
+      "question": "Carbon dioxide (CO₂) is a gas at room temperature while sodium oxide (Na₂O) is a solid with a very high melting point. Which explanation is correct?",
+      "options": [
+        "CO₂ has stronger bonds than Na₂O",
+        "CO₂ is a simple covalent molecule with weak intermolecular forces; Na₂O is an ionic compound with strong electrostatic forces between ions",
+        "Na₂O has weak ionic bonds; CO₂ has strong covalent bonds",
+        "Both are ionic but Na₂O has larger ions"
+      ],
+      "answer": "CO₂ is a simple covalent molecule with weak intermolecular forces; Na₂O is an ionic compound with strong electrostatic forces between ions",
+      "points": 10
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Comparing Properties",
+      "question": "Which substance would you expect to have the highest melting point?\n\nA: Methane (CH₄) - simple covalent\nB: Sodium chloride (NaCl) - ionic\nC: Water (H₂O) - simple covalent\nD: Ammonia (NH₃) - simple covalent",
+      "options": [
+        "A: Methane",
+        "B: Sodium chloride",
+        "C: Water",
+        "D: Ammonia"
+      ],
+      "answer": "B: Sodium chloride",
+      "points": 5
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Comparing Properties",
+      "question": "Calcium oxide (CaO) has a higher melting point than sodium chloride (NaCl). Both are ionic compounds. What is the reason for this difference?",
+      "options": [
+        "CaO has weaker electrostatic forces",
+        "Ca²⁺ and O²⁻ have higher charges than Na⁺ and Cl⁻, leading to stronger electrostatic forces of attraction",
+        "CaO has covalent character while NaCl is purely ionic",
+        "NaCl has a larger lattice structure"
+      ],
+      "answer": "Ca²⁺ and O²⁻ have higher charges than Na⁺ and Cl⁻, leading to stronger electrostatic forces of attraction",
+      "points": 10
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Comparing Properties ⭐",
+      "question": "Compare the properties of sodium sulfate (Na₂SO₄) and sulfur dioxide (SO₂).\n\nWhich statement correctly describes both compounds?",
+      "options": [
+        "Both are ionic compounds with high melting points",
+        "Both are simple covalent compounds with low melting points",
+        "Na₂SO₄ is ionic with high melting point and conducts when molten; SO₂ is simple covalent with low melting point and does not conduct",
+        "Na₂SO₄ is simple covalent; SO₂ is ionic"
+      ],
+      "answer": "Na₂SO₄ is ionic with high melting point and conducts when molten; SO₂ is simple covalent with low melting point and does not conduct",
+      "points": 15
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "problemSet": "TOPIC 8: Explaining Observations",
+      "question": "A student tests substance X and finds:\n- It has a high melting point\n- It does not conduct electricity as a solid\n- It conducts electricity when dissolved in water\n\nWhat type of substance is X most likely to be?",
+      "options": [
+        "A simple covalent compound",
+        "An ionic compound",
+        "A metal",
+        "A non-polar covalent compound"
+      ],
+      "answer": "An ionic compound",
+      "points": 10
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "problemSet": "TOPIC 8: Explaining Observations",
+      "question": "A student tests substance Y and finds:\n- It has a low boiling point\n- It does not conduct electricity in any state\n- It is insoluble in water\n\nWhat type of substance is Y most likely to be?",
+      "options": [
+        "An ionic compound",
+        "A metal",
+        "A simple covalent compound",
+        "A compound containing polyatomic ions"
+      ],
+      "answer": "A simple covalent compound",
+      "points": 10
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "problemSet": "TOPIC 8: Explaining Observations ⭐",
+      "question": "Potassium nitrate (KNO₃) has the following properties:\n- High melting point\n- Conducts electricity when molten or dissolved in water\n- Contains both K⁺ and NO₃⁻ ions\n\nWhat types of bonding are present, and what holds the compound together?",
+      "options": [
+        "Only covalent bonding; weak intermolecular forces hold it together",
+        "Only ionic bonding between K and N and O atoms",
+        "Covalent bonding within NO₃⁻ ion; ionic bonding (strong electrostatic forces) between K⁺ and NO₃⁻ ions holds the compound together",
+        "Ionic bonding within NO₃⁻ ion; covalent bonding between K⁺ and NO₃⁻"
+      ],
+      "answer": "Covalent bonding within NO₃⁻ ion; ionic bonding (strong electrostatic forces) between K⁺ and NO₃⁻ ions holds the compound together",
+      "points": 15
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "problemSet": "COMPREHENSIVE CHALLENGE: Final Question",
+      "question": "A student is given three substances:\n\n1. Calcium chloride (CaCl₂)\n2. Tetrachloromethane (CCl₄)\n3. Ammonium nitrate (NH₄NO₃)\n\nWhich row correctly describes the bonding and conductivity of each substance?",
+      "options": [
+        "All three are ionic and conduct electricity when molten",
+        "1: Ionic, conducts when molten; 2: Simple covalent, does not conduct; 3: Contains both ionic and covalent bonds, conducts when molten",
+        "1: Covalent, does not conduct; 2: Ionic, conducts when molten; 3: Ionic, does not conduct",
+        "All three are covalent and do not conduct electricity"
+      ],
+      "answer": "1: Ionic, conducts when molten; 2: Simple covalent, does not conduct; 3: Contains both ionic and covalent bonds, conducts when molten",
+      "points": 15
+    }
+  ]
+}

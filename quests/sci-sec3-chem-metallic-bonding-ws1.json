@@ -1,0 +1,708 @@
+{
+  "questTitle": "O-Level Chemistry: Metallic Bonding and Alloys Worksheet 2",
+  "subject": "Chemistry",
+  "difficulty": "Hard",
+  "description": "Master metallic bonding and alloys! This worksheet covers the structure of metals, metallic bonding, properties of metals, formation and properties of alloys, and how structure relates to properties. Understand delocalised electrons, electrical conductivity, malleability, and why alloys are harder than pure metals!",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Metallic Bonding",
+      "question": "What is metallic bonding?",
+      "options": [
+        "The sharing of electrons between metal atoms",
+        "The transfer of electrons from one metal atom to another",
+        "The electrostatic attraction between positive metal ions and a 'sea' of delocalised electrons",
+        "The weak forces between metal molecules"
+      ],
+      "answer": "The electrostatic attraction between positive metal ions and a 'sea' of delocalised electrons",
+      "points": 5
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Metallic Bonding",
+      "question": "In metallic bonding, what happens to the valence electrons of metal atoms?",
+      "options": [
+        "They are transferred to non-metal atoms",
+        "They are shared between two specific metal atoms",
+        "They become delocalised and move freely throughout the metal structure",
+        "They remain fixed around each metal atom"
+      ],
+      "answer": "They become delocalised and move freely throughout the metal structure",
+      "points": 5
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Metallic Structure",
+      "question": "Describe the arrangement of particles in a metallic structure.",
+      "options": [
+        "Metal molecules arranged randomly",
+        "Positive metal ions arranged in a regular lattice, surrounded by a 'sea' of delocalised electrons",
+        "Alternating positive and negative ions in a lattice",
+        "Atoms sharing electrons in a tetrahedral arrangement"
+      ],
+      "answer": "Positive metal ions arranged in a regular lattice, surrounded by a 'sea' of delocalised electrons",
+      "points": 5
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Metallic Structure",
+      "question": "What type of particles are present in a metal structure?",
+      "options": [
+        "Only neutral metal atoms",
+        "Positive metal ions and delocalised electrons",
+        "Positive and negative ions",
+        "Metal molecules"
+      ],
+      "answer": "Positive metal ions and delocalised electrons",
+      "points": 5
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Structure and Bonding in Metals",
+      "question": "When sodium atoms form a metallic structure, what happens to the valence electron of each sodium atom?",
+      "options": [
+        "It is transferred to another sodium atom",
+        "It becomes delocalised and joins the 'sea' of electrons, leaving behind Na⁺ ions",
+        "It is shared with one other sodium atom",
+        "It remains in its original position"
+      ],
+      "answer": "It becomes delocalised and joins the 'sea' of electrons, leaving behind Na⁺ ions",
+      "points": 5
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Structure and Bonding in Metals",
+      "question": "Magnesium has 2 valence electrons. In metallic magnesium, what ions are formed and how many delocalised electrons does each magnesium atom contribute?",
+      "options": [
+        "Mg⁺ ions; 1 delocalised electron per atom",
+        "Mg²⁺ ions; 2 delocalised electrons per atom",
+        "Mg²⁻ ions; 2 electrons gained per atom",
+        "No ions are formed"
+      ],
+      "answer": "Mg²⁺ ions; 2 delocalised electrons per atom",
+      "points": 10
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Structure and Bonding in Metals",
+      "question": "What holds the metal structure together?",
+      "options": [
+        "Covalent bonds between metal atoms",
+        "Weak intermolecular forces",
+        "Strong electrostatic forces of attraction between the positive metal ions and the delocalised electrons",
+        "Ionic bonds between metal ions"
+      ],
+      "answer": "Strong electrostatic forces of attraction between the positive metal ions and the delocalised electrons",
+      "points": 5
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Structure and Bonding in Metals ⭐",
+      "question": "Compare the metallic bonding in sodium (1 valence electron) and magnesium (2 valence electrons). Which would you expect to have stronger metallic bonding?",
+      "options": [
+        "Sodium, because it has fewer electrons",
+        "Magnesium, because Mg²⁺ has a higher charge than Na⁺ and there are more delocalised electrons, resulting in stronger electrostatic attraction",
+        "Both have the same strength of bonding",
+        "Sodium, because it is more reactive"
+      ],
+      "answer": "Magnesium, because Mg²⁺ has a higher charge than Na⁺ and there are more delocalised electrons, resulting in stronger electrostatic attraction",
+      "points": 15
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Properties of Metals - Electrical Conductivity",
+      "question": "Why do metals conduct electricity?",
+      "options": [
+        "Because metal ions can move through the structure",
+        "Because delocalised electrons are free to move throughout the structure and carry charge",
+        "Because metals contain negative ions",
+        "Because metals have weak bonds"
+      ],
+      "answer": "Because delocalised electrons are free to move throughout the structure and carry charge",
+      "points": 5
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Properties of Metals - Electrical Conductivity",
+      "question": "When a metal conducts electricity, what particles actually move to carry the current?",
+      "options": [
+        "Positive metal ions",
+        "Negative metal ions",
+        "Delocalised electrons",
+        "Protons"
+      ],
+      "answer": "Delocalised electrons",
+      "points": 5
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Properties of Metals - Electrical Conductivity",
+      "question": "Copper is used in electrical wiring. Why is copper suitable for this purpose?",
+      "options": [
+        "Copper is magnetic",
+        "Copper has delocalised electrons that can move freely and carry charge, making it a good electrical conductor",
+        "Copper is very hard",
+        "Copper has a low melting point"
+      ],
+      "answer": "Copper has delocalised electrons that can move freely and carry charge, making it a good electrical conductor",
+      "points": 5
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Properties of Metals - Thermal Conductivity",
+      "question": "Why are metals good conductors of heat?",
+      "options": [
+        "Because they have high melting points",
+        "Because delocalised electrons can move and transfer kinetic energy throughout the structure",
+        "Because metal ions vibrate and transfer heat",
+        "Because metals have weak bonds"
+      ],
+      "answer": "Because delocalised electrons can move and transfer kinetic energy throughout the structure",
+      "points": 10
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Properties of Metals - Malleability and Ductility",
+      "question": "Metals are malleable (can be hammered into sheets) and ductile (can be drawn into wires). Why?",
+      "options": [
+        "Because metallic bonds are weak and break easily",
+        "Because when force is applied, layers of metal ions can slide over each other while the delocalised electrons continue to hold the structure together",
+        "Because metals contain molecules that can move",
+        "Because metals have covalent bonds that stretch"
+      ],
+      "answer": "Because when force is applied, layers of metal ions can slide over each other while the delocalised electrons continue to hold the structure together",
+      "points": 10
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Properties of Metals - Malleability and Ductility",
+      "question": "When a metal is bent, what happens to the metallic bonding?",
+      "options": [
+        "All metallic bonds break permanently",
+        "Layers of ions slide over each other, but the delocalised electrons adjust and maintain the metallic bonding",
+        "The metal becomes ionic",
+        "The electrons escape from the metal"
+      ],
+      "answer": "Layers of ions slide over each other, but the delocalised electrons adjust and maintain the metallic bonding",
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Properties of Metals - Melting Point",
+      "question": "Most metals have high melting points. Why?",
+      "options": [
+        "Because metals have weak metallic bonds",
+        "Because a large amount of energy is needed to overcome the strong electrostatic forces of attraction between positive metal ions and delocalised electrons",
+        "Because metals have covalent bonds",
+        "Because metals are very dense"
+      ],
+      "answer": "Because a large amount of energy is needed to overcome the strong electrostatic forces of attraction between positive metal ions and delocalised electrons",
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Properties of Metals ⭐",
+      "question": "Explain why magnesium has a higher melting point than sodium.",
+      "options": [
+        "Magnesium atoms are larger than sodium atoms",
+        "Magnesium has Mg²⁺ ions with a higher charge and more delocalised electrons than sodium (Na⁺), resulting in stronger electrostatic forces of attraction",
+        "Magnesium has weaker metallic bonding",
+        "Sodium has more delocalised electrons"
+      ],
+      "answer": "Magnesium has Mg²⁺ ions with a higher charge and more delocalised electrons than sodium (Na⁺), resulting in stronger electrostatic forces of attraction",
+      "points": 15
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Introduction to Alloys",
+      "question": "What is an alloy?",
+      "options": [
+        "A pure metal",
+        "A compound of two metals",
+        "A mixture of a metal with one or more other elements (usually metals or carbon)",
+        "A metal dissolved in water"
+      ],
+      "answer": "A mixture of a metal with one or more other elements (usually metals or carbon)",
+      "points": 5
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Introduction to Alloys",
+      "question": "Which of the following is an example of an alloy?",
+      "options": [
+        "Pure iron",
+        "Pure copper",
+        "Steel (iron mixed with carbon)",
+        "Sodium chloride"
+      ],
+      "answer": "Steel (iron mixed with carbon)",
+      "points": 5
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Introduction to Alloys",
+      "question": "Bronze is an alloy of copper and tin. Brass is an alloy of copper and zinc. What type of substances are bronze and brass?",
+      "options": [
+        "Pure metals",
+        "Compounds",
+        "Alloys (mixtures of metals)",
+        "Ionic compounds"
+      ],
+      "answer": "Alloys (mixtures of metals)",
+      "points": 5
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Introduction to Alloys",
+      "question": "Steel is made by adding a small amount of carbon to iron. Why is steel considered an alloy?",
+      "options": [
+        "Because steel is a compound of iron and carbon",
+        "Because steel is a mixture of iron with carbon, where carbon atoms are mixed into the iron structure",
+        "Because steel is pure iron",
+        "Because carbon removes impurities from iron"
+      ],
+      "answer": "Because steel is a mixture of iron with carbon, where carbon atoms are mixed into the iron structure",
+      "points": 5
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Structure of Alloys",
+      "question": "In a pure metal, all the metal ions are the same size. What happens in an alloy?",
+      "options": [
+        "All ions remain the same size",
+        "Atoms/ions of different sizes are present in the structure",
+        "The metal becomes a compound",
+        "All atoms become neutral"
+      ],
+      "answer": "Atoms/ions of different sizes are present in the structure",
+      "points": 5
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Structure of Alloys",
+      "question": "In a pure metal, the layers of ions are arranged in a regular pattern. How does adding atoms of a different size (as in an alloy) affect this arrangement?",
+      "options": [
+        "The arrangement becomes more regular",
+        "The different-sized atoms disrupt the regular arrangement of layers",
+        "No change occurs",
+        "The metal becomes liquid"
+      ],
+      "answer": "The different-sized atoms disrupt the regular arrangement of layers",
+      "points": 10
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Structure of Alloys",
+      "question": "Why are alloys generally harder than pure metals?",
+      "options": [
+        "Alloys have weaker metallic bonding",
+        "The different-sized atoms in alloys disrupt the regular arrangement of layers, making it harder for layers to slide over each other",
+        "Alloys contain ionic bonds",
+        "Alloys have fewer delocalised electrons"
+      ],
+      "answer": "The different-sized atoms in alloys disrupt the regular arrangement of layers, making it harder for layers to slide over each other",
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Structure of Alloys ⭐",
+      "question": "In pure iron, layers of Fe²⁺/Fe³⁺ ions can slide over each other easily, making iron relatively soft. When carbon atoms are added to make steel, the steel is harder. Explain why.",
+      "options": [
+        "Carbon atoms make the metallic bonding weaker",
+        "Carbon atoms are different in size from iron atoms/ions, disrupting the regular arrangement and preventing layers from sliding over each other easily",
+        "Carbon atoms remove electrons from the iron",
+        "Carbon atoms form covalent bonds with iron"
+      ],
+      "answer": "Carbon atoms are different in size from iron atoms/ions, disrupting the regular arrangement and preventing layers from sliding over each other easily",
+      "points": 15
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Properties of Alloys vs Pure Metals",
+      "question": "Compare the hardness of pure copper and bronze (copper + tin).",
+      "options": [
+        "Pure copper is harder than bronze",
+        "Bronze is harder than pure copper because tin atoms disrupt the regular arrangement of copper ions",
+        "Both have the same hardness",
+        "Bronze is softer because it contains two metals"
+      ],
+      "answer": "Bronze is harder than pure copper because tin atoms disrupt the regular arrangement of copper ions",
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Properties of Alloys vs Pure Metals",
+      "question": "Pure gold (24 karat) is soft and easily scratched. Jewelry is often made from 18 karat gold (gold mixed with other metals like silver and copper). Why?",
+      "options": [
+        "18 karat gold is cheaper",
+        "18 karat gold is an alloy and is harder than pure gold because the added atoms disrupt the regular arrangement, making it more durable for jewelry",
+        "18 karat gold is softer and easier to shape",
+        "Pure gold is too hard for jewelry"
+      ],
+      "answer": "18 karat gold is an alloy and is harder than pure gold because the added atoms disrupt the regular arrangement, making it more durable for jewelry",
+      "points": 10
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Properties of Alloys vs Pure Metals",
+      "question": "Do alloys conduct electricity?",
+      "options": [
+        "No, because the structure is disrupted",
+        "Yes, because alloys still contain delocalised electrons that can move and carry charge",
+        "Only some alloys conduct electricity",
+        "No, because alloys are not metals"
+      ],
+      "answer": "Yes, because alloys still contain delocalised electrons that can move and carry charge",
+      "points": 5
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Properties of Alloys vs Pure Metals",
+      "question": "Stainless steel (iron + chromium + nickel) is more resistant to rusting than pure iron. This is an example of how alloying can:",
+      "options": [
+        "Decrease the melting point",
+        "Improve specific properties like corrosion resistance",
+        "Make the metal softer",
+        "Reduce electrical conductivity to zero"
+      ],
+      "answer": "Improve specific properties like corrosion resistance",
+      "points": 5
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Properties of Alloys vs Pure Metals ⭐",
+      "question": "Explain why pure aluminium is not used for aircraft construction, but aluminium alloys (e.g., duralumin - aluminium + copper + magnesium) are preferred.",
+      "options": [
+        "Pure aluminium is too expensive",
+        "Pure aluminium is relatively soft and weak; aluminium alloys are harder and stronger because different-sized atoms prevent layers from sliding easily, while remaining lightweight",
+        "Aluminium alloys are lighter than pure aluminium",
+        "Pure aluminium cannot conduct electricity"
+      ],
+      "answer": "Pure aluminium is relatively soft and weak; aluminium alloys are harder and stronger because different-sized atoms prevent layers from sliding easily, while remaining lightweight",
+      "points": 15
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Comparing Metallic Bonding with Other Bonding",
+      "question": "Compare how electrical conductivity occurs in metals and in ionic compounds.",
+      "options": [
+        "Both conduct via movement of ions",
+        "Both conduct via movement of electrons",
+        "Metals conduct via delocalised electrons; ionic compounds conduct (when molten/dissolved) via mobile ions",
+        "Neither can conduct electricity"
+      ],
+      "answer": "Metals conduct via delocalised electrons; ionic compounds conduct (when molten/dissolved) via mobile ions",
+      "points": 10
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Comparing Metallic Bonding with Other Bonding",
+      "question": "Why can metals conduct electricity in the solid state, but ionic compounds cannot?",
+      "options": [
+        "Metals have stronger bonds",
+        "In metals, delocalised electrons are free to move in the solid state; in ionic compounds, ions are fixed in position in the solid lattice",
+        "Ionic compounds have electrons that cannot move",
+        "Metals contain ions while ionic compounds do not"
+      ],
+      "answer": "In metals, delocalised electrons are free to move in the solid state; in ionic compounds, ions are fixed in position in the solid lattice",
+      "points": 10
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Comparing Metallic Bonding with Other Bonding",
+      "question": "Compare why metals are malleable but ionic compounds are brittle.",
+      "options": [
+        "Metals have weaker bonds than ionic compounds",
+        "In metals, layers can slide and electrons adjust to maintain bonding; in ionic compounds, if layers shift, ions of the same charge align and repel, causing the crystal to shatter",
+        "Ionic compounds have stronger bonds",
+        "Metals and ionic compounds are both malleable"
+      ],
+      "answer": "In metals, layers can slide and electrons adjust to maintain bonding; in ionic compounds, if layers shift, ions of the same charge align and repel, causing the crystal to shatter",
+      "points": 15
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Comparing Metallic Bonding with Other Bonding",
+      "question": "Both graphite (giant covalent) and metals can conduct electricity. Compare how they conduct.",
+      "options": [
+        "Both conduct via mobile ions",
+        "Both conduct via delocalised electrons that are free to move",
+        "Graphite conducts via ions; metals conduct via electrons",
+        "Graphite conducts via covalent bonds; metals conduct via ionic bonds"
+      ],
+      "answer": "Both conduct via delocalised electrons that are free to move",
+      "points": 10
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Comparing Metallic Bonding with Other Bonding ⭐",
+      "question": "Compare the bonding, structure, and properties of diamond (giant covalent) and iron (metallic).",
+      "options": [
+        "Both have delocalised electrons and conduct electricity",
+        "Diamond: strong covalent bonds, no free electrons, hard, does not conduct. Iron: metallic bonding (metal ions + delocalised electrons), malleable, conducts electricity",
+        "Both are hard and do not conduct electricity",
+        "Both have layered structures"
+      ],
+      "answer": "Diamond: strong covalent bonds, no free electrons, hard, does not conduct. Iron: metallic bonding (metal ions + delocalised electrons), malleable, conducts electricity",
+      "points": 15
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Applications of Metals and Alloys",
+      "question": "Copper is used for electrical wiring and water pipes. Which properties make it suitable?",
+      "options": [
+        "Low melting point and brittleness",
+        "Good electrical conductivity (delocalised electrons), ductility (can be drawn into wires), and resistance to corrosion",
+        "Hardness and high reactivity",
+        "Low density and poor conductivity"
+      ],
+      "answer": "Good electrical conductivity (delocalised electrons), ductility (can be drawn into wires), and resistance to corrosion",
+      "points": 10
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Applications of Metals and Alloys",
+      "question": "Aluminium is used for aircraft bodies and food packaging. Which properties make it suitable?",
+      "options": [
+        "High density and reactivity",
+        "Low density (lightweight), resistance to corrosion (protective oxide layer), and malleability",
+        "High melting point and hardness",
+        "Good electrical conductivity only"
+      ],
+      "answer": "Low density (lightweight), resistance to corrosion (protective oxide layer), and malleability",
+      "points": 10
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Applications of Metals and Alloys",
+      "question": "Steel is used in construction (buildings, bridges). Why is steel preferred over pure iron?",
+      "options": [
+        "Steel is softer than pure iron",
+        "Steel is harder and stronger than pure iron because carbon atoms disrupt the regular arrangement of iron atoms/ions",
+        "Steel is lighter than pure iron",
+        "Steel does not conduct electricity"
+      ],
+      "answer": "Steel is harder and stronger than pure iron because carbon atoms disrupt the regular arrangement of iron atoms/ions",
+      "points": 10
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Applications of Metals and Alloys",
+      "question": "Solder (traditionally tin + lead) is used to join electrical components. Why is an alloy used rather than a pure metal?",
+      "options": [
+        "Alloys do not conduct electricity",
+        "Alloys can be designed to have specific properties, such as a lower melting point than the pure metals, making them easier to work with",
+        "Pure metals are too expensive",
+        "Alloys are always harder than pure metals"
+      ],
+      "answer": "Alloys can be designed to have specific properties, such as a lower melting point than the pure metals, making them easier to work with",
+      "points": 10
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Applications of Metals and Alloys ⭐",
+      "question": "Titanium alloys are used in hip replacements and aircraft engines. Suggest why titanium alloys are chosen for these applications.",
+      "options": [
+        "Titanium alloys are cheap and soft",
+        "Titanium alloys are strong, lightweight, resistant to corrosion, and biocompatible (for medical implants)",
+        "Titanium alloys are the heaviest alloys available",
+        "Titanium alloys have low melting points"
+      ],
+      "answer": "Titanium alloys are strong, lightweight, resistant to corrosion, and biocompatible (for medical implants)",
+      "points": 10
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "problemSet": "TOPIC 8: Error Analysis",
+      "question": "A student states: 'Metals conduct electricity because metal atoms can move through the structure.' Is this correct?",
+      "options": [
+        "Yes, metal atoms carry the current",
+        "No. Metal ions are fixed in position. Metals conduct because delocalised electrons are free to move through the structure and carry charge",
+        "Yes, both atoms and electrons move",
+        "No, metals cannot conduct electricity"
+      ],
+      "answer": "No. Metal ions are fixed in position. Metals conduct because delocalised electrons are free to move through the structure and carry charge",
+      "points": 10
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "problemSet": "TOPIC 8: Error Analysis",
+      "question": "A student states: 'Alloys are harder than pure metals because alloys have stronger metallic bonding.' Is this correct?",
+      "options": [
+        "Yes, alloying increases the strength of metallic bonds",
+        "No. Alloys are harder because different-sized atoms disrupt the regular arrangement of layers, preventing layers from sliding easily. The strength of metallic bonding is not necessarily increased",
+        "Yes, more electrons means stronger bonding",
+        "No, alloys are softer than pure metals"
+      ],
+      "answer": "No. Alloys are harder because different-sized atoms disrupt the regular arrangement of layers, preventing layers from sliding easily. The strength of metallic bonding is not necessarily increased",
+      "points": 10
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "problemSet": "TOPIC 8: Error Analysis",
+      "question": "A student states: 'Steel is a compound of iron and carbon.' Is this correct?",
+      "options": [
+        "Yes, steel has a fixed formula",
+        "No. Steel is an alloy (mixture) of iron with a small amount of carbon. The composition can vary, and no chemical bonds form between iron and carbon",
+        "Yes, iron and carbon react chemically",
+        "No, steel contains no carbon"
+      ],
+      "answer": "No. Steel is an alloy (mixture) of iron with a small amount of carbon. The composition can vary, and no chemical bonds form between iron and carbon",
+      "points": 10
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "problemSet": "TOPIC 8: Error Analysis ⭐",
+      "question": "A student states: 'Metals are malleable because metallic bonds are weak.' Identify and correct the error.",
+      "options": [
+        "The statement is correct",
+        "Error: Metallic bonds are strong, not weak. Metals are malleable because layers of ions can slide over each other while delocalised electrons adjust to maintain the bonding",
+        "Error: Metals are not malleable",
+        "Error: Metallic bonds do not exist"
+      ],
+      "answer": "Error: Metallic bonds are strong, not weak. Metals are malleable because layers of ions can slide over each other while delocalised electrons adjust to maintain the bonding",
+      "points": 10
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "problemSet": "TOPIC 9: Summary Comparisons",
+      "question": "Complete the comparison:\n\n| Property | Pure Metal | Alloy |\n|----------|------------|-------|\n| Arrangement of atoms | Regular | ? |\n| Hardness | ? | Usually harder |",
+      "options": [
+        "Alloy: Regular; Pure metal hardness: Harder than alloy",
+        "Alloy: Disrupted/irregular (different-sized atoms); Pure metal hardness: Softer (layers slide easily)",
+        "Alloy: Regular; Pure metal hardness: Same as alloy",
+        "Alloy: Layers present; Pure metal hardness: Very hard"
+      ],
+      "answer": "Alloy: Disrupted/irregular (different-sized atoms); Pure metal hardness: Softer (layers slide easily)",
+      "points": 10
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "problemSet": "TOPIC 9: Summary Comparisons",
+      "question": "Compare the electrical conductivity of:\n\nA: Copper (metal)\nB: Diamond (giant covalent)\nC: Sodium chloride solution (ionic)",
+      "options": [
+        "All three conduct via the same mechanism",
+        "A: Conducts (delocalised electrons); B: Does not conduct (no free electrons); C: Conducts (mobile ions)",
+        "None of them conduct electricity",
+        "A: Does not conduct; B: Conducts; C: Does not conduct"
+      ],
+      "answer": "A: Conducts (delocalised electrons); B: Does not conduct (no free electrons); C: Conducts (mobile ions)",
+      "points": 10
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "problemSet": "COMPREHENSIVE CHALLENGE",
+      "question": "Explain, in terms of structure and bonding, why copper is used for electrical wiring while steel is used for construction.",
+      "options": [
+        "Both have the same properties but different costs",
+        "Copper: excellent electrical conductor (delocalised electrons), ductile (can be drawn into wires). Steel: hard and strong (carbon atoms disrupt iron structure, preventing layers from sliding), suitable for load-bearing structures",
+        "Steel conducts electricity better than copper",
+        "Copper is harder than steel"
+      ],
+      "answer": "Copper: excellent electrical conductor (delocalised electrons), ductile (can be drawn into wires). Steel: hard and strong (carbon atoms disrupt iron structure, preventing layers from sliding), suitable for load-bearing structures",
+      "points": 15
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "problemSet": "COMPREHENSIVE CHALLENGE",
+      "question": "A pure metal X is soft and conducts electricity. When a small amount of element Y is added, the resulting alloy is much harder but still conducts electricity. Explain these observations.",
+      "options": [
+        "Element Y increases the number of delocalised electrons",
+        "In pure metal X, layers of ions slide easily (soft), and delocalised electrons allow conduction. Adding Y introduces different-sized atoms that disrupt the regular arrangement (harder), but delocalised electrons are still present (still conducts)",
+        "Element Y removes all delocalised electrons",
+        "The alloy becomes ionic"
+      ],
+      "answer": "In pure metal X, layers of ions slide easily (soft), and delocalised electrons allow conduction. Adding Y introduces different-sized atoms that disrupt the regular arrangement (harder), but delocalised electrons are still present (still conducts)",
+      "points": 15
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "problemSet": "COMPREHENSIVE CHALLENGE",
+      "question": "Compare the structure and bonding in:\n\n1. Graphite (giant covalent)\n2. Copper (metallic)\n\nBoth conduct electricity. Explain the similarities and differences.",
+      "options": [
+        "Both have identical structures",
+        "Both conduct via delocalised electrons. Graphite: carbon atoms in layers with delocalised electrons between layers. Copper: Cu⁺ ions in a lattice with delocalised electrons throughout. Graphite has weak forces between layers (soft); copper has metallic bonding throughout (malleable)",
+        "Graphite has metallic bonding; copper has covalent bonding",
+        "Neither actually conducts electricity"
+      ],
+      "answer": "Both conduct via delocalised electrons. Graphite: carbon atoms in layers with delocalised electrons between layers. Copper: Cu⁺ ions in a lattice with delocalised electrons throughout. Graphite has weak forces between layers (soft); copper has metallic bonding throughout (malleable)",
+      "points": 15
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "problemSet": "COMPREHENSIVE CHALLENGE",
+      "question": "A jeweler wants to make a ring that is durable and does not scratch easily. Should they use pure gold (24 karat) or 18 karat gold (alloy with silver and copper)? Explain.",
+      "options": [
+        "Pure gold, because it is more valuable",
+        "18 karat gold, because the added silver and copper atoms disrupt the regular arrangement of gold atoms, making it harder and more scratch-resistant while maintaining the gold appearance",
+        "Pure gold, because alloys are too soft",
+        "18 karat gold, because it has stronger metallic bonds"
+      ],
+      "answer": "18 karat gold, because the added silver and copper atoms disrupt the regular arrangement of gold atoms, making it harder and more scratch-resistant while maintaining the gold appearance",
+      "points": 15
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "problemSet": "COMPREHENSIVE CHALLENGE",
+      "question": "A student is asked to classify substances based on their bonding and structure. Match each substance with its correct description:\n\n1. Iron\n2. Steel\n3. Diamond\n4. Graphite",
+      "options": [
+        "1: Giant covalent; 2: Alloy; 3: Metallic; 4: Ionic",
+        "1: Metallic (pure metal); 2: Metallic (alloy - iron + carbon); 3: Giant covalent (4 bonds per C, hard, doesn't conduct); 4: Giant covalent (3 bonds per C, layered, conducts)",
+        "1: Ionic; 2: Covalent; 3: Metallic; 4: Simple molecular",
+        "All are metallic structures"
+      ],
+      "answer": "1: Metallic (pure metal); 2: Metallic (alloy - iron + carbon); 3: Giant covalent (4 bonds per C, hard, doesn't conduct); 4: Giant covalent (3 bonds per C, layered, conducts)",
+      "points": 15
+    }
+  ]
+}

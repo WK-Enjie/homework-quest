@@ -1,0 +1,708 @@
+{
+  "questTitle": "O-Level Chemistry: Giant Covalent Structures - Allotropes of Carbon Worksheet 1",
+  "subject": "Chemistry",
+  "difficulty": "Hard",
+  "description": "Master giant covalent structures! This worksheet focuses on allotropes of carbon (diamond and graphite), their structures, bonding, properties, and applications. Understand how structure relates to properties including hardness, electrical conductivity, and use as lubricants. Show clear reasoning!",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Giant Covalent Structures",
+      "question": "What is a giant covalent structure?",
+      "options": [
+        "A structure made up of small molecules held together by weak forces",
+        "A structure where millions of atoms are joined together by strong covalent bonds in a continuous network",
+        "A structure made up of positive ions surrounded by delocalised electrons",
+        "A structure where positive and negative ions are arranged in a lattice"
+      ],
+      "answer": "A structure where millions of atoms are joined together by strong covalent bonds in a continuous network",
+      "points": 5
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Giant Covalent Structures",
+      "question": "Why do giant covalent substances generally have very high melting and boiling points?",
+      "options": [
+        "Because they have weak intermolecular forces that are easy to overcome",
+        "Because a large amount of energy is required to break the many strong covalent bonds throughout the structure",
+        "Because they contain ionic bonds",
+        "Because they have delocalised electrons"
+      ],
+      "answer": "Because a large amount of energy is required to break the many strong covalent bonds throughout the structure",
+      "points": 5
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Allotropes",
+      "question": "What are allotropes?",
+      "options": [
+        "Different compounds formed by the same elements",
+        "Different physical forms of the same element in the same physical state, with different structural arrangements of atoms",
+        "Isotopes of the same element",
+        "Different elements with similar properties"
+      ],
+      "answer": "Different physical forms of the same element in the same physical state, with different structural arrangements of atoms",
+      "points": 5
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Allotropes",
+      "question": "Diamond and graphite are both allotropes of carbon. What does this mean?",
+      "options": [
+        "They are different compounds containing carbon",
+        "They are both made only of carbon atoms but have different structural arrangements",
+        "They have the same structure but different properties",
+        "They are isotopes of carbon"
+      ],
+      "answer": "They are both made only of carbon atoms but have different structural arrangements",
+      "points": 5
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Structure of Diamond",
+      "question": "In diamond, how many other carbon atoms is each carbon atom bonded to?",
+      "options": [
+        "2 carbon atoms",
+        "3 carbon atoms",
+        "4 carbon atoms",
+        "6 carbon atoms"
+      ],
+      "answer": "4 carbon atoms",
+      "points": 5
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Structure of Diamond",
+      "question": "What type of bonding exists between carbon atoms in diamond?",
+      "options": [
+        "Ionic bonding",
+        "Metallic bonding",
+        "Strong covalent bonding",
+        "Weak intermolecular forces"
+      ],
+      "answer": "Strong covalent bonding",
+      "points": 5
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Structure of Diamond",
+      "question": "Describe the overall structure of diamond.",
+      "options": [
+        "Layers of carbon atoms with weak forces between layers",
+        "A giant three-dimensional tetrahedral network where each carbon atom is covalently bonded to 4 other carbon atoms",
+        "Small molecules of carbon arranged in a lattice",
+        "Rings of 6 carbon atoms stacked on top of each other"
+      ],
+      "answer": "A giant three-dimensional tetrahedral network where each carbon atom is covalently bonded to 4 other carbon atoms",
+      "points": 5
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Structure of Diamond",
+      "question": "In diamond, how many valence electrons does each carbon atom have, and how are they used?",
+      "options": [
+        "4 valence electrons; all 4 are used in covalent bonding with neighbouring carbon atoms",
+        "4 valence electrons; 3 are used in bonding, 1 is delocalised",
+        "6 valence electrons; 4 are used in bonding",
+        "4 valence electrons; 2 are used in bonding, 2 are lone pairs"
+      ],
+      "answer": "4 valence electrons; all 4 are used in covalent bonding with neighbouring carbon atoms",
+      "points": 10
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Structure of Diamond ⭐",
+      "question": "Why does diamond have no free electrons?",
+      "options": [
+        "Carbon atoms have no valence electrons",
+        "All 4 valence electrons of each carbon atom are involved in forming covalent bonds, leaving no free or delocalised electrons",
+        "The electrons are transferred to other carbon atoms",
+        "Diamond is an ionic compound so has no electrons"
+      ],
+      "answer": "All 4 valence electrons of each carbon atom are involved in forming covalent bonds, leaving no free or delocalised electrons",
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Properties of Diamond",
+      "question": "Diamond is the hardest known natural substance. Explain why.",
+      "options": [
+        "Diamond has weak intermolecular forces that make it rigid",
+        "Each carbon atom is strongly covalently bonded to 4 other carbon atoms in a rigid 3D tetrahedral structure, making it very difficult to break or deform",
+        "Diamond contains metallic bonds which are very strong",
+        "Diamond has ionic bonds throughout its structure"
+      ],
+      "answer": "Each carbon atom is strongly covalently bonded to 4 other carbon atoms in a rigid 3D tetrahedral structure, making it very difficult to break or deform",
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Properties of Diamond",
+      "question": "Diamond has a very high melting point (about 3550°C). Why?",
+      "options": [
+        "Diamond has strong intermolecular forces between molecules",
+        "A very large amount of energy is required to break the many strong covalent bonds throughout the giant covalent structure",
+        "Diamond contains ionic bonds which require lots of energy to break",
+        "Diamond has delocalised electrons that hold the structure together"
+      ],
+      "answer": "A very large amount of energy is required to break the many strong covalent bonds throughout the giant covalent structure",
+      "points": 10
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Properties of Diamond",
+      "question": "Does diamond conduct electricity? Explain.",
+      "options": [
+        "Yes, because it contains carbon atoms which have electrons",
+        "Yes, because it has delocalised electrons that can move",
+        "No, because all valence electrons are used in covalent bonding and there are no free/delocalised electrons or ions to carry charge",
+        "No, because diamond is a gas at room temperature"
+      ],
+      "answer": "No, because all valence electrons are used in covalent bonding and there are no free/delocalised electrons or ions to carry charge",
+      "points": 10
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Properties of Diamond",
+      "question": "Diamond is used in cutting tools and drill bits. Which property makes it suitable for this use?",
+      "options": [
+        "Its ability to conduct electricity",
+        "Its extreme hardness due to its strong 3D covalent network structure",
+        "Its low melting point",
+        "Its layered structure"
+      ],
+      "answer": "Its extreme hardness due to its strong 3D covalent network structure",
+      "points": 5
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Properties of Diamond ⭐",
+      "question": "A student claims: 'Diamond is hard because carbon-carbon bonds are the strongest bonds.' Is this reasoning complete?",
+      "options": [
+        "Yes, this is the only reason",
+        "No. While C-C bonds are strong, diamond's hardness is also due to each carbon forming 4 bonds in a rigid 3D tetrahedral arrangement with no weak points or layers",
+        "No, diamond is hard because it has ionic bonds",
+        "No, diamond is hard because of delocalised electrons"
+      ],
+      "answer": "No. While C-C bonds are strong, diamond's hardness is also due to each carbon forming 4 bonds in a rigid 3D tetrahedral arrangement with no weak points or layers",
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Structure of Graphite",
+      "question": "In graphite, how many other carbon atoms is each carbon atom bonded to?",
+      "options": [
+        "2 carbon atoms",
+        "3 carbon atoms",
+        "4 carbon atoms",
+        "6 carbon atoms"
+      ],
+      "answer": "3 carbon atoms",
+      "points": 5
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Structure of Graphite",
+      "question": "Describe the arrangement of carbon atoms within each layer of graphite.",
+      "options": [
+        "Carbon atoms are arranged randomly",
+        "Carbon atoms are arranged in a tetrahedral structure",
+        "Carbon atoms are arranged in flat hexagonal rings (honeycomb pattern)",
+        "Carbon atoms are arranged in square rings"
+      ],
+      "answer": "Carbon atoms are arranged in flat hexagonal rings (honeycomb pattern)",
+      "points": 5
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Structure of Graphite",
+      "question": "What type of bonding exists between carbon atoms within each layer of graphite?",
+      "options": [
+        "Weak intermolecular forces",
+        "Ionic bonding",
+        "Strong covalent bonding",
+        "Metallic bonding"
+      ],
+      "answer": "Strong covalent bonding",
+      "points": 5
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Structure of Graphite",
+      "question": "What holds the layers of graphite together?",
+      "options": [
+        "Strong covalent bonds between layers",
+        "Weak intermolecular forces of attraction between layers",
+        "Ionic bonds between layers",
+        "Metallic bonds between layers"
+      ],
+      "answer": "Weak intermolecular forces of attraction between layers",
+      "points": 5
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Structure of Graphite",
+      "question": "Each carbon atom in graphite has 4 valence electrons but only forms 3 covalent bonds. What happens to the fourth electron?",
+      "options": [
+        "It is lost to form a positive ion",
+        "It remains as a lone pair on the carbon atom",
+        "It becomes delocalised and can move freely along the layers",
+        "It forms an ionic bond with another carbon atom"
+      ],
+      "answer": "It becomes delocalised and can move freely along the layers",
+      "points": 10
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Structure of Graphite ⭐",
+      "question": "Compare the bonding within layers and between layers in graphite.",
+      "options": [
+        "Strong covalent bonds within layers; strong covalent bonds between layers",
+        "Weak intermolecular forces within layers; strong covalent bonds between layers",
+        "Strong covalent bonds within layers (each C bonded to 3 others); weak intermolecular forces of attraction between layers",
+        "Ionic bonds within layers; covalent bonds between layers"
+      ],
+      "answer": "Strong covalent bonds within layers (each C bonded to 3 others); weak intermolecular forces of attraction between layers",
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Properties of Graphite - Melting Point",
+      "question": "Graphite has a very high melting point (about 3600°C). Why?",
+      "options": [
+        "Because the layers are held together by strong forces",
+        "Because a large amount of energy is needed to break the strong covalent bonds between carbon atoms within the layers",
+        "Because graphite contains ionic bonds",
+        "Because graphite has weak intermolecular forces"
+      ],
+      "answer": "Because a large amount of energy is needed to break the strong covalent bonds between carbon atoms within the layers",
+      "points": 10
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Properties of Graphite - Softness and Lubrication",
+      "question": "Why is graphite soft and slippery?",
+      "options": [
+        "Because the covalent bonds within layers are weak",
+        "Because the layers are held together by weak intermolecular forces, allowing layers to slide over each other easily",
+        "Because graphite has a low melting point",
+        "Because graphite contains delocalised electrons that make it slippery"
+      ],
+      "answer": "Because the layers are held together by weak intermolecular forces, allowing layers to slide over each other easily",
+      "points": 10
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Properties of Graphite - Softness and Lubrication",
+      "question": "Graphite is used as a lubricant in machinery. Which structural feature makes it suitable for this use?",
+      "options": [
+        "Its strong covalent bonds within layers",
+        "Its layered structure with weak intermolecular forces between layers, allowing layers to slide over each other easily",
+        "Its delocalised electrons",
+        "Its tetrahedral structure"
+      ],
+      "answer": "Its layered structure with weak intermolecular forces between layers, allowing layers to slide over each other easily",
+      "points": 5
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Properties of Graphite - Electrical Conductivity",
+      "question": "Can graphite conduct electricity? Explain.",
+      "options": [
+        "No, because graphite is a non-metal",
+        "No, because graphite has no charged particles",
+        "Yes, because each carbon atom has one delocalised electron that is free to move along the layers and carry charge",
+        "Yes, because graphite contains ions"
+      ],
+      "answer": "Yes, because each carbon atom has one delocalised electron that is free to move along the layers and carry charge",
+      "points": 10
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Properties of Graphite - Electrical Conductivity",
+      "question": "Graphite is used in electrodes. Why is it suitable for this purpose?",
+      "options": [
+        "Because it has a low melting point",
+        "Because it can conduct electricity due to delocalised electrons, and has a high melting point so won't melt during use",
+        "Because it is very hard",
+        "Because it is an insulator"
+      ],
+      "answer": "Because it can conduct electricity due to delocalised electrons, and has a high melting point so won't melt during use",
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Properties of Graphite - Uses",
+      "question": "Graphite is used in pencil 'leads'. Which property is most relevant?",
+      "options": [
+        "Its high electrical conductivity",
+        "Its softness and ability to leave marks as layers slide off onto paper",
+        "Its high melting point",
+        "Its hardness"
+      ],
+      "answer": "Its softness and ability to leave marks as layers slide off onto paper",
+      "points": 5
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Properties of Graphite ⭐",
+      "question": "A student states: 'Graphite can conduct electricity because it contains carbon atoms.' Is this explanation correct?",
+      "options": [
+        "Yes, all carbon-containing substances conduct electricity",
+        "No. Graphite conducts because each carbon is bonded to only 3 others, leaving one delocalised electron per carbon atom that is free to move and carry charge",
+        "No, graphite cannot conduct electricity",
+        "Yes, carbon atoms contain protons which carry charge"
+      ],
+      "answer": "No. Graphite conducts because each carbon is bonded to only 3 others, leaving one delocalised electron per carbon atom that is free to move and carry charge",
+      "points": 10
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Comparing Diamond and Graphite",
+      "question": "Both diamond and graphite are made entirely of carbon atoms. Why do they have such different properties?",
+      "options": [
+        "They contain different isotopes of carbon",
+        "They have different structural arrangements of carbon atoms",
+        "Diamond contains impurities while graphite is pure",
+        "They have different types of carbon atoms"
+      ],
+      "answer": "They have different structural arrangements of carbon atoms",
+      "points": 5
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Comparing Diamond and Graphite",
+      "question": "Compare the number of covalent bonds each carbon atom forms in diamond and graphite.",
+      "options": [
+        "Diamond: 3 bonds; Graphite: 4 bonds",
+        "Diamond: 4 bonds; Graphite: 3 bonds",
+        "Both: 4 bonds",
+        "Both: 3 bonds"
+      ],
+      "answer": "Diamond: 4 bonds; Graphite: 3 bonds",
+      "points": 5
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Comparing Diamond and Graphite",
+      "question": "Compare the hardness of diamond and graphite, and explain the difference.",
+      "options": [
+        "Both are equally hard because both have strong covalent bonds",
+        "Diamond is very hard (rigid 3D structure with no weak points); graphite is soft (layers can slide over each other due to weak intermolecular forces between layers)",
+        "Graphite is harder because it has delocalised electrons",
+        "Diamond is soft; graphite is hard"
+      ],
+      "answer": "Diamond is very hard (rigid 3D structure with no weak points); graphite is soft (layers can slide over each other due to weak intermolecular forces between layers)",
+      "points": 10
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Comparing Diamond and Graphite",
+      "question": "Compare the electrical conductivity of diamond and graphite.",
+      "options": [
+        "Both conduct electricity due to delocalised electrons",
+        "Neither conducts electricity",
+        "Diamond does not conduct (no free electrons); graphite conducts (has delocalised electrons)",
+        "Diamond conducts; graphite does not conduct"
+      ],
+      "answer": "Diamond does not conduct (no free electrons); graphite conducts (has delocalised electrons)",
+      "points": 10
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Comparing Diamond and Graphite",
+      "question": "Both diamond and graphite have very high melting points. Why is this, despite their other different properties?",
+      "options": [
+        "Both have ionic bonds that need lots of energy to break",
+        "Both have strong covalent bonds between carbon atoms within their structures that require a large amount of energy to break",
+        "Both have metallic bonding",
+        "Both have weak intermolecular forces"
+      ],
+      "answer": "Both have strong covalent bonds between carbon atoms within their structures that require a large amount of energy to break",
+      "points": 10
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Comparing Diamond and Graphite ⭐",
+      "question": "Complete the comparison table:\n\n| Property | Diamond | Graphite |\n|----------|---------|----------|\n| Bonds per C atom | ? | ? |\n| Delocalised electrons | ? | ? |\n| Hardness | ? | ? |\n| Electrical conductivity | ? | ? |",
+      "options": [
+        "Diamond: 4, Yes, Soft, Conducts; Graphite: 3, No, Hard, Does not conduct",
+        "Diamond: 4, No, Hard, Does not conduct; Graphite: 3, Yes, Soft, Conducts",
+        "Diamond: 3, Yes, Soft, Conducts; Graphite: 4, No, Hard, Does not conduct",
+        "Diamond: 4, No, Soft, Conducts; Graphite: 3, Yes, Hard, Does not conduct"
+      ],
+      "answer": "Diamond: 4, No, Hard, Does not conduct; Graphite: 3, Yes, Soft, Conducts",
+      "points": 15
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Similar Structures - Applying Concepts",
+      "question": "Boron nitride (BN) exists in a form similar to graphite, with layers of hexagonal rings. Based on this structure, predict whether this form of boron nitride would be a good lubricant.",
+      "options": [
+        "No, because it contains nitrogen",
+        "Yes, because like graphite, it has a layered structure with weak intermolecular forces between layers, allowing layers to slide over each other",
+        "No, because it would be too hard",
+        "Yes, because it can conduct electricity"
+      ],
+      "answer": "Yes, because like graphite, it has a layered structure with weak intermolecular forces between layers, allowing layers to slide over each other",
+      "points": 10
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Similar Structures - Applying Concepts",
+      "question": "Silicon carbide (SiC) has a structure similar to diamond, where each silicon atom is covalently bonded to 4 carbon atoms in a tetrahedral arrangement. Predict its hardness.",
+      "options": [
+        "Very soft, because it contains silicon",
+        "Very hard, because like diamond, it has a rigid 3D network of strong covalent bonds",
+        "Moderately hard, because carbon is harder than silicon",
+        "Soft, because the layers can slide"
+      ],
+      "answer": "Very hard, because like diamond, it has a rigid 3D network of strong covalent bonds",
+      "points": 10
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Similar Structures - Applying Concepts",
+      "question": "A substance has the following properties:\n- Very high melting point\n- Layered structure with hexagonal rings\n- Layers can slide over each other\n- Conducts electricity\n\nWhich structure is it most similar to?",
+      "options": [
+        "Diamond",
+        "Graphite",
+        "Sodium chloride",
+        "Simple covalent molecule"
+      ],
+      "answer": "Graphite",
+      "points": 5
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Similar Structures - Applying Concepts",
+      "question": "A substance has a structure where each atom is bonded to 4 other atoms in a tetrahedral arrangement, with all valence electrons used in bonding. Predict its electrical conductivity.",
+      "options": [
+        "Good conductor, because it has many electrons",
+        "Does not conduct, because all valence electrons are used in bonding with no delocalised electrons",
+        "Conducts when molten only",
+        "Conducts when dissolved in water"
+      ],
+      "answer": "Does not conduct, because all valence electrons are used in bonding with no delocalised electrons",
+      "points": 10
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Similar Structures - Applying Concepts ⭐",
+      "question": "Molybdenum disulfide (MoS₂) has a layered structure similar to graphite, with strong bonds within layers and weak forces between layers. Predict its properties and uses.",
+      "options": [
+        "Hard and used in cutting tools",
+        "Soft and slippery; can be used as a lubricant because layers can slide over each other due to weak intermolecular forces between layers",
+        "Low melting point; used as a fuel",
+        "Soluble in water; used as a cleaning agent"
+      ],
+      "answer": "Soft and slippery; can be used as a lubricant because layers can slide over each other due to weak intermolecular forces between layers",
+      "points": 15
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Explaining Observations",
+      "question": "Diamond is used in jewelry while graphite is used in pencils. Explain why they are suitable for these different uses.",
+      "options": [
+        "Diamond is shiny and very hard (doesn't scratch easily); graphite is soft and leaves marks as layers slide off",
+        "Both are equally suitable for either use",
+        "Diamond is cheap; graphite is expensive",
+        "Diamond is soft; graphite is hard"
+      ],
+      "answer": "Diamond is shiny and very hard (doesn't scratch easily); graphite is soft and leaves marks as layers slide off",
+      "points": 10
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Explaining Observations",
+      "question": "Graphite is used as electrodes in electrolysis while diamond is not. Explain why.",
+      "options": [
+        "Diamond is too expensive",
+        "Graphite can conduct electricity (delocalised electrons) while diamond cannot (no free electrons)",
+        "Diamond has a lower melting point",
+        "Graphite is harder than diamond"
+      ],
+      "answer": "Graphite can conduct electricity (delocalised electrons) while diamond cannot (no free electrons)",
+      "points": 10
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Explaining Observations",
+      "question": "Both diamond and graphite remain solid at very high temperatures. Explain why both have very high melting points.",
+      "options": [
+        "Both contain weak intermolecular forces",
+        "Both have giant covalent structures with many strong covalent bonds that require a large amount of energy to break",
+        "Both contain ionic bonds",
+        "Both contain metallic bonds"
+      ],
+      "answer": "Both have giant covalent structures with many strong covalent bonds that require a large amount of energy to break",
+      "points": 10
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Explaining Observations ⭐",
+      "question": "A student rubs a graphite pencil on paper and observes that grey marks are left behind. Another student tries to scratch diamond with steel and observes no marks on the diamond. Explain both observations in terms of structure.",
+      "options": [
+        "Graphite is wet; diamond is dry",
+        "Graphite has weak intermolecular forces between layers allowing layers to slide off onto paper; diamond has a rigid 3D structure with no weak points, making it harder than steel",
+        "Both are due to the colour of the substances",
+        "Graphite has more carbon atoms than diamond"
+      ],
+      "answer": "Graphite has weak intermolecular forces between layers allowing layers to slide off onto paper; diamond has a rigid 3D structure with no weak points, making it harder than steel",
+      "points": 15
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "problemSet": "TOPIC 8: Error Analysis",
+      "question": "A student states: 'Graphite is soft because it has weak covalent bonds between carbon atoms.' Is this correct?",
+      "options": [
+        "Yes, graphite has weak covalent bonds",
+        "No. The covalent bonds within layers are strong. Graphite is soft because the layers are held together by weak intermolecular forces, allowing them to slide over each other",
+        "Yes, all bonds in graphite are weak",
+        "No, graphite is actually very hard"
+      ],
+      "answer": "No. The covalent bonds within layers are strong. Graphite is soft because the layers are held together by weak intermolecular forces, allowing them to slide over each other",
+      "points": 10
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "problemSet": "TOPIC 8: Error Analysis",
+      "question": "A student states: 'Diamond cannot conduct electricity because it is a non-metal.' Is this explanation complete?",
+      "options": [
+        "Yes, non-metals never conduct electricity",
+        "No. The correct explanation is that all 4 valence electrons of each carbon are used in covalent bonding, leaving no free/delocalised electrons to carry charge. (Graphite is also a non-metal but conducts)",
+        "Yes, only metals conduct electricity",
+        "No, diamond can conduct electricity"
+      ],
+      "answer": "No. The correct explanation is that all 4 valence electrons of each carbon are used in covalent bonding, leaving no free/delocalised electrons to carry charge. (Graphite is also a non-metal but conducts)",
+      "points": 10
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "problemSet": "TOPIC 8: Error Analysis",
+      "question": "A student states: 'Diamond has a higher melting point than graphite because diamond has 4 bonds per carbon while graphite only has 3.' Is this reasoning valid?",
+      "options": [
+        "Yes, more bonds always means higher melting point",
+        "No. Both have very similar high melting points because both have strong covalent bonds. The number of bonds per atom is not the only factor",
+        "Yes, this is the correct explanation",
+        "No, graphite has a higher melting point than diamond"
+      ],
+      "answer": "No. Both have very similar high melting points because both have strong covalent bonds. The number of bonds per atom is not the only factor",
+      "points": 10
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "problemSet": "COMPREHENSIVE CHALLENGE",
+      "question": "Explain why graphite can conduct electricity but diamond cannot, even though both are made of carbon atoms.",
+      "options": [
+        "Graphite contains different carbon atoms than diamond",
+        "In graphite, each carbon forms 3 bonds, leaving 1 delocalised electron per carbon that is free to move and carry charge. In diamond, each carbon forms 4 bonds, using all valence electrons, so there are no free electrons",
+        "Diamond is harder so electrons cannot move",
+        "Graphite contains impurities that conduct electricity"
+      ],
+      "answer": "In graphite, each carbon forms 3 bonds, leaving 1 delocalised electron per carbon that is free to move and carry charge. In diamond, each carbon forms 4 bonds, using all valence electrons, so there are no free electrons",
+      "points": 15
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "problemSet": "COMPREHENSIVE CHALLENGE",
+      "question": "Explain why graphite is used as a lubricant while diamond is used in cutting tools.",
+      "options": [
+        "Diamond is cheaper than graphite",
+        "Graphite has a layered structure with weak intermolecular forces between layers (layers slide easily = good lubricant); diamond has a rigid 3D structure with strong bonds in all directions (extremely hard = good for cutting)",
+        "Both are actually used for the same purposes",
+        "Graphite is harder than diamond"
+      ],
+      "answer": "Graphite has a layered structure with weak intermolecular forces between layers (layers slide easily = good lubricant); diamond has a rigid 3D structure with strong bonds in all directions (extremely hard = good for cutting)",
+      "points": 15
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "problemSet": "COMPREHENSIVE CHALLENGE",
+      "question": "A new material is discovered with the following structure:\n- Each atom is bonded to 3 other atoms in hexagonal layers\n- Layers are held together by weak intermolecular forces\n- One electron per atom is delocalised\n\nPredict THREE properties of this material.",
+      "options": [
+        "Hard, does not conduct, low melting point",
+        "Soft/slippery (layers can slide), conducts electricity (delocalised electrons), high melting point (strong covalent bonds within layers)",
+        "Hard, conducts electricity, low melting point",
+        "Soft, does not conduct, low melting point"
+      ],
+      "answer": "Soft/slippery (layers can slide), conducts electricity (delocalised electrons), high melting point (strong covalent bonds within layers)",
+      "points": 15
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "problemSet": "COMPREHENSIVE CHALLENGE",
+      "question": "Compare giant covalent structures (like diamond) with simple covalent structures (like carbon dioxide, CO₂) in terms of melting point and structure.",
+      "options": [
+        "Both have low melting points due to weak bonds",
+        "Both have high melting points due to strong covalent bonds",
+        "Giant covalent: high MP (must break many strong covalent bonds); Simple covalent: low MP (only weak intermolecular forces between molecules need to be overcome)",
+        "Giant covalent: low MP; Simple covalent: high MP"
+      ],
+      "answer": "Giant covalent: high MP (must break many strong covalent bonds); Simple covalent: low MP (only weak intermolecular forces between molecules need to be overcome)",
+      "points": 15
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "problemSet": "COMPREHENSIVE CHALLENGE",
+      "question": "A substance X has the following properties:\n- Melting point: 3550°C\n- Does not conduct electricity\n- Extremely hard\n- Made of only one type of atom, each bonded to 4 others\n\nIdentify substance X and explain how its structure leads to these properties.",
+      "options": [
+        "Graphite; layered structure with delocalised electrons",
+        "Diamond; giant covalent structure where each carbon is bonded to 4 others in a rigid 3D network. High MP due to strong covalent bonds. Hard due to rigid structure with no weak points. Does not conduct as all electrons used in bonding",
+        "Sodium chloride; ionic structure with strong electrostatic forces",
+        "Silicon dioxide; ionic structure"
+      ],
+      "answer": "Diamond; giant covalent structure where each carbon is bonded to 4 others in a rigid 3D network. High MP due to strong covalent bonds. Hard due to rigid structure with no weak points. Does not conduct as all electrons used in bonding",
+      "points": 15
+    }
+  ]
+}
