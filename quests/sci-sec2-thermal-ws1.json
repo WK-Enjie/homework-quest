@@ -1,0 +1,708 @@
+{
+  "questTitle": "O-Level Physics: Effects of Heating - Expansion and Contraction Worksheet 2",
+  "subject": "Physics",
+  "difficulty": "Hard",
+  "description": "Master the effects of heating! This worksheet covers thermal expansion and contraction in solids, liquids, and gases, particle theory explanations, applications, problems caused by expansion, and practical examples. Show clear understanding of concepts!",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Thermal Expansion Basics",
+      "question": "What generally happens to the size of most substances when they are heated?",
+      "options": [
+        "They contract (get smaller)",
+        "They expand (get larger)",
+        "They stay the same size",
+        "They only change shape, not size"
+      ],
+      "answer": "They expand (get larger)",
+      "points": 5
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Thermal Expansion Basics",
+      "question": "What generally happens to the size of most substances when they are cooled?",
+      "options": [
+        "They expand",
+        "They contract (get smaller)",
+        "They stay the same size",
+        "They change colour"
+      ],
+      "answer": "They contract (get smaller)",
+      "points": 5
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Particle Theory Explanation",
+      "question": "Using particle theory, explain why substances expand when heated.",
+      "options": [
+        "Particles get larger when heated",
+        "More particles are added when heated",
+        "Particles gain kinetic energy, vibrate more vigorously, and move further apart on average, increasing the volume",
+        "Particles lose energy when heated"
+      ],
+      "answer": "Particles gain kinetic energy, vibrate more vigorously, and move further apart on average, increasing the volume",
+      "points": 10
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Particle Theory Explanation",
+      "question": "Using particle theory, explain why substances contract when cooled.",
+      "options": [
+        "Particles shrink when cooled",
+        "Particles are removed when cooled",
+        "Particles lose kinetic energy, vibrate less vigorously, and move closer together on average, decreasing the volume",
+        "Particles move faster when cooled"
+      ],
+      "answer": "Particles lose kinetic energy, vibrate less vigorously, and move closer together on average, decreasing the volume",
+      "points": 10
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Expansion of Solids",
+      "question": "When a metal ball is heated, what happens to its volume?",
+      "options": [
+        "Volume decreases",
+        "Volume increases",
+        "Volume stays the same",
+        "Volume first increases then decreases"
+      ],
+      "answer": "Volume increases",
+      "points": 5
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Expansion of Solids",
+      "question": "A metal lid is stuck on a glass jar. To open it, you could run hot water over the lid. Why does this work?",
+      "options": [
+        "The glass expands more than the metal, loosening the lid",
+        "The metal lid expands more than the glass, loosening the grip on the jar",
+        "The hot water dissolves the lid",
+        "The hot water melts the lid"
+      ],
+      "answer": "The metal lid expands more than the glass, loosening the grip on the jar",
+      "points": 5
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Expansion of Solids",
+      "question": "Do all solids expand by the same amount when heated by the same temperature increase?",
+      "options": [
+        "Yes, all solids expand equally",
+        "No, different materials have different rates of expansion (different coefficients of expansion)",
+        "Only metals expand",
+        "Solids do not expand when heated"
+      ],
+      "answer": "No, different materials have different rates of expansion (different coefficients of expansion)",
+      "points": 5
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Expansion of Solids ⭐ Experimental Question",
+      "question": "A ball-and-ring experiment involves a metal ball that just passes through a metal ring at room temperature. After heating the ball, what is observed and why?",
+      "options": [
+        "The ball passes through more easily because it shrinks",
+        "The ball no longer passes through because it has expanded",
+        "Nothing changes",
+        "The ring melts"
+      ],
+      "answer": "The ball no longer passes through because it has expanded",
+      "points": 10
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Expansion of Solids ⭐ Experimental Question",
+      "question": "In the ball-and-ring experiment, if the ring is heated instead of the ball, what happens?",
+      "options": [
+        "The ball will no longer fit through",
+        "The hole in the ring gets smaller",
+        "The hole in the ring gets larger (the ring expands including the hole), so the ball passes through more easily",
+        "The ring melts"
+      ],
+      "answer": "The hole in the ring gets larger (the ring expands including the hole), so the ball passes through more easily",
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Expansion of Solids - Bimetallic Strip",
+      "question": "A bimetallic strip is made of two different metals bonded together. When heated, what happens to the strip?",
+      "options": [
+        "Both metals expand equally and the strip stays straight",
+        "The strip bends towards the metal that expands more",
+        "The strip bends towards the metal that expands less (this metal is on the inside of the curve)",
+        "The strip breaks apart"
+      ],
+      "answer": "The strip bends towards the metal that expands less (this metal is on the inside of the curve)",
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Expansion of Solids - Bimetallic Strip",
+      "question": "A bimetallic strip is made of brass (expands more) and iron (expands less). When heated, which way does it bend?",
+      "options": [
+        "Towards the brass side",
+        "Towards the iron side (iron is on the inside of the curve as it expands less)",
+        "It stays straight",
+        "It twists rather than bends"
+      ],
+      "answer": "Towards the iron side (iron is on the inside of the curve as it expands less)",
+      "points": 10
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Expansion of Solids - Bimetallic Strip",
+      "question": "When a bimetallic strip is cooled below room temperature, what happens?",
+      "options": [
+        "It bends the same way as when heated",
+        "It bends in the opposite direction (the metal that contracts more is now on the inside)",
+        "It stays straight",
+        "It breaks"
+      ],
+      "answer": "It bends in the opposite direction (the metal that contracts more is now on the inside)",
+      "points": 10
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Expansion of Liquids",
+      "question": "Compare the expansion of liquids to solids for the same temperature increase.",
+      "options": [
+        "Liquids expand less than solids",
+        "Liquids expand more than solids",
+        "Liquids and solids expand equally",
+        "Liquids contract when heated"
+      ],
+      "answer": "Liquids expand more than solids",
+      "points": 5
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Expansion of Liquids",
+      "question": "Why do liquids expand more than solids?",
+      "options": [
+        "Liquid particles are larger",
+        "Liquid particles are further apart and less tightly held, allowing more expansion when kinetic energy increases",
+        "Liquids absorb more heat",
+        "Liquids have more particles"
+      ],
+      "answer": "Liquid particles are further apart and less tightly held, allowing more expansion when kinetic energy increases",
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Expansion of Liquids",
+      "question": "A liquid thermometer works based on which principle?",
+      "options": [
+        "Conduction of heat through the glass",
+        "Convection of the liquid inside",
+        "Thermal expansion of the liquid - as temperature increases, the liquid expands and rises up the tube",
+        "Radiation absorption by the liquid"
+      ],
+      "answer": "Thermal expansion of the liquid - as temperature increases, the liquid expands and rises up the tube",
+      "points": 5
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Expansion of Liquids - Anomalous Expansion of Water",
+      "question": "Water behaves unusually between 0°C and 4°C. What happens to water as it is cooled from 4°C to 0°C?",
+      "options": [
+        "Water contracts like other liquids",
+        "Water expands (its density decreases)",
+        "Water stays the same volume",
+        "Water evaporates"
+      ],
+      "answer": "Water expands (its density decreases)",
+      "points": 10
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Expansion of Liquids - Anomalous Expansion of Water",
+      "question": "At what temperature does water have its maximum density?",
+      "options": [
+        "0°C",
+        "4°C",
+        "100°C",
+        "-4°C"
+      ],
+      "answer": "4°C",
+      "points": 5
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Expansion of Liquids - Anomalous Expansion of Water",
+      "question": "Why is the anomalous expansion of water important for aquatic life in cold climates?",
+      "options": [
+        "It makes water freeze faster",
+        "Water at 4°C sinks to the bottom, ice forms on top, insulating the water below and allowing aquatic life to survive",
+        "Fish prefer cold water",
+        "It has no importance"
+      ],
+      "answer": "Water at 4°C sinks to the bottom, ice forms on top, insulating the water below and allowing aquatic life to survive",
+      "points": 10
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Expansion of Gases",
+      "question": "Compare the expansion of gases to liquids and solids for the same temperature increase.",
+      "options": [
+        "Gases expand less than liquids and solids",
+        "Gases expand more than liquids, which expand more than solids",
+        "All three expand equally",
+        "Gases contract when heated"
+      ],
+      "answer": "Gases expand more than liquids, which expand more than solids",
+      "points": 5
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Expansion of Gases",
+      "question": "Why do gases expand much more than liquids and solids?",
+      "options": [
+        "Gas particles are larger",
+        "Gas particles have much weaker forces between them and are much further apart, allowing much greater expansion when kinetic energy increases",
+        "Gases have more particles",
+        "Gases are heavier"
+      ],
+      "answer": "Gas particles have much weaker forces between them and are much further apart, allowing much greater expansion when kinetic energy increases",
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Expansion of Gases",
+      "question": "A balloon filled with air is placed in a refrigerator. What happens to the balloon and why?",
+      "options": [
+        "The balloon expands because cold air is denser",
+        "The balloon shrinks because the air inside contracts as particles lose kinetic energy and move slower",
+        "Nothing happens to the balloon",
+        "The balloon pops"
+      ],
+      "answer": "The balloon shrinks because the air inside contracts as particles lose kinetic energy and move slower",
+      "points": 10
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Expansion of Gases",
+      "question": "A sealed plastic bottle is left in a car on a hot sunny day. After some time, the bottle appears inflated. Why?",
+      "options": [
+        "More air has entered the bottle",
+        "The air inside has expanded due to the increase in temperature",
+        "The plastic has melted",
+        "Water inside has evaporated"
+      ],
+      "answer": "The air inside has expanded due to the increase in temperature",
+      "points": 5
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Applications of Thermal Expansion",
+      "question": "Rivets are used to join metal plates together. The rivet is heated, inserted through holes in the plates, and the end is hammered flat. As the rivet cools, what happens?",
+      "options": [
+        "The rivet expands and falls out",
+        "The rivet contracts and pulls the plates tightly together",
+        "Nothing happens",
+        "The plates melt"
+      ],
+      "answer": "The rivet contracts and pulls the plates tightly together",
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Applications of Thermal Expansion",
+      "question": "Metal tyres are fitted onto train wheels when hot. Why?",
+      "options": [
+        "Hot metal is softer and easier to shape",
+        "The tyre expands when heated, fits over the wheel, and contracts when cooled to grip the wheel tightly",
+        "Hot tyres are lighter",
+        "Cold tyres would crack"
+      ],
+      "answer": "The tyre expands when heated, fits over the wheel, and contracts when cooled to grip the wheel tightly",
+      "points": 10
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Applications of Thermal Expansion",
+      "question": "Fire alarms often use a bimetallic strip. How does this work?",
+      "options": [
+        "The strip melts in a fire",
+        "When heated by fire, the bimetallic strip bends, completing an electrical circuit and triggering the alarm",
+        "The strip detects smoke",
+        "The strip absorbs fire"
+      ],
+      "answer": "When heated by fire, the bimetallic strip bends, completing an electrical circuit and triggering the alarm",
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Applications of Thermal Expansion",
+      "question": "Thermostats in appliances (like irons, ovens, water heaters) use bimetallic strips. How do they maintain a constant temperature?",
+      "options": [
+        "They measure temperature with a liquid",
+        "When temperature rises too high, the strip bends and breaks the circuit, turning off the heater. When it cools, the strip straightens, reconnecting the circuit",
+        "They cool the air directly",
+        "They add more fuel"
+      ],
+      "answer": "When temperature rises too high, the strip bends and breaks the circuit, turning off the heater. When it cools, the strip straightens, reconnecting the circuit",
+      "points": 10
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Applications of Thermal Expansion",
+      "question": "A liquid-in-glass thermometer uses mercury or coloured alcohol. Why must the bore (tube) be very narrow?",
+      "options": [
+        "To use less liquid",
+        "A narrow bore means a small volume change produces a large change in liquid level, making the thermometer more sensitive",
+        "Wide bores are harder to manufacture",
+        "To prevent the liquid from evaporating"
+      ],
+      "answer": "A narrow bore means a small volume change produces a large change in liquid level, making the thermometer more sensitive",
+      "points": 10
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Problems Caused by Expansion and Solutions",
+      "question": "Railway tracks have small gaps between sections. Why?",
+      "options": [
+        "To reduce costs",
+        "To allow for expansion in hot weather; without gaps, the tracks would buckle",
+        "To make installation easier",
+        "To reduce noise"
+      ],
+      "answer": "To allow for expansion in hot weather; without gaps, the tracks would buckle",
+      "points": 5
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Problems Caused by Expansion and Solutions",
+      "question": "What would happen if railway tracks were laid without expansion gaps on a hot day?",
+      "options": [
+        "Nothing would happen",
+        "The tracks would contract and break",
+        "The tracks would expand and buckle (bend out of shape), potentially causing derailments",
+        "The tracks would melt"
+      ],
+      "answer": "The tracks would expand and buckle (bend out of shape), potentially causing derailments",
+      "points": 5
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Problems Caused by Expansion and Solutions",
+      "question": "Bridges have expansion joints (gaps with interlocking 'teeth'). Why?",
+      "options": [
+        "For decoration",
+        "To allow the bridge to expand and contract with temperature changes without damaging the structure",
+        "To make the bridge longer",
+        "To reduce weight"
+      ],
+      "answer": "To allow the bridge to expand and contract with temperature changes without damaging the structure",
+      "points": 5
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Problems Caused by Expansion and Solutions",
+      "question": "Concrete roads and pavements have expansion joints (gaps filled with flexible material). What happens if these joints are not included?",
+      "options": [
+        "Nothing happens",
+        "The concrete may crack or buckle as it expands in hot weather with no room to expand",
+        "The road becomes smoother",
+        "The road becomes stronger"
+      ],
+      "answer": "The concrete may crack or buckle as it expands in hot weather with no room to expand",
+      "points": 5
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Problems Caused by Expansion and Solutions",
+      "question": "Power lines are hung loosely between poles, forming a slight sag. Why?",
+      "options": [
+        "To use more wire",
+        "To allow for contraction in cold weather; if too tight, they would snap when they contract",
+        "Because tight wires are harder to install",
+        "To reduce electrical resistance"
+      ],
+      "answer": "To allow for contraction in cold weather; if too tight, they would snap when they contract",
+      "points": 10
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Problems Caused by Expansion and Solutions",
+      "question": "When you pour boiling water into a thick glass container, it may crack. Why?",
+      "options": [
+        "The glass melts",
+        "The inside of the glass expands faster than the outside, creating stress that causes cracking",
+        "The water reacts with the glass",
+        "The glass contracts"
+      ],
+      "answer": "The inside of the glass expands faster than the outside, creating stress that causes cracking",
+      "points": 10
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Problems Caused by Expansion and Solutions",
+      "question": "Pyrex glass is used for laboratory equipment and ovenware. Why is it less likely to crack with temperature changes?",
+      "options": [
+        "Pyrex is more expensive",
+        "Pyrex has a very low coefficient of expansion, so it expands very little when heated",
+        "Pyrex is thicker",
+        "Pyrex is coloured"
+      ],
+      "answer": "Pyrex has a very low coefficient of expansion, so it expands very little when heated",
+      "points": 10
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Comparison Questions",
+      "question": "Arrange solids, liquids, and gases in order of increasing expansion for the same temperature increase.",
+      "options": [
+        "Gases < Liquids < Solids",
+        "Solids < Liquids < Gases",
+        "Liquids < Solids < Gases",
+        "All expand equally"
+      ],
+      "answer": "Solids < Liquids < Gases",
+      "points": 5
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Comparison Questions",
+      "question": "Why do gases expand much more than solids for the same temperature increase?",
+      "options": [
+        "Gas particles are heavier",
+        "In gases, particles are much further apart with very weak forces between them, allowing much more movement apart when energy increases",
+        "Gases have more particles",
+        "Solids do not expand"
+      ],
+      "answer": "In gases, particles are much further apart with very weak forces between them, allowing much more movement apart when energy increases",
+      "points": 10
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Comparison Questions",
+      "question": "Two metal rods of the same length are heated by the same amount. Rod A (aluminium) expands more than Rod B (steel). What does this tell us?",
+      "options": [
+        "Aluminium is a poorer conductor",
+        "Aluminium has a higher coefficient of (thermal) expansion than steel",
+        "Steel is lighter than aluminium",
+        "Both rods should expand equally"
+      ],
+      "answer": "Aluminium has a higher coefficient of (thermal) expansion than steel",
+      "points": 10
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Comparison Questions ⭐",
+      "question": "A glass bottle is completely filled with water and sealed. The bottle is then heated. What is likely to happen and why?",
+      "options": [
+        "Nothing happens",
+        "The water contracts and creates a vacuum",
+        "The water expands more than the glass, pressure builds up, and the bottle may crack or the stopper may pop out",
+        "The glass melts"
+      ],
+      "answer": "The water expands more than the glass, pressure builds up, and the bottle may crack or the stopper may pop out",
+      "points": 15
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Experimental Questions",
+      "question": "An experiment uses a metal rod with one end fixed. As the rod is heated, the free end pushes against a dial gauge. What is being measured?",
+      "options": [
+        "The temperature of the rod",
+        "The linear expansion of the rod",
+        "The mass of the rod",
+        "The colour change of the rod"
+      ],
+      "answer": "The linear expansion of the rod",
+      "points": 5
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Experimental Questions",
+      "question": "In an experiment to compare the expansion of different metals, why must all rods be the same length and heated by the same temperature increase?",
+      "options": [
+        "For no particular reason",
+        "To make it a fair test - controlling variables so only the type of metal affects the expansion",
+        "To make the experiment faster",
+        "To save energy"
+      ],
+      "answer": "To make it a fair test - controlling variables so only the type of metal affects the expansion",
+      "points": 10
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Experimental Questions",
+      "question": "A flask fitted with a narrow tube is filled with coloured water. When the flask is placed in hot water, the water level in the tube first drops slightly, then rises. Explain this observation.",
+      "options": [
+        "The water evaporates then condenses",
+        "First, the glass flask expands (increasing volume, so liquid level drops), then the liquid expands (more than glass), causing the level to rise",
+        "Air bubbles form then collapse",
+        "The coloured water changes colour"
+      ],
+      "answer": "First, the glass flask expands (increasing volume, so liquid level drops), then the liquid expands (more than glass), causing the level to rise",
+      "points": 15
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Experimental Questions",
+      "question": "A round-bottomed flask has a narrow glass tube attached. The flask is inverted with the open end of the tube under water. When hands are placed around the flask, bubbles emerge from the tube. Explain why.",
+      "options": [
+        "The water is boiling",
+        "The air inside the flask is heated by the hands, expands, and is pushed out as bubbles",
+        "The hands squeeze the flask",
+        "Chemical reaction occurs"
+      ],
+      "answer": "The air inside the flask is heated by the hands, expands, and is pushed out as bubbles",
+      "points": 10
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "problemSet": "TOPIC 8: Error Analysis",
+      "question": "A student states: 'When a metal is heated, the particles get bigger.' Is this correct?",
+      "options": [
+        "Yes, particles expand when heated",
+        "No. The particles themselves do not change size. They gain kinetic energy, vibrate more, and move further apart, increasing the overall volume",
+        "Yes, heat makes particles grow",
+        "No, particles disappear when heated"
+      ],
+      "answer": "No. The particles themselves do not change size. They gain kinetic energy, vibrate more, and move further apart, increasing the overall volume",
+      "points": 10
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "problemSet": "TOPIC 8: Error Analysis",
+      "question": "A student states: 'When a metal plate with a hole is heated, the hole gets smaller because the metal expands into the hole.' Is this correct?",
+      "options": [
+        "Yes, the hole shrinks",
+        "No. The hole also expands. The metal expands in all directions, including the material around the hole, making the hole larger",
+        "Yes, metal fills the hole",
+        "No, but only because the metal melts"
+      ],
+      "answer": "No. The hole also expands. The metal expands in all directions, including the material around the hole, making the hole larger",
+      "points": 10
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "problemSet": "TOPIC 8: Error Analysis",
+      "question": "A student states: 'A bimetallic strip bends because one metal gets heavier when heated.' Is this correct?",
+      "options": [
+        "Yes, heated metal is heavier",
+        "No. Mass does not change with temperature. The strip bends because one metal expands more than the other, causing the strip to curve",
+        "Yes, weight causes bending",
+        "No, but it bends because one metal melts"
+      ],
+      "answer": "No. Mass does not change with temperature. The strip bends because one metal expands more than the other, causing the strip to curve",
+      "points": 10
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "problemSet": "COMPREHENSIVE CHALLENGE",
+      "question": "A glass thermometer has a bulb containing mercury connected to a narrow capillary tube. Explain how and why each of these design features helps the thermometer work effectively:\n\n(a) Thin glass bulb\n(b) Mercury liquid\n(c) Narrow capillary tube",
+      "options": [
+        "(a) For strength; (b) Because it's cheap; (c) To look nice",
+        "(a) Allows heat to conduct quickly to mercury; (b) Mercury expands uniformly with temperature; (c) Small volume change gives large height change for sensitivity",
+        "(a) To break easily; (b) Because it's silver; (c) To use less glass",
+        "All features are for appearance only"
+      ],
+      "answer": "(a) Allows heat to conduct quickly to mercury; (b) Mercury expands uniformly with temperature; (c) Small volume change gives large height change for sensitivity",
+      "points": 15
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "problemSet": "COMPREHENSIVE CHALLENGE",
+      "question": "On a cold winter day, you notice that a steel bridge appears to have gaps at the expansion joints, but on a hot summer day, the gaps are much smaller. Explain this observation.",
+      "options": [
+        "The bridge shrinks in summer",
+        "In cold weather, the steel contracts, widening the gaps. In hot weather, the steel expands, narrowing the gaps. The joints allow this movement without damaging the bridge",
+        "People remove parts of the bridge in winter",
+        "The gaps are an optical illusion"
+      ],
+      "answer": "In cold weather, the steel contracts, widening the gaps. In hot weather, the steel expands, narrowing the gaps. The joints allow this movement without damaging the bridge",
+      "points": 15
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "problemSet": "COMPREHENSIVE CHALLENGE",
+      "question": "A car tyre pressure gauge shows higher pressure on a hot day after driving compared to a cold morning before driving. Explain using your knowledge of gas expansion.",
+      "options": [
+        "More air has entered the tyre",
+        "Driving heats the tyres and the air inside. The heated air expands and exerts greater pressure on the tyre walls",
+        "The gauge is broken",
+        "Air leaks out when cold"
+      ],
+      "answer": "Driving heats the tyres and the air inside. The heated air expands and exerts greater pressure on the tyre walls",
+      "points": 15
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "problemSet": "COMPREHENSIVE CHALLENGE",
+      "question": "A bimetallic strip in a thermostat is made of copper (high expansion) bonded to invar (low expansion). At a set temperature, the strip is straight and touching a contact to complete a circuit. When the temperature rises above the set point, what happens?",
+      "options": [
+        "The strip bends towards the copper side and maintains contact",
+        "The strip bends towards the invar side (copper expands more, so copper is on outside of curve), breaking contact and switching off the heater",
+        "The strip melts",
+        "Nothing happens"
+      ],
+      "answer": "The strip bends towards the invar side (copper expands more, so copper is on outside of curve), breaking contact and switching off the heater",
+      "points": 15
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "problemSet": "COMPREHENSIVE CHALLENGE: Final Question",
+      "question": "A metal rod is 2.000 m long at 20°C. When heated to 100°C, it expands to 2.002 m. \n\n(a) What is the expansion of the rod?\n(b) If a second identical rod is heated from 20°C to 60°C, what would be its approximate length? (Assume uniform expansion)",
+      "options": [
+        "(a) 0.002 m; (b) 2.001 m (half the temperature rise = half the expansion)",
+        "(a) 0.02 m; (b) 2.01 m",
+        "(a) 2 mm; (b) 2.002 m",
+        "(a) 0.002 m; (b) 2.000 m"
+      ],
+      "answer": "(a) 0.002 m; (b) 2.001 m (half the temperature rise = half the expansion)",
+      "points": 15
+    }
+  ]
+}
