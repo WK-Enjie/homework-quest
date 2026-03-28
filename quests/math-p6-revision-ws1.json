@@ -9,7 +9,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 1: Amy's Spending",
       "question": "Amy had some money. She spent 60% of her money on Monday. What fraction of her money did she spend on Monday?",
-      "options": ["1/2", "2/3", "3/5", "4/5"],
+      "options": ["2/3", "3/5", "1/2", "4/5"],
       "answer": "3/5",
       "points": 5
     },
@@ -18,7 +18,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 1: Amy's Spending (continued)",
       "question": "After spending 60% on Monday, what fraction of her original money did Amy have left?",
-      "options": ["1/5", "2/5", "3/5", "1/2"],
+      "options": ["1/2", "2/5", "1/5", "3/5"],
       "answer": "2/5",
       "points": 5
     },
@@ -27,16 +27,16 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 1: Amy's Spending (continued)",
       "question": "Amy then spent 1/4 of the remainder on Tuesday. What fraction of her ORIGINAL money did she spend on Tuesday?",
-      "options": ["1/10", "1/4", "2/5", "1/5"],
+      "options": ["1/5", "1/10", "1/4", "2/5"],
       "answer": "1/10",
       "points": 10
     },
     {
       "id": 4,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 1: Amy's Spending ⭐ MAIN QUESTION",
+      "problemSet": "PROBLEM SET 1: Amy's Spending MAIN QUESTION",
       "question": "Amy spent 60% of her money on Monday. She later spent 1/4 of the remainder on Tuesday and the rest on Wednesday. What fraction of her money was spent on Wednesday?",
-      "options": ["1/10", "3/20", "3/10", "1/4"],
+      "options": ["1/4", "3/10", "1/10", "3/20"],
       "answer": "3/10",
       "points": 15
     },
@@ -45,7 +45,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 2: Comparing Sweets",
       "question": "50% of Lisa's sweets is the same as 20% of Amy's sweets. Which statement is correct?",
-      "options": ["Lisa has more sweets than Amy", "Amy has more sweets than Lisa", "Lisa and Amy have the same number of sweets", "Cannot be determined"],
+      "options": ["Lisa and Amy have the same number of sweets", "Amy has more sweets than Lisa", "Cannot be determined", "Lisa has more sweets than Amy"],
       "answer": "Amy has more sweets than Lisa",
       "points": 5
     },
@@ -54,7 +54,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 2: Comparing Sweets (continued)",
       "question": "50% of Lisa's sweets is the same as 20% of Amy's sweets. What is the ratio of Lisa's sweets to Amy's sweets?",
-      "options": ["5 : 2", "2 : 5", "1 : 2", "2 : 1"],
+      "options": ["2 : 1", "2 : 5", "5 : 2", "1 : 2"],
       "answer": "2 : 5",
       "points": 10
     },
@@ -63,7 +63,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 2: Comparing Sweets (continued)",
       "question": "If the ratio of Lisa's sweets to Amy's sweets is 2 : 5, how many equal parts represent their total sweets together?",
-      "options": ["3 parts", "5 parts", "7 parts", "10 parts"],
+      "options": ["10 parts", "7 parts", "5 parts", "3 parts"],
       "answer": "7 parts",
       "points": 5
     },
@@ -72,16 +72,16 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 2: Comparing Sweets (continued)",
       "question": "30% of Lisa and Amy's total sweets is the same as 60% of Ken's sweets. If Lisa and Amy's total is represented by 7 parts, how many parts represents Ken's sweets?",
-      "options": ["3.5 parts", "7 parts", "14 parts", "21 parts"],
+      "options": ["21 parts", "3.5 parts", "14 parts", "7 parts"],
       "answer": "3.5 parts",
       "points": 10
     },
     {
       "id": 9,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 2: Comparing Sweets ⭐ MAIN QUESTION",
+      "problemSet": "PROBLEM SET 2: Comparing Sweets MAIN QUESTION",
       "question": "50% of Lisa's sweets is the same as 20% of Amy's sweets. 30% of Lisa and Amy's total sweets is the same as 60% of Ken's sweets. What is the ratio of Lisa to Amy to Ken?",
-      "options": ["2 : 5 : 3.5", "4 : 10 : 7", "2 : 5 : 7", "4 : 10 : 3"],
+      "options": ["4 : 10 : 3", "2 : 5 : 7", "4 : 10 : 7", "2 : 5 : 3.5"],
       "answer": "4 : 10 : 7",
       "points": 15
     },
@@ -90,7 +90,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 3: Cards in a Room",
       "question": "There were some people in a room. 3/5 of them are children. What fraction are adults?",
-      "options": ["1/5", "2/5", "3/5", "4/5"],
+      "options": ["4/5", "2/5", "1/5", "3/5"],
       "answer": "2/5",
       "points": 5
     },
@@ -99,7 +99,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 3: Cards in a Room (continued)",
       "question": "40% of the children are boys. What percentage of the children are girls?",
-      "options": ["40%", "50%", "60%", "70%"],
+      "options": ["70%", "50%", "60%", "40%"],
       "answer": "60%",
       "points": 5
     },
@@ -108,7 +108,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 3: Cards in a Room (continued)",
       "question": "If children are 3/5 of the total and 40% of children are boys, what fraction of the TOTAL people are boys?",
-      "options": ["6/25", "9/25", "2/5", "3/5"],
+      "options": ["3/5", "6/25", "2/5", "9/25"],
       "answer": "6/25",
       "points": 10
     },
@@ -117,7 +117,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 3: Cards in a Room (continued)",
       "question": "If children are 3/5 of the total and 60% of children are girls, what fraction of the TOTAL people are girls?",
-      "options": ["6/25", "9/25", "2/5", "3/5"],
+      "options": ["3/5", "6/25", "9/25", "2/5"],
       "answer": "9/25",
       "points": 10
     },
@@ -126,16 +126,16 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 3: Cards in a Room (continued)",
       "question": "Suppose there are 25 people in total. Based on our fractions: Boys = 6, Girls = 9, Adults = 10. Each girl made 3 cards, each boy made 5 cards, each adult made 10 cards. How many cards would be made in total?",
-      "options": ["127 cards", "147 cards", "157 cards", "167 cards"],
+      "options": ["167 cards", "147 cards", "157 cards", "127 cards"],
       "answer": "157 cards",
       "points": 10
     },
     {
       "id": 15,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 3: Cards in a Room ⭐ MAIN QUESTION",
+      "problemSet": "PROBLEM SET 3: Cards in a Room MAIN QUESTION",
       "question": "There were some boys, girls and adults in a room. 3/5 of them are children and the rest are adults. 40% of the children are boys and the rest are girls. Each girl made 3 cards, each boy made 5 cards and each adult made 10 cards. A total of 314 cards were made. How many adults were there?",
-      "options": ["15", "18", "20", "25"],
+      "options": ["25", "20", "18", "15"],
       "answer": "20",
       "points": 15
     },
@@ -144,7 +144,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 4: Bookshop Sale",
       "question": "At a bookshop, 2/5 of the books are fiction and the rest are non-fiction. What fraction of the books are non-fiction?",
-      "options": ["1/5", "2/5", "3/5", "4/5"],
+      "options": ["4/5", "3/5", "1/5", "2/5"],
       "answer": "3/5",
       "points": 5
     },
@@ -153,7 +153,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 4: Bookshop Sale (continued)",
       "question": "25% of the fiction books were sold. What fraction of the fiction books were sold?",
-      "options": ["1/5", "1/4", "1/3", "2/5"],
+      "options": ["2/5", "1/3", "1/4", "1/5"],
       "answer": "1/4",
       "points": 5
     },
@@ -162,7 +162,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 4: Bookshop Sale (continued)",
       "question": "If 2/5 of the books are fiction and 1/4 of the fiction books were sold, what fraction of ALL the books were fiction books that were sold?",
-      "options": ["1/10", "1/5", "2/5", "1/2"],
+      "options": ["1/2", "1/10", "2/5", "1/5"],
       "answer": "1/10",
       "points": 10
     },
@@ -171,16 +171,16 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 4: Bookshop Sale (continued)",
       "question": "40% of the non-fiction books were sold. If 3/5 of the books are non-fiction, what fraction of ALL the books were non-fiction books that were sold?",
-      "options": ["6/25", "1/4", "3/10", "2/5"],
+      "options": ["2/5", "6/25", "3/10", "1/4"],
       "answer": "6/25",
       "points": 10
     },
     {
       "id": 20,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 4: Bookshop Sale ⭐ MAIN QUESTION",
+      "problemSet": "PROBLEM SET 4: Bookshop Sale MAIN QUESTION",
       "question": "At a bookshop, 2/5 of the books are fiction and the rest are non-fiction. 25% of the fiction books and 40% of the non-fiction books were sold. If 330 books were left unsold, how many books were there at first?",
-      "options": ["400", "450", "500", "550"],
+      "options": ["550", "500", "450", "400"],
       "answer": "500",
       "points": 15
     },
@@ -189,7 +189,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 5: Money Distribution",
       "question": "Peter, Mary and John shared some money. Peter received 40% of the money. What fraction of the money did Peter receive?",
-      "options": ["1/4", "1/3", "2/5", "1/2"],
+      "options": ["1/2", "2/5", "1/4", "1/3"],
       "answer": "2/5",
       "points": 5
     },
@@ -198,7 +198,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 5: Money Distribution (continued)",
       "question": "Peter received 40% of the money. Mary received 2/3 of the remainder. What fraction of the total money did Mary receive?",
-      "options": ["1/3", "2/5", "3/5", "2/3"],
+      "options": ["2/3", "3/5", "2/5", "1/3"],
       "answer": "2/5",
       "points": 10
     },
@@ -207,16 +207,16 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 5: Money Distribution (continued)",
       "question": "If Peter received 2/5 and Mary received 2/5 of the total, what fraction did John receive?",
-      "options": ["1/5", "2/5", "3/5", "4/5"],
+      "options": ["4/5", "1/5", "3/5", "2/5"],
       "answer": "1/5",
       "points": 5
     },
     {
       "id": 24,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 5: Money Distribution ⭐ MAIN QUESTION",
+      "problemSet": "PROBLEM SET 5: Money Distribution MAIN QUESTION",
       "question": "Peter, Mary and John shared some money. Peter received 40% of the money. Mary received 2/3 of the remainder. John received the rest which was $120. How much money did they share altogether?",
-      "options": ["$450", "$500", "$550", "$600"],
+      "options": ["$600", "$550", "$500", "$450"],
       "answer": "$600",
       "points": 15
     },
@@ -225,7 +225,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 6: Stamps Collection",
       "question": "The ratio of Ali's stamps to Ben's stamps is 5 : 7. How many equal parts represent their total stamps together?",
-      "options": ["2 parts", "12 parts", "35 parts", "57 parts"],
+      "options": ["57 parts", "12 parts", "35 parts", "2 parts"],
       "answer": "12 parts",
       "points": 5
     },
@@ -234,7 +234,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 6: Stamps Collection (continued)",
       "question": "The ratio of Ali's stamps to Ben's stamps is 5 : 7. Ali then gives 20% of his stamps to Ben. What fraction of his stamps does Ali give away?",
-      "options": ["1/10", "1/5", "1/4", "1/3"],
+      "options": ["1/3", "1/4", "1/5", "1/10"],
       "answer": "1/5",
       "points": 5
     },
@@ -243,7 +243,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 6: Stamps Collection (continued)",
       "question": "If Ali originally had 5 parts, and he gives away 1/5 of his stamps, how many parts does Ali give to Ben?",
-      "options": ["0.5 parts", "1 part", "1.5 parts", "2 parts"],
+      "options": ["2 parts", "1 part", "1.5 parts", "0.5 parts"],
       "answer": "1 part",
       "points": 10
     },
@@ -252,16 +252,16 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 6: Stamps Collection (continued)",
       "question": "After the transfer, Ali has 4 parts and Ben has 8 parts. What is the new ratio of Ali's stamps to Ben's stamps?",
-      "options": ["1 : 2", "2 : 3", "3 : 7", "4 : 7"],
+      "options": ["4 : 7", "1 : 2", "3 : 7", "2 : 3"],
       "answer": "1 : 2",
       "points": 10
     },
     {
       "id": 29,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 6: Stamps Collection ⭐ MAIN QUESTION",
+      "problemSet": "PROBLEM SET 6: Stamps Collection MAIN QUESTION",
       "question": "The ratio of Ali's stamps to Ben's stamps is 5 : 7. Ali gives 20% of his stamps to Ben. Ben then gives 30 stamps back to Ali so that they have the same number of stamps. How many stamps did Ali have at first?",
-      "options": ["60", "75", "90", "105"],
+      "options": ["105", "75", "90", "60"],
       "answer": "75",
       "points": 15
     },
@@ -270,7 +270,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 7: Class Attendance",
       "question": "75% of the students in a class are present. What fraction of the students are present?",
-      "options": ["1/4", "1/2", "2/3", "3/4"],
+      "options": ["3/4", "2/3", "1/2", "1/4"],
       "answer": "3/4",
       "points": 5
     },
@@ -279,7 +279,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 7: Class Attendance (continued)",
       "question": "Of the students present, 2/3 are girls. What fraction of ALL the students in the class are girls who are present?",
-      "options": ["1/4", "1/3", "1/2", "2/3"],
+      "options": ["2/3", "1/2", "1/3", "1/4"],
       "answer": "1/2",
       "points": 10
     },
@@ -288,16 +288,16 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 7: Class Attendance (continued)",
       "question": "Of the students absent, 50% are boys. If 25% of the class is absent, what fraction of the WHOLE class are boys who are absent?",
-      "options": ["1/8", "1/4", "1/2", "3/4"],
+      "options": ["3/4", "1/2", "1/8", "1/4"],
       "answer": "1/8",
       "points": 10
     },
     {
       "id": 33,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 7: Class Attendance ⭐ MAIN QUESTION",
+      "problemSet": "PROBLEM SET 7: Class Attendance MAIN QUESTION",
       "question": "75% of the students in a class are present. Of the students present, 2/3 are girls. Of the students absent, 50% are boys. If there are 12 more girls than boys in the class, how many students are there in the class?",
-      "options": ["32", "40", "48", "56"],
+      "options": ["56", "48", "40", "32"],
       "answer": "48",
       "points": 15
     },
@@ -306,7 +306,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 8: Paint Mixture",
       "question": "A painter mixes red and blue paint in the ratio 2 : 3. What fraction of the mixture is red paint?",
-      "options": ["2/3", "2/5", "3/5", "3/2"],
+      "options": ["3/2", "2/5", "3/5", "2/3"],
       "answer": "2/5",
       "points": 5
     },
@@ -315,7 +315,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 8: Paint Mixture (continued)",
       "question": "If the original mixture has red and blue paint in ratio 2 : 3, and the total is 25 litres, how many litres of red paint are there?",
-      "options": ["5 litres", "10 litres", "15 litres", "20 litres"],
+      "options": ["20 litres", "10 litres", "15 litres", "5 litres"],
       "answer": "10 litres",
       "points": 10
     },
@@ -324,16 +324,16 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 8: Paint Mixture (continued)",
       "question": "If there are 10 litres of red and 15 litres of blue originally, and the painter adds 2 litres of red paint, how many litres of red paint are there now?",
-      "options": ["10 litres", "11 litres", "12 litres", "13 litres"],
+      "options": ["13 litres", "12 litres", "11 litres", "10 litres"],
       "answer": "12 litres",
       "points": 5
     },
     {
       "id": 37,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 8: Paint Mixture ⭐ MAIN QUESTION",
+      "problemSet": "PROBLEM SET 8: Paint Mixture MAIN QUESTION",
       "question": "A painter mixes red and blue paint in the ratio 2 : 3. He then adds 2 litres of red paint and 1 litre of blue paint. The new ratio of red to blue paint becomes 3 : 4. How many litres of paint did he have in the original mixture?",
-      "options": ["15 litres", "20 litres", "25 litres", "30 litres"],
+      "options": ["30 litres", "25 litres", "20 litres", "15 litres"],
       "answer": "25 litres",
       "points": 15
     },
@@ -342,7 +342,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 9: Savings Account",
       "question": "John saves 30% of his allowance each month. What fraction of his allowance does he save?",
-      "options": ["1/3", "3/10", "1/4", "2/5"],
+      "options": ["2/5", "3/10", "1/4", "1/3"],
       "answer": "3/10",
       "points": 5
     },
@@ -351,7 +351,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 9: Savings Account (continued)",
       "question": "John saves 30% of his allowance. What fraction of his allowance is left after saving?",
-      "options": ["3/10", "1/2", "7/10", "4/5"],
+      "options": ["4/5", "7/10", "1/2", "3/10"],
       "answer": "7/10",
       "points": 5
     },
@@ -360,16 +360,16 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 9: Savings Account (continued)",
       "question": "John saves 30% of his allowance. He spends 1/2 of the remainder on food. What fraction of his total allowance does he spend on food?",
-      "options": ["7/20", "1/2", "3/10", "2/5"],
+      "options": ["2/5", "7/20", "3/10", "1/2"],
       "answer": "7/20",
       "points": 10
     },
     {
       "id": 41,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 9: Savings Account ⭐ MAIN QUESTION",
+      "problemSet": "PROBLEM SET 9: Savings Account MAIN QUESTION",
       "question": "John saves 30% of his monthly allowance. He spends 1/2 of the remainder on food and the rest on transport and entertainment. If he spends $84 on food, what is his monthly allowance?",
-      "options": ["$200", "$220", "$240", "$280"],
+      "options": ["$280", "$240", "$220", "$200"],
       "answer": "$240",
       "points": 15
     },
@@ -378,7 +378,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 10: School Event",
       "question": "At a school event, the ratio of teachers to parents to students is 1 : 4 : 15. What fraction of the people at the event are students?",
-      "options": ["1/4", "1/2", "3/4", "4/5"],
+      "options": ["4/5", "3/4", "1/2", "1/4"],
       "answer": "3/4",
       "points": 5
     },
@@ -387,7 +387,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 10: School Event (continued)",
       "question": "60% of the students are girls. If the total number of people is represented by 20 parts and students are 15 parts, how many parts are girl students?",
-      "options": ["6 parts", "9 parts", "10 parts", "12 parts"],
+      "options": ["12 parts", "9 parts", "10 parts", "6 parts"],
       "answer": "9 parts",
       "points": 10
     },
@@ -396,17 +396,62 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 10: School Event (continued)",
       "question": "40% of the students are boys. If students make up 15 parts, how many parts are boy students?",
-      "options": ["4 parts", "5 parts", "6 parts", "8 parts"],
+      "options": ["8 parts", "6 parts", "5 parts", "4 parts"],
       "answer": "6 parts",
       "points": 5
     },
     {
       "id": 45,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 10: School Event ⭐ MAIN QUESTION",
+      "problemSet": "PROBLEM SET 10: School Event MAIN QUESTION",
       "question": "At a school event, the ratio of teachers to parents to students is 1 : 4 : 15. 60% of the students are girls and 40% are boys. If there are 18 more girl students than boy students, how many people attended the event in total?",
-      "options": ["100", "120", "140", "160"],
+      "options": ["160", "120", "140", "100"],
       "answer": "120",
+      "points": 15
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 11: Spending Rates & Remainders",
+      "question": "Ali and Ben have some money. In two scenarios, Ben spends all his money. What remains constant in both scenarios?",
+      "options": ["The number of days", "Ali's leftover money", "Ben's total spending", "Ali's spending rate"],
+      "answer": "Ben's total spending",
+      "points": 5
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 11: Spending Rates & Remainders (continued)",
+      "question": "Case 1: Ali $2 per day, Ben $5 per day. Case 2: Ali $5 per day, Ben $2 per day. To make Ben's total spending equal, we compare the ratios. What is the ratio of Ali's total spending in Case 1 to Case 2?",
+      "options": ["5 : 2", "4 : 25", "25 : 4", "2 : 5"],
+      "answer": "4 : 25",
+      "points": 10
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 11: Spending Rates & Remainders (continued)",
+      "question": "Ali has $62 left in Case 1 and $20 left in Case 2. The difference is $42. This equals the difference in spending parts (25 parts - 4 parts = 21 parts). What is the value of 1 part?",
+      "options": ["$4", "$1", "$3", "$2"],
+      "answer": "$2",
+      "points": 10
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 11: Spending Rates & Remainders (continued)",
+      "question": "In Case 1, Ali's spending is 4 parts. With 1 part = $2, how much did Ali spend in Case 1?",
+      "options": ["$6", "$10", "$8", "$12"],
+      "answer": "$8",
+      "points": 10
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 11: Spending Rates & Remainders MAIN QUESTION",
+      "question": "Ali and Ben have some money. If Ali spends $2 per day and Ben spends $5 per day, when Ben finishes, Ali has $62 left. If Ali spends $5 per day and Ben spends $2 per day, when Ben finishes, Ali has $20 left. How much money did Ben spend?",
+      "options": ["$30", "$20", "$15", "$25"],
+      "answer": "$20",
       "points": 15
     }
   ]

@@ -8,7 +8,7 @@
       "id": 1,
       "type": "mcq",
       "problemSet": "CONCEPT CHECK: Understanding Units",
-      "question": "Lisa has 5 times as many sweets as Amy. If we represent Amy's sweets as 1 unit, how many units represents Lisa's sweets?",
+      "question": "Lisa has 5 times as many sweets as Amy. If Amy has 1 unit of sweets, how many units does Lisa have?",
       "options": ["5 units", "4 units", "6 units", "1 unit"],
       "answer": "5 units",
       "points": 5
@@ -61,7 +61,7 @@
     {
       "id": 7,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 1: Comparison - Before and After ⭐ MAIN QUESTION",
+      "problemSet": "PROBLEM SET 1: Comparison - Before and After MAIN QUESTION",
       "question": "Lisa has 5 times as many sweets as Amy. After Lisa ate 6 sweets and Amy ate 10 sweets, Lisa now has 6 times as many sweets as Amy. How many sweets did Amy have at first?",
       "options": ["44 sweets", "50 sweets", "54 sweets", "60 sweets"],
       "answer": "54 sweets",
@@ -106,7 +106,7 @@
     {
       "id": 12,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 2: Equal at First ⭐ MAIN QUESTION",
+      "problemSet": "PROBLEM SET 2: Equal at First MAIN QUESTION",
       "question": "Ken and Danny have an equal number of cards at first. After Ken gave Danny 54 cards, Danny has 4 times as many cards as Ken. How many cards did they have altogether at first?",
       "options": ["144 cards", "162 cards", "180 cards", "216 cards"],
       "answer": "180 cards",
@@ -142,7 +142,7 @@
     {
       "id": 16,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 3: More Than - Before and After ⭐ MAIN QUESTION",
+      "problemSet": "PROBLEM SET 3: More Than - Before and After MAIN QUESTION",
       "question": "Sarah has 24 more stickers than Mei. After Sarah gives some stickers to Mei, Mei has 3 times as many stickers as Sarah. If Mei had 42 stickers at first, how many stickers did Sarah give to Mei?",
       "options": ["27 stickers", "33 stickers", "39 stickers", "45 stickers"],
       "answer": "39 stickers",
@@ -187,7 +187,7 @@
     {
       "id": 21,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 4: Working Backwards ⭐ MAIN QUESTION",
+      "problemSet": "PROBLEM SET 4: Working Backwards MAIN QUESTION",
       "question": "Jenny thinks of a number. She divides it by 4, then subtracts 8, then multiplies by 5. Her answer is 60. What was Jenny's original number?",
       "options": ["60", "72", "80", "96"],
       "answer": "80",
@@ -223,7 +223,7 @@
     {
       "id": 25,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 5: Number Patterns - Increasing ⭐ MAIN QUESTION",
+      "problemSet": "PROBLEM SET 5: Number Patterns - Increasing MAIN QUESTION",
       "question": "Candice eats 2 more sweets each day than the day before. If she is going to eat 19 sweets on Day 4, how many sweets did she eat on Day 1?",
       "options": ["11 sweets", "13 sweets", "15 sweets", "17 sweets"],
       "answer": "13 sweets",
@@ -259,7 +259,7 @@
     {
       "id": 29,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 6: Number Patterns - Decreasing ⭐ MAIN QUESTION",
+      "problemSet": "PROBLEM SET 6: Number Patterns - Decreasing MAIN QUESTION",
       "question": "Ben reads 5 fewer pages each day than the day before. On Day 5, he reads 22 pages. How many pages did he read on Day 1?",
       "options": ["32 pages", "37 pages", "42 pages", "47 pages"],
       "answer": "42 pages",
@@ -295,7 +295,7 @@
     {
       "id": 33,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 7: Times As Many - Transfer ⭐ MAIN QUESTION",
+      "problemSet": "PROBLEM SET 7: Times As Many - Transfer MAIN QUESTION",
       "question": "Ali has 3 times as many marbles as Ben. After Ali gives Ben 14 marbles, they have the same number of marbles. How many marbles did Ali have at first?",
       "options": ["28 marbles", "35 marbles", "42 marbles", "49 marbles"],
       "answer": "42 marbles",
@@ -340,7 +340,7 @@
     {
       "id": 38,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 8: Equal - Both Give Away ⭐ MAIN QUESTION",
+      "problemSet": "PROBLEM SET 8: Equal - Both Give Away MAIN QUESTION",
       "question": "Lily and Rose have an equal number of beads at first. Lily gives away 8 beads and Rose gives away 48 beads. After that, Lily has 3 times as many beads as Rose. How many beads did they have altogether at first?",
       "options": ["120 beads", "128 beads", "136 beads", "144 beads"],
       "answer": "136 beads",
@@ -367,7 +367,7 @@
     {
       "id": 41,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 9: Doubling Pattern ⭐ MAIN QUESTION",
+      "problemSet": "PROBLEM SET 9: Doubling Pattern MAIN QUESTION",
       "question": "A bacteria colony doubles every hour. At Hour 5, there are 160 bacteria. How many bacteria were there at Hour 1?",
       "options": ["8 bacteria", "10 bacteria", "16 bacteria", "20 bacteria"],
       "answer": "10 bacteria",
@@ -394,7 +394,7 @@
     {
       "id": 44,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 10: Combined Units Problem ⭐ MAIN QUESTION",
+      "problemSet": "PROBLEM SET 10: Combined Units Problem MAIN QUESTION",
       "question": "Cindy has twice as many stickers as Diana. Cindy then buys 18 more stickers while Diana gives away 6 stickers. Now Cindy has 4 times as many stickers as Diana. How many stickers did Cindy have at first?",
       "options": ["36 stickers", "42 stickers", "48 stickers", "54 stickers"],
       "answer": "42 stickers",
@@ -421,7 +421,7 @@
     {
       "id": 47,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 11: Pattern with Sum ⭐ MAIN QUESTION",
+      "problemSet": "PROBLEM SET 11: Pattern with Sum MAIN QUESTION",
       "question": "Emma saves $5 on Day 1. Each day she saves $3 more than the day before. After how many days will her total savings first exceed $50?",
       "options": ["4 days", "5 days", "6 days", "7 days"],
       "answer": "5 days",
@@ -448,7 +448,7 @@
     {
       "id": 50,
       "type": "mcq",
-      "problemSet": "MIXED REVIEW ⭐ FINAL CHALLENGE",
+      "problemSet": "MIXED REVIEW FINAL CHALLENGE",
       "question": "Ryan and Sam have an equal number of game cards. Ryan gives Sam 24 cards. Sam then has 3 times as many cards as Ryan. How many cards did Ryan have at first?",
       "options": ["36 cards", "42 cards", "48 cards", "54 cards"],
       "answer": "48 cards",
