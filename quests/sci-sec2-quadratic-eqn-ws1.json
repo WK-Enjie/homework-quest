@@ -1,0 +1,428 @@
+{
+  "questTitle": "Secondary Math: Quadratic Equations & Applications",
+  "subject": "Mathematics",
+  "difficulty": "Hard",
+  "description": "Master forming and solving quadratic equations! This worksheet covers geometry, number problems, and real-world scenarios. Learn to reject invalid solutions based on context. Show your working clearly!",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Consecutive Even Integers",
+      "question": "Let x be the smaller of two consecutive positive even integers. How do you represent the larger integer?",
+      "options": [
+        "x + 1",
+        "x + 2",
+        "2x",
+        "x^2"
+      ],
+      "answer": "x + 2",
+      "points": 5
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Consecutive Even Integers (continued)",
+      "question": "The sum of the squares of two consecutive positive even integers is 100. Which equation represents this situation?",
+      "options": [
+        "x^2 + (x + 1)^2 = 100",
+        "x^2 + (x + 2)^2 = 100",
+        "x + (x + 2)^2 = 100",
+        "2x^2 + 2 = 100"
+      ],
+      "answer": "x^2 + (x + 2)^2 = 100",
+      "points": 10
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Consecutive Even Integers (continued)",
+      "question": "The equation simplifies to x^2 + 2x - 48 = 0. Factoring this gives (x + 8)(x - 6) = 0. What are the possible values for x?",
+      "options": [
+        "x = 8 or x = -6",
+        "x = -8 or x = 6",
+        "x = 4 or x = -12",
+        "x = -4 or x = 12"
+      ],
+      "answer": "x = -8 or x = 6",
+      "points": 10
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Consecutive Even Integers (continued)",
+      "question": "We found x = -8 or x = 6. Since the problem states the integers are positive, which value must be rejected?",
+      "options": [
+        "Reject 6",
+        "Reject -8",
+        "Reject both",
+        "Reject neither"
+      ],
+      "answer": "Reject -8",
+      "points": 5
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Consecutive Even Integers ⭐ MAIN QUESTION",
+      "question": "The sum of the squares of two consecutive positive even integers is 100. What is the larger integer?",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "answer": "8",
+      "points": 15
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Photo Frame Border",
+      "question": "A photo is 10 cm by 8 cm. A uniform border of width x cm is added around it. What is the new length of the framed photo?",
+      "options": [
+        "10 + x",
+        "10 + 2x",
+        "8 + 2x",
+        "20 + 2x"
+      ],
+      "answer": "10 + 2x",
+      "points": 5
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Photo Frame Border (continued)",
+      "question": "The area of the border alone is 104 cm^2. The total area (photo + border) minus the photo area equals the border area. Which equation represents this?",
+      "options": [
+        "(10 + 2x)(8 + 2x) - 80 = 104",
+        "(10 + x)(8 + x) - 80 = 104",
+        "(10 + 2x)(8 + 2x) = 104",
+        "2(10 + 8)x = 104"
+      ],
+      "answer": "(10 + 2x)(8 + 2x) - 80 = 104",
+      "points": 10
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Photo Frame Border (continued)",
+      "question": "Simplifying the equation gives x^2 + 9x - 26 = 0. Factoring gives (x + 13)(x - 2) = 0. Why do we reject x = -13?",
+      "options": [
+        "It is not an integer",
+        "Width cannot be negative",
+        "It is too large",
+        "It makes the area zero"
+      ],
+      "answer": "Width cannot be negative",
+      "points": 5
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Photo Frame Border (continued)",
+      "question": "The valid solution for the border width is x = 2. What is the total length of the framed photo?",
+      "options": [
+        "12 cm",
+        "14 cm",
+        "10 cm",
+        "16 cm"
+      ],
+      "answer": "14 cm",
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Photo Frame Border ⭐ MAIN QUESTION",
+      "question": "A 10 cm by 8 cm photo has a uniform border added around it. The area of the border is 104 cm^2. What is the width of the border?",
+      "options": [
+        "2 cm",
+        "4 cm",
+        "6 cm",
+        "8 cm"
+      ],
+      "answer": "2 cm",
+      "points": 15
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: Two-Digit Number",
+      "question": "A two-digit number has tens digit t and units digit u. How do you write the value of the number?",
+      "options": [
+        "t + u",
+        "10t + u",
+        "tu",
+        "10u + t"
+      ],
+      "answer": "10t + u",
+      "points": 5
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: Two-Digit Number (continued)",
+      "question": "The sum of the digits of a two-digit number is 9. The product of the digits is 18. If the tens digit is x, the units digit is (9 - x). Which equation represents the product?",
+      "options": [
+        "x + (9 - x) = 18",
+        "x(9 - x) = 18",
+        "10x + (9 - x) = 18",
+        "x^2 + (9 - x)^2 = 18"
+      ],
+      "answer": "x(9 - x) = 18",
+      "points": 10
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: Two-Digit Number (continued)",
+      "question": "Solving x(9 - x) = 18 gives x^2 - 9x + 18 = 0, which factors to (x - 3)(x - 6) = 0. What are the possible pairs of digits?",
+      "options": [
+        "3 and 6",
+        "2 and 7",
+        "4 and 5",
+        "1 and 8"
+      ],
+      "answer": "3 and 6",
+      "points": 10
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: Two-Digit Number (continued)",
+      "question": "The possible digits are 3 and 6. This means the number could be 36 or 63. If the problem states 'the tens digit is larger than the units digit', which number is correct?",
+      "options": [
+        "36",
+        "63",
+        "Both",
+        "Neither"
+      ],
+      "answer": "63",
+      "points": 5
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: Two-Digit Number ⭐ MAIN QUESTION",
+      "question": "The sum of the digits of a two-digit number is 9 and the product is 18. The tens digit is larger than the units digit. What is the number?",
+      "options": [
+        "36",
+        "63",
+        "81",
+        "18"
+      ],
+      "answer": "63",
+      "points": 15
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Right-Angled Triangle",
+      "question": "The sides of a right-angled triangle are three consecutive integers: x, x + 1, and x + 2. Which side is the hypotenuse?",
+      "options": [
+        "x",
+        "x + 1",
+        "x + 2",
+        "Cannot tell"
+      ],
+      "answer": "x + 2",
+      "points": 5
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Right-Angled Triangle (continued)",
+      "question": "Using Pythagoras theorem (a^2 + b^2 = c^2), which equation represents the triangle?",
+      "options": [
+        "x^2 + (x + 1)^2 = (x + 2)^2",
+        "x^2 + (x + 2)^2 = (x + 1)^2",
+        "(x + 1)^2 + (x + 2)^2 = x^2",
+        "x + (x + 1) = (x + 2)"
+      ],
+      "answer": "x^2 + (x + 1)^2 = (x + 2)^2",
+      "points": 10
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Right-Angled Triangle (continued)",
+      "question": "Expanding and simplifying gives x^2 - 2x - 3 = 0, which factors to (x - 3)(x + 1) = 0. Why do we reject x = -1?",
+      "options": [
+        "It is not an integer",
+        "Length cannot be negative",
+        "It is too small",
+        "It makes the triangle equilateral"
+      ],
+      "answer": "Length cannot be negative",
+      "points": 5
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Right-Angled Triangle (continued)",
+      "question": "With x = 3, the sides are 3, 4, and 5. What is the perimeter of the triangle?",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "15"
+      ],
+      "answer": "12",
+      "points": 10
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Right-Angled Triangle ⭐ MAIN QUESTION",
+      "question": "The sides of a right-angled triangle are three consecutive integers. What is the length of the shortest side?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "3",
+      "points": 15
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 5: Rectangle Area Expansion",
+      "question": "A rectangle is 12 cm by 10 cm. Both dimensions are increased by x cm. What is the new area expression?",
+      "options": [
+        "(12 + x)(10 + x)",
+        "120 + x",
+        "2(12 + 10 + x)",
+        "(12 + 2x)(10 + 2x)"
+      ],
+      "answer": "(12 + x)(10 + x)",
+      "points": 5
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 5: Rectangle Area Expansion (continued)",
+      "question": "The new area is 240 cm^2. Which equation represents this?",
+      "options": [
+        "(12 + x)(10 + x) = 240",
+        "120 + x = 240",
+        "(12 + x) + (10 + x) = 240",
+        "120x = 240"
+      ],
+      "answer": "(12 + x)(10 + x) = 240",
+      "points": 10
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 5: Rectangle Area Expansion (continued)",
+      "question": "Simplifying gives x^2 + 22x - 120 = 0, which factors to (x + 30)(x - 4) = 0. What is the valid value for x?",
+      "options": [
+        "-30",
+        "4",
+        "30",
+        "-4"
+      ],
+      "answer": "4",
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 5: Rectangle Area Expansion (continued)",
+      "question": "If x = 4, what is the new length of the rectangle?",
+      "options": [
+        "12 cm",
+        "14 cm",
+        "16 cm",
+        "18 cm"
+      ],
+      "answer": "16 cm",
+      "points": 5
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 5: Rectangle Area Expansion ⭐ MAIN QUESTION",
+      "question": "A 12 cm by 10 cm rectangle has both dimensions increased by the same amount to give an area of 240 cm^2. What is the increase in length?",
+      "options": [
+        "2 cm",
+        "4 cm",
+        "6 cm",
+        "8 cm"
+      ],
+      "answer": "4 cm",
+      "points": 15
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Garden Path",
+      "question": "A rectangular garden is 20 m by 15 m. A path of uniform width x surrounds it. What is the total length including the path?",
+      "options": [
+        "20 + x",
+        "20 + 2x",
+        "15 + 2x",
+        "40 + 2x"
+      ],
+      "answer": "20 + 2x",
+      "points": 5
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Garden Path (continued)",
+      "question": "The total area (garden + path) is 374 m^2. Which equation represents this?",
+      "options": [
+        "(20 + 2x)(15 + 2x) = 374",
+        "(20 + x)(15 + x) = 374",
+        "300 + 2x = 374",
+        "2(20 + 15)x = 374"
+      ],
+      "answer": "(20 + 2x)(15 + 2x) = 374",
+      "points": 10
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Garden Path (continued)",
+      "question": "Simplifying gives 2x^2 + 35x - 37 = 0, which factors to (2x + 37)(x - 1) = 0. What is the valid width of the path?",
+      "options": [
+        "1 m",
+        "2 m",
+        "37 m",
+        "18.5 m"
+      ],
+      "answer": "1 m",
+      "points": 10
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Garden Path (continued)",
+      "question": "Why is x = -18.5 rejected?",
+      "options": [
+        "It is not an integer",
+        "Width cannot be negative",
+        "It is too large",
+        "It makes the area negative"
+      ],
+      "answer": "Width cannot be negative",
+      "points": 5
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Garden Path ⭐ MAIN QUESTION",
+      "question": "A 20 m by 15 m garden has a uniform path surrounding it. The total area is 374 m^2. What is the width of the path?",
+      "options": [
+        "1 m",
+        "2 m",
+        "3 m",
+        "4 m"
+      ],
+      "answer": "1 m",
+      "points": 15
+    }
+  ]
+}
