@@ -9,12 +9,7 @@
       "type": "mcq",
       "problemSet": "CONCEPT CHECK: Understanding Units",
       "question": "Lisa has 5 times as many sweets as Amy. If Amy has 1 unit of sweets, how many units does Lisa have?",
-      "options": [
-        "5 units",
-        "4 units",
-        "6 units",
-        "1 unit"
-      ],
+      "options": ["5 units", "4 units", "6 units", "1 unit"],
       "answer": "5 units",
       "points": 5
     },
@@ -23,12 +18,7 @@
       "type": "mcq",
       "problemSet": "CONCEPT CHECK: Understanding Units (continued)",
       "question": "Lisa has 5 units and Amy has 1 unit. How many units do they have altogether?",
-      "options": [
-        "4 units",
-        "5 units",
-        "6 units",
-        "10 units"
-      ],
+      "options": ["4 units", "5 units", "6 units", "10 units"],
       "answer": "6 units",
       "points": 5
     },
@@ -37,12 +27,7 @@
       "type": "mcq",
       "problemSet": "CONCEPT CHECK: Understanding Units (continued)",
       "question": "Lisa has 5 units and Amy has 1 unit. Together they have 6 units which equals 48 sweets. What is the value of 1 unit?",
-      "options": [
-        "6 sweets",
-        "8 sweets",
-        "10 sweets",
-        "12 sweets"
-      ],
+      "options": ["6 sweets", "8 sweets", "10 sweets", "12 sweets"],
       "answer": "8 sweets",
       "points": 5
     },
@@ -50,13 +35,8 @@
       "id": 4,
       "type": "mcq",
       "problemSet": "PROBLEM SET 1: Comparison - Before and After",
-      "question": "Lisa has 5 times as many sweets as Amy. This is the situation AT FIRST. If Amy has 1 unit, Lisa has 5 units. If Amy eats 24 sweets and Lisa eats 18 sweets, who eats more sweets?",
-      "options": [
-        "Lisa eats more",
-        "Amy eats more",
-        "They eat the same amount",
-        "Cannot tell"
-      ],
+      "question": "Lisa has 5 times as many sweets as Amy. This is the situation AT FIRST. If Amy has 1 unit, Lisa has 5 units. If Amy eats 10 sweets and Lisa eats 6 sweets, who eats more sweets?",
+      "options": ["Lisa eats more", "Amy eats more", "They eat the same amount", "Cannot tell"],
       "answer": "Amy eats more",
       "points": 5
     },
@@ -64,13 +44,8 @@
       "id": 5,
       "type": "mcq",
       "problemSet": "PROBLEM SET 1: Comparison - Before and After (continued)",
-      "question": "At first: Lisa = 5 units, Amy = 1 unit\nAfter eating: Lisa = 5 units - 18, Amy = 1 unit - 24\n\nThe question says AFTER eating, Lisa has 6 times as many as Amy. If Amy now has 1 part, Lisa has 6 parts. The DIFFERENCE between them is now:",
-      "options": [
-        "4 parts",
-        "5 parts",
-        "6 parts",
-        "7 parts"
-      ],
+      "question": "At first: Lisa = 5 units, Amy = 1 unit\nAfter eating: Lisa = 5 units - 6, Amy = 1 unit - 10\n\nThe question says AFTER eating, Lisa has 6 times as many as Amy. If Amy now has 1 part, Lisa has 6 parts. The DIFFERENCE between them is now:",
+      "options": ["4 parts", "5 parts", "6 parts", "7 parts"],
       "answer": "5 parts",
       "points": 10
     },
@@ -78,28 +53,18 @@
       "id": 6,
       "type": "mcq",
       "problemSet": "PROBLEM SET 1: Comparison - Before and After (continued)",
-      "question": "At first:\n• Lisa = 5 units, Amy = 1 unit\n• Difference = 4 units\n\nAfter eating (Lisa ate 18, Amy ate 24):\n• Lisa = 6 parts, Amy = 1 part\n• Difference = 5 parts\n\nThe difference INCREASED because Amy ate MORE than Lisa. The increase in difference is:",
-      "options": [
-        "24 - 18 = 6 sweets",
-        "18 + 24 = 42 sweets",
-        "24 + 18 = 42 sweets",
-        "18 - 24 = -6 sweets"
-      ],
-      "answer": "24 - 18 = 6 sweets",
+      "question": "At first:\n• Lisa = 5 units, Amy = 1 unit\n• Difference = 4 units\n\nAfter eating (Lisa ate 6, Amy ate 10):\n• Lisa = 6 parts, Amy = 1 part\n• Difference = 5 parts\n\nThe difference INCREASED because Amy ate MORE than Lisa. The increase in difference is:",
+      "options": ["10 - 6 = 4 sweets", "6 + 10 = 16 sweets", "10 + 6 = 16 sweets", "6 - 10 = -4 sweets"],
+      "answer": "10 - 6 = 4 sweets",
       "points": 10
     },
     {
       "id": 7,
       "type": "mcq",
       "problemSet": "PROBLEM SET 1: Comparison - Before and After ⭐ MAIN QUESTION",
-      "question": "Lisa has 5 times as many sweets as Amy. After Lisa ate 18 sweets and Amy ate 24 sweets, Lisa now has 6 times as many sweets as Amy.\n\nWe found: The difference increased by 6 sweets (from 4 units to 5 parts).\nSo: 5 parts - 4 units = 1 extra part = 6 sweets\nThis means: 1 part = 6 sweets\n\nHow many sweets does Amy have at first (1 unit)?",
-      "options": [
-        "24 sweets",
-        "30 sweets",
-        "36 sweets",
-        "42 sweets"
-      ],
-      "answer": "30 sweets",
+      "question": "Lisa has 5 times as many sweets as Amy. After Lisa ate 6 sweets and Amy ate 10 sweets, Lisa now has 6 times as many sweets as Amy.\n\nWe found: The difference increased by 4 sweets (from 4 units to 5 parts).\nSo: 5 parts - 4 units = 4 sweets.\nSince 1 part = 1 unit - 10, then 5 parts = 5 units - 50.\n(5 units - 50) - 4 units = 4 sweets.\n1 unit = 54 sweets.\n\nHow many sweets does Amy have at first (1 unit)?",
+      "options": ["44 sweets", "50 sweets", "54 sweets", "60 sweets"],
+      "answer": "54 sweets",
       "points": 15
     },
     {
@@ -107,12 +72,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 2: Equal at First",
       "question": "Ken and Danny have an equal number of cards at first. This means they start with the SAME amount. If Ken has 1 unit, how many units does Danny have?",
-      "options": [
-        "1 unit",
-        "2 units",
-        "0 units",
-        "Cannot tell"
-      ],
+      "options": ["1 unit", "2 units", "0 units", "Cannot tell"],
       "answer": "1 unit",
       "points": 5
     },
@@ -121,12 +81,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 2: Equal at First (continued)",
       "question": "Ken and Danny each have 1 unit at first (equal). Ken then GIVES Danny 54 cards. What happens to their amounts?",
-      "options": [
-        "Ken's cards decrease by 54, Danny's cards increase by 54",
-        "Both decrease by 54",
-        "Both increase by 54",
-        "Ken's cards increase by 54, Danny's cards decrease by 54"
-      ],
+      "options": ["Ken's cards decrease by 54, Danny's cards increase by 54", "Both decrease by 54", "Both increase by 54", "Ken's cards increase by 54, Danny's cards decrease by 54"],
       "answer": "Ken's cards decrease by 54, Danny's cards increase by 54",
       "points": 5
     },
@@ -135,12 +90,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 2: Equal at First (continued)",
       "question": "At first: Ken = 1 unit, Danny = 1 unit\nAfter Ken gives 54 cards:\n• Ken = 1 unit - 54\n• Danny = 1 unit + 54\n\nAfter the transfer, Danny has 4 times as many as Ken. If Ken now has 1 part, Danny has 4 parts. What is the TOTAL number of parts?",
-      "options": [
-        "3 parts",
-        "4 parts",
-        "5 parts",
-        "6 parts"
-      ],
+      "options": ["3 parts", "4 parts", "5 parts", "6 parts"],
       "answer": "5 parts",
       "points": 10
     },
@@ -149,12 +99,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 2: Equal at First (continued)",
       "question": "At first they had equal amounts: Ken = 1 unit, Danny = 1 unit. Total = 2 units.\n\nAfter transfer: Ken = 1 part, Danny = 4 parts. Total = 5 parts.\n\nThe TOTAL number of cards stays the same (cards were transferred, not added or removed). So:\n\n2 units = 5 parts\n\nThe transfer was 54 cards. After transfer:\n• Danny gained 54, so Danny = 1 unit + 54\n• Ken lost 54, so Ken = 1 unit - 54\n\nDanny - Ken = (1 unit + 54) - (1 unit - 54) = 108 cards\n\nDanny - Ken = 4 parts - 1 part = 3 parts = 108 cards.\n\nWhat is 1 part equal to?",
-      "options": [
-        "27 cards",
-        "36 cards",
-        "45 cards",
-        "54 cards"
-      ],
+      "options": ["27 cards", "36 cards", "45 cards", "54 cards"],
       "answer": "36 cards",
       "points": 10
     },
@@ -163,12 +108,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 2: Equal at First ⭐ MAIN QUESTION",
       "question": "Ken and Danny have an equal number of cards at first. After Ken gave Danny 54 cards, Danny has 4 times as many cards as Ken.\n\nWe found: 1 part = 36 cards\nKen now has 1 part = 36 cards\nKen at first = 36 + 54 = 90 cards\n\nHow many cards did they have altogether at first?",
-      "options": [
-        "144 cards",
-        "162 cards",
-        "180 cards",
-        "216 cards"
-      ],
+      "options": ["144 cards", "162 cards", "180 cards", "216 cards"],
       "answer": "180 cards",
       "points": 15
     },
@@ -177,12 +117,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 3: More Than - Before and After",
       "question": "Sarah has 24 more stickers than Mei. If Mei has 1 unit, how can we represent Sarah's stickers?",
-      "options": [
-        "1 unit + 24",
-        "1 unit - 24",
-        "24 units",
-        "1 unit × 24"
-      ],
+      "options": ["1 unit + 24", "1 unit - 24", "24 units", "1 unit × 24"],
       "answer": "1 unit + 24",
       "points": 5
     },
@@ -191,12 +126,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 3: More Than - Before and After (continued)",
       "question": "Sarah has 24 more stickers than Mei.\n• Mei = 1 unit\n• Sarah = 1 unit + 24\n\nSarah then gives Mei some stickers. After that, Mei has 3 times as many as Sarah. If Sarah now has 1 part, Mei has 3 parts. What is the TOTAL number of parts after giving?",
-      "options": [
-        "2 parts",
-        "3 parts",
-        "4 parts",
-        "5 parts"
-      ],
+      "options": ["2 parts", "3 parts", "4 parts", "5 parts"],
       "answer": "4 parts",
       "points": 5
     },
@@ -205,12 +135,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 3: More Than - Before and After (continued)",
       "question": "Before: Mei = 1 unit, Sarah = 1 unit + 24. Total = 2 units + 24.\n\nAfter: Mei = 3 parts, Sarah = 1 part. Total = 4 parts.\n\nTotal stays the same: 2 units + 24 = 4 parts.\n\nThe question tells us Mei had 42 stickers at first. So 1 unit = 42 stickers. What is the total number of stickers (2 units + 24)?",
-      "options": [
-        "84 stickers",
-        "96 stickers",
-        "108 stickers",
-        "120 stickers"
-      ],
+      "options": ["84 stickers", "96 stickers", "108 stickers", "120 stickers"],
       "answer": "108 stickers",
       "points": 10
     },
@@ -219,12 +144,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 3: More Than - Before and After ⭐ MAIN QUESTION",
       "question": "Sarah has 24 more stickers than Mei. After Sarah gives some stickers to Mei, Mei has 3 times as many stickers as Sarah. If Mei had 42 stickers at first, how many stickers did Sarah give to Mei?",
-      "options": [
-        "27 stickers",
-        "33 stickers",
-        "39 stickers",
-        "45 stickers"
-      ],
+      "options": ["27 stickers", "33 stickers", "39 stickers", "45 stickers"],
       "answer": "39 stickers",
       "points": 15
     },
@@ -233,12 +153,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 4: Working Backwards",
       "question": "In 'working backwards' problems, we start from the END and work back to the BEGINNING. If a number is doubled (×2), what do we do when working backwards?",
-      "options": [
-        "Multiply by 2",
-        "Divide by 2",
-        "Add 2",
-        "Subtract 2"
-      ],
+      "options": ["Multiply by 2", "Divide by 2", "Add 2", "Subtract 2"],
       "answer": "Divide by 2",
       "points": 5
     },
@@ -247,12 +162,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 4: Working Backwards (continued)",
       "question": "If 15 was added to a number, what do we do when working backwards?",
-      "options": [
-        "Add 15",
-        "Multiply by 15",
-        "Subtract 15",
-        "Divide by 15"
-      ],
+      "options": ["Add 15", "Multiply by 15", "Subtract 15", "Divide by 15"],
       "answer": "Subtract 15",
       "points": 5
     },
@@ -261,12 +171,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 4: Working Backwards (continued)",
       "question": "Tom thinks of a number. He multiplies it by 3, then adds 12. His answer is 45. To find Tom's original number, we work backwards.\n\nStep 1: Start from 45\nStep 2: Undo 'add 12' by subtracting 12: 45 - 12 = ?\n\nWhat is the result?",
-      "options": [
-        "57",
-        "33",
-        "27",
-        "15"
-      ],
+      "options": ["57", "33", "27", "15"],
       "answer": "33",
       "points": 10
     },
@@ -275,12 +180,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 4: Working Backwards (continued)",
       "question": "Continuing from the previous question:\nTom's steps: × 3, then + 12 = 45\n\nWorking backwards:\nStep 1: 45 - 12 = 33\nStep 2: Undo 'multiply by 3' by dividing by 3: 33 ÷ 3 = ?\n\nWhat was Tom's original number?",
-      "options": [
-        "9",
-        "11",
-        "12",
-        "15"
-      ],
+      "options": ["9", "11", "12", "15"],
       "answer": "11",
       "points": 10
     },
@@ -289,12 +189,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 4: Working Backwards ⭐ MAIN QUESTION",
       "question": "Jenny thinks of a number. She divides it by 4, then subtracts 8, then multiplies by 5. Her answer is 60.\n\nWorking backwards from 60:\nStep 1: Undo × 5 → 60 ÷ 5 = 12\nStep 2: Undo - 8 → 12 + 8 = 20\nStep 3: Undo ÷ 4 → 20 × 4 = ?\n\nWhat was Jenny's original number?",
-      "options": [
-        "60",
-        "72",
-        "80",
-        "96"
-      ],
+      "options": ["60", "72", "80", "96"],
       "answer": "80",
       "points": 15
     },
@@ -303,12 +198,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 5: Number Patterns - Increasing",
       "question": "Candice eats 2 more sweets each day than the day before. This is an INCREASING pattern. If she eats 5 sweets on Day 1, how many does she eat on Day 2?",
-      "options": [
-        "5 sweets",
-        "7 sweets",
-        "10 sweets",
-        "3 sweets"
-      ],
+      "options": ["5 sweets", "7 sweets", "10 sweets", "3 sweets"],
       "answer": "7 sweets",
       "points": 5
     },
@@ -317,12 +207,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 5: Number Patterns - Increasing (continued)",
       "question": "Candice eats 2 more sweets each day than the day before.\n• Day 1: 5 sweets\n• Day 2: 7 sweets (5 + 2)\n• Day 3: 9 sweets (7 + 2)\n\nHow many sweets does she eat on Day 4?",
-      "options": [
-        "10 sweets",
-        "11 sweets",
-        "12 sweets",
-        "13 sweets"
-      ],
+      "options": ["10 sweets", "11 sweets", "12 sweets", "13 sweets"],
       "answer": "11 sweets",
       "points": 5
     },
@@ -331,12 +216,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 5: Number Patterns - Increasing (continued)",
       "question": "Candice eats 2 more sweets each day than the day before. She eats 19 sweets tomorrow (Day 4). To find Day 1, we work BACKWARDS by subtracting 2 each time.\n\n• Day 4: 19 sweets\n• Day 3: 19 - 2 = 17 sweets\n• Day 2: 17 - 2 = ?\n\nHow many sweets did she eat on Day 2?",
-      "options": [
-        "13 sweets",
-        "15 sweets",
-        "17 sweets",
-        "19 sweets"
-      ],
+      "options": ["13 sweets", "15 sweets", "17 sweets", "19 sweets"],
       "answer": "15 sweets",
       "points": 10
     },
@@ -345,12 +225,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 5: Number Patterns - Increasing ⭐ MAIN QUESTION",
       "question": "Candice eats 2 more sweets today than yesterday. If she is going to eat 19 sweets tomorrow (Day 4), how many sweets did she eat on Day 1?",
-      "options": [
-        "11 sweets",
-        "13 sweets",
-        "15 sweets",
-        "17 sweets"
-      ],
+      "options": ["11 sweets", "13 sweets", "15 sweets", "17 sweets"],
       "answer": "13 sweets",
       "points": 15
     },
@@ -359,12 +234,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 6: Number Patterns - Decreasing",
       "question": "Ben reads 5 fewer pages each day than the day before. This is a DECREASING pattern. If he reads 40 pages on Day 1, how many pages does he read on Day 2?",
-      "options": [
-        "45 pages",
-        "35 pages",
-        "40 pages",
-        "30 pages"
-      ],
+      "options": ["45 pages", "35 pages", "40 pages", "30 pages"],
       "answer": "35 pages",
       "points": 5
     },
@@ -373,12 +243,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 6: Number Patterns - Decreasing (continued)",
       "question": "Ben reads 5 fewer pages each day than the day before.\n• Day 1: 40 pages\n• Day 2: 35 pages\n• Day 3: 30 pages\n• Day 4: 25 pages\n\nHe reads until he reads 10 pages on a day. On which day does he read 10 pages?",
-      "options": [
-        "Day 5",
-        "Day 6",
-        "Day 7",
-        "Day 8"
-      ],
+      "options": ["Day 5", "Day 6", "Day 7", "Day 8"],
       "answer": "Day 7",
       "points": 10
     },
@@ -387,12 +252,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 6: Number Patterns - Decreasing (continued)",
       "question": "Ben reads 5 fewer pages each day. He reads 10 pages on Day 7. To find how many pages he read on Day 1, we work BACKWARDS by adding 5 for each day.\n\nFrom Day 7 to Day 1 is 6 steps backwards.\n6 steps × 5 pages = 30 pages to add.\n\nDay 1 = 10 + 30 = ?",
-      "options": [
-        "30 pages",
-        "35 pages",
-        "40 pages",
-        "45 pages"
-      ],
+      "options": ["30 pages", "35 pages", "40 pages", "45 pages"],
       "answer": "40 pages",
       "points": 10
     },
@@ -401,12 +261,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 6: Number Patterns - Decreasing ⭐ MAIN QUESTION",
       "question": "Ben reads 5 fewer pages each day than the day before. On Day 5, he reads 22 pages. How many pages did he read on Day 1?",
-      "options": [
-        "32 pages",
-        "37 pages",
-        "42 pages",
-        "47 pages"
-      ],
+      "options": ["32 pages", "37 pages", "42 pages", "47 pages"],
       "answer": "42 pages",
       "points": 15
     },
@@ -415,12 +270,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 7: Times As Many - Transfer",
       "question": "Ali has 3 times as many marbles as Ben. If Ben has 1 unit, Ali has 3 units. What is the total number of units?",
-      "options": [
-        "4 units",
-        "3 units",
-        "2 units",
-        "6 units"
-      ],
+      "options": ["4 units", "3 units", "2 units", "6 units"],
       "answer": "4 units",
       "points": 5
     },
@@ -429,12 +279,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 7: Times As Many - Transfer (continued)",
       "question": "Ali has 3 units, Ben has 1 unit. Ali then gives Ben 14 marbles. After this:\n• Ali = 3 units - 14\n• Ben = 1 unit + 14\n\nAfter the transfer, they have the same number of marbles. This means: 3 units - 14 = 1 unit + 14.\n\nRearranging: 3 units - 1 unit = 14 + 14\n\nWhat is 2 units equal to?",
-      "options": [
-        "14 marbles",
-        "28 marbles",
-        "42 marbles",
-        "56 marbles"
-      ],
+      "options": ["14 marbles", "28 marbles", "42 marbles", "56 marbles"],
       "answer": "28 marbles",
       "points": 10
     },
@@ -443,12 +288,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 7: Times As Many - Transfer (continued)",
       "question": "We found that 2 units = 28 marbles.\n\nSo 1 unit = 28 ÷ 2 = 14 marbles.\n\nBen started with 1 unit. How many marbles did Ben have at first?",
-      "options": [
-        "7 marbles",
-        "14 marbles",
-        "21 marbles",
-        "28 marbles"
-      ],
+      "options": ["7 marbles", "14 marbles", "21 marbles", "28 marbles"],
       "answer": "14 marbles",
       "points": 5
     },
@@ -457,12 +297,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 7: Times As Many - Transfer ⭐ MAIN QUESTION",
       "question": "Ali has 3 times as many marbles as Ben. After Ali gives Ben 14 marbles, they have the same number of marbles. How many marbles did Ali have at first?",
-      "options": [
-        "28 marbles",
-        "35 marbles",
-        "42 marbles",
-        "49 marbles"
-      ],
+      "options": ["28 marbles", "35 marbles", "42 marbles", "49 marbles"],
       "answer": "42 marbles",
       "points": 15
     },
@@ -470,13 +305,8 @@
       "id": 34,
       "type": "mcq",
       "problemSet": "PROBLEM SET 8: Equal - Both Give Away",
-      "question": "Lily and Rose have an equal number of beads at first. They each give away some beads.\n• Lily gives away 15 beads\n• Rose gives away 35 beads\n\nWho gives away more beads?",
-      "options": [
-        "Lily",
-        "Rose",
-        "They give away the same",
-        "Cannot tell"
-      ],
+      "question": "Lily and Rose have an equal number of beads at first. They each give away some beads.\n• Lily gives away 15 beads\n• Rose gives away 36 beads\n\nWho gives away more beads?",
+      "options": ["Lily", "Rose", "They give away the same", "Cannot tell"],
       "answer": "Rose",
       "points": 5
     },
@@ -484,42 +314,27 @@
       "id": 35,
       "type": "mcq",
       "problemSet": "PROBLEM SET 8: Equal - Both Give Away (continued)",
-      "question": "Lily and Rose started with equal amounts. After giving away beads:\n• Lily gave 15, so Lily has MORE than Rose now\n• Rose gave 35, which is 20 more than Lily gave\n\nThe difference between them is now 35 - 15 = ?",
-      "options": [
-        "15 beads",
-        "20 beads",
-        "35 beads",
-        "50 beads"
-      ],
-      "answer": "20 beads",
+      "question": "Lily and Rose started with equal amounts. After giving away beads:\n• Lily gave 15, so Lily has MORE than Rose now\n• Rose gave 36, which is 21 more than Lily gave\n\nThe difference between them is now 36 - 15 = ?",
+      "options": ["15 beads", "21 beads", "36 beads", "51 beads"],
+      "answer": "21 beads",
       "points": 5
     },
     {
       "id": 36,
       "type": "mcq",
       "problemSet": "PROBLEM SET 8: Equal - Both Give Away (continued)",
-      "question": "After giving away beads, Lily has 4 times as many beads as Rose.\n• Lily = 4 parts\n• Rose = 1 part\n• Difference = 3 parts\n\nWe found the difference is 20 beads. So 3 parts = 20 beads. What is 1 part equal to?",
-      "options": [
-        "5 beads",
-        "6 beads",
-        "7 beads",
-        "20/3 beads (not whole number)"
-      ],
-      "answer": "20/3 beads (not whole number)",
+      "question": "After giving away beads, Lily has 4 times as many beads as Rose.\n• Lily = 4 parts\n• Rose = 1 part\n• Difference = 3 parts\n\nWe found the difference is 21 beads. So 3 parts = 21 beads. What is 1 part equal to?",
+      "options": ["5 beads", "6 beads", "7 beads", "8 beads"],
+      "answer": "7 beads",
       "points": 10
     },
     {
       "id": 37,
       "type": "mcq",
       "problemSet": "PROBLEM SET 8: Equal - Both Give Away (NEW QUESTION)",
-      "question": "Let's try a similar problem with nicer numbers:\n\nLily and Rose have an equal number of beads at first. Lily gives away 12 beads and Rose gives away 42 beads. After that, Lily has 5 times as many beads as Rose.\n\nDifference after = 42 - 12 = 30 beads\nLily = 5 parts, Rose = 1 part, Difference = 4 parts\n\nSo 4 parts = 30 beads. What is 1 part?",
-      "options": [
-        "6 beads",
-        "7.5 beads",
-        "8 beads",
-        "10 beads"
-      ],
-      "answer": "7.5 beads",
+      "question": "Let's try a similar problem with nicer numbers:\n\nLily and Rose have an equal number of beads at first. Lily gives away 12 beads and Rose gives away 44 beads. After that, Lily has 5 times as many beads as Rose.\n\nDifference after = 44 - 12 = 32 beads\nLily = 5 parts, Rose = 1 part, Difference = 4 parts\n\nSo 4 parts = 32 beads. What is 1 part?",
+      "options": ["6 beads", "7 beads", "8 beads", "10 beads"],
+      "answer": "8 beads",
       "points": 10
     },
     {
@@ -527,12 +342,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 8: Equal - Both Give Away ⭐ MAIN QUESTION",
       "question": "Lily and Rose have an equal number of beads at first. Lily gives away 8 beads and Rose gives away 48 beads. After that, Lily has 3 times as many beads as Rose.\n\n• Difference after = 48 - 8 = 40 beads\n• Lily = 3 parts, Rose = 1 part\n• Difference = 2 parts = 40 beads\n• 1 part = 20 beads\n• Rose now = 1 part = 20 beads\n• Rose at first = 20 + 48 = 68 beads\n\nHow many beads did they have altogether at first?",
-      "options": [
-        "120 beads",
-        "128 beads",
-        "136 beads",
-        "144 beads"
-      ],
+      "options": ["120 beads", "128 beads", "136 beads", "144 beads"],
       "answer": "136 beads",
       "points": 15
     },
@@ -541,12 +351,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 9: Doubling Pattern",
       "question": "A bacteria colony doubles every hour. This means it multiplies by 2 each hour. If there are 8 bacteria at Hour 1, how many are there at Hour 2?",
-      "options": [
-        "10 bacteria",
-        "12 bacteria",
-        "16 bacteria",
-        "24 bacteria"
-      ],
+      "options": ["10 bacteria", "12 bacteria", "16 bacteria", "24 bacteria"],
       "answer": "16 bacteria",
       "points": 5
     },
@@ -555,12 +360,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 9: Doubling Pattern (continued)",
       "question": "The bacteria doubles every hour.\n• Hour 1: 8\n• Hour 2: 16\n• Hour 3: 32\n• Hour 4: 64\n\nIf there are 256 bacteria at Hour 6, to find Hour 1, we work backwards by dividing by 2 each step. From Hour 6 to Hour 1 is 5 steps backwards.\n\nWhat is 256 ÷ 2?",
-      "options": [
-        "64",
-        "128",
-        "256",
-        "512"
-      ],
+      "options": ["64", "128", "256", "512"],
       "answer": "128",
       "points": 5
     },
@@ -569,12 +369,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 9: Doubling Pattern ⭐ MAIN QUESTION",
       "question": "A bacteria colony doubles every hour. At Hour 5, there are 160 bacteria. How many bacteria were there at Hour 1?",
-      "options": [
-        "8 bacteria",
-        "10 bacteria",
-        "16 bacteria",
-        "20 bacteria"
-      ],
+      "options": ["8 bacteria", "10 bacteria", "16 bacteria", "20 bacteria"],
       "answer": "10 bacteria",
       "points": 15
     },
@@ -583,12 +378,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 10: Combined Units Problem",
       "question": "Cindy has twice as many stickers as Diana. If Diana has 1 unit, Cindy has 2 units. Together they have 3 units. If the total is 45 stickers, what is 1 unit?",
-      "options": [
-        "9 stickers",
-        "12 stickers",
-        "15 stickers",
-        "18 stickers"
-      ],
+      "options": ["9 stickers", "12 stickers", "15 stickers", "18 stickers"],
       "answer": "15 stickers",
       "points": 5
     },
@@ -597,12 +387,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 10: Combined Units Problem (continued)",
       "question": "Cindy = 2 units, Diana = 1 unit, Total = 45 stickers, 1 unit = 15 stickers.\n\nCindy buys 12 more stickers. Diana gives away 3 stickers.\n• Cindy now = 2 units + 12 = 30 + 12 = 42 stickers\n• Diana now = 1 unit - 3 = 15 - 3 = 12 stickers\n\nHow many times more stickers does Cindy have than Diana now?",
-      "options": [
-        "2.5 times",
-        "3 times",
-        "3.5 times",
-        "4 times"
-      ],
+      "options": ["2.5 times", "3 times", "3.5 times", "4 times"],
       "answer": "3.5 times",
       "points": 10
     },
@@ -611,12 +396,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 10: Combined Units Problem ⭐ MAIN QUESTION",
       "question": "Cindy has twice as many stickers as Diana. Cindy then buys 18 more stickers while Diana gives away 6 stickers. Now Cindy has 4 times as many stickers as Diana.\n\nAt first: Cindy = 2 units, Diana = 1 unit\nAfter: Cindy = 2 units + 18, Diana = 1 unit - 6\n\nCindy is now 4 times Diana:\n2 units + 18 = 4 × (1 unit - 6)\n2 units + 18 = 4 units - 24\n18 + 24 = 4 units - 2 units\n42 = 2 units\n1 unit = 21\n\nHow many stickers did Cindy have at first?",
-      "options": [
-        "36 stickers",
-        "42 stickers",
-        "48 stickers",
-        "54 stickers"
-      ],
+      "options": ["36 stickers", "42 stickers", "48 stickers", "54 stickers"],
       "answer": "42 stickers",
       "points": 15
     },
@@ -625,12 +405,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 11: Pattern with Sum",
       "question": "On Day 1, Emma saves $3. Each day she saves $4 more than the day before.\n• Day 1: $3\n• Day 2: $7\n• Day 3: $11\n\nWhat does she save on Day 4?",
-      "options": [
-        "$13",
-        "$14",
-        "$15",
-        "$16"
-      ],
+      "options": ["$13", "$14", "$15", "$16"],
       "answer": "$15",
       "points": 5
     },
@@ -639,12 +414,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 11: Pattern with Sum (continued)",
       "question": "Emma saves: Day 1 = $3, Day 2 = $7, Day 3 = $11, Day 4 = $15.\n\nHow much does she save in total over the 4 days?",
-      "options": [
-        "$32",
-        "$36",
-        "$40",
-        "$44"
-      ],
+      "options": ["$32", "$36", "$40", "$44"],
       "answer": "$36",
       "points": 10
     },
@@ -653,12 +423,7 @@
       "type": "mcq",
       "problemSet": "PROBLEM SET 11: Pattern with Sum ⭐ MAIN QUESTION",
       "question": "Emma saves $5 on Day 1. Each day she saves $3 more than the day before. After how many days will her total savings first exceed $50?",
-      "options": [
-        "4 days",
-        "5 days",
-        "6 days",
-        "7 days"
-      ],
+      "options": ["4 days", "5 days", "6 days", "7 days"],
       "answer": "5 days",
       "points": 15
     },
@@ -667,12 +432,7 @@
       "type": "mcq",
       "problemSet": "MIXED REVIEW: Units Concept",
       "question": "Peter has 4 times as many coins as Queenie. They have 60 coins altogether. How many coins does Peter have?",
-      "options": [
-        "12 coins",
-        "36 coins",
-        "48 coins",
-        "52 coins"
-      ],
+      "options": ["12 coins", "36 coins", "48 coins", "52 coins"],
       "answer": "48 coins",
       "points": 10
     },
@@ -681,12 +441,7 @@
       "type": "mcq",
       "problemSet": "MIXED REVIEW: Working Backwards",
       "question": "A number is multiplied by 5, then 18 is subtracted, and the result is divided by 2. The final answer is 16. What was the original number?",
-      "options": [
-        "8",
-        "10",
-        "12",
-        "14"
-      ],
+      "options": ["8", "10", "12", "14"],
       "answer": "10",
       "points": 10
     },
@@ -695,12 +450,7 @@
       "type": "mcq",
       "problemSet": "MIXED REVIEW ⭐ FINAL CHALLENGE",
       "question": "Ryan and Sam have an equal number of game cards. Ryan gives Sam 24 cards. Sam then has 3 times as many cards as Ryan.\n\n• At first: Ryan = 1 unit, Sam = 1 unit\n• After: Ryan = 1 unit - 24, Sam = 1 unit + 24\n• Sam = 3 × Ryan: 1 unit + 24 = 3 × (1 unit - 24)\n\nSolving: 1 unit + 24 = 3 units - 72\n24 + 72 = 3 units - 1 unit\n96 = 2 units\n1 unit = 48\n\nHow many cards did Ryan have at first?",
-      "options": [
-        "36 cards",
-        "42 cards",
-        "48 cards",
-        "54 cards"
-      ],
+      "options": ["36 cards", "42 cards", "48 cards", "54 cards"],
       "answer": "48 cards",
       "points": 15
     }
