@@ -69,7 +69,7 @@
         "Free electrons carry thermal energy through the material",
         "Particles at the hot end vibrate faster, collide with neighbouring particles, and pass on kinetic energy to them",
         "Hot fluid rises and cold fluid sinks",
-        "Electromagnetic waves transfer energy between particles"
+        "Electromagnetic waves in the form of radiation transfer energy between particles"
       ],
       "answer": "Particles at the hot end vibrate faster, collide with neighbouring particles, and pass on kinetic energy to them",
       "points": 10
@@ -82,10 +82,10 @@
       "options": [
         "Metals have larger particles",
         "Metals have more particles",
-        "Metals have free/delocalised electrons that can move quickly and transfer kinetic energy rapidly, in addition to lattice vibrations",
+        "Metals have free electrons that can move quickly and transfer kinetic energy rapidly, in addition to collision of neighbouring particles",
         "Metals are shinier so absorb more heat"
       ],
-      "answer": "Metals have free/delocalised electrons that can move quickly and transfer kinetic energy rapidly, in addition to lattice vibrations",
+      "answer": "Metals have free/delocalised electrons that can move quickly and transfer kinetic energy rapidly, in addition to vibrations and collisions",
       "points": 10
     },
     {
