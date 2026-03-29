@@ -34,37 +34,37 @@
     {
       "id": 4,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 1: Comparison - Before and After",
-      "question": "Lisa has 5 times as many sweets as Amy. If Amy eats 10 sweets and Lisa eats 6 sweets, who eats more sweets?",
-      "options": ["Lisa eats more", "Amy eats more", "They eat the same amount", "Cannot tell"],
-      "answer": "Amy eats more",
+      "problemSet": "PROBLEM SET 1: Comparison - One Amount Unchanged",
+      "question": "Lisa has 5 times as many sweets as Amy. Amy's mother gives Amy 12 more sweets. Lisa's amount stays the same. Who has more sweets now?",
+      "options": ["Lisa still has more", "Amy now has more", "They have the same", "Cannot tell"],
+      "answer": "Lisa still has more",
       "points": 5
     },
     {
       "id": 5,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 1: Comparison - Before and After (continued)",
-      "question": "After eating, Lisa has 6 times as many sweets as Amy. If Amy has 1 part now, how many parts does Lisa have?",
-      "options": ["4 parts", "5 parts", "6 parts", "7 parts"],
-      "answer": "6 parts",
+      "problemSet": "PROBLEM SET 1: Comparison - One Amount Unchanged (continued)",
+      "question": "At first: Lisa = 5 units, Amy = 1 unit. After Amy gets 12 more sweets: Lisa = 5 units, Amy = 1 unit + 12. Now Lisa has 2 times as many as Amy. How many units does Amy have now?",
+      "options": ["1 unit", "2 units", "2.5 units", "3 units"],
+      "answer": "2.5 units",
       "points": 10
     },
     {
       "id": 6,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 1: Comparison - Before and After (continued)",
-      "question": "At first, the difference between them was 4 units. After eating, the difference became 5 parts. Amy ate 10 sweets and Lisa ate 6 sweets. How much did the difference between them increase by?",
-      "options": ["4 sweets", "6 sweets", "10 sweets", "16 sweets"],
-      "answer": "4 sweets",
+      "problemSet": "PROBLEM SET 1: Comparison - One Amount Unchanged (continued)",
+      "question": "Lisa = 5 units (unchanged). Amy now = 2.5 units. Amy increased by 12 sweets, which equals 2.5 - 1 = 1.5 units. What is the value of 1 unit?",
+      "options": ["6 sweets", "8 sweets", "10 sweets", "12 sweets"],
+      "answer": "8 sweets",
       "points": 10
     },
     {
       "id": 7,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 1: Comparison - Before and After MAIN QUESTION",
-      "question": "Lisa has 5 times as many sweets as Amy. After Lisa ate 6 sweets and Amy ate 10 sweets, Lisa now has 6 times as many sweets as Amy. How many sweets did Amy have at first?",
-      "options": ["44 sweets", "50 sweets", "54 sweets", "60 sweets"],
-      "answer": "54 sweets",
+      "problemSet": "PROBLEM SET 1: Comparison - One Amount Unchanged MAIN QUESTION",
+      "question": "Lisa has 5 times as many sweets as Amy. Amy's mother gives Amy 12 more sweets. Now Lisa has 2 times as many sweets as Amy. How many sweets did Lisa have at first?",
+      "options": ["32 sweets", "40 sweets", "48 sweets", "56 sweets"],
+      "answer": "40 sweets",
       "points": 15
     },
     {
