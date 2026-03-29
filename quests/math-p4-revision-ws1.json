@@ -136,7 +136,7 @@
       "problemSet": "PROBLEM SET 3: Equal at First - Transfer - Test Question",
       "question": "Priya and Qian have an equal number of beads at first. After Priya gave Qian 42 beads, Qian has 5 times as many beads as Priya. How many beads did they have altogether at first?",
       "options": ["126 beads", "168 beads", "210 beads", "252 beads"],
-      "answer": "210 beads",
+      "answer": "126 beads",
       "points": 10
     },
     {
@@ -181,7 +181,7 @@
       "problemSet": "PROBLEM SET 4: More Than - Before and After - Test Question",
       "question": "Ahmad has 18 more erasers than Bella. After Ahmad gives some erasers to Bella, Bella has 2 times as many erasers as Ahmad. If Bella had 36 erasers at first, how many erasers did Ahmad give to Bella?",
       "options": ["24 erasers", "27 erasers", "30 erasers", "33 erasers"],
-      "answer": "30 erasers",
+      "answer": "24 erasers",
       "points": 10
     },
     {
@@ -226,7 +226,7 @@
       "problemSet": "PROBLEM SET 5: Times As Many - Transfer to Equal - Test Question",
       "question": "Cheng has 5 times as many pencils as David. After Cheng gives David 24 pencils, they have the same number of pencils. How many pencils did Cheng have at first?",
       "options": ["24 pencils", "30 pencils", "36 pencils", "60 pencils"],
-      "answer": "30 pencils",
+      "answer": "60 pencils",
       "points": 10
     },
     {
