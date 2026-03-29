@@ -1,0 +1,568 @@
+{
+  "questTitle": "Sec 4 Chemistry: Rate of Chemical Reaction",
+  "subject": "Chemistry",
+  "difficulty": "Medium-Hard",
+  "description": "Master the concepts of rate of chemical reaction! This worksheet covers factors affecting reaction rate, collision theory explanations, activation energy, and interpretation of rate graphs. Read each question carefully and apply your understanding of particle theory.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Understanding Rate of Reaction",
+      "question": "What is the definition of rate of reaction?",
+      "options": [
+        "The total amount of product formed in a reaction",
+        "The change in concentration of reactants or products per unit time",
+        "The total time taken for a reaction to complete",
+        "The energy required to start a reaction"
+      ],
+      "answer": "The change in concentration of reactants or products per unit time",
+      "points": 5
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Understanding Rate of Reaction",
+      "question": "Which of the following units can be used to express rate of reaction?",
+      "options": [
+        "g/min or cm³/s",
+        "g or cm³",
+        "mol or dm³",
+        "J/mol or kJ"
+      ],
+      "answer": "g/min or cm³/s",
+      "points": 5
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Understanding Rate of Reaction",
+      "question": "According to collision theory, for a reaction to occur, particles must:",
+      "options": [
+        "Be heated to 100°C",
+        "Collide with sufficient energy and correct orientation",
+        "Be in the same physical state",
+        "Have the same mass"
+      ],
+      "answer": "Collide with sufficient energy and correct orientation",
+      "points": 5
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Understanding Rate of Reaction",
+      "question": "A collision that results in a chemical reaction is called:",
+      "options": [
+        "An elastic collision",
+        "An ineffective collision",
+        "An effective or successful collision",
+        "A physical collision"
+      ],
+      "answer": "An effective or successful collision",
+      "points": 5
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Understanding Rate of Reaction - Test Question",
+      "question": "In a reaction between marble chips and hydrochloric acid, 50 cm³ of gas was collected in 25 seconds. What is the average rate of reaction?",
+      "options": [
+        "0.5 cm³/s",
+        "2 cm³/s",
+        "25 cm³/s",
+        "1250 cm³/s"
+      ],
+      "answer": "2 cm³/s",
+      "points": 10
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Activation Energy",
+      "question": "What is activation energy (Eₐ)?",
+      "options": [
+        "The energy released when bonds are formed",
+        "The minimum energy required for a reaction to occur",
+        "The total energy of the products",
+        "The energy stored in the reactants"
+      ],
+      "answer": "The minimum energy required for a reaction to occur",
+      "points": 5
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Activation Energy",
+      "question": "On an energy profile diagram, where is the activation energy represented?",
+      "options": [
+        "The difference between reactant energy and product energy",
+        "The difference between the peak (transition state) and reactant energy",
+        "The total height of the diagram",
+        "The difference between the peak and product energy"
+      ],
+      "answer": "The difference between the peak (transition state) and reactant energy",
+      "points": 5
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Activation Energy",
+      "question": "If a reaction has a high activation energy, what does this mean?",
+      "options": [
+        "The reaction will occur very quickly",
+        "Few particles will have enough energy to react, so the reaction is slow",
+        "The reaction releases a lot of heat",
+        "The reaction does not require a catalyst"
+      ],
+      "answer": "Few particles will have enough energy to react, so the reaction is slow",
+      "points": 5
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Activation Energy",
+      "question": "For an effective collision to occur, the energy of the colliding particles must be:",
+      "options": [
+        "Less than the activation energy",
+        "Equal to or greater than the activation energy",
+        "Equal to zero",
+        "Equal to the energy of the products"
+      ],
+      "answer": "Equal to or greater than the activation energy",
+      "points": 5
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Activation Energy - Test Question",
+      "question": "Two reactions X and Y have activation energies of 50 kJ/mol and 120 kJ/mol respectively at the same temperature. Which statement is correct?",
+      "options": [
+        "Reaction Y is faster because it has higher activation energy",
+        "Reaction X is faster because more particles have energy ≥ 50 kJ/mol than ≥ 120 kJ/mol",
+        "Both reactions proceed at the same rate",
+        "The rate cannot be compared without knowing the concentration"
+      ],
+      "answer": "Reaction X is faster because more particles have energy ≥ 50 kJ/mol than ≥ 120 kJ/mol",
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: Effect of Concentration",
+      "question": "When the concentration of a reactant is increased, what happens to the rate of reaction?",
+      "options": [
+        "Rate decreases",
+        "Rate increases",
+        "Rate stays the same",
+        "Rate first increases then decreases"
+      ],
+      "answer": "Rate increases",
+      "points": 5
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: Effect of Concentration",
+      "question": "Using collision theory, explain why increasing concentration increases the rate of reaction.",
+      "options": [
+        "Particles move faster and collide with more energy",
+        "There are more particles per unit volume, leading to more frequent collisions",
+        "The activation energy is lowered",
+        "The particles become smaller and collide more easily"
+      ],
+      "answer": "There are more particles per unit volume, leading to more frequent collisions",
+      "points": 5
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: Effect of Concentration",
+      "question": "Magnesium ribbon is added to dilute hydrochloric acid. What would be observed if the concentration of acid is doubled?",
+      "options": [
+        "Slower fizzing and less heat produced",
+        "Faster fizzing and magnesium disappears more quickly",
+        "No change in the rate of fizzing",
+        "The reaction stops completely"
+      ],
+      "answer": "Faster fizzing and magnesium disappears more quickly",
+      "points": 5
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: Effect of Concentration",
+      "question": "For gases, increasing pressure has a similar effect to increasing concentration. Why?",
+      "options": [
+        "Higher pressure increases the temperature",
+        "Higher pressure forces particles closer together, increasing the number of particles per unit volume",
+        "Higher pressure lowers the activation energy",
+        "Higher pressure makes particles lighter"
+      ],
+      "answer": "Higher pressure forces particles closer together, increasing the number of particles per unit volume",
+      "points": 5
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: Effect of Concentration - Test Question",
+      "question": "In an experiment, marble chips react with 1 mol/dm³ HCl and 2 mol/dm³ HCl separately. Both experiments use excess marble chips and the same volume of acid. Which statement is correct about the final volume of CO₂ collected?",
+      "options": [
+        "2 mol/dm³ HCl produces more CO₂ because the rate is faster",
+        "1 mol/dm³ HCl produces more CO₂ because the reaction is slower",
+        "Both produce the same final volume of CO₂, but 2 mol/dm³ HCl reaches it faster",
+        "Both produce the same final volume of CO₂ at the same time"
+      ],
+      "answer": "Both produce the same final volume of CO₂, but 2 mol/dm³ HCl reaches it faster",
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Effect of Temperature",
+      "question": "When the temperature of a reaction mixture is increased, what happens to the rate of reaction?",
+      "options": [
+        "Rate decreases",
+        "Rate increases",
+        "Rate stays the same",
+        "Rate becomes zero"
+      ],
+      "answer": "Rate increases",
+      "points": 5
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Effect of Temperature",
+      "question": "Using collision theory, which is the MAIN reason why increasing temperature increases the rate of reaction?",
+      "options": [
+        "Particles become larger",
+        "The activation energy is lowered",
+        "Particles move faster, collide more frequently, and more particles have energy ≥ Eₐ",
+        "The concentration of particles increases"
+      ],
+      "answer": "Particles move faster, collide more frequently, and more particles have energy ≥ Eₐ",
+      "points": 5
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Effect of Temperature",
+      "question": "At a higher temperature, the Maxwell-Boltzmann distribution curve shifts. What happens to the proportion of particles with energy greater than or equal to the activation energy?",
+      "options": [
+        "It decreases",
+        "It increases",
+        "It stays the same",
+        "It becomes zero"
+      ],
+      "answer": "It increases",
+      "points": 5
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Effect of Temperature",
+      "question": "A general rule states that for every 10°C rise in temperature, the rate of reaction approximately:",
+      "options": [
+        "Stays the same",
+        "Doubles",
+        "Halves",
+        "Triples"
+      ],
+      "answer": "Doubles",
+      "points": 5
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Effect of Temperature - Test Question",
+      "question": "Experiment A is conducted at 25°C and Experiment B at 45°C. Both use the same reactants and concentrations. Using the general rule about temperature and rate, approximately how many times faster is Experiment B compared to A?",
+      "options": [
+        "2 times faster",
+        "4 times faster",
+        "8 times faster",
+        "20 times faster"
+      ],
+      "answer": "4 times faster",
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 5: Effect of Surface Area (Particle Size)",
+      "question": "Marble chips are available as large lumps or powder. Which form reacts faster with hydrochloric acid?",
+      "options": [
+        "Large lumps",
+        "Powder",
+        "Both react at the same rate",
+        "Neither reacts with acid"
+      ],
+      "answer": "Powder",
+      "points": 5
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 5: Effect of Surface Area (Particle Size)",
+      "question": "Using collision theory, explain why smaller particles (larger surface area) react faster.",
+      "options": [
+        "Smaller particles have higher energy",
+        "More surface is exposed for reactant particles to collide with, increasing collision frequency",
+        "Smaller particles lower the activation energy",
+        "Smaller particles increase the concentration"
+      ],
+      "answer": "More surface is exposed for reactant particles to collide with, increasing collision frequency",
+      "points": 5
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 5: Effect of Surface Area (Particle Size)",
+      "question": "A cube of side 2 cm has a surface area of 24 cm². If it is cut into 8 smaller cubes of side 1 cm each, what is the total surface area now?",
+      "options": [
+        "24 cm²",
+        "36 cm²",
+        "48 cm²",
+        "96 cm²"
+      ],
+      "answer": "48 cm²",
+      "points": 5
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 5: Effect of Surface Area (Particle Size)",
+      "question": "In industry, why is it dangerous to have fine powders of combustible materials (like flour or coal dust) in the air?",
+      "options": [
+        "They react slowly and clog machinery",
+        "The large surface area can cause rapid combustion or explosions",
+        "They lower the temperature of the surroundings",
+        "They reduce the oxygen concentration"
+      ],
+      "answer": "The large surface area can cause rapid combustion or explosions",
+      "points": 5
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 5: Effect of Surface Area (Particle Size) - Test Question",
+      "question": "10 g of marble chips (large lumps) and 10 g of marble powder react separately with excess dilute HCl. Which statement correctly compares the two reactions?",
+      "options": [
+        "Powder reacts faster and produces more CO₂",
+        "Lumps react faster but produce less CO₂",
+        "Both produce the same total volume of CO₂, but powder reaches the final volume faster",
+        "Lumps produce more CO₂ because they have more mass"
+      ],
+      "answer": "Both produce the same total volume of CO₂, but powder reaches the final volume faster",
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Effect of Catalyst",
+      "question": "What is a catalyst?",
+      "options": [
+        "A substance that slows down a reaction",
+        "A substance that speeds up a reaction without being chemically changed at the end",
+        "A substance that is used up during the reaction",
+        "A substance that increases the yield of products"
+      ],
+      "answer": "A substance that speeds up a reaction without being chemically changed at the end",
+      "points": 5
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Effect of Catalyst",
+      "question": "How does a catalyst increase the rate of reaction?",
+      "options": [
+        "By increasing the temperature of the reaction",
+        "By providing an alternative reaction pathway with lower activation energy",
+        "By increasing the concentration of reactants",
+        "By increasing the surface area of reactants"
+      ],
+      "answer": "By providing an alternative reaction pathway with lower activation energy",
+      "points": 5
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Effect of Catalyst",
+      "question": "On a Maxwell-Boltzmann distribution curve, adding a catalyst causes:",
+      "options": [
+        "The curve to shift to the right",
+        "The curve to become taller",
+        "The activation energy line to move to the left (lower Eₐ), so more particles have E ≥ Eₐ",
+        "The curve to shift to the left"
+      ],
+      "answer": "The activation energy line to move to the left (lower Eₐ), so more particles have E ≥ Eₐ",
+      "points": 5
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Effect of Catalyst",
+      "question": "Manganese dioxide (MnO₂) is used as a catalyst in the decomposition of hydrogen peroxide. After the reaction, what happens to the MnO₂?",
+      "options": [
+        "It is used up and cannot be recovered",
+        "It is chemically unchanged and can be reused",
+        "It is converted into a different compound",
+        "It dissolves in the products"
+      ],
+      "answer": "It is chemically unchanged and can be reused",
+      "points": 5
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Effect of Catalyst - Test Question",
+      "question": "Hydrogen peroxide decomposes with and without a catalyst. Which statement correctly describes the effect of the catalyst on the energy profile diagram?",
+      "options": [
+        "The catalyst lowers both the activation energy and the enthalpy change",
+        "The catalyst lowers the activation energy but does not change the enthalpy change",
+        "The catalyst increases the activation energy and increases the enthalpy change",
+        "The catalyst does not affect the activation energy but increases the rate"
+      ],
+      "answer": "The catalyst lowers the activation energy but does not change the enthalpy change",
+      "points": 10
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 7: Interpreting Rate Graphs - Volume/Mass vs Time",
+      "question": "In a graph of volume of gas produced against time, what does a steeper curve indicate?",
+      "options": [
+        "Slower rate of reaction",
+        "Faster rate of reaction",
+        "No reaction occurring",
+        "The reaction is reversible"
+      ],
+      "answer": "Faster rate of reaction",
+      "points": 5
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 7: Interpreting Rate Graphs - Volume/Mass vs Time",
+      "question": "In a graph of volume of gas against time, the curve eventually becomes horizontal (flat). What does this indicate?",
+      "options": [
+        "The reaction is speeding up",
+        "The reaction has stopped because one reactant is used up",
+        "The temperature has increased",
+        "A catalyst has been added"
+      ],
+      "answer": "The reaction has stopped because one reactant is used up",
+      "points": 5
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 7: Interpreting Rate Graphs - Volume/Mass vs Time",
+      "question": "Two experiments produce the same final volume of gas, but Experiment A has a steeper initial curve than Experiment B. What can be concluded?",
+      "options": [
+        "Experiment A used more reactant",
+        "Experiment A had a faster initial rate but the same total amount of product",
+        "Experiment B had a faster rate",
+        "Experiment A used a catalyst that increased the yield"
+      ],
+      "answer": "Experiment A had a faster initial rate but the same total amount of product",
+      "points": 5
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 7: Interpreting Rate Graphs - Volume/Mass vs Time",
+      "question": "In a graph of mass of reaction mixture against time (measuring mass loss), the mass decreases over time. Why does the curve eventually become horizontal?",
+      "options": [
+        "Gas is no longer escaping",
+        "The reaction has completed and no more gas is being produced",
+        "The balance is broken",
+        "The temperature has dropped"
+      ],
+      "answer": "The reaction has completed and no more gas is being produced",
+      "points": 5
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 7: Interpreting Rate Graphs - Volume/Mass vs Time - Test Question",
+      "question": "The graph shows volume of CO₂ against time for two experiments. Curve P reaches 60 cm³ in 30 s then levels off. Curve Q reaches 60 cm³ in 60 s then levels off. Which statement is correct?",
+      "options": [
+        "P used higher concentration of acid than Q",
+        "Q used higher concentration of acid than P",
+        "P used less marble chips than Q",
+        "Q had a higher temperature than P"
+      ],
+      "answer": "P used higher concentration of acid than Q",
+      "points": 10
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 8: Interpreting Rate Graphs - Comparing Conditions",
+      "question": "Two experiments use the same mass of marble chips and volume of acid. Experiment 1 uses large lumps, Experiment 2 uses powder. On a volume vs time graph, how would the two curves compare?",
+      "options": [
+        "Both curves are identical",
+        "Experiment 2 curve is steeper initially but both reach the same final volume",
+        "Experiment 1 curve is steeper and reaches a higher final volume",
+        "Experiment 2 reaches a higher final volume"
+      ],
+      "answer": "Experiment 2 curve is steeper initially but both reach the same final volume",
+      "points": 5
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 8: Interpreting Rate Graphs - Comparing Conditions",
+      "question": "Experiment X is conducted at 30°C and Experiment Y at 50°C. Both use identical reactants and quantities. On a volume vs time graph, how would the curves compare?",
+      "options": [
+        "Both curves are identical",
+        "Curve Y is steeper initially but both reach the same final volume",
+        "Curve X reaches a higher final volume",
+        "Curve Y reaches a lower final volume"
+      ],
+      "answer": "Curve Y is steeper initially but both reach the same final volume",
+      "points": 5
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 8: Interpreting Rate Graphs - Comparing Conditions",
+      "question": "Experiment A uses 50 cm³ of 1 mol/dm³ HCl with excess marble chips. Experiment B uses 50 cm³ of 2 mol/dm³ HCl with excess marble chips. How do the final volumes of CO₂ compare?",
+      "options": [
+        "Both produce the same final volume",
+        "Experiment B produces double the final volume",
+        "Experiment A produces double the final volume",
+        "Final volume cannot be determined"
+      ],
+      "answer": "Experiment B produces double the final volume",
+      "points": 5
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 8: Interpreting Rate Graphs - Comparing Conditions",
+      "question": "A catalyst is added to a reaction. On a volume vs time graph, how does the curve with catalyst compare to the curve without catalyst?",
+      "options": [
+        "The curve with catalyst is steeper and reaches a higher final volume",
+        "The curve with catalyst is steeper but reaches the same final volume",
+        "The curve with catalyst is less steep but reaches a higher final volume",
+        "Both curves are identical"
+      ],
+      "answer": "The curve with catalyst is steeper but reaches the same final volume",
+      "points": 5
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 8: Interpreting Rate Graphs - Comparing Conditions - Test Question",
+      "question": "The graph below shows three curves P, Q, and R for the reaction of marble chips with hydrochloric acid. All use the same mass of marble chips. Curve P: steepest, levels off at 80 cm³. Curve Q: moderate steepness, levels off at 80 cm³. Curve R: least steep, levels off at 40 cm³. Which statement correctly identifies the conditions?",
+      "options": [
+        "P: high temperature, high concentration. Q: low temperature, high concentration. R: low temperature, low concentration.",
+        "P: high concentration, large surface area. Q: low concentration, large surface area. R: same concentration as Q, but half the volume of acid.",
+        "P: with catalyst. Q: without catalyst. R: without catalyst but lower temperature.",
+        "P: powder form. Q: small lumps. R: large lumps with double the acid concentration."
+      ],
+      "answer": "P: high concentration, large surface area. Q: low concentration, large surface area. R: same concentration as Q, but half the volume of acid.",
+      "points": 10
+    }
+  ]
+}

@@ -1,0 +1,558 @@
+{
+  "questTitle": "Sec 4 Chemistry: Periodic Table - Groups 1 & 17, Displacement & Redox",
+  "subject": "Chemistry",
+  "difficulty": "Medium-Hard",
+  "description": "Master the periodic table focusing on Group 1 (Alkali Metals) and Group 17 (Halogens)! This worksheet covers physical properties, chemical properties, displacement reactions, observations, and redox concepts. Read each question carefully.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Group 1 - Physical Properties",
+      "question": "Group 1 elements are called alkali metals. Which of the following is NOT a Group 1 element?",
+      "options": ["Lithium (Li)", "Sodium (Na)", "Magnesium (Mg)", "Potassium (K)"],
+      "answer": "Magnesium (Mg)",
+      "points": 5
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Group 1 - Physical Properties",
+      "question": "Alkali metals are stored under oil. What property of alkali metals makes this necessary?",
+      "options": [
+        "They are very hard",
+        "They react vigorously with air and water",
+        "They have high melting points",
+        "They are very dense"
+      ],
+      "answer": "They react vigorously with air and water",
+      "points": 5
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Group 1 - Physical Properties",
+      "question": "How does the melting point change as you go DOWN Group 1 from lithium to caesium?",
+      "options": [
+        "Melting point increases",
+        "Melting point decreases",
+        "Melting point stays the same",
+        "Melting point first increases then decreases"
+      ],
+      "answer": "Melting point decreases",
+      "points": 5
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Group 1 - Physical Properties",
+      "question": "Sodium, potassium, and lithium can float on water. What does this tell us about their density?",
+      "options": [
+        "Their density is greater than water (>1 g/cm³)",
+        "Their density is less than water (<1 g/cm³)",
+        "Their density is exactly equal to water (1 g/cm³)",
+        "Density cannot be determined from this observation"
+      ],
+      "answer": "Their density is less than water (<1 g/cm³)",
+      "points": 5
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Group 1 - Physical Properties - Test Question",
+      "question": "Which of the following correctly describes the physical properties of Group 1 metals compared to typical transition metals?",
+      "options": [
+        "Group 1 metals are harder and have higher melting points",
+        "Group 1 metals are softer and have lower melting points",
+        "Group 1 metals are denser and have higher boiling points",
+        "Group 1 metals are harder and have lower density"
+      ],
+      "answer": "Group 1 metals are softer and have lower melting points",
+      "points": 10
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Group 1 - Chemical Properties",
+      "question": "All Group 1 elements have one electron in their outermost shell. What type of ion do they form when they react?",
+      "options": [
+        "Negative ion with charge 1-",
+        "Positive ion with charge 1+",
+        "Positive ion with charge 2+",
+        "They do not form ions"
+      ],
+      "answer": "Positive ion with charge 1+",
+      "points": 5
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Group 1 - Chemical Properties",
+      "question": "When sodium reacts with water, what products are formed?",
+      "options": [
+        "Sodium oxide and hydrogen",
+        "Sodium hydroxide and hydrogen",
+        "Sodium hydroxide and oxygen",
+        "Sodium chloride and hydrogen"
+      ],
+      "answer": "Sodium hydroxide and hydrogen",
+      "points": 5
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Group 1 - Chemical Properties",
+      "question": "When potassium reacts with water, a lilac flame is observed. What causes this flame?",
+      "options": [
+        "The hydrogen gas produced catches fire",
+        "The potassium hydroxide burns",
+        "The water evaporates rapidly",
+        "The oxygen in air combusts"
+      ],
+      "answer": "The hydrogen gas produced catches fire",
+      "points": 5
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Group 1 - Chemical Properties",
+      "question": "How does reactivity change as you go DOWN Group 1?",
+      "options": [
+        "Reactivity decreases",
+        "Reactivity increases",
+        "Reactivity stays the same",
+        "Reactivity first increases then decreases"
+      ],
+      "answer": "Reactivity increases",
+      "points": 5
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Group 1 - Chemical Properties - Test Question",
+      "question": "Potassium reacts more vigorously with water than sodium. Which explanation is correct?",
+      "options": [
+        "Potassium has more protons attracting the outer electron",
+        "Potassium has more electron shells, so the outer electron is further from the nucleus and easier to lose",
+        "Potassium has fewer neutrons than sodium",
+        "Potassium has a smaller atomic radius than sodium"
+      ],
+      "answer": "Potassium has more electron shells, so the outer electron is further from the nucleus and easier to lose",
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: Group 1 - Reactions and Observations",
+      "question": "Lithium is added to water. Which observation would you expect?",
+      "options": [
+        "Lithium sinks and reacts slowly with no flame",
+        "Lithium floats, fizzes steadily, and moves around the surface",
+        "Lithium explodes immediately on contact with water",
+        "Lithium floats but does not react"
+      ],
+      "answer": "Lithium floats, fizzes steadily, and moves around the surface",
+      "points": 5
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: Group 1 - Reactions and Observations",
+      "question": "Sodium is added to water. Which observation would you expect?",
+      "options": [
+        "Sodium sinks and dissolves slowly",
+        "Sodium floats, melts into a ball, fizzes vigorously, and may catch fire",
+        "Sodium floats but does not react",
+        "Sodium explodes immediately with a loud bang"
+      ],
+      "answer": "Sodium floats, melts into a ball, fizzes vigorously, and may catch fire",
+      "points": 5
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: Group 1 - Reactions and Observations",
+      "question": "After reacting sodium with water, universal indicator is added to the solution. What colour change would you observe?",
+      "options": [
+        "Red (acidic)",
+        "Green (neutral)",
+        "Purple/Blue (alkaline)",
+        "No colour change"
+      ],
+      "answer": "Purple/Blue (alkaline)",
+      "points": 5
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: Group 1 - Reactions and Observations",
+      "question": "The gas produced when alkali metals react with water can be tested. What is the test and expected result?",
+      "options": [
+        "Glowing splint relights - oxygen",
+        "Lighted splint causes a 'pop' sound - hydrogen",
+        "Limewater turns milky - carbon dioxide",
+        "Damp litmus paper turns white - chlorine"
+      ],
+      "answer": "Lighted splint causes a 'pop' sound - hydrogen",
+      "points": 5
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: Group 1 - Reactions and Observations - Test Question",
+      "question": "Three alkali metals X, Y, and Z are added to water separately. X fizzes gently and floats. Y fizzes vigorously, melts into a ball, and catches fire with a lilac flame. Z fizzes steadily and moves around the surface. Arrange X, Y, and Z in order of increasing reactivity.",
+      "options": [
+        "X < Z < Y",
+        "Y < Z < X",
+        "Z < X < Y",
+        "X < Y < Z"
+      ],
+      "answer": "X < Z < Y",
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Group 17 - Physical Properties",
+      "question": "Group 17 elements are called halogens. Which of the following is a halogen?",
+      "options": ["Oxygen (O)", "Nitrogen (N)", "Chlorine (Cl)", "Sulfur (S)"],
+      "answer": "Chlorine (Cl)",
+      "points": 5
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Group 17 - Physical Properties",
+      "question": "What is the physical state of chlorine at room temperature?",
+      "options": [
+        "Solid",
+        "Liquid",
+        "Gas",
+        "Plasma"
+      ],
+      "answer": "Gas",
+      "points": 5
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Group 17 - Physical Properties",
+      "question": "What is the physical state of bromine at room temperature?",
+      "options": [
+        "Solid",
+        "Liquid",
+        "Gas",
+        "It depends on pressure"
+      ],
+      "answer": "Liquid",
+      "points": 5
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Group 17 - Physical Properties",
+      "question": "How does the boiling point change as you go DOWN Group 17 from fluorine to iodine?",
+      "options": [
+        "Boiling point decreases",
+        "Boiling point increases",
+        "Boiling point stays the same",
+        "Boiling point first decreases then increases"
+      ],
+      "answer": "Boiling point increases",
+      "points": 5
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Group 17 - Physical Properties - Test Question",
+      "question": "Which of the following correctly describes the colour and state of the halogens at room temperature?",
+      "options": [
+        "Chlorine: yellow-green gas; Bromine: red-brown liquid; Iodine: purple-black solid",
+        "Chlorine: colourless gas; Bromine: yellow liquid; Iodine: grey solid",
+        "Chlorine: green solid; Bromine: orange gas; Iodine: purple liquid",
+        "Chlorine: yellow-green liquid; Bromine: red-brown gas; Iodine: black gas"
+      ],
+      "answer": "Chlorine: yellow-green gas; Bromine: red-brown liquid; Iodine: purple-black solid",
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 5: Group 17 - Chemical Properties",
+      "question": "All Group 17 elements have seven electrons in their outermost shell. What type of ion do they form when they react with metals?",
+      "options": [
+        "Positive ion with charge 1+",
+        "Negative ion with charge 1-",
+        "Positive ion with charge 7+",
+        "Negative ion with charge 7-"
+      ],
+      "answer": "Negative ion with charge 1-",
+      "points": 5
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 5: Group 17 - Chemical Properties",
+      "question": "How does reactivity change as you go DOWN Group 17?",
+      "options": [
+        "Reactivity increases",
+        "Reactivity decreases",
+        "Reactivity stays the same",
+        "Reactivity first increases then decreases"
+      ],
+      "answer": "Reactivity decreases",
+      "points": 5
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 5: Group 17 - Chemical Properties",
+      "question": "Chlorine is more reactive than bromine. Which explanation is correct?",
+      "options": [
+        "Chlorine has more electron shells, so it gains electrons more easily",
+        "Chlorine has fewer electron shells, so the incoming electron is closer to the nucleus and more strongly attracted",
+        "Chlorine has more protons than bromine",
+        "Chlorine has a larger atomic radius than bromine"
+      ],
+      "answer": "Chlorine has fewer electron shells, so the incoming electron is closer to the nucleus and more strongly attracted",
+      "points": 5
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 5: Group 17 - Chemical Properties",
+      "question": "When chlorine reacts with sodium, what product is formed?",
+      "options": [
+        "Sodium oxide",
+        "Sodium hydroxide",
+        "Sodium chloride",
+        "Sodium chlorate"
+      ],
+      "answer": "Sodium chloride",
+      "points": 5
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 5: Group 17 - Chemical Properties - Test Question",
+      "question": "Fluorine is the most reactive halogen. Based on the trend in Group 17, which statement correctly explains this?",
+      "options": [
+        "Fluorine has the most electron shells, making it easier to gain an electron",
+        "Fluorine has the smallest atomic radius, so the incoming electron experiences the strongest attraction to the nucleus",
+        "Fluorine has the most protons, giving it the strongest positive charge",
+        "Fluorine has the weakest intermolecular forces"
+      ],
+      "answer": "Fluorine has the smallest atomic radius, so the incoming electron experiences the strongest attraction to the nucleus",
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Halogen Displacement Reactions - Basics",
+      "question": "In a displacement reaction involving halogens, which halogen will displace another?",
+      "options": [
+        "A less reactive halogen displaces a more reactive halogen",
+        "A more reactive halogen displaces a less reactive halogen",
+        "Any halogen can displace any other halogen",
+        "Halogens cannot displace each other"
+      ],
+      "answer": "A more reactive halogen displaces a less reactive halogen",
+      "points": 5
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Halogen Displacement Reactions - Basics",
+      "question": "Chlorine water is added to potassium bromide solution. What would you observe?",
+      "options": [
+        "No change - solution remains colourless",
+        "Solution turns yellow-green",
+        "Solution turns red-brown (orange-brown)",
+        "A white precipitate forms"
+      ],
+      "answer": "Solution turns red-brown (orange-brown)",
+      "points": 5
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Halogen Displacement Reactions - Basics",
+      "question": "In the reaction between chlorine and potassium bromide, what is the word equation?",
+      "options": [
+        "Chlorine + Potassium bromide → Potassium chloride + Bromine",
+        "Chlorine + Potassium bromide → Potassium + Chlorine bromide",
+        "Bromine + Potassium chloride → Potassium bromide + Chlorine",
+        "Chlorine + Potassium → Potassium chloride"
+      ],
+      "answer": "Chlorine + Potassium bromide → Potassium chloride + Bromine",
+      "points": 5
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Halogen Displacement Reactions - Basics",
+      "question": "Bromine water is added to potassium chloride solution. What would you observe?",
+      "options": [
+        "Solution turns red-brown",
+        "Solution turns yellow-green",
+        "No change - no reaction occurs",
+        "A white precipitate forms"
+      ],
+      "answer": "No change - no reaction occurs",
+      "points": 5
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Halogen Displacement Reactions - Basics - Test Question",
+      "question": "Chlorine water is added to potassium iodide solution. Which observation and explanation is correct?",
+      "options": [
+        "No change; chlorine is less reactive than iodine",
+        "Solution turns brown; chlorine displaces iodine as chlorine is more reactive",
+        "Solution turns green; iodine displaces chlorine",
+        "White precipitate forms; potassium chloride is insoluble"
+      ],
+      "answer": "Solution turns brown; chlorine displaces iodine as chlorine is more reactive",
+      "points": 10
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 7: Displacement Reactions and Redox",
+      "question": "In the reaction Cl₂ + 2KBr → 2KCl + Br₂, what happens to chlorine?",
+      "options": [
+        "Chlorine is oxidised (loses electrons)",
+        "Chlorine is reduced (gains electrons)",
+        "Chlorine is neither oxidised nor reduced",
+        "Chlorine acts as a catalyst"
+      ],
+      "answer": "Chlorine is reduced (gains electrons)",
+      "points": 5
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 7: Displacement Reactions and Redox",
+      "question": "In the reaction Cl₂ + 2KBr → 2KCl + Br₂, what happens to bromide ions (Br⁻)?",
+      "options": [
+        "Bromide ions are oxidised (lose electrons)",
+        "Bromide ions are reduced (gain electrons)",
+        "Bromide ions are neither oxidised nor reduced",
+        "Bromide ions act as a catalyst"
+      ],
+      "answer": "Bromide ions are oxidised (lose electrons)",
+      "points": 5
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 7: Displacement Reactions and Redox",
+      "question": "In a redox reaction, the substance that causes another substance to be oxidised is called:",
+      "options": [
+        "Reducing agent",
+        "Oxidising agent",
+        "Catalyst",
+        "Neutralising agent"
+      ],
+      "answer": "Oxidising agent",
+      "points": 5
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 7: Displacement Reactions and Redox",
+      "question": "In the reaction Cl₂ + 2Br⁻ → 2Cl⁻ + Br₂, what is the oxidising agent?",
+      "options": [
+        "Cl₂",
+        "Br⁻",
+        "Cl⁻",
+        "Br₂"
+      ],
+      "answer": "Cl₂",
+      "points": 5
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 7: Displacement Reactions and Redox - Test Question",
+      "question": "In the ionic equation Cl₂ + 2I⁻ → 2Cl⁻ + I₂, identify the correct statements: (i) Cl₂ is reduced (ii) I⁻ is the reducing agent (iii) Cl₂ is the oxidising agent (iv) I₂ is oxidised",
+      "options": [
+        "(i), (ii) and (iii) only",
+        "(i) and (iv) only",
+        "(ii), (iii) and (iv) only",
+        "(i), (ii), (iii) and (iv)"
+      ],
+      "answer": "(i), (ii) and (iii) only",
+      "points": 10
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 8: Comparing Group 1 and Group 17 Trends",
+      "question": "As you go DOWN Group 1, reactivity increases. As you go DOWN Group 17, reactivity decreases. What is the reason for this opposite trend?",
+      "options": [
+        "Group 1 metals lose electrons while Group 17 non-metals gain electrons",
+        "Group 1 metals gain electrons while Group 17 non-metals lose electrons",
+        "Both groups lose electrons but in different ways",
+        "The number of protons changes differently in each group"
+      ],
+      "answer": "Group 1 metals lose electrons while Group 17 non-metals gain electrons",
+      "points": 5
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 8: Comparing Group 1 and Group 17 Trends",
+      "question": "When sodium reacts with chlorine, sodium chloride is formed. In this reaction, what happens to sodium?",
+      "options": [
+        "Sodium is reduced (gains electrons)",
+        "Sodium is oxidised (loses electrons)",
+        "Sodium is neither oxidised nor reduced",
+        "Sodium acts as a catalyst"
+      ],
+      "answer": "Sodium is oxidised (loses electrons)",
+      "points": 5
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 8: Comparing Group 1 and Group 17 Trends",
+      "question": "In the reaction 2Na + Cl₂ → 2NaCl, what is the reducing agent?",
+      "options": [
+        "Na",
+        "Cl₂",
+        "NaCl",
+        "Cl⁻"
+      ],
+      "answer": "Na",
+      "points": 5
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 8: Comparing Group 1 and Group 17 Trends",
+      "question": "Which pair of elements would react most vigorously with each other?",
+      "options": [
+        "Lithium and iodine",
+        "Lithium and fluorine",
+        "Caesium and iodine",
+        "Caesium and fluorine"
+      ],
+      "answer": "Caesium and fluorine",
+      "points": 5
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 8: Comparing Group 1 and Group 17 Trends - Test Question",
+      "question": "Element X is in Group 1 and reacts vigorously with water, producing a lilac flame. Element Y is in Group 17 and is a red-brown liquid at room temperature. When X and Y react together: (i) Identify elements X and Y (ii) What type of bonding is in the product?",
+      "options": [
+        "X is potassium, Y is bromine; ionic bonding",
+        "X is sodium, Y is iodine; covalent bonding",
+        "X is lithium, Y is chlorine; ionic bonding",
+        "X is potassium, Y is chlorine; covalent bonding"
+      ],
+      "answer": "X is potassium, Y is bromine; ionic bonding",
+      "points": 10
+    }
+  ]
+}

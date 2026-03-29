@@ -1,23 +1,23 @@
 {
-  "questTitle": "P4 Math Revision: Units, Equal Concept & Patterns",
+  "questTitle": "P4 Math Revision: Units & Equal Concept (Part 1)",
   "subject": "Mathematics",
   "difficulty": "Medium",
-  "description": "Master word problems using units and equal concepts! This worksheet covers comparison problems, equal sharing problems, working backwards, and number patterns. Draw models to help you solve! Read each question carefully.",
+  "description": "Master word problems using units and equal concepts! This worksheet covers comparison problems and equal sharing problems. Draw models to help you solve! Read each question carefully.",
   "questions": [
     {
       "id": 1,
       "type": "mcq",
-      "problemSet": "CONCEPT CHECK: Understanding Units",
-      "question": "Lisa has 5 times as many sweets as Amy. If Amy has 1 unit of sweets, how many units does Lisa have?",
-      "options": ["5 units", "4 units", "6 units", "1 unit"],
+      "problemSet": "PROBLEM SET 1: Understanding Units (Times As Many)",
+      "question": "Lisa has 5 times as many sweets as Amy. If we let Amy's sweets be represented as 1 unit, how many units would represent Lisa's sweets?",
+      "options": ["1 unit", "4 units", "5 units", "6 units"],
       "answer": "5 units",
       "points": 5
     },
     {
       "id": 2,
       "type": "mcq",
-      "problemSet": "CONCEPT CHECK: Understanding Units (continued)",
-      "question": "Lisa has 5 units and Amy has 1 unit. How many units do they have altogether?",
+      "problemSet": "PROBLEM SET 1: Understanding Units (Times As Many)",
+      "question": "Amy has 1 unit of sweets and Lisa has 5 units of sweets. How many units do they have altogether?",
       "options": ["4 units", "5 units", "6 units", "10 units"],
       "answer": "6 units",
       "points": 5
@@ -25,8 +25,8 @@
     {
       "id": 3,
       "type": "mcq",
-      "problemSet": "CONCEPT CHECK: Understanding Units (continued)",
-      "question": "Lisa has 5 units and Amy has 1 unit. Together they have 6 units which equals 48 sweets. What is the value of 1 unit?",
+      "problemSet": "PROBLEM SET 1: Understanding Units (Times As Many)",
+      "question": "Amy and Lisa have 6 units of sweets altogether, which equals 48 sweets in total. How many sweets does 1 unit represent?",
       "options": ["6 sweets", "8 sweets", "10 sweets", "12 sweets"],
       "answer": "8 sweets",
       "points": 5
@@ -34,425 +34,335 @@
     {
       "id": 4,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 1: Comparison - One Amount Unchanged",
-      "question": "Lisa has 5 times as many sweets as Amy. Amy's mother gives Amy 12 more sweets. Lisa's amount stays the same. Who has more sweets now?",
-      "options": ["Lisa still has more", "Amy now has more", "They have the same", "Cannot tell"],
-      "answer": "Lisa still has more",
+      "problemSet": "PROBLEM SET 1: Understanding Units (Times As Many)",
+      "question": "If 1 unit equals 8 sweets, how many sweets does Lisa have if she has 5 units?",
+      "options": ["32 sweets", "40 sweets", "48 sweets", "56 sweets"],
+      "answer": "40 sweets",
       "points": 5
     },
     {
       "id": 5,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 1: Comparison - One Amount Unchanged (continued)",
-      "question": "At first: Lisa = 5 units, Amy = 1 unit. After Amy gets 12 more sweets: Lisa = 5 units, Amy = 1 unit + 12. Now Lisa has 2 times as many as Amy. How many units does Amy have now?",
-      "options": ["1 unit", "2 units", "2.5 units", "3 units"],
-      "answer": "2.5 units",
+      "problemSet": "PROBLEM SET 1: Understanding Units (Times As Many) - Test Question",
+      "question": "Marcus has 4 times as many stickers as Nadia. They have 60 stickers altogether. How many stickers does Marcus have?",
+      "options": ["12 stickers", "15 stickers", "45 stickers", "48 stickers"],
+      "answer": "48 stickers",
       "points": 10
     },
     {
       "id": 6,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 1: Comparison - One Amount Unchanged (continued)",
-      "question": "Lisa = 5 units (unchanged). Amy now = 2.5 units. Amy increased by 12 sweets, which equals 2.5 - 1 = 1.5 units. What is the value of 1 unit?",
-      "options": ["6 sweets", "8 sweets", "10 sweets", "12 sweets"],
-      "answer": "8 sweets",
-      "points": 10
+      "problemSet": "PROBLEM SET 2: Comparison - One Amount Unchanged",
+      "question": "Lisa has 5 times as many sweets as Amy. Amy's mother then gives Amy 12 more sweets, but Lisa's amount stays the same. What happens to the total number of sweets they have?",
+      "options": ["Decreases by 12", "Stays the same", "Increases by 12", "Doubles"],
+      "answer": "Increases by 12",
+      "points": 5
     },
     {
       "id": 7,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 1: Comparison - One Amount Unchanged MAIN QUESTION",
-      "question": "Lisa has 5 times as many sweets as Amy. Amy's mother gives Amy 12 more sweets. Now Lisa has 2 times as many sweets as Amy. How many sweets did Lisa have at first?",
-      "options": ["32 sweets", "40 sweets", "48 sweets", "56 sweets"],
-      "answer": "40 sweets",
-      "points": 15
+      "problemSet": "PROBLEM SET 2: Comparison - One Amount Unchanged",
+      "question": "At first, Lisa has 5 units and Amy has 1 unit. After Amy receives 12 more sweets, Lisa now has 2 times as many sweets as Amy. If Lisa still has 5 units, how many units does Amy have now?",
+      "options": ["1.5 units", "2 units", "2.5 units", "3 units"],
+      "answer": "2.5 units",
+      "points": 5
     },
     {
       "id": 8,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 2: Equal at First",
-      "question": "Ken and Danny have an equal number of cards at first. If Ken has 1 unit, how many units does Danny have?",
-      "options": ["1 unit", "2 units", "0 units", "Cannot tell"],
-      "answer": "1 unit",
+      "problemSet": "PROBLEM SET 2: Comparison - One Amount Unchanged",
+      "question": "Amy started with 1 unit and now has 2.5 units. The increase of 1.5 units came from the 12 sweets she received. How many sweets does 1 unit represent?",
+      "options": ["6 sweets", "8 sweets", "10 sweets", "12 sweets"],
+      "answer": "8 sweets",
       "points": 5
     },
     {
       "id": 9,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 2: Equal at First (continued)",
-      "question": "Ken and Danny each have 1 unit at first. Ken then GIVES Danny 54 cards. What happens to the difference between their amounts?",
-      "options": ["Difference increases by 54", "Difference increases by 108", "Difference decreases by 54", "Difference stays the same"],
-      "answer": "Difference increases by 108",
+      "problemSet": "PROBLEM SET 2: Comparison - One Amount Unchanged",
+      "question": "If 1 unit equals 8 sweets, and Lisa has 5 units, how many sweets did Lisa have at first?",
+      "options": ["32 sweets", "40 sweets", "48 sweets", "56 sweets"],
+      "answer": "40 sweets",
       "points": 5
     },
     {
       "id": 10,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 2: Equal at First (continued)",
-      "question": "After the transfer, Danny has 4 times as many cards as Ken. If Ken now has 1 part, how many parts do they have altogether?",
-      "options": ["3 parts", "4 parts", "5 parts", "6 parts"],
-      "answer": "5 parts",
+      "problemSet": "PROBLEM SET 2: Comparison - One Amount Unchanged - Test Question",
+      "question": "Ryan has 6 times as many cards as Siti. Siti's father gives her 20 more cards. Now Ryan has 3 times as many cards as Siti. How many cards did Ryan have at first?",
+      "options": ["36 cards", "40 cards", "48 cards", "60 cards"],
+      "answer": "40 cards",
       "points": 10
     },
     {
       "id": 11,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 2: Equal at First (continued)",
-      "question": "The difference between them is now 3 parts. We know the difference increased by 108 cards due to the transfer. What is the value of 1 part?",
-      "options": ["27 cards", "36 cards", "45 cards", "54 cards"],
-      "answer": "36 cards",
-      "points": 10
+      "problemSet": "PROBLEM SET 3: Equal at First - Transfer",
+      "question": "Ken and Danny have an equal number of cards at first. If Ken gives Danny 54 cards, what happens to Ken's amount compared to before?",
+      "options": ["Increases by 54", "Decreases by 54", "Stays the same", "Doubles"],
+      "answer": "Decreases by 54",
+      "points": 5
     },
     {
       "id": 12,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 2: Equal at First MAIN QUESTION",
-      "question": "Ken and Danny have an equal number of cards at first. After Ken gave Danny 54 cards, Danny has 4 times as many cards as Ken. How many cards did they have altogether at first?",
-      "options": ["144 cards", "162 cards", "180 cards", "216 cards"],
-      "answer": "180 cards",
-      "points": 15
+      "problemSet": "PROBLEM SET 3: Equal at First - Transfer",
+      "question": "Ken and Danny started with equal amounts. Ken gives Danny 54 cards. By how much does the difference between Danny's and Ken's cards increase?",
+      "options": ["54 cards", "81 cards", "108 cards", "162 cards"],
+      "answer": "108 cards",
+      "points": 5
     },
     {
       "id": 13,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 3: More Than - Before and After",
-      "question": "Sarah has 24 more stickers than Mei. If Mei has 1 unit, how can we represent Sarah's stickers?",
-      "options": ["1 unit + 24", "1 unit - 24", "24 units", "1 unit × 24"],
-      "answer": "1 unit + 24",
-      "points": 5
-    },
-    {
-      "id": 14,
-      "type": "mcq",
-      "problemSet": "PROBLEM SET 3: More Than - Before and After (continued)",
-      "question": "Sarah gives Mei some stickers. After that, Mei has 3 times as many as Sarah. If Sarah now has 1 part, how many parts do they have altogether?",
+      "problemSet": "PROBLEM SET 3: Equal at First - Transfer",
+      "question": "After Ken gives Danny 54 cards, Danny has 4 times as many cards as Ken. If Ken now has 1 part, how many parts does Danny have?",
       "options": ["2 parts", "3 parts", "4 parts", "5 parts"],
       "answer": "4 parts",
       "points": 5
     },
     {
+      "id": 14,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: Equal at First - Transfer",
+      "question": "Danny has 4 parts and Ken has 1 part. The difference between them is 3 parts, which equals 108 cards. How many cards does 1 part represent?",
+      "options": ["27 cards", "36 cards", "45 cards", "54 cards"],
+      "answer": "36 cards",
+      "points": 5
+    },
+    {
       "id": 15,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 3: More Than - Before and After (continued)",
-      "question": "Mei had 42 stickers at first. Sarah had 24 more than Mei. What was the total number of stickers they had at first?",
-      "options": ["84 stickers", "96 stickers", "108 stickers", "120 stickers"],
-      "answer": "108 stickers",
+      "problemSet": "PROBLEM SET 3: Equal at First - Transfer - Test Question",
+      "question": "Priya and Qian have an equal number of beads at first. After Priya gave Qian 42 beads, Qian has 5 times as many beads as Priya. How many beads did they have altogether at first?",
+      "options": ["126 beads", "168 beads", "210 beads", "252 beads"],
+      "answer": "210 beads",
       "points": 10
     },
     {
       "id": 16,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 3: More Than - Before and After MAIN QUESTION",
-      "question": "Sarah has 24 more stickers than Mei. After Sarah gives some stickers to Mei, Mei has 3 times as many stickers as Sarah. If Mei had 42 stickers at first, how many stickers did Sarah give to Mei?",
-      "options": ["27 stickers", "33 stickers", "39 stickers", "45 stickers"],
-      "answer": "39 stickers",
-      "points": 15
+      "problemSet": "PROBLEM SET 4: More Than - Before and After",
+      "question": "Sarah has 24 more stickers than Mei. If Mei has 1 unit of stickers, how would you represent Sarah's stickers in terms of units?",
+      "options": ["1 unit − 24", "1 unit + 24", "24 units", "1 unit × 24"],
+      "answer": "1 unit + 24",
+      "points": 5
     },
     {
       "id": 17,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 4: Working Backwards",
-      "question": "In 'working backwards' problems, we start from the END and work back to the BEGINNING. If a number is doubled (×2), what do we do when working backwards?",
-      "options": ["Multiply by 2", "Divide by 2", "Add 2", "Subtract 2"],
-      "answer": "Divide by 2",
+      "problemSet": "PROBLEM SET 4: More Than - Before and After",
+      "question": "Sarah gives some stickers to Mei. After that, Mei has 3 times as many stickers as Sarah. If Sarah now has 1 part, how many parts does Mei have?",
+      "options": ["2 parts", "3 parts", "4 parts", "5 parts"],
+      "answer": "3 parts",
       "points": 5
     },
     {
       "id": 18,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 4: Working Backwards (continued)",
-      "question": "If 15 was added to a number, what do we do when working backwards?",
-      "options": ["Add 15", "Multiply by 15", "Subtract 15", "Divide by 15"],
-      "answer": "Subtract 15",
+      "problemSet": "PROBLEM SET 4: More Than - Before and After",
+      "question": "Together, Sarah and Mei now have 4 parts of stickers. If Mei had 42 stickers at first and Sarah had 24 more than Mei, what was the total number of stickers at first?",
+      "options": ["84 stickers", "96 stickers", "108 stickers", "120 stickers"],
+      "answer": "108 stickers",
       "points": 5
     },
     {
       "id": 19,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 4: Working Backwards (continued)",
-      "question": "Tom thinks of a number. He multiplies it by 3, then adds 12. His answer is 45. To find Tom's original number, what is the first step working backwards from 45?",
-      "options": ["45 + 12", "45 - 12", "45 × 3", "45 ÷ 3"],
-      "answer": "45 - 12",
-      "points": 10
+      "problemSet": "PROBLEM SET 4: More Than - Before and After",
+      "question": "Sarah and Mei have 108 stickers in total, which equals 4 parts. How many stickers does 1 part represent?",
+      "options": ["24 stickers", "27 stickers", "30 stickers", "36 stickers"],
+      "answer": "27 stickers",
+      "points": 5
     },
     {
       "id": 20,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 4: Working Backwards (continued)",
-      "question": "Continuing from the previous question: After subtracting 12 from 45, what is the next step to find Tom's original number?",
-      "options": ["Multiply by 3", "Divide by 3", "Add 3", "Subtract 3"],
-      "answer": "Divide by 3",
+      "problemSet": "PROBLEM SET 4: More Than - Before and After - Test Question",
+      "question": "Ahmad has 18 more erasers than Bella. After Ahmad gives some erasers to Bella, Bella has 2 times as many erasers as Ahmad. If Bella had 36 erasers at first, how many erasers did Ahmad give to Bella?",
+      "options": ["24 erasers", "27 erasers", "30 erasers", "33 erasers"],
+      "answer": "30 erasers",
       "points": 10
     },
     {
       "id": 21,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 4: Working Backwards MAIN QUESTION",
-      "question": "Jenny thinks of a number. She divides it by 4, then subtracts 8, then multiplies by 5. Her answer is 60. What was Jenny's original number?",
-      "options": ["60", "72", "80", "96"],
-      "answer": "80",
-      "points": 15
+      "problemSet": "PROBLEM SET 5: Times As Many - Transfer to Equal",
+      "question": "Ali has 3 times as many marbles as Ben. If Ben has 1 unit of marbles, how many units of marbles does Ali have?",
+      "options": ["1 unit", "2 units", "3 units", "4 units"],
+      "answer": "3 units",
+      "points": 5
     },
     {
       "id": 22,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 5: Number Patterns - Increasing",
-      "question": "Candice eats 2 more sweets each day than the day before. If she eats 5 sweets on Day 1, how many does she eat on Day 2?",
-      "options": ["5 sweets", "7 sweets", "10 sweets", "3 sweets"],
-      "answer": "7 sweets",
+      "problemSet": "PROBLEM SET 5: Times As Many - Transfer to Equal",
+      "question": "Ali has 3 units and Ben has 1 unit. How many more units does Ali have than Ben?",
+      "options": ["1 unit", "2 units", "3 units", "4 units"],
+      "answer": "2 units",
       "points": 5
     },
     {
       "id": 23,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 5: Number Patterns - Increasing (continued)",
-      "question": "Candice eats 2 more sweets each day than the day before. Day 1: 5, Day 2: 7, Day 3: 9. How many sweets does she eat on Day 4?",
-      "options": ["10 sweets", "11 sweets", "12 sweets", "13 sweets"],
-      "answer": "11 sweets",
+      "problemSet": "PROBLEM SET 5: Times As Many - Transfer to Equal",
+      "question": "Ali gives Ben 14 marbles and they now have the same number of marbles. When Ali gives Ben 14 marbles, by how much does the difference between them decrease?",
+      "options": ["7 marbles", "14 marbles", "21 marbles", "28 marbles"],
+      "answer": "28 marbles",
       "points": 5
     },
     {
       "id": 24,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 5: Number Patterns - Increasing (continued)",
-      "question": "Candice eats 19 sweets on Day 4. The pattern increases by 2 each day. How many sweets did she eat on Day 2?",
-      "options": ["13 sweets", "15 sweets", "17 sweets", "19 sweets"],
-      "answer": "15 sweets",
-      "points": 10
-    },
-    {
-      "id": 25,
-      "type": "mcq",
-      "problemSet": "PROBLEM SET 5: Number Patterns - Increasing MAIN QUESTION",
-      "question": "Candice eats 2 more sweets each day than the day before. If she is going to eat 19 sweets on Day 4, how many sweets did she eat on Day 1?",
-      "options": ["11 sweets", "13 sweets", "15 sweets", "17 sweets"],
-      "answer": "13 sweets",
-      "points": 15
-    },
-    {
-      "id": 26,
-      "type": "mcq",
-      "problemSet": "PROBLEM SET 6: Number Patterns - Decreasing",
-      "question": "Ben reads 5 fewer pages each day than the day before. If he reads 40 pages on Day 1, how many pages does he read on Day 2?",
-      "options": ["45 pages", "35 pages", "40 pages", "30 pages"],
-      "answer": "35 pages",
-      "points": 5
-    },
-    {
-      "id": 27,
-      "type": "mcq",
-      "problemSet": "PROBLEM SET 6: Number Patterns - Decreasing (continued)",
-      "question": "Ben reads 5 fewer pages each day. Day 1: 40, Day 2: 35, Day 3: 30, Day 4: 25. On which day does he read 10 pages?",
-      "options": ["Day 5", "Day 6", "Day 7", "Day 8"],
-      "answer": "Day 7",
-      "points": 10
-    },
-    {
-      "id": 28,
-      "type": "mcq",
-      "problemSet": "PROBLEM SET 6: Number Patterns - Decreasing (continued)",
-      "question": "Ben reads 10 pages on Day 7. The pattern decreases by 5 each day. How many pages did he read on Day 1?",
-      "options": ["30 pages", "35 pages", "40 pages", "45 pages"],
-      "answer": "40 pages",
-      "points": 10
-    },
-    {
-      "id": 29,
-      "type": "mcq",
-      "problemSet": "PROBLEM SET 6: Number Patterns - Decreasing MAIN QUESTION",
-      "question": "Ben reads 5 fewer pages each day than the day before. On Day 5, he reads 22 pages. How many pages did he read on Day 1?",
-      "options": ["32 pages", "37 pages", "42 pages", "47 pages"],
-      "answer": "42 pages",
-      "points": 15
-    },
-    {
-      "id": 30,
-      "type": "mcq",
-      "problemSet": "PROBLEM SET 7: Times As Many - Transfer",
-      "question": "Ali has 3 times as many marbles as Ben. If Ben has 1 unit, Ali has 3 units. What is the total number of units?",
-      "options": ["4 units", "3 units", "2 units", "6 units"],
-      "answer": "4 units",
-      "points": 5
-    },
-    {
-      "id": 31,
-      "type": "mcq",
-      "problemSet": "PROBLEM SET 7: Times As Many - Transfer (continued)",
-      "question": "Ali gives Ben 14 marbles. After this, they have the same number of marbles. How many more marbles did Ali have than Ben at first?",
-      "options": ["14 marbles", "28 marbles", "42 marbles", "56 marbles"],
-      "answer": "28 marbles",
-      "points": 10
-    },
-    {
-      "id": 32,
-      "type": "mcq",
-      "problemSet": "PROBLEM SET 7: Times As Many - Transfer (continued)",
-      "question": "At first, Ali had 2 units more than Ben. We know this difference is 28 marbles. How many marbles is 1 unit equal to?",
+      "problemSet": "PROBLEM SET 5: Times As Many - Transfer to Equal",
+      "question": "Ali had 2 units more than Ben at first. After Ali gives Ben 14 marbles, they have the same number. The difference of 2 units equals 28 marbles. How many marbles does 1 unit represent?",
       "options": ["7 marbles", "14 marbles", "21 marbles", "28 marbles"],
       "answer": "14 marbles",
       "points": 5
     },
     {
-      "id": 33,
+      "id": 25,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 7: Times As Many - Transfer MAIN QUESTION",
-      "question": "Ali has 3 times as many marbles as Ben. After Ali gives Ben 14 marbles, they have the same number of marbles. How many marbles did Ali have at first?",
-      "options": ["28 marbles", "35 marbles", "42 marbles", "49 marbles"],
-      "answer": "42 marbles",
-      "points": 15
+      "problemSet": "PROBLEM SET 5: Times As Many - Transfer to Equal - Test Question",
+      "question": "Cheng has 5 times as many pencils as David. After Cheng gives David 24 pencils, they have the same number of pencils. How many pencils did Cheng have at first?",
+      "options": ["24 pencils", "30 pencils", "36 pencils", "60 pencils"],
+      "answer": "30 pencils",
+      "points": 10
     },
     {
-      "id": 34,
+      "id": 26,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 8: Equal - Both Give Away",
-      "question": "Lily and Rose have an equal number of beads at first. Lily gives away 15 beads and Rose gives away 36 beads. Who gives away more beads?",
-      "options": ["Lily", "Rose", "They give away the same", "Cannot tell"],
-      "answer": "Rose",
+      "problemSet": "PROBLEM SET 6: Equal - Both Give Away",
+      "question": "Lily and Rose have an equal number of beads at first. Lily gives away 15 beads and Rose gives away 36 beads. Who has more beads remaining?",
+      "options": ["Lily", "Rose", "They have the same", "Cannot tell"],
+      "answer": "Lily",
       "points": 5
     },
     {
-      "id": 35,
+      "id": 27,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 8: Equal - Both Give Away (continued)",
-      "question": "Lily and Rose started with equal amounts. Rose gave 21 more beads than Lily. What is the difference between their remaining amounts?",
+      "problemSet": "PROBLEM SET 6: Equal - Both Give Away",
+      "question": "Lily and Rose started with equal amounts. Lily gives away 15 beads and Rose gives away 36 beads. What is the difference between Lily's and Rose's remaining beads?",
       "options": ["15 beads", "21 beads", "36 beads", "51 beads"],
       "answer": "21 beads",
       "points": 5
     },
     {
-      "id": 36,
+      "id": 28,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 8: Equal - Both Give Away (continued)",
-      "question": "After giving away beads, Lily has 4 times as many beads as Rose. The difference between them is 21 beads. What is the value of 1 part (Rose's remaining beads)?",
+      "problemSet": "PROBLEM SET 6: Equal - Both Give Away",
+      "question": "After giving away beads, Lily has 4 times as many beads as Rose. If Rose now has 1 part, how many parts does Lily have?",
+      "options": ["2 parts", "3 parts", "4 parts", "5 parts"],
+      "answer": "4 parts",
+      "points": 5
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Equal - Both Give Away",
+      "question": "Lily has 4 parts and Rose has 1 part. The difference of 3 parts equals 21 beads. How many beads does 1 part represent?",
       "options": ["5 beads", "6 beads", "7 beads", "8 beads"],
       "answer": "7 beads",
-      "points": 10
-    },
-    {
-      "id": 37,
-      "type": "mcq",
-      "problemSet": "PROBLEM SET 8: Equal - Both Give Away (NEW QUESTION)",
-      "question": "Lily and Rose have an equal number of beads at first. Lily gives away 12 beads and Rose gives away 44 beads. After that, Lily has 5 times as many beads as Rose. What is the value of 1 part (Rose's remaining beads)?",
-      "options": ["6 beads", "7 beads", "8 beads", "10 beads"],
-      "answer": "8 beads",
-      "points": 10
-    },
-    {
-      "id": 38,
-      "type": "mcq",
-      "problemSet": "PROBLEM SET 8: Equal - Both Give Away MAIN QUESTION",
-      "question": "Lily and Rose have an equal number of beads at first. Lily gives away 8 beads and Rose gives away 48 beads. After that, Lily has 3 times as many beads as Rose. How many beads did they have altogether at first?",
-      "options": ["120 beads", "128 beads", "136 beads", "144 beads"],
-      "answer": "136 beads",
-      "points": 15
-    },
-    {
-      "id": 39,
-      "type": "mcq",
-      "problemSet": "PROBLEM SET 9: Doubling Pattern",
-      "question": "A bacteria colony doubles every hour. If there are 8 bacteria at Hour 1, how many are there at Hour 2?",
-      "options": ["10 bacteria", "12 bacteria", "16 bacteria", "24 bacteria"],
-      "answer": "16 bacteria",
       "points": 5
     },
     {
-      "id": 40,
+      "id": 30,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 9: Doubling Pattern (continued)",
-      "question": "The bacteria doubles every hour. If there are 256 bacteria at Hour 6, how many were there at Hour 5?",
-      "options": ["64", "128", "256", "512"],
-      "answer": "128",
+      "problemSet": "PROBLEM SET 6: Equal - Both Give Away - Test Question",
+      "question": "Grace and Hannah have an equal number of coins at first. Grace gives away 8 coins and Hannah gives away 48 coins. After that, Grace has 3 times as many coins as Hannah. How many coins did they have altogether at first?",
+      "options": ["120 coins", "128 coins", "136 coins", "144 coins"],
+      "answer": "136 coins",
+      "points": 10
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 7: Combined Units - Changes After",
+      "question": "Cindy has twice as many stickers as Diana. If Diana has 1 unit, how many units does Cindy have?",
+      "options": ["1 unit", "2 units", "3 units", "4 units"],
+      "answer": "2 units",
       "points": 5
     },
     {
-      "id": 41,
+      "id": 32,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 9: Doubling Pattern MAIN QUESTION",
-      "question": "A bacteria colony doubles every hour. At Hour 5, there are 160 bacteria. How many bacteria were there at Hour 1?",
-      "options": ["8 bacteria", "10 bacteria", "16 bacteria", "20 bacteria"],
-      "answer": "10 bacteria",
-      "points": 15
-    },
-    {
-      "id": 42,
-      "type": "mcq",
-      "problemSet": "PROBLEM SET 10: Combined Units Problem",
-      "question": "Cindy has twice as many stickers as Diana. Together they have 45 stickers. If Diana has 1 unit, what is the value of 1 unit?",
+      "problemSet": "PROBLEM SET 7: Combined Units - Changes After",
+      "question": "Cindy has 2 units and Diana has 1 unit. Together they have 45 stickers. How many stickers does 1 unit represent?",
       "options": ["9 stickers", "12 stickers", "15 stickers", "18 stickers"],
       "answer": "15 stickers",
       "points": 5
     },
     {
-      "id": 43,
+      "id": 33,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 10: Combined Units Problem (continued)",
-      "question": "Cindy has 30 stickers and Diana has 15 stickers. Cindy buys 12 more stickers. Diana gives away 3 stickers. What is the new ratio of Cindy's stickers to Diana's stickers?",
-      "options": ["2.5 times", "3 times", "3.5 times", "4 times"],
-      "answer": "3.5 times",
-      "points": 10
-    },
-    {
-      "id": 44,
-      "type": "mcq",
-      "problemSet": "PROBLEM SET 10: Combined Units Problem MAIN QUESTION",
-      "question": "Cindy has twice as many stickers as Diana. Cindy then buys 18 more stickers while Diana gives away 6 stickers. Now Cindy has 4 times as many stickers as Diana. How many stickers did Cindy have at first?",
-      "options": ["36 stickers", "42 stickers", "48 stickers", "54 stickers"],
+      "problemSet": "PROBLEM SET 7: Combined Units - Changes After",
+      "question": "Cindy has 30 stickers and Diana has 15 stickers. Cindy buys 12 more stickers and Diana gives away 3 stickers. How many stickers does Cindy have now?",
+      "options": ["30 stickers", "36 stickers", "42 stickers", "45 stickers"],
       "answer": "42 stickers",
-      "points": 15
-    },
-    {
-      "id": 45,
-      "type": "mcq",
-      "problemSet": "PROBLEM SET 11: Pattern with Sum",
-      "question": "On Day 1, Emma saves $3. Each day she saves $4 more than the day before. What does she save on Day 4?",
-      "options": ["$13", "$14", "$15", "$16"],
-      "answer": "$15",
       "points": 5
     },
     {
-      "id": 46,
+      "id": 34,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 11: Pattern with Sum (continued)",
-      "question": "Emma saves: Day 1 = $3, Day 2 = $7, Day 3 = $11, Day 4 = $15. How much does she save in total over the 4 days?",
-      "options": ["$32", "$36", "$40", "$44"],
-      "answer": "$36",
+      "problemSet": "PROBLEM SET 7: Combined Units - Changes After",
+      "question": "Cindy now has 42 stickers and Diana now has 12 stickers. How many times as many stickers does Cindy have compared to Diana?",
+      "options": ["2.5 times", "3 times", "3.5 times", "4 times"],
+      "answer": "3.5 times",
+      "points": 5
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 7: Combined Units - Changes After - Test Question",
+      "question": "Ethan has 3 times as many cards as Farah. Ethan then buys 15 more cards while Farah gives away 9 cards. Now Ethan has 5 times as many cards as Farah. How many cards did Ethan have at first?",
+      "options": ["45 cards", "54 cards", "63 cards", "72 cards"],
+      "answer": "54 cards",
       "points": 10
     },
     {
-      "id": 47,
+      "id": 36,
       "type": "mcq",
-      "problemSet": "PROBLEM SET 11: Pattern with Sum MAIN QUESTION",
-      "question": "Emma saves $5 on Day 1. Each day she saves $3 more than the day before. After how many days will her total savings first exceed $50?",
-      "options": ["4 days", "5 days", "6 days", "7 days"],
-      "answer": "5 days",
-      "points": 15
+      "problemSet": "PROBLEM SET 8: Mixed Review - Units Concept",
+      "question": "Peter has 4 times as many coins as Queenie. If Queenie has 1 unit, how many units do they have altogether?",
+      "options": ["4 units", "5 units", "6 units", "8 units"],
+      "answer": "5 units",
+      "points": 5
     },
     {
-      "id": 48,
+      "id": 37,
       "type": "mcq",
-      "problemSet": "MIXED REVIEW: Units Concept",
-      "question": "Peter has 4 times as many coins as Queenie. They have 60 coins altogether. How many coins does Peter have?",
-      "options": ["12 coins", "36 coins", "48 coins", "52 coins"],
+      "problemSet": "PROBLEM SET 8: Mixed Review - Units Concept",
+      "question": "Peter and Queenie have 5 units altogether, which equals 60 coins. How many coins does 1 unit represent?",
+      "options": ["10 coins", "12 coins", "15 coins", "20 coins"],
+      "answer": "12 coins",
+      "points": 5
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 8: Mixed Review - Units Concept",
+      "question": "If 1 unit equals 12 coins and Peter has 4 units, how many coins does Peter have?",
+      "options": ["36 coins", "42 coins", "48 coins", "54 coins"],
       "answer": "48 coins",
-      "points": 10
+      "points": 5
     },
     {
-      "id": 49,
+      "id": 39,
       "type": "mcq",
-      "problemSet": "MIXED REVIEW: Working Backwards",
-      "question": "A number is multiplied by 5, then 18 is subtracted, and the result is divided by 2. The final answer is 16. What was the original number?",
-      "options": ["8", "10", "12", "14"],
-      "answer": "10",
-      "points": 10
+      "problemSet": "PROBLEM SET 8: Mixed Review - Units Concept",
+      "question": "Queenie has 12 coins (1 unit). Peter has 48 coins (4 units). If Peter gives Queenie 18 coins, how many coins does each person have now?",
+      "options": ["Peter: 30, Queenie: 30", "Peter: 36, Queenie: 24", "Peter: 40, Queenie: 20", "Peter: 32, Queenie: 28"],
+      "answer": "Peter: 30, Queenie: 30",
+      "points": 5
     },
     {
-      "id": 50,
+      "id": 40,
       "type": "mcq",
-      "problemSet": "MIXED REVIEW FINAL CHALLENGE",
-      "question": "Ryan and Sam have an equal number of game cards. Ryan gives Sam 24 cards. Sam then has 3 times as many cards as Ryan. How many cards did Ryan have at first?",
-      "options": ["36 cards", "42 cards", "48 cards", "54 cards"],
-      "answer": "48 cards",
-      "points": 15
+      "problemSet": "PROBLEM SET 8: Mixed Review - Units Concept - Test Question",
+      "question": "Rachel has 6 times as many stamps as Samuel. They have 84 stamps altogether. Rachel then gives Samuel some stamps and they now have equal amounts. How many stamps did Rachel give to Samuel?",
+      "options": ["24 stamps", "30 stamps", "36 stamps", "42 stamps"],
+      "answer": "30 stamps",
+      "points": 10
     }
   ]
 }

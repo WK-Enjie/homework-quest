@@ -1,0 +1,378 @@
+{
+  "questTitle": "P6 Math Revision: Combined Concepts & Advanced Problems (Part 2)",
+  "subject": "Mathematics",
+  "difficulty": "Hard",
+  "description": "Challenge yourself with advanced percentage, ratio and fraction problems! This worksheet covers combined concepts, three-way ratios, savings problems, event attendance, and spending rate problems. Read each question carefully.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Three-Way Ratio with Percentages",
+      "question": "The ratio of Lisa's sweets to Amy's sweets is 2 : 5. Together they have 7 parts. 30% of their combined sweets equals 60% of Ken's sweets. What is 30% as a fraction?",
+      "options": ["1/3", "3/10", "1/5", "2/5"],
+      "answer": "3/10",
+      "points": 5
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Three-Way Ratio with Percentages",
+      "question": "Lisa and Amy have 7 parts combined. 30% of their total (which is 3/10 × 7 parts) equals how many parts?",
+      "options": ["1.5 parts", "2.1 parts", "2.5 parts", "3 parts"],
+      "answer": "2.1 parts",
+      "points": 5
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Three-Way Ratio with Percentages",
+      "question": "2.1 parts represents 60% of Ken's sweets. If 60% of Ken's sweets is 2.1 parts, how many parts represent 100% of Ken's sweets?",
+      "options": ["3 parts", "3.5 parts", "4 parts", "4.5 parts"],
+      "answer": "3.5 parts",
+      "points": 5
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Three-Way Ratio with Percentages",
+      "question": "Lisa has 2 parts, Amy has 5 parts, and Ken has 3.5 parts. To express these as a ratio with whole numbers, we multiply all by 2. What is the ratio of Lisa : Amy : Ken?",
+      "options": ["2 : 5 : 3.5", "4 : 10 : 7", "2 : 5 : 7", "4 : 10 : 3"],
+      "answer": "4 : 10 : 7",
+      "points": 5
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Three-Way Ratio with Percentages - Test Question",
+      "question": "60% of Peter's marbles equals 40% of Quinn's marbles. 25% of Peter and Quinn's combined marbles equals 50% of Ryan's marbles. What is the ratio of Peter : Quinn : Ryan?",
+      "options": ["2 : 3 : 5", "4 : 6 : 5", "2 : 3 : 2", "4 : 6 : 3"],
+      "answer": "4 : 6 : 5",
+      "points": 10
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Multi-Step Problem with Cards",
+      "question": "In a room with boys, girls and adults: 3/5 are children, 40% of children are boys. Boys are 6/25 of the total. Girls make up what percentage of children?",
+      "options": ["40%", "50%", "60%", "70%"],
+      "answer": "60%",
+      "points": 5
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Multi-Step Problem with Cards",
+      "question": "Children are 3/5 of total. Girls are 60% of children. What fraction of the total are girls?",
+      "options": ["6/25", "9/25", "3/5", "2/5"],
+      "answer": "9/25",
+      "points": 5
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Multi-Step Problem with Cards",
+      "question": "Boys = 6/25, Girls = 9/25, Adults = 2/5 = 10/25. If the total is 25 people, how many adults are there?",
+      "options": ["6 adults", "8 adults", "9 adults", "10 adults"],
+      "answer": "10 adults",
+      "points": 5
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Multi-Step Problem with Cards",
+      "question": "Each girl makes 3 cards, each boy makes 5 cards, each adult makes 10 cards. With 6 boys, 9 girls, and 10 adults (25 people total), how many cards are made?",
+      "options": ["147 cards", "150 cards", "157 cards", "160 cards"],
+      "answer": "157 cards",
+      "points": 5
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Multi-Step Problem with Cards - Test Question",
+      "question": "At a workshop, 2/3 of the participants are students and the rest are mentors. 25% of the students are boys and the rest are girls. Each boy completes 4 tasks, each girl completes 6 tasks, and each mentor completes 8 tasks. If 440 tasks were completed in total, how many mentors were there?",
+      "options": ["15", "18", "20", "24"],
+      "answer": "20",
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: Savings and Spending",
+      "question": "John saves 30% of his allowance each month. What fraction of his allowance does he save?",
+      "options": ["1/3", "3/10", "1/4", "2/5"],
+      "answer": "3/10",
+      "points": 5
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: Savings and Spending",
+      "question": "John saves 3/10 of his allowance. What fraction of his allowance does he have left to spend?",
+      "options": ["3/10", "1/2", "7/10", "4/5"],
+      "answer": "7/10",
+      "points": 5
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: Savings and Spending",
+      "question": "John has 7/10 of his allowance left after saving. He spends 1/2 of this remainder on food. What fraction of his TOTAL allowance does he spend on food?",
+      "options": ["1/2", "7/20", "3/10", "1/4"],
+      "answer": "7/20",
+      "points": 5
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: Savings and Spending",
+      "question": "If John spends $84 on food, and this represents 7/20 of his total allowance, how would you calculate his total allowance?",
+      "options": ["$84 × 20 ÷ 7", "$84 × 7 ÷ 20", "$84 + 20 - 7", "$84 ÷ 20 × 7"],
+      "answer": "$84 × 20 ÷ 7",
+      "points": 5
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: Savings and Spending - Test Question",
+      "question": "Karen saves 40% of her monthly salary. She spends 2/3 of the remainder on rent and the rest on other expenses. If she spends $600 on other expenses, what is her monthly salary?",
+      "options": ["$2,500", "$2,800", "$3,000", "$3,200"],
+      "answer": "$3,000",
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Event Attendance",
+      "question": "At a school event, the ratio of teachers to parents to students is 1 : 4 : 15. How many total parts represent all the people?",
+      "options": ["15 parts", "19 parts", "20 parts", "60 parts"],
+      "answer": "20 parts",
+      "points": 5
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Event Attendance",
+      "question": "Students make up 15 parts out of 20 total parts. What fraction of the attendees are students?",
+      "options": ["15/20", "3/4", "Both A and B", "Neither"],
+      "answer": "Both A and B",
+      "points": 5
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Event Attendance",
+      "question": "60% of the students are girls. If students represent 15 parts, how many parts represent girl students?",
+      "options": ["6 parts", "9 parts", "10 parts", "12 parts"],
+      "answer": "9 parts",
+      "points": 5
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Event Attendance",
+      "question": "Girl students = 9 parts, Boy students = 6 parts. The difference is 3 parts. If there are 18 more girl students than boy students, what is the value of 1 part?",
+      "options": ["3 people", "6 people", "9 people", "12 people"],
+      "answer": "6 people",
+      "points": 5
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Event Attendance - Test Question",
+      "question": "At a concert, the ratio of adults to teenagers to children is 2 : 5 : 8. 75% of the teenagers are girls. If there are 30 more girl teenagers than boy teenagers, how many people attended the concert in total?",
+      "options": ["180", "200", "240", "300"],
+      "answer": "240",
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 5: Spending Rates - Setting Up",
+      "question": "Ali spends $2 per day and Ben spends $5 per day. They start spending on the same day. If Ben has less money than Ali, who will run out of money first?",
+      "options": ["Ali", "Ben", "They run out at the same time", "Cannot be determined"],
+      "answer": "Ben",
+      "points": 5
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 5: Spending Rates - Setting Up",
+      "question": "Ben spends $5 per day and runs out of money after a certain number of days. How would you calculate the total amount Ben had?",
+      "options": ["$5 + number of days", "$5 × number of days", "$5 ÷ number of days", "$5 - number of days"],
+      "answer": "$5 × number of days",
+      "points": 5
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 5: Spending Rates - Setting Up",
+      "question": "In Case 1: Ali spends $2/day, Ben spends $5/day. In Case 2: Ali spends $5/day, Ben spends $2/day. Ben has the same total money in both cases. If Ben takes D₁ days in Case 1 and D₂ days in Case 2, what is the ratio D₁ : D₂?",
+      "options": ["2 : 5", "5 : 2", "1 : 1", "4 : 25"],
+      "answer": "2 : 5",
+      "points": 5
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 5: Spending Rates - Setting Up",
+      "question": "The ratio of days is 2 : 5. If Ali spends $2/day for 2 units of days vs $5/day for 5 units of days, what is the ratio of Ali's total spending (Case 1 : Case 2)?",
+      "options": ["2 : 5", "4 : 25", "25 : 4", "5 : 2"],
+      "answer": "4 : 25",
+      "points": 5
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 5: Spending Rates - Setting Up - Test Question",
+      "question": "Chris and Dan have some money. If Chris spends $3 per day and Dan spends $7 per day, when Dan finishes, Chris has $45 left. If Chris spends $7 per day and Dan spends $3 per day, when Dan finishes, Chris has $5 left. How much money did Dan have?",
+      "options": ["$21", "$28", "$35", "$42"],
+      "answer": "$21",
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Spending Rates - Solving",
+      "question": "Ali's spending in Case 1 is 4 parts, and in Case 2 is 25 parts. Ali has $62 left in Case 1 and $20 left in Case 2. What is the relationship between Ali's spending and remainder?",
+      "options": [
+        "Ali's spending + remainder = constant (Ali's starting amount)",
+        "Ali's spending × remainder = constant",
+        "Ali's spending - remainder = constant",
+        "Ali's spending ÷ remainder = constant"
+      ],
+      "answer": "Ali's spending + remainder = constant (Ali's starting amount)",
+      "points": 5
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Spending Rates - Solving",
+      "question": "Case 1: Spending = 4 parts, Left = $62. Case 2: Spending = 25 parts, Left = $20. The difference in spending (25 - 4 = 21 parts) equals the difference in remainder ($62 - $20 = $42). What is the value of 1 part?",
+      "options": ["$1", "$2", "$3", "$4"],
+      "answer": "$2",
+      "points": 5
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Spending Rates - Solving",
+      "question": "If 1 part = $2, and Ali's spending in Case 1 is 4 parts, how much did Ali spend in Case 1?",
+      "options": ["$6", "$8", "$10", "$12"],
+      "answer": "$8",
+      "points": 5
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Spending Rates - Solving",
+      "question": "Ali spent $8 in Case 1 and had $62 left. How much money did Ali have at the start?",
+      "options": ["$54", "$62", "$70", "$78"],
+      "answer": "$70",
+      "points": 5
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Spending Rates - Solving - Test Question",
+      "question": "Emma and Fiona have some money. If Emma spends $4 per day and Fiona spends $6 per day, when Fiona finishes, Emma has $52 left. If Emma spends $6 per day and Fiona spends $4 per day, when Fiona finishes, Emma has $28 left. How much money did Fiona have?",
+      "options": ["$24", "$30", "$36", "$42"],
+      "answer": "$36",
+      "points": 10
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 7: Percentage Change Problems",
+      "question": "A shop increases the price of an item by 20%. The new price is $60. What was the original price?",
+      "options": ["$48", "$50", "$52", "$54"],
+      "answer": "$50",
+      "points": 5
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 7: Percentage Change Problems",
+      "question": "If an item's price is increased by 20%, the new price represents what percentage of the original price?",
+      "options": ["80%", "100%", "120%", "20%"],
+      "answer": "120%",
+      "points": 5
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 7: Percentage Change Problems",
+      "question": "A price is first increased by 25%, then decreased by 20%. Is the final price the same as the original price?",
+      "options": [
+        "Yes, they are the same",
+        "No, the final price is higher than the original",
+        "No, the final price is lower than the original",
+        "Cannot be determined"
+      ],
+      "answer": "No, the final price is higher than the original",
+      "points": 5
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 7: Percentage Change Problems",
+      "question": "An item costs $100. It is increased by 25% to become $125. Then it is decreased by 20%. What is the final price?",
+      "options": ["$95", "$100", "$105", "$110"],
+      "answer": "$100",
+      "points": 5
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 7: Percentage Change Problems - Test Question",
+      "question": "The price of a bag was increased by 30%. During a sale, the new price was decreased by 20%. If the final price is $52, what was the original price of the bag?",
+      "options": ["$48", "$50", "$52", "$54"],
+      "answer": "$50",
+      "points": 10
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 8: Mixed Review - Combined Concepts",
+      "question": "The ratio of red beads to blue beads is 3 : 7. If 20% of all the beads are removed (keeping the ratio the same), what fraction of the original beads remain?",
+      "options": ["1/5", "4/5", "3/10", "7/10"],
+      "answer": "4/5",
+      "points": 5
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 8: Mixed Review - Combined Concepts",
+      "question": "40% of the boys and 25% of the girls in a class wear glasses. If there are equal numbers of boys and girls, what percentage of the whole class wears glasses?",
+      "options": ["32.5%", "35%", "65%", "30%"],
+      "answer": "32.5%",
+      "points": 5
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 8: Mixed Review - Combined Concepts",
+      "question": "Shop A sells a book for $40 after a 20% discount. Shop B sells the same book for $42 after a 30% discount. Which shop has the higher original price?",
+      "options": ["Shop A", "Shop B", "Both have the same original price", "Cannot be determined"],
+      "answer": "Shop B",
+      "points": 5
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 8: Mixed Review - Combined Concepts",
+      "question": "The ratio of Amy's money to Ben's money is 5 : 3. Amy gives 25% of her money to Ben. What is the new ratio of Amy's money to Ben's money?",
+      "options": ["15 : 13", "5 : 4", "3 : 5", "15 : 17"],
+      "answer": "15 : 17",
+      "points": 5
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 8: Mixed Review - Combined Concepts - Test Question",
+      "question": "In a school, 60% of the students are girls. 25% of the girls and 40% of the boys participate in sports. If 156 students participate in sports, how many students are there in the school?",
+      "options": ["480", "500", "520", "540"],
+      "answer": "520",
+      "points": 10
+    }
+  ]
+}

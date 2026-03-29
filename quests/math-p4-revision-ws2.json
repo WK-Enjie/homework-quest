@@ -1,0 +1,368 @@
+{
+  "questTitle": "P4 Math Revision: Working Backwards & Patterns (Part 2)",
+  "subject": "Mathematics",
+  "difficulty": "Medium",
+  "description": "Master working backwards and number pattern problems! This worksheet covers reversing operations and identifying increasing, decreasing, and doubling patterns. Read each question carefully and show your working.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Working Backwards - Basic Operations",
+      "question": "To solve a 'working backwards' problem, we reverse each operation. What is the reverse operation of multiplying by 2?",
+      "options": ["Add 2", "Subtract 2", "Multiply by 2", "Divide by 2"],
+      "answer": "Divide by 2",
+      "points": 5
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Working Backwards - Basic Operations",
+      "question": "What is the reverse operation of adding 15 to a number?",
+      "options": ["Add 15", "Subtract 15", "Multiply by 15", "Divide by 15"],
+      "answer": "Subtract 15",
+      "points": 5
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Working Backwards - Basic Operations",
+      "question": "Tom thinks of a number. He multiplies it by 3, then adds 12. His answer is 45. What should be the first step when working backwards from 45?",
+      "options": ["45 + 12", "45 − 12", "45 × 3", "45 ÷ 3"],
+      "answer": "45 − 12",
+      "points": 5
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Working Backwards - Basic Operations",
+      "question": "After subtracting 12 from 45, we get 33. What should be the next step to find Tom's original number?",
+      "options": ["33 + 3", "33 − 3", "33 × 3", "33 ÷ 3"],
+      "answer": "33 ÷ 3",
+      "points": 5
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Working Backwards - Basic Operations - Test Question",
+      "question": "Jenny thinks of a number. She divides it by 4, then subtracts 8, then multiplies by 5. Her answer is 60. What was Jenny's original number?",
+      "options": ["60", "72", "80", "96"],
+      "answer": "80",
+      "points": 10
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Working Backwards - Multi-Step",
+      "question": "What is the reverse operation of subtracting 7?",
+      "options": ["Subtract 7", "Add 7", "Multiply by 7", "Divide by 7"],
+      "answer": "Add 7",
+      "points": 5
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Working Backwards - Multi-Step",
+      "question": "What is the reverse operation of dividing by 5?",
+      "options": ["Add 5", "Subtract 5", "Multiply by 5", "Divide by 5"],
+      "answer": "Multiply by 5",
+      "points": 5
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Working Backwards - Multi-Step",
+      "question": "Kai thinks of a number. He adds 8, divides by 2, then subtracts 5. His answer is 7. Working backwards, what is the first step from 7?",
+      "options": ["7 − 5", "7 + 5", "7 × 2", "7 ÷ 2"],
+      "answer": "7 + 5",
+      "points": 5
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Working Backwards - Multi-Step",
+      "question": "Continuing from the previous question: After adding 5 to 7, we get 12. After multiplying 12 by 2, we get 24. What is the final step to find Kai's original number?",
+      "options": ["24 + 8", "24 − 8", "24 × 8", "24 ÷ 8"],
+      "answer": "24 − 8",
+      "points": 5
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Working Backwards - Multi-Step - Test Question",
+      "question": "Maya thinks of a number. She subtracts 6, multiplies by 4, then adds 10. Her answer is 50. What was Maya's original number?",
+      "options": ["12", "14", "16", "18"],
+      "answer": "16",
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: Number Patterns - Increasing",
+      "question": "Candice eats 2 more sweets each day than the day before. If she eats 5 sweets on Day 1, how many sweets does she eat on Day 2?",
+      "options": ["3 sweets", "5 sweets", "7 sweets", "10 sweets"],
+      "answer": "7 sweets",
+      "points": 5
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: Number Patterns - Increasing",
+      "question": "Candice eats 2 more sweets each day than the day before. If she eats 7 sweets on Day 2, how many sweets does she eat on Day 3?",
+      "options": ["7 sweets", "9 sweets", "11 sweets", "14 sweets"],
+      "answer": "9 sweets",
+      "points": 5
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: Number Patterns - Increasing",
+      "question": "Candice eats 2 more sweets each day than the day before. If she eats 9 sweets on Day 3, how many sweets does she eat on Day 4?",
+      "options": ["10 sweets", "11 sweets", "12 sweets", "13 sweets"],
+      "answer": "11 sweets",
+      "points": 5
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: Number Patterns - Increasing",
+      "question": "Candice eats 19 sweets on Day 4. The pattern increases by 2 sweets each day. How many sweets did she eat on Day 3?",
+      "options": ["15 sweets", "17 sweets", "19 sweets", "21 sweets"],
+      "answer": "17 sweets",
+      "points": 5
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: Number Patterns - Increasing - Test Question",
+      "question": "Derek collects 3 more stamps each day than the day before. If he collects 25 stamps on Day 5, how many stamps did he collect on Day 1?",
+      "options": ["10 stamps", "13 stamps", "16 stamps", "19 stamps"],
+      "answer": "13 stamps",
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Number Patterns - Decreasing",
+      "question": "Ben reads 5 fewer pages each day than the day before. If he reads 40 pages on Day 1, how many pages does he read on Day 2?",
+      "options": ["30 pages", "35 pages", "40 pages", "45 pages"],
+      "answer": "35 pages",
+      "points": 5
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Number Patterns - Decreasing",
+      "question": "Ben reads 5 fewer pages each day than the day before. If he reads 35 pages on Day 2, how many pages does he read on Day 3?",
+      "options": ["25 pages", "30 pages", "35 pages", "40 pages"],
+      "answer": "30 pages",
+      "points": 5
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Number Patterns - Decreasing",
+      "question": "Ben reads 5 fewer pages each day. He reads 40 pages on Day 1. On which day will he read 20 pages?",
+      "options": ["Day 4", "Day 5", "Day 6", "Day 7"],
+      "answer": "Day 5",
+      "points": 5
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Number Patterns - Decreasing",
+      "question": "Ben reads 10 pages on Day 7. The pattern decreases by 5 pages each day. How many pages did he read on Day 5?",
+      "options": ["15 pages", "20 pages", "25 pages", "30 pages"],
+      "answer": "20 pages",
+      "points": 5
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Number Patterns - Decreasing - Test Question",
+      "question": "Fiona folds 4 fewer paper cranes each day than the day before. On Day 6, she folds 12 cranes. How many cranes did she fold on Day 1?",
+      "options": ["28 cranes", "32 cranes", "36 cranes", "40 cranes"],
+      "answer": "32 cranes",
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 5: Doubling Pattern",
+      "question": "A bacteria colony doubles every hour. If there are 8 bacteria at Hour 1, how many bacteria are there at Hour 2?",
+      "options": ["10 bacteria", "12 bacteria", "16 bacteria", "24 bacteria"],
+      "answer": "16 bacteria",
+      "points": 5
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 5: Doubling Pattern",
+      "question": "A bacteria colony doubles every hour. If there are 16 bacteria at Hour 2, how many bacteria are there at Hour 3?",
+      "options": ["24 bacteria", "32 bacteria", "48 bacteria", "64 bacteria"],
+      "answer": "32 bacteria",
+      "points": 5
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 5: Doubling Pattern",
+      "question": "A bacteria colony doubles every hour. If there are 256 bacteria at Hour 6, how many bacteria were there at Hour 5?",
+      "options": ["64 bacteria", "128 bacteria", "192 bacteria", "256 bacteria"],
+      "answer": "128 bacteria",
+      "points": 5
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 5: Doubling Pattern",
+      "question": "To find an earlier amount in a doubling pattern, what operation should you use?",
+      "options": ["Multiply by 2", "Divide by 2", "Add 2", "Subtract 2"],
+      "answer": "Divide by 2",
+      "points": 5
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 5: Doubling Pattern - Test Question",
+      "question": "A plant's leaves double in number every week. At Week 6, the plant has 192 leaves. How many leaves did the plant have at Week 2?",
+      "options": ["6 leaves", "12 leaves", "24 leaves", "48 leaves"],
+      "answer": "12 leaves",
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Pattern with Sum",
+      "question": "On Day 1, Emma saves $3. Each day she saves $4 more than the day before. How much does she save on Day 2?",
+      "options": ["$4", "$6", "$7", "$8"],
+      "answer": "$7",
+      "points": 5
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Pattern with Sum",
+      "question": "Emma saves $3 on Day 1, $7 on Day 2, and $11 on Day 3. How much does she save on Day 4?",
+      "options": ["$13", "$14", "$15", "$16"],
+      "answer": "$15",
+      "points": 5
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Pattern with Sum",
+      "question": "Emma saves $3 on Day 1, $7 on Day 2, $11 on Day 3, and $15 on Day 4. What is her total savings over the 4 days?",
+      "options": ["$32", "$36", "$40", "$44"],
+      "answer": "$36",
+      "points": 5
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Pattern with Sum",
+      "question": "Emma wants to save at least $50 in total. She saves $3 on Day 1 and $4 more each day than the day before. Her savings by Day 4 is $36. How much more does she need to reach $50?",
+      "options": ["$12", "$14", "$16", "$18"],
+      "answer": "$14",
+      "points": 5
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Pattern with Sum - Test Question",
+      "question": "Gary saves $6 on Day 1. Each day he saves $5 more than the day before. After how many days will his total savings first exceed $80?",
+      "options": ["4 days", "5 days", "6 days", "7 days"],
+      "answer": "5 days",
+      "points": 10
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 7: Halving Pattern",
+      "question": "A tank is being drained. The amount of water halves every hour. If there are 64 litres at Hour 1, how many litres are there at Hour 2?",
+      "options": ["32 litres", "48 litres", "56 litres", "62 litres"],
+      "answer": "32 litres",
+      "points": 5
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 7: Halving Pattern",
+      "question": "The water halves every hour. If there are 32 litres at Hour 2, how many litres are there at Hour 4?",
+      "options": ["4 litres", "8 litres", "16 litres", "24 litres"],
+      "answer": "8 litres",
+      "points": 5
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 7: Halving Pattern",
+      "question": "The water halves every hour. If there are 6 litres at Hour 5, how many litres were there at Hour 3?",
+      "options": ["12 litres", "18 litres", "24 litres", "36 litres"],
+      "answer": "24 litres",
+      "points": 5
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 7: Halving Pattern",
+      "question": "To find an earlier amount in a halving pattern, what operation should you use?",
+      "options": ["Divide by 2", "Multiply by 2", "Subtract 2", "Add 2"],
+      "answer": "Multiply by 2",
+      "points": 5
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 7: Halving Pattern - Test Question",
+      "question": "A medicine's strength halves every hour in the body. At Hour 6, the strength is 5 units. What was the strength at Hour 2?",
+      "options": ["40 units", "60 units", "80 units", "100 units"],
+      "answer": "80 units",
+      "points": 10
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 8: Mixed Review - Patterns & Working Backwards",
+      "question": "A number is multiplied by 6, then 14 is subtracted. The result is 40. Working backwards, what is the first step from 40?",
+      "options": ["40 − 14", "40 + 14", "40 × 6", "40 ÷ 6"],
+      "answer": "40 + 14",
+      "points": 5
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 8: Mixed Review - Patterns & Working Backwards",
+      "question": "After adding 14 to 40, we get 54. What is the original number?",
+      "options": ["6", "8", "9", "10"],
+      "answer": "9",
+      "points": 5
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 8: Mixed Review - Patterns & Working Backwards",
+      "question": "Helen does 10 sit-ups on Day 1. Each day she does 5 more sit-ups than the day before. How many sit-ups does she do on Day 5?",
+      "options": ["25 sit-ups", "30 sit-ups", "35 sit-ups", "40 sit-ups"],
+      "answer": "30 sit-ups",
+      "points": 5
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 8: Mixed Review - Patterns & Working Backwards",
+      "question": "Helen does 10 sit-ups on Day 1, 15 on Day 2, 20 on Day 3, 25 on Day 4, and 30 on Day 5. What is her total number of sit-ups over the 5 days?",
+      "options": ["90 sit-ups", "100 sit-ups", "110 sit-ups", "120 sit-ups"],
+      "answer": "100 sit-ups",
+      "points": 5
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 8: Mixed Review - Patterns & Working Backwards - Test Question",
+      "question": "Ivan thinks of a number. He doubles it, adds 18, then divides by 3. His answer is 14. Meanwhile, a bacteria colony doubles every hour from 7 bacteria at Hour 1. After how many hours will the bacteria count exceed Ivan's original number?",
+      "options": ["2 hours", "3 hours", "4 hours", "5 hours"],
+      "answer": "3 hours",
+      "points": 10
+    }
+  ]
+}
