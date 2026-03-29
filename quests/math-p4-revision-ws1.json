@@ -53,45 +53,45 @@
       "id": 6,
       "type": "mcq",
       "problemSet": "PROBLEM SET 2: Comparison - One Amount Unchanged",
-      "question": "Lisa has 5 times as many sweets as Amy. Amy's mother then gives Amy 12 more sweets, but Lisa's amount stays the same. What happens to the total number of sweets they have?",
-      "options": ["Decreases by 12", "Stays the same", "Increases by 12", "Doubles"],
-      "answer": "Increases by 12",
+      "question": "Lisa has 4 times as many sweets as Amy. Amy's mother then gives Amy some more sweets, but Lisa's amount stays the same. What happens to the total number of sweets they have?",
+      "options": ["Decreases", "Stays the same", "Increases", "Doubles"],
+      "answer": "Increases",
       "points": 5
     },
     {
       "id": 7,
       "type": "mcq",
       "problemSet": "PROBLEM SET 2: Comparison - One Amount Unchanged",
-      "question": "At first, Lisa has 5 units and Amy has 1 unit. After Amy receives 12 more sweets, Lisa now has 2 times as many sweets as Amy. If Lisa still has 5 units, how many units does Amy have now?",
-      "options": ["1.5 units", "2 units", "2.5 units", "3 units"],
-      "answer": "2.5 units",
+      "question": "At first, Lisa has 4 units and Amy has 1 unit. After Amy receives 18 more sweets, Lisa now has 2 times as many sweets as Amy. If Lisa still has 4 units, how many units does Amy have now?",
+      "options": ["1 unit", "2 units", "3 units", "4 units"],
+      "answer": "2 units",
       "points": 5
     },
     {
       "id": 8,
       "type": "mcq",
       "problemSet": "PROBLEM SET 2: Comparison - One Amount Unchanged",
-      "question": "Amy started with 1 unit and now has 2.5 units. The increase of 1.5 units came from the 12 sweets she received. How many sweets does 1 unit represent?",
-      "options": ["6 sweets", "8 sweets", "10 sweets", "12 sweets"],
-      "answer": "8 sweets",
+      "question": "Amy started with 1 unit and now has 2 units. The increase of 1 unit came from the 18 sweets she received. How many sweets does 1 unit represent?",
+      "options": ["9 sweets", "12 sweets", "18 sweets", "24 sweets"],
+      "answer": "18 sweets",
       "points": 5
     },
     {
       "id": 9,
       "type": "mcq",
       "problemSet": "PROBLEM SET 2: Comparison - One Amount Unchanged",
-      "question": "If 1 unit equals 8 sweets, and Lisa has 5 units, how many sweets did Lisa have at first?",
-      "options": ["32 sweets", "40 sweets", "48 sweets", "56 sweets"],
-      "answer": "40 sweets",
+      "question": "If 1 unit equals 18 sweets, and Lisa has 4 units, how many sweets did Lisa have at first?",
+      "options": ["54 sweets", "63 sweets", "72 sweets", "81 sweets"],
+      "answer": "72 sweets",
       "points": 5
     },
     {
       "id": 10,
       "type": "mcq",
       "problemSet": "PROBLEM SET 2: Comparison - One Amount Unchanged - Test Question",
-      "question": "Ryan has 6 times as many cards as Siti. Siti's father gives her 20 more cards. Now Ryan has 3 times as many cards as Siti. How many cards did Ryan have at first?",
-      "options": ["36 cards", "40 cards", "48 cards", "60 cards"],
-      "answer": "40 cards",
+      "question": "Ryan has 6 times as many cards as Siti. Siti's father gives her 24 more cards. Now Ryan has 3 times as many cards as Siti. How many cards did Ryan have at first?",
+      "options": ["108 cards", "120 cards", "132 cards", "144 cards"],
+      "answer": "144 cards",
       "points": 10
     },
     {
@@ -269,9 +269,9 @@
       "id": 30,
       "type": "mcq",
       "problemSet": "PROBLEM SET 6: Equal - Both Give Away - Test Question",
-      "question": "Grace and Hannah have an equal number of coins at first. Grace gives away 8 coins and Hannah gives away 48 coins. After that, Grace has 3 times as many coins as Hannah. How many coins did they have altogether at first?",
-      "options": ["120 coins", "128 coins", "136 coins", "144 coins"],
-      "answer": "136 coins",
+      "question": "Grace and Hannah have an equal number of coins at first. Grace gives away 10 coins and Hannah gives away 50 coins. After that, Grace has 5 times as many coins as Hannah. How many coins did they have altogether at first?",
+      "options": ["100 coins", "110 coins", "120 coins", "130 coins"],
+      "answer": "120 coins",
       "points": 10
     },
     {
@@ -296,27 +296,27 @@
       "id": 33,
       "type": "mcq",
       "problemSet": "PROBLEM SET 7: Combined Units - Changes After",
-      "question": "Cindy has 30 stickers and Diana has 15 stickers. Cindy buys 12 more stickers and Diana gives away 3 stickers. How many stickers does Cindy have now?",
-      "options": ["30 stickers", "36 stickers", "42 stickers", "45 stickers"],
-      "answer": "42 stickers",
+      "question": "Cindy has 30 stickers and Diana has 15 stickers. Cindy buys 6 more stickers and Diana gives away 3 stickers. How many stickers does Cindy have now?",
+      "options": ["30 stickers", "33 stickers", "36 stickers", "42 stickers"],
+      "answer": "36 stickers",
       "points": 5
     },
     {
       "id": 34,
       "type": "mcq",
       "problemSet": "PROBLEM SET 7: Combined Units - Changes After",
-      "question": "Cindy now has 42 stickers and Diana now has 12 stickers. How many times as many stickers does Cindy have compared to Diana?",
-      "options": ["2.5 times", "3 times", "3.5 times", "4 times"],
-      "answer": "3.5 times",
+      "question": "Cindy now has 36 stickers and Diana now has 12 stickers. How many times as many stickers does Cindy have compared to Diana?",
+      "options": ["2 times", "3 times", "4 times", "5 times"],
+      "answer": "3 times",
       "points": 5
     },
     {
       "id": 35,
       "type": "mcq",
       "problemSet": "PROBLEM SET 7: Combined Units - Changes After - Test Question",
-      "question": "Ethan has 3 times as many cards as Farah. Ethan then buys 15 more cards while Farah gives away 9 cards. Now Ethan has 5 times as many cards as Farah. How many cards did Ethan have at first?",
-      "options": ["45 cards", "54 cards", "63 cards", "72 cards"],
-      "answer": "54 cards",
+      "question": "Ethan has 3 times as many cards as Farah. Ethan then buys 12 more cards while Farah gives away 4 cards. Now Ethan has 5 times as many cards as Farah. How many cards did Ethan have at first?",
+      "options": ["36 cards", "42 cards", "48 cards", "54 cards"],
+      "answer": "48 cards",
       "points": 10
     },
     {
@@ -359,9 +359,9 @@
       "id": 40,
       "type": "mcq",
       "problemSet": "PROBLEM SET 8: Mixed Review - Units Concept - Test Question",
-      "question": "Rachel has 6 times as many stamps as Samuel. They have 84 stamps altogether. Rachel then gives Samuel some stamps and they now have equal amounts. How many stamps did Rachel give to Samuel?",
-      "options": ["24 stamps", "30 stamps", "36 stamps", "42 stamps"],
-      "answer": "30 stamps",
+      "question": "Rachel has 5 times as many stamps as Samuel. They have 72 stamps altogether. Rachel then gives Samuel some stamps and they now have equal amounts. How many stamps did Rachel give to Samuel?",
+      "options": ["18 stamps", "24 stamps", "30 stamps", "36 stamps"],
+      "answer": "24 stamps",
       "points": 10
     }
   ]

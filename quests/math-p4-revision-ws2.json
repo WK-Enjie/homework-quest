@@ -359,9 +359,9 @@
       "id": 40,
       "type": "mcq",
       "problemSet": "PROBLEM SET 8: Mixed Review - Patterns & Working Backwards - Test Question",
-      "question": "Ivan thinks of a number. He doubles it, adds 18, then divides by 3. His answer is 14. Meanwhile, a bacteria colony doubles every hour from 7 bacteria at Hour 1. After how many hours will the bacteria count exceed Ivan's original number?",
-      "options": ["2 hours", "3 hours", "4 hours", "5 hours"],
-      "answer": "3 hours",
+      "question": "Ivan thinks of a number. He doubles it, adds 18, then divides by 3. His answer is 14. What is Ivan's original number?",
+      "options": ["10", "12", "14", "16"],
+      "answer": "12",
       "points": 10
     }
   ]
