@@ -1,0 +1,568 @@
+{
+  "questTitle": "O-Level Physics: Thermal Energy Transfer Methods (Worksheet 2)",
+  "subject": "Physics",
+  "difficulty": "Medium-Hard",
+  "description": "Apply your knowledge of thermal energy transfer! This worksheet covers comparing the three methods, the vacuum flask, home insulation, maximising heat transfer, and everyday applications. Read each question carefully and explain your reasoning.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Comparing the Three Methods",
+      "question": "Which method(s) of heat transfer require a medium (material) to transfer heat?",
+      "options": [
+        "Only conduction",
+        "Only convection",
+        "Conduction and convection",
+        "Radiation"
+      ],
+      "answer": "Conduction and convection",
+      "points": 5
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Comparing the Three Methods",
+      "question": "Which method of heat transfer can occur through a vacuum?",
+      "options": [
+        "Conduction only",
+        "Convection only",
+        "Conduction and convection",
+        "Radiation only"
+      ],
+      "answer": "Radiation only",
+      "points": 5
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Comparing the Three Methods",
+      "question": "A metal spoon is placed in a cup of hot tea. Which method transfers heat to your hand holding the spoon?",
+      "options": [
+        "Convection only",
+        "Radiation only",
+        "Conduction through the metal spoon",
+        "Convection and radiation only"
+      ],
+      "answer": "Conduction through the metal spoon",
+      "points": 5
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Comparing the Three Methods",
+      "question": "When you sit near a campfire, you feel warm on the side facing the fire. Which method of heat transfer is primarily responsible?",
+      "options": [
+        "Conduction through the air",
+        "Convection (warm air rising)",
+        "Radiation (infrared waves travelling directly from fire to you)",
+        "All three equally"
+      ],
+      "answer": "Radiation (infrared waves travelling directly from fire to you)",
+      "points": 5
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Comparing the Three Methods - Test Question",
+      "question": "In a room with an electric heater, identify the main method of heat transfer for each:\n\n(a) From the heating element to the metal casing\n(b) Warm air circulating around the room\n(c) You feeling warmth on your face while across the room",
+      "options": [
+        "(a) Convection; (b) Conduction; (c) Radiation",
+        "(a) Conduction; (b) Convection; (c) Radiation",
+        "(a) Radiation; (b) Convection; (c) Conduction",
+        "(a) Conduction; (b) Radiation; (c) Convection"
+      ],
+      "answer": "(a) Conduction; (b) Convection; (c) Radiation",
+      "points": 10
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Convection Applications",
+      "question": "Sea breezes blow from the sea to the land during the day. Which explanation is correct?",
+      "options": [
+        "The sea heats up faster than the land",
+        "Land heats up faster than the sea during the day. Hot air over the land rises, and cooler air from the sea moves in to replace it, creating a sea breeze",
+        "Wind always blows from sea to land",
+        "The sea produces more wind"
+      ],
+      "answer": "Land heats up faster than the sea during the day. Hot air over the land rises, and cooler air from the sea moves in to replace it, creating a sea breeze",
+      "points": 5
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Convection Applications",
+      "question": "At night, land breezes blow from the land to the sea. Why?",
+      "options": [
+        "The sea cools down faster than the land",
+        "Land cools down faster than the sea at night. Air over the warmer sea rises, and cooler air from the land moves in to replace it, creating a land breeze",
+        "Wind reverses direction at night automatically",
+        "The moon causes land breezes"
+      ],
+      "answer": "Land cools down faster than the sea at night. Air over the warmer sea rises, and cooler air from the land moves in to replace it, creating a land breeze",
+      "points": 5
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Convection Applications",
+      "question": "An electric kettle has its heating element placed at the bottom. Why is this position most effective?",
+      "options": [
+        "It is easier to manufacture this way",
+        "Water heated at the bottom rises, creating convection currents that heat all the water efficiently",
+        "The heating element works better when submerged",
+        "To prevent the kettle from tipping over"
+      ],
+      "answer": "Water heated at the bottom rises, creating convection currents that heat all the water efficiently",
+      "points": 5
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Convection Applications",
+      "question": "In a refrigerator, the freezer compartment is placed at the top. Why?",
+      "options": [
+        "To make it easier to reach",
+        "Cold air from the freezer is denser and sinks, cooling the food below. Warmer air rises to be cooled by the freezer, creating convection currents",
+        "To save electricity",
+        "The freezer needs more space"
+      ],
+      "answer": "Cold air from the freezer is denser and sinks, cooling the food below. Warmer air rises to be cooled by the freezer, creating convection currents",
+      "points": 5
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Convection Applications - Test Question",
+      "question": "In a house, smoke from a fire in the fireplace goes up the chimney, and a gentle breeze is felt near the floor coming from under the door. Explain this observation using convection.",
+      "options": [
+        "The smoke is lighter than air",
+        "Hot air from the fire rises and escapes through the chimney. This creates a region of lower pressure in the room. Cooler air from outside is drawn in through gaps under the door to replace the rising hot air, setting up a convection current",
+        "The chimney sucks the smoke out",
+        "Wind outside pushes air under the door"
+      ],
+      "answer": "Hot air from the fire rises and escapes through the chimney. This creates a region of lower pressure in the room. Cooler air from outside is drawn in through gaps under the door to replace the rising hot air, setting up a convection current",
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: The Vacuum Flask",
+      "question": "A vacuum flask is designed to keep drinks hot or cold. It has a double-walled glass container with a vacuum between the walls. What does the vacuum prevent?",
+      "options": [
+        "Only conduction",
+        "Only convection",
+        "Both conduction and convection (no particles to transfer heat)",
+        "Only radiation"
+      ],
+      "answer": "Both conduction and convection (no particles to transfer heat)",
+      "points": 5
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: The Vacuum Flask",
+      "question": "The inner walls of a vacuum flask are coated with silver. Why?",
+      "options": [
+        "To conduct heat better",
+        "To absorb more radiation",
+        "Shiny silver surfaces are poor emitters and absorbers of radiation, reducing heat loss/gain by radiation",
+        "To make the flask look attractive"
+      ],
+      "answer": "Shiny silver surfaces are poor emitters and absorbers of radiation, reducing heat loss/gain by radiation",
+      "points": 5
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: The Vacuum Flask",
+      "question": "A vacuum flask has a plastic or cork stopper. What is the purpose of this stopper?",
+      "options": [
+        "To make the flask look complete",
+        "To reduce heat loss by conduction and convection through the opening (plastic/cork are poor conductors and the stopper prevents hot air escaping)",
+        "To increase radiation",
+        "To conduct heat away from the liquid"
+      ],
+      "answer": "To reduce heat loss by conduction and convection through the opening (plastic/cork are poor conductors and the stopper prevents hot air escaping)",
+      "points": 5
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: The Vacuum Flask",
+      "question": "Why can a vacuum flask keep cold drinks cold as well as keeping hot drinks hot?",
+      "options": [
+        "The flask generates cold",
+        "The same features (vacuum, silvered walls, insulating stopper) that prevent heat escaping also prevent heat entering from outside",
+        "The flask has a cooling element",
+        "Cold drinks do not need insulation"
+      ],
+      "answer": "The same features (vacuum, silvered walls, insulating stopper) that prevent heat escaping also prevent heat entering from outside",
+      "points": 5
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: The Vacuum Flask - Test Question",
+      "question": "Match each design feature of a vacuum flask to the method of heat transfer it reduces:\n\n(a) Vacuum between walls\n(b) Silvered internal surfaces\n(c) Plastic/cork stopper",
+      "options": [
+        "(a) Radiation; (b) Conduction; (c) Convection",
+        "(a) Conduction and convection; (b) Radiation; (c) Conduction and convection",
+        "(a) Convection only; (b) Convection only; (c) Radiation",
+        "(a) Radiation; (b) Convection; (c) Conduction"
+      ],
+      "answer": "(a) Conduction and convection; (b) Radiation; (c) Conduction and convection",
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Home Insulation",
+      "question": "Houses in cold countries have double-glazed windows (two panes of glass with air or vacuum gap between). How does this reduce heat loss?",
+      "options": [
+        "Glass is a good conductor, keeping heat in",
+        "The air gap is a poor conductor, reducing conduction. The trapped air cannot circulate freely, reducing convection",
+        "The glass absorbs all radiation",
+        "The windows are painted black"
+      ],
+      "answer": "The air gap is a poor conductor, reducing conduction. The trapped air cannot circulate freely, reducing convection",
+      "points": 5
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Home Insulation",
+      "question": "Cavity wall insulation involves filling the gap between walls with foam or fibre. How does this reduce heat loss?",
+      "options": [
+        "The foam conducts heat quickly so the wall stays warm",
+        "The foam/fibre traps pockets of air (poor conductor), reducing conduction, and prevents air circulation, reducing convection",
+        "The foam absorbs radiation",
+        "The foam makes the wall thinner"
+      ],
+      "answer": "The foam/fibre traps pockets of air (poor conductor), reducing conduction, and prevents air circulation, reducing convection",
+      "points": 5
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Home Insulation",
+      "question": "Loft insulation uses materials like fibreglass laid on top of the ceiling. How does this reduce heat loss from a house?",
+      "options": [
+        "Fibreglass is a good conductor",
+        "Fibreglass traps air (poor conductor) and reduces conduction. It also prevents warm air from escaping easily",
+        "Fibreglass absorbs all radiation",
+        "Fibreglass makes the ceiling black"
+      ],
+      "answer": "Fibreglass traps air (poor conductor) and reduces conduction. It also prevents warm air from escaping easily",
+      "points": 5
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Home Insulation",
+      "question": "Shiny foil is sometimes placed behind radiators in homes. Why?",
+      "options": [
+        "To absorb more radiation",
+        "To conduct heat to the wall",
+        "To reflect radiation back into the room instead of it being absorbed by the wall",
+        "To make the room look brighter"
+      ],
+      "answer": "To reflect radiation back into the room instead of it being absorbed by the wall",
+      "points": 5
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Home Insulation - Test Question",
+      "question": "A well-insulated house uses multiple strategies to reduce heat loss. Explain how each reduces heat transfer:\n\n(a) Carpets on floors\n(b) Draught excluders around doors\n(c) Light-coloured roof tiles",
+      "options": [
+        "(a) Increases conduction; (b) Increases convection; (c) Absorbs radiation",
+        "(a) Carpet is a poor conductor, reducing conduction through floor; (b) Reduces convection by preventing air movement; (c) Reflects radiation, reducing heat absorption",
+        "(a) Absorbs radiation; (b) Conducts heat; (c) Emits radiation",
+        "(a) Reflects radiation; (b) Increases radiation; (c) Increases conduction"
+      ],
+      "answer": "(a) Carpet is a poor conductor, reducing conduction through floor; (b) Reduces convection by preventing air movement; (c) Reflects radiation, reducing heat absorption",
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 5: Maximising Heat Transfer",
+      "question": "Car radiators (cooling systems) have many thin metal fins. How does this design help to cool the engine?",
+      "options": [
+        "The fins reduce the surface area",
+        "The metal fins increase the surface area for heat loss. Metal is a good conductor, transferring heat from the coolant. Heat is then lost to the air by convection and radiation",
+        "The fins act as insulators",
+        "The fins are painted white to absorb heat"
+      ],
+      "answer": "The metal fins increase the surface area for heat loss. Metal is a good conductor, transferring heat from the coolant. Heat is then lost to the air by convection and radiation",
+      "points": 5
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 5: Maximising Heat Transfer",
+      "question": "Heat sinks on computer processors are made of metal (aluminium or copper) with many fins and are sometimes painted black. Explain this design.",
+      "options": [
+        "Metal is a poor conductor; fins reduce surface area",
+        "Metal is a good conductor to transfer heat away from the processor quickly. Fins increase surface area for heat loss. Black colour increases radiation emission",
+        "The metal traps heat inside",
+        "The design is purely for appearance"
+      ],
+      "answer": "Metal is a good conductor to transfer heat away from the processor quickly. Fins increase surface area for heat loss. Black colour increases radiation emission",
+      "points": 5
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 5: Maximising Heat Transfer",
+      "question": "Cooking pots often have metal (copper or aluminium) bases and plastic or wooden handles. Explain this design.",
+      "options": [
+        "Metal bases are cheaper to manufacture",
+        "Metal bases are good conductors to transfer heat efficiently to food. Plastic/wooden handles are poor conductors (insulators) to prevent burning hands",
+        "Both materials conduct heat equally",
+        "Plastic bases would melt"
+      ],
+      "answer": "Metal bases are good conductors to transfer heat efficiently to food. Plastic/wooden handles are poor conductors (insulators) to prevent burning hands",
+      "points": 5
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 5: Maximising Heat Transfer",
+      "question": "The cooling fins at the back of a refrigerator are painted black. Why?",
+      "options": [
+        "Black looks better",
+        "Black surfaces are good emitters of radiation, helping the refrigerator lose heat to the surroundings more effectively",
+        "Black surfaces absorb less heat",
+        "Black paint is cheaper"
+      ],
+      "answer": "Black surfaces are good emitters of radiation, helping the refrigerator lose heat to the surroundings more effectively",
+      "points": 5
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 5: Maximising Heat Transfer - Test Question",
+      "question": "A central heating system uses hot water flowing through metal pipes and radiators to heat a house. Explain how all three methods of heat transfer are involved in heating the room.",
+      "options": [
+        "Only radiation is involved",
+        "Heat is conducted through the metal pipes and radiator. The hot radiator surface heats the air next to it, which rises and sets up convection currents. The radiator also emits infrared radiation directly into the room",
+        "Only convection is involved",
+        "Only conduction is involved"
+      ],
+      "answer": "Heat is conducted through the metal pipes and radiator. The hot radiator surface heats the air next to it, which rises and sets up convection currents. The radiator also emits infrared radiation directly into the room",
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Everyday Applications",
+      "question": "On hot sunny days, people often wear light-coloured clothing. Why?",
+      "options": [
+        "Light colours absorb more radiation, keeping you warm",
+        "Light colours reflect more radiation and absorb less, keeping you cooler",
+        "Light colours conduct heat better",
+        "Light colours have no effect on temperature"
+      ],
+      "answer": "Light colours reflect more radiation and absorb less, keeping you cooler",
+      "points": 5
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Everyday Applications",
+      "question": "Air conditioning units are usually placed high up in a room. Why?",
+      "options": [
+        "To save floor space only",
+        "Cool air from the AC is denser and sinks, cooling the room below. Warmer air rises to be cooled by the AC, creating a convection current that cools the entire room",
+        "Hot air is denser and sinks",
+        "Radiation works better from high positions"
+      ],
+      "answer": "Cool air from the AC is denser and sinks, cooling the room below. Warmer air rises to be cooled by the AC, creating a convection current that cools the entire room",
+      "points": 5
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Everyday Applications",
+      "question": "Heaters are usually placed low in a room (e.g., near the floor). Why?",
+      "options": [
+        "To conduct heat to the floor",
+        "Warm air from the heater is less dense and rises. Cooler air moves in to replace it, creating a convection current that heats the entire room",
+        "Cold air rises",
+        "Radiation only works downwards"
+      ],
+      "answer": "Warm air from the heater is less dense and rises. Cooler air moves in to replace it, creating a convection current that heats the entire room",
+      "points": 5
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Everyday Applications",
+      "question": "Marathon runners often wrap themselves in shiny foil blankets after a race. Why?",
+      "options": [
+        "The foil generates heat",
+        "The shiny foil reflects the runner's body heat (infrared radiation) back to them and is a poor emitter, reducing heat loss by radiation",
+        "The foil conducts heat to the runner",
+        "The foil increases convection"
+      ],
+      "answer": "The shiny foil reflects the runner's body heat (infrared radiation) back to them and is a poor emitter, reducing heat loss by radiation",
+      "points": 5
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Everyday Applications - Test Question",
+      "question": "Solar water heaters have black pipes in a glass-covered box. Explain the purpose of:\n\n(a) The black colour of the pipes\n(b) The glass cover",
+      "options": [
+        "(a) Reflects radiation; (b) Increases convection",
+        "(a) Black is a good absorber of radiation, maximising heat absorption from sunlight; (b) Glass allows light to enter but reduces heat loss by convection and traps some infrared radiation",
+        "(a) Reduces conduction; (b) Increases radiation",
+        "(a) Poor emitter of radiation; (b) Conducts heat"
+      ],
+      "answer": "(a) Black is a good absorber of radiation, maximising heat absorption from sunlight; (b) Glass allows light to enter but reduces heat loss by convection and traps some infrared radiation",
+      "points": 10
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 7: Animals and Heat Transfer",
+      "question": "Penguins huddle together in winter. How does this behaviour reduce heat loss?",
+      "options": [
+        "Huddling increases their body temperature",
+        "Huddling reduces the total exposed surface area, reducing heat loss by convection and radiation",
+        "Huddling increases conduction between penguins",
+        "Huddling reflects radiation"
+      ],
+      "answer": "Huddling reduces the total exposed surface area, reducing heat loss by convection and radiation",
+      "points": 5
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 7: Animals and Heat Transfer",
+      "question": "Why do elephants have large ears?",
+      "options": [
+        "To hear better",
+        "Large ears have a large surface area with many blood vessels, allowing heat to be lost by radiation and convection, helping the elephant stay cool",
+        "To fan themselves",
+        "To absorb more radiation from the sun"
+      ],
+      "answer": "Large ears have a large surface area with many blood vessels, allowing heat to be lost by radiation and convection, helping the elephant stay cool",
+      "points": 5
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 7: Animals and Heat Transfer",
+      "question": "Birds fluff up their feathers in cold weather. Why does this help them stay warm?",
+      "options": [
+        "Fluffed feathers absorb more radiation",
+        "Fluffed feathers trap more air, which is a poor conductor, reducing heat loss by conduction",
+        "Fluffed feathers increase convection",
+        "Fluffed feathers conduct heat better"
+      ],
+      "answer": "Fluffed feathers trap more air, which is a poor conductor, reducing heat loss by conduction",
+      "points": 5
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 7: Animals and Heat Transfer",
+      "question": "Desert foxes have large ears while Arctic foxes have small ears. Explain this difference in terms of heat transfer.",
+      "options": [
+        "Desert foxes need better hearing",
+        "Large ears increase surface area for heat loss (beneficial in hot deserts). Small ears reduce surface area for heat loss (beneficial in cold Arctic)",
+        "Ear size is not related to heat transfer",
+        "Arctic foxes have thicker ears"
+      ],
+      "answer": "Large ears increase surface area for heat loss (beneficial in hot deserts). Small ears reduce surface area for heat loss (beneficial in cold Arctic)",
+      "points": 5
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 7: Animals and Heat Transfer - Test Question",
+      "question": "Polar bears have white fur over black skin. Explain how this helps them survive in the Arctic.",
+      "options": [
+        "White fur generates heat",
+        "White fur provides camouflage. The black skin underneath absorbs radiation from the sun that passes through the transparent fur, helping to keep the bear warm",
+        "White fur reflects all radiation away",
+        "Black skin is purely for camouflage"
+      ],
+      "answer": "White fur provides camouflage. The black skin underneath absorbs radiation from the sun that passes through the transparent fur, helping to keep the bear warm",
+      "points": 10
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 8: Problem Solving and Mixed Applications",
+      "question": "In a solar cooker, a shiny curved reflector focuses sunlight onto a black cooking pot. Explain how this design maximises heat transfer to the food.",
+      "options": [
+        "The shiny reflector absorbs radiation; the black pot reflects it",
+        "The shiny reflector reflects and concentrates radiation onto the pot. The black pot is a good absorber of radiation, maximising heat absorption. Heat is then conducted to the food",
+        "The reflector creates convection currents",
+        "The black pot emits radiation to cook the food"
+      ],
+      "answer": "The shiny reflector reflects and concentrates radiation onto the pot. The black pot is a good absorber of radiation, maximising heat absorption. Heat is then conducted to the food",
+      "points": 5
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 8: Problem Solving and Mixed Applications",
+      "question": "Why are storage tanks for liquefied gases (like liquid nitrogen) often shiny silver in colour?",
+      "options": [
+        "Silver is a good conductor",
+        "Shiny silver surfaces are poor absorbers of radiation, reducing heat gain from the surroundings and keeping the contents cold",
+        "Silver is more durable",
+        "Silver looks more professional"
+      ],
+      "answer": "Shiny silver surfaces are poor absorbers of radiation, reducing heat gain from the surroundings and keeping the contents cold",
+      "points": 5
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 8: Problem Solving and Mixed Applications",
+      "question": "Car engines have a cooling system where water circulates through the engine block and then through a radiator. Explain the role of conduction in this system.",
+      "options": [
+        "Conduction is not involved",
+        "Heat is conducted from the hot engine block into the water flowing through it. Heat is also conducted from the water to the metal fins of the radiator",
+        "Conduction cools the water directly",
+        "Conduction causes the water to flow"
+      ],
+      "answer": "Heat is conducted from the hot engine block into the water flowing through it. Heat is also conducted from the water to the metal fins of the radiator",
+      "points": 5
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 8: Problem Solving and Mixed Applications",
+      "question": "Teapots are often covered with a 'tea cosy' made of quilted fabric. How does this keep tea hot for longer?",
+      "options": [
+        "The tea cosy generates heat",
+        "The quilted fabric traps air (poor conductor), reducing heat loss by conduction. It also reduces convection around the teapot and acts as a barrier to radiation",
+        "The tea cosy reflects radiation into the tea",
+        "The tea cosy absorbs heat from the room"
+      ],
+      "answer": "The quilted fabric traps air (poor conductor), reducing heat loss by conduction. It also reduces convection around the teapot and acts as a barrier to radiation",
+      "points": 5
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 8: Problem Solving and Mixed Applications - Test Question",
+      "question": "A greenhouse stays warm even on cold sunny days. Explain how the greenhouse traps heat, referring to relevant methods of heat transfer.",
+      "options": [
+        "The glass reflects all radiation",
+        "Short-wavelength light from the sun passes through the glass and is absorbed by plants and soil, which warm up and emit longer-wavelength infrared radiation. Glass does not allow this infrared to escape easily. The enclosed space also prevents warm air from escaping by convection",
+        "The glass is a good conductor",
+        "The glass generates heat"
+      ],
+      "answer": "Short-wavelength light from the sun passes through the glass and is absorbed by plants and soil, which warm up and emit longer-wavelength infrared radiation. Glass does not allow this infrared to escape easily. The enclosed space also prevents warm air from escaping by convection",
+      "points": 10
+    }
+  ]
+}

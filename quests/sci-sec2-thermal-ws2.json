@@ -1,13 +1,13 @@
 {
-  "questTitle": "O-Level Physics: Thermal Energy Transfer Methods Worksheet 1",
+  "questTitle": "O-Level Physics: Thermal Energy Transfer Methods (Worksheet 1)",
   "subject": "Physics",
-  "difficulty": "Hard",
-  "description": "Master thermal energy transfer! This worksheet covers conduction, convection, and radiation - how thermal energy flows, factors affecting each method, applications, experimental setups, and how to minimise or maximise heat transfer. Show clear understanding of concepts!",
+  "difficulty": "Medium-Hard",
+  "description": "Master thermal energy transfer! This worksheet covers conduction, convection, and radiation - definitions, mechanisms, experiments, and comparisons. Read each question carefully and apply your understanding of particle theory.",
   "questions": [
     {
       "id": 1,
       "type": "mcq",
-      "problemSet": "CONCEPT CHECK: Basics of Thermal Energy",
+      "problemSet": "PROBLEM SET 1: Basics of Thermal Energy",
       "question": "In which direction does thermal energy always flow naturally?",
       "options": [
         "From a region of lower temperature to a region of higher temperature",
@@ -21,7 +21,7 @@
     {
       "id": 2,
       "type": "mcq",
-      "problemSet": "CONCEPT CHECK: Basics of Thermal Energy",
+      "problemSet": "PROBLEM SET 1: Basics of Thermal Energy",
       "question": "What are the three methods of thermal energy transfer?",
       "options": [
         "Evaporation, condensation, and melting",
@@ -35,7 +35,7 @@
     {
       "id": 3,
       "type": "mcq",
-      "problemSet": "CONCEPT CHECK: Basics of Thermal Energy",
+      "problemSet": "PROBLEM SET 1: Basics of Thermal Energy",
       "question": "When does net thermal energy transfer between two objects stop?",
       "options": [
         "When one object runs out of heat",
@@ -49,53 +49,81 @@
     {
       "id": 4,
       "type": "mcq",
-      "problemSet": "TOPIC 1: Conduction - Definition and Process",
-      "question": "What is conduction?",
+      "problemSet": "PROBLEM SET 1: Basics of Thermal Energy",
+      "question": "A metal spoon at room temperature feels colder than a wooden spoon at the same temperature. Why?",
       "options": [
-        "The transfer of thermal energy through the bulk movement of a fluid",
-        "The transfer of thermal energy by electromagnetic waves",
-        "The transfer of thermal energy through a medium from particle to particle without the particles themselves moving from their positions",
-        "The transfer of thermal energy only through metals"
+        "Metal is actually at a lower temperature than wood",
+        "Metal conducts heat away from your hand faster than wood",
+        "Wood absorbs more radiation",
+        "Metal has a higher heat capacity"
       ],
-      "answer": "The transfer of thermal energy through a medium from particle to particle without the particles themselves moving from their positions",
+      "answer": "Metal conducts heat away from your hand faster than wood",
       "points": 5
     },
     {
       "id": 5,
       "type": "mcq",
-      "problemSet": "TOPIC 1: Conduction - Definition and Process",
-      "question": "Describe the mechanism of conduction in non-metals.",
+      "problemSet": "PROBLEM SET 1: Basics of Thermal Energy - Test Question",
+      "question": "On a hot day, a metal park bench feels hotter than a wooden bench next to it, even though both are at the same temperature. Which explanation is correct?",
       "options": [
-        "Free electrons carry thermal energy through the material",
-        "Particles at the hot end vibrate faster, collide with neighbouring particles, and pass on kinetic energy to them",
-        "Hot fluid rises and cold fluid sinks",
-        "Electromagnetic waves in the form of radiation transfer energy between particles"
+        "Metal absorbs more sunlight than wood",
+        "Metal is a better conductor, so it transfers thermal energy to your hand faster than wood",
+        "Wood reflects more radiation",
+        "Metal has a lower heat capacity so it heats up more"
       ],
-      "answer": "Particles at the hot end vibrate faster, collide with neighbouring particles, and pass on kinetic energy to them",
+      "answer": "Metal is a better conductor, so it transfers thermal energy to your hand faster than wood",
       "points": 10
     },
     {
       "id": 6,
       "type": "mcq",
-      "problemSet": "TOPIC 1: Conduction - Definition and Process",
-      "question": "Why are metals better conductors of heat than non-metals?",
+      "problemSet": "PROBLEM SET 2: Conduction - Definition and Process",
+      "question": "What is conduction?",
       "options": [
-        "Metals have larger particles",
-        "Metals have more particles",
-        "Metals have free electrons that can move quickly and transfer kinetic energy rapidly, in addition to collision of neighbouring particles",
-        "Metals are shinier so absorb more heat"
+        "The transfer of thermal energy through the bulk movement of a fluid",
+        "The transfer of thermal energy by electromagnetic waves",
+        "The transfer of thermal energy through a medium from particle to particle without the particles themselves moving from their fixed positions",
+        "The transfer of thermal energy only through metals"
       ],
-      "answer": "Metals have free/delocalised electrons that can move quickly and transfer kinetic energy rapidly, in addition to vibrations and collisions",
-      "points": 10
+      "answer": "The transfer of thermal energy through a medium from particle to particle without the particles themselves moving from their fixed positions",
+      "points": 5
     },
     {
       "id": 7,
       "type": "mcq",
-      "problemSet": "TOPIC 1: Conduction - Definition and Process",
+      "problemSet": "PROBLEM SET 2: Conduction - Definition and Process",
+      "question": "Describe the mechanism of conduction in non-metals.",
+      "options": [
+        "Free electrons carry thermal energy through the material",
+        "Particles at the hot end vibrate faster, collide with neighbouring particles, and pass on kinetic energy to them",
+        "Hot fluid rises and cold fluid sinks",
+        "Electromagnetic waves transfer energy between particles"
+      ],
+      "answer": "Particles at the hot end vibrate faster, collide with neighbouring particles, and pass on kinetic energy to them",
+      "points": 5
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Conduction - Definition and Process",
+      "question": "Why are metals better conductors of heat than non-metals?",
+      "options": [
+        "Metals have larger particles",
+        "Metals are shinier so they absorb more heat",
+        "Metals have free electrons that can move quickly and transfer kinetic energy rapidly, in addition to vibrations and collisions of particles",
+        "Metals have more particles per unit volume"
+      ],
+      "answer": "Metals have free electrons that can move quickly and transfer kinetic energy rapidly, in addition to vibrations and collisions of particles",
+      "points": 5
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Conduction - Definition and Process",
       "question": "Which statement about conduction is correct?",
       "options": [
-        "Conduction can occur in solids, liquids, and gases, but is most effective in solids",
         "Conduction can only occur in solids",
+        "Conduction can occur in solids, liquids, and gases, but is most effective in solids",
         "Conduction is most effective in gases",
         "Conduction requires a vacuum"
       ],
@@ -103,51 +131,23 @@
       "points": 5
     },
     {
-      "id": 8,
-      "type": "mcq",
-      "problemSet": "TOPIC 1: Conduction - Factors Affecting Rate",
-      "question": "Which factors affect the rate of thermal energy transfer by conduction?",
-      "options": [
-        "Only the temperature difference",
-        "Temperature difference, cross-sectional area, length/thickness, and type of material (thermal conductivity)",
-        "Only the type of material",
-        "Only the cross-sectional area and length"
-      ],
-      "answer": "Temperature difference, cross-sectional area, length/thickness, and type of material (thermal conductivity)",
-      "points": 10
-    },
-    {
-      "id": 9,
-      "type": "mcq",
-      "problemSet": "TOPIC 1: Conduction - Factors Affecting Rate",
-      "question": "How does increasing the cross-sectional area of a conductor affect the rate of heat conduction?",
-      "options": [
-        "Decreases the rate of heat conduction",
-        "Increases the rate of heat conduction (more particles available to transfer energy)",
-        "No effect on the rate",
-        "First increases then decreases the rate"
-      ],
-      "answer": "Increases the rate of heat conduction (more particles available to transfer energy)",
-      "points": 5
-    },
-    {
       "id": 10,
       "type": "mcq",
-      "problemSet": "TOPIC 1: Conduction - Factors Affecting Rate",
-      "question": "How does increasing the length (thickness) of a conductor affect the rate of heat conduction?",
+      "problemSet": "PROBLEM SET 2: Conduction - Definition and Process - Test Question",
+      "question": "A student holds one end of a copper rod while the other end is placed in a flame. After a while, the student feels the held end getting hot. Explain this observation using the particle model.",
       "options": [
-        "Increases the rate of heat conduction",
-        "Decreases the rate of heat conduction (energy has further to travel)",
-        "No effect on the rate",
-        "Doubles the rate"
+        "Hot air from the flame travels along the rod",
+        "Copper particles at the hot end vibrate faster and collide with neighbouring particles, passing on kinetic energy. Free electrons also move and transfer energy rapidly along the rod",
+        "Radiation travels through the metal rod",
+        "The flame causes convection currents inside the rod"
       ],
-      "answer": "Decreases the rate of heat conduction (energy has further to travel)",
-      "points": 5
+      "answer": "Copper particles at the hot end vibrate faster and collide with neighbouring particles, passing on kinetic energy. Free electrons also move and transfer energy rapidly along the rod",
+      "points": 10
     },
     {
       "id": 11,
       "type": "mcq",
-      "problemSet": "TOPIC 1: Conduction - Good and Poor Conductors",
+      "problemSet": "PROBLEM SET 3: Conduction - Good and Poor Conductors",
       "question": "Which of the following lists materials from best conductor to poorest conductor of heat?",
       "options": [
         "Wood → Glass → Copper → Air",
@@ -161,7 +161,7 @@
     {
       "id": 12,
       "type": "mcq",
-      "problemSet": "TOPIC 1: Conduction - Good and Poor Conductors",
+      "problemSet": "PROBLEM SET 3: Conduction - Good and Poor Conductors",
       "question": "Why are gases poor conductors of heat?",
       "options": [
         "Gas particles are too hot",
@@ -175,21 +175,63 @@
     {
       "id": 13,
       "type": "mcq",
-      "problemSet": "TOPIC 1: Conduction ⭐ Experimental Question",
-      "question": "An experiment uses a metal bar with different materials (wax, butter, etc.) attached at intervals. The bar is heated at one end. What does this experiment demonstrate?",
+      "problemSet": "PROBLEM SET 3: Conduction - Good and Poor Conductors",
+      "question": "Why are liquids generally poorer conductors of heat than solids?",
       "options": [
-        "Convection in the metal bar",
-        "Radiation from the metal bar",
-        "Conduction along the metal bar - materials closer to the heat source melt first as thermal energy is conducted along the bar",
-        "Evaporation of the materials"
+        "Liquids have no particles",
+        "Liquid particles are further apart than solid particles, so collisions are less frequent and energy transfer is slower",
+        "Liquids have too many free electrons",
+        "Liquids cannot be heated"
       ],
-      "answer": "Conduction along the metal bar - materials closer to the heat source melt first as thermal energy is conducted along the bar",
-      "points": 10
+      "answer": "Liquid particles are further apart than solid particles, so collisions are less frequent and energy transfer is slower",
+      "points": 5
     },
     {
       "id": 14,
       "type": "mcq",
-      "problemSet": "TOPIC 1: Conduction ⭐ Experimental Question",
+      "problemSet": "PROBLEM SET 3: Conduction - Good and Poor Conductors",
+      "question": "Materials that are poor conductors of heat are called:",
+      "options": [
+        "Conductors",
+        "Radiators",
+        "Insulators",
+        "Convectors"
+      ],
+      "answer": "Insulators",
+      "points": 5
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: Conduction - Good and Poor Conductors - Test Question",
+      "question": "Explain why a woollen blanket keeps you warm, even though wool is not a heat source.",
+      "options": [
+        "Wool generates heat through chemical reactions",
+        "Wool is a good conductor and transfers heat to your body",
+        "Wool is a poor conductor and traps air (also a poor conductor), reducing heat loss from your body",
+        "Wool absorbs radiation from the room"
+      ],
+      "answer": "Wool is a poor conductor and traps air (also a poor conductor), reducing heat loss from your body",
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Conduction - Experiments",
+      "question": "An experiment uses a metal bar with wax attached at intervals along its length. The bar is heated at one end. What does this experiment demonstrate?",
+      "options": [
+        "Convection in the metal bar",
+        "Radiation from the metal bar",
+        "Conduction along the metal bar - wax closer to the heat source melts first as thermal energy is conducted along the bar",
+        "Evaporation of the wax"
+      ],
+      "answer": "Conduction along the metal bar - wax closer to the heat source melts first as thermal energy is conducted along the bar",
+      "points": 5
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Conduction - Experiments",
       "question": "In an experiment, rods of different metals (copper, iron, brass) of the same dimensions are coated with wax and heated at one end simultaneously. The wax melts fastest on the copper rod. What does this show?",
       "options": [
         "Copper is the poorest conductor",
@@ -198,12 +240,54 @@
         "The experiment is invalid"
       ],
       "answer": "Copper is the best conductor of heat among the three metals",
+      "points": 5
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Conduction - Experiments",
+      "question": "In the above experiment comparing different metals, why is it important that all rods have the same dimensions?",
+      "options": [
+        "To make the experiment look neat",
+        "To ensure it is a fair test - the only variable being tested is the type of material",
+        "Dimensions do not matter in this experiment",
+        "To ensure all rods fit in the same holder"
+      ],
+      "answer": "To ensure it is a fair test - the only variable being tested is the type of material",
+      "points": 5
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Conduction - Experiments",
+      "question": "A student wraps her hand in a thick cloth before picking up a hot pot. Which statement best explains why this protects her hand?",
+      "options": [
+        "The cloth absorbs all the heat from the pot",
+        "The cloth is a poor conductor and slows down the transfer of heat to her hand",
+        "The cloth reflects radiation from the pot",
+        "The cloth creates convection currents that cool the pot"
+      ],
+      "answer": "The cloth is a poor conductor and slows down the transfer of heat to her hand",
+      "points": 5
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Conduction - Experiments - Test Question",
+      "question": "Ice is wrapped in newspaper and left on a table. Another piece of ice of the same size is left unwrapped. Which ice melts faster and why?",
+      "options": [
+        "Wrapped ice melts faster because newspaper conducts heat to it",
+        "Unwrapped ice melts faster because newspaper is an insulator that reduces heat transfer from the surroundings to the ice",
+        "Both melt at the same rate",
+        "Wrapped ice melts faster because newspaper absorbs radiation"
+      ],
+      "answer": "Unwrapped ice melts faster because newspaper is an insulator that reduces heat transfer from the surroundings to the ice",
       "points": 10
     },
     {
-      "id": 15,
+      "id": 21,
       "type": "mcq",
-      "problemSet": "TOPIC 2: Convection - Definition and Process",
+      "problemSet": "PROBLEM SET 5: Convection - Definition and Process",
       "question": "What is convection?",
       "options": [
         "The transfer of thermal energy through particle vibrations",
@@ -215,79 +299,93 @@
       "points": 5
     },
     {
-      "id": 16,
+      "id": 22,
       "type": "mcq",
-      "problemSet": "TOPIC 2: Convection - Definition and Process",
+      "problemSet": "PROBLEM SET 5: Convection - Definition and Process",
       "question": "In which states of matter can convection occur?",
       "options": [
         "Only in solids",
         "Only in gases",
-        "In liquids and gases (fluids)",
+        "In liquids and gases (fluids) only",
         "In solids, liquids, and gases"
       ],
-      "answer": "In liquids and gases (fluids)",
+      "answer": "In liquids and gases (fluids) only",
       "points": 5
     },
     {
-      "id": 17,
+      "id": 23,
       "type": "mcq",
-      "problemSet": "TOPIC 2: Convection - Mechanism",
+      "problemSet": "PROBLEM SET 5: Convection - Definition and Process",
+      "question": "Why can convection not occur in solids?",
+      "options": [
+        "Solids are too hot",
+        "Particles in solids are held in fixed positions and cannot move freely to create bulk flow",
+        "Solids have no particles",
+        "Solids are too dense"
+      ],
+      "answer": "Particles in solids are held in fixed positions and cannot move freely to create bulk flow",
+      "points": 5
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 5: Convection - Definition and Process",
       "question": "Describe the mechanism of convection in a liquid being heated from below.",
       "options": [
         "Heat travels through the liquid by electromagnetic waves",
         "Liquid at the bottom is heated, expands, becomes less dense, and rises. Cooler, denser liquid sinks to replace it, creating a convection current",
-        "Particles at the bottom vibrate and pass energy to neighbours",
+        "Particles at the bottom vibrate and pass energy to neighbours without moving",
         "Free electrons carry heat upwards"
       ],
       "answer": "Liquid at the bottom is heated, expands, becomes less dense, and rises. Cooler, denser liquid sinks to replace it, creating a convection current",
-      "points": 10
-    },
-    {
-      "id": 18,
-      "type": "mcq",
-      "problemSet": "TOPIC 2: Convection - Mechanism",
-      "question": "Why does warm air rise?",
-      "options": [
-        "Warm air is heavier than cold air",
-        "Warm air expands, becomes less dense than the surrounding cooler air, and is pushed up by the denser cold air",
-        "Warm air is attracted to the ceiling",
-        "Warm air contains more particles"
-      ],
-      "answer": "Warm air expands, becomes less dense than the surrounding cooler air, and is pushed up by the denser cold air",
       "points": 5
     },
     {
-      "id": 19,
+      "id": 25,
       "type": "mcq",
-      "problemSet": "TOPIC 2: Convection - Direction of Heating",
+      "problemSet": "PROBLEM SET 5: Convection - Definition and Process - Test Question",
+      "question": "A student claims that 'hot air rises because heat always rises.' Is this statement correct? Explain.",
+      "options": [
+        "Yes, heat naturally moves upward",
+        "No. Hot air rises because it expands and becomes less dense than the surrounding cooler air. The denser cool air sinks and pushes the less dense warm air upward",
+        "Yes, convection always moves heat upward",
+        "No. Hot air sinks because it is heavier"
+      ],
+      "answer": "No. Hot air rises because it expands and becomes less dense than the surrounding cooler air. The denser cool air sinks and pushes the less dense warm air upward",
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Convection - Direction and Experiments",
       "question": "Why should fluids be heated from below for effective convection?",
       "options": [
-        "Heat rises naturally",
+        "Heat rises naturally regardless of where heating occurs",
         "When heated from below, the warm fluid rises and is replaced by cooler fluid, creating a continuous convection current that heats the entire fluid",
         "Heating from above is more efficient",
         "Fluids cannot be heated from above"
       ],
       "answer": "When heated from below, the warm fluid rises and is replaced by cooler fluid, creating a continuous convection current that heats the entire fluid",
-      "points": 10
+      "points": 5
     },
     {
-      "id": 20,
+      "id": 27,
       "type": "mcq",
-      "problemSet": "TOPIC 2: Convection - Direction of Heating",
+      "problemSet": "PROBLEM SET 6: Convection - Direction and Experiments",
       "question": "If water is heated from the top (e.g., ice placed at the bottom and heat applied at the top), what happens?",
       "options": [
         "Convection occurs normally",
         "The water heats up quickly throughout",
-        "Convection is hindered; only the water at the top becomes hot while the bottom remains cold, as warm water stays at the top (already at the top) and cold water stays at the bottom",
+        "Convection is hindered; only the water at the top becomes hot while the bottom remains cold, as warm water stays at the top and cold water stays at the bottom",
         "The water boils faster"
       ],
-      "answer": "Convection is hindered; only the water at the top becomes hot while the bottom remains cold, as warm water stays at the top (already at the top) and cold water stays at the bottom",
-      "points": 10
+      "answer": "Convection is hindered; only the water at the top becomes hot while the bottom remains cold, as warm water stays at the top and cold water stays at the bottom",
+      "points": 5
     },
     {
-      "id": 21,
+      "id": 28,
       "type": "mcq",
-      "problemSet": "TOPIC 2: Convection ⭐ Experimental Question",
+      "problemSet": "PROBLEM SET 6: Convection - Direction and Experiments",
       "question": "In an experiment, a crystal of potassium permanganate is placed at the bottom of a beaker of water and heated from below. Purple streaks are seen rising from the crystal. What does this demonstrate?",
       "options": [
         "Conduction in water",
@@ -296,12 +394,12 @@
         "Diffusion of the crystal"
       ],
       "answer": "Convection currents in water - the heated water rises, carrying the dissolved purple colour with it",
-      "points": 10
+      "points": 5
     },
     {
-      "id": 22,
+      "id": 29,
       "type": "mcq",
-      "problemSet": "TOPIC 2: Convection ⭐ Experimental Question",
+      "problemSet": "PROBLEM SET 6: Convection - Direction and Experiments",
       "question": "A convection tube is filled with water and a small amount of sawdust. When heated at one corner, the sawdust moves in a circular pattern. What does this show?",
       "options": [
         "Water conducts heat in a circular pattern",
@@ -310,12 +408,26 @@
         "The sawdust is dissolving"
       ],
       "answer": "A convection current is set up - water heated at one point rises, moves across, cools and sinks, then returns to be heated again",
+      "points": 5
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Convection - Direction and Experiments - Test Question",
+      "question": "A test tube containing water is heated at the top using a flame. A piece of ice wrapped in wire gauze is placed at the bottom to keep it submerged. The water at the top boils but the ice does not melt quickly. Explain this observation.",
+      "options": [
+        "Ice cannot absorb heat",
+        "Water is a poor conductor. Since heating is at the top, the hot water stays at the top (less dense) and convection currents are not set up. Heat transfer to the ice relies only on conduction, which is slow in water",
+        "The wire gauze insulates the ice",
+        "Boiling water produces cold water at the bottom"
+      ],
+      "answer": "Water is a poor conductor. Since heating is at the top, the hot water stays at the top (less dense) and convection currents are not set up. Heat transfer to the ice relies only on conduction, which is slow in water",
       "points": 10
     },
     {
-      "id": 23,
+      "id": 31,
       "type": "mcq",
-      "problemSet": "TOPIC 3: Radiation - Definition and Process",
+      "problemSet": "PROBLEM SET 7: Radiation - Definition and Process",
       "question": "What is thermal radiation?",
       "options": [
         "The transfer of thermal energy through particle vibrations",
@@ -327,9 +439,9 @@
       "points": 5
     },
     {
-      "id": 24,
+      "id": 32,
       "type": "mcq",
-      "problemSet": "TOPIC 3: Radiation - Definition and Process",
+      "problemSet": "PROBLEM SET 7: Radiation - Definition and Process",
       "question": "What is unique about radiation compared to conduction and convection?",
       "options": [
         "Radiation is the slowest method",
@@ -341,9 +453,9 @@
       "points": 5
     },
     {
-      "id": 25,
+      "id": 33,
       "type": "mcq",
-      "problemSet": "TOPIC 3: Radiation - Definition and Process",
+      "problemSet": "PROBLEM SET 7: Radiation - Definition and Process",
       "question": "How does thermal energy from the Sun reach the Earth?",
       "options": [
         "By conduction through space",
@@ -355,10 +467,38 @@
       "points": 5
     },
     {
-      "id": 26,
+      "id": 34,
       "type": "mcq",
-      "problemSet": "TOPIC 3: Radiation - Emission and Absorption",
-      "question": "Which type of surface is the best emitter of thermal radiation?",
+      "problemSet": "PROBLEM SET 7: Radiation - Definition and Process",
+      "question": "All objects emit thermal radiation. Which statement about emission is correct?",
+      "options": [
+        "Only hot objects emit thermal radiation",
+        "All objects above absolute zero emit thermal radiation, with hotter objects emitting more",
+        "Only black objects emit radiation",
+        "Objects only emit radiation when in a vacuum"
+      ],
+      "answer": "All objects above absolute zero emit thermal radiation, with hotter objects emitting more",
+      "points": 5
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 7: Radiation - Definition and Process - Test Question",
+      "question": "A student says 'We can only feel radiation when we are in direct sunlight.' Is this correct?",
+      "options": [
+        "Yes, radiation only comes from the Sun",
+        "No. All warm objects emit infrared radiation. We can feel radiation from heaters, fires, warm walls, and even from other people",
+        "Yes, radiation requires a vacuum",
+        "No, but only very hot objects emit radiation"
+      ],
+      "answer": "No. All warm objects emit infrared radiation. We can feel radiation from heaters, fires, warm walls, and even from other people",
+      "points": 10
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 8: Radiation - Emission, Absorption and Experiments",
+      "question": "Which type of surface is the best emitter and absorber of thermal radiation?",
       "options": [
         "Shiny, white surface",
         "Dull, black surface",
@@ -369,23 +509,9 @@
       "points": 5
     },
     {
-      "id": 27,
+      "id": 37,
       "type": "mcq",
-      "problemSet": "TOPIC 3: Radiation - Emission and Absorption",
-      "question": "Which type of surface is the best absorber of thermal radiation?",
-      "options": [
-        "Shiny, white surface",
-        "Dull, black surface",
-        "Smooth, silver surface",
-        "Transparent glass surface"
-      ],
-      "answer": "Dull, black surface",
-      "points": 5
-    },
-    {
-      "id": 28,
-      "type": "mcq",
-      "problemSet": "TOPIC 3: Radiation - Emission and Absorption",
+      "problemSet": "PROBLEM SET 8: Radiation - Emission, Absorption and Experiments",
       "question": "Which type of surface is the best reflector (poorest absorber) of thermal radiation?",
       "options": [
         "Dull, black surface",
@@ -397,37 +523,9 @@
       "points": 5
     },
     {
-      "id": 29,
+      "id": 38,
       "type": "mcq",
-      "problemSet": "TOPIC 3: Radiation - Factors Affecting Rate",
-      "question": "Which factors affect the rate of emission/absorption of thermal radiation?",
-      "options": [
-        "Only the temperature difference",
-        "Surface colour and texture, surface area, and temperature difference",
-        "Only the surface colour",
-        "Only the surface area"
-      ],
-      "answer": "Surface colour and texture, surface area, and temperature difference",
-      "points": 10
-    },
-    {
-      "id": 30,
-      "type": "mcq",
-      "problemSet": "TOPIC 3: Radiation - Factors Affecting Rate",
-      "question": "How does surface area affect the rate of radiation?",
-      "options": [
-        "Larger surface area decreases radiation rate",
-        "Larger surface area increases the rate of emission and absorption of radiation",
-        "Surface area has no effect on radiation",
-        "Smaller surface area increases radiation rate"
-      ],
-      "answer": "Larger surface area increases the rate of emission and absorption of radiation",
-      "points": 5
-    },
-    {
-      "id": 31,
-      "type": "mcq",
-      "problemSet": "TOPIC 3: Radiation ⭐ Experimental Question",
+      "problemSet": "PROBLEM SET 8: Radiation - Emission, Absorption and Experiments",
       "question": "A Leslie's cube has four different surfaces: shiny silver, dull silver, shiny black, and dull black. Hot water is placed inside. An infrared detector measures radiation from each face. Which face emits the most radiation?",
       "options": [
         "Shiny silver",
@@ -436,273 +534,35 @@
         "Dull black"
       ],
       "answer": "Dull black",
-      "points": 10
-    },
-    {
-      "id": 32,
-      "type": "mcq",
-      "problemSet": "TOPIC 3: Radiation ⭐ Experimental Question",
-      "question": "Two identical cans, one painted black and one painted white, are filled with hot water at the same temperature. Thermometers are placed in each. After some time, which can shows the greater temperature drop and why?",
-      "options": [
-        "White can; white emits radiation faster",
-        "Black can; dull black surfaces are better emitters of radiation, so heat is lost faster",
-        "Both cool at the same rate",
-        "White can; white absorbs more radiation"
-      ],
-      "answer": "Black can; dull black surfaces are better emitters of radiation, so heat is lost faster",
-      "points": 10
-    },
-    {
-      "id": 33,
-      "type": "mcq",
-      "problemSet": "TOPIC 3: Radiation ⭐ Experimental Question",
-      "question": "Two metal plates, one shiny and one black, are placed equal distances from a radiant heater. A piece of wax is attached to the back of each plate. Which wax melts first and why?",
-      "options": [
-        "Wax on shiny plate; shiny surfaces absorb more radiation",
-        "Wax on black plate; black surfaces are better absorbers of radiation, heating up faster",
-        "Both melt at the same time",
-        "Neither melts"
-      ],
-      "answer": "Wax on black plate; black surfaces are better absorbers of radiation, heating up faster",
-      "points": 10
-    },
-    {
-      "id": 34,
-      "type": "mcq",
-      "problemSet": "TOPIC 4: Comparing the Three Methods",
-      "question": "Complete the table:\n\n| Method | Requires Medium? | Works in Vacuum? |\n|--------|------------------|------------------|\n| Conduction | ? | ? |\n| Convection | ? | ? |\n| Radiation | ? | ? |",
-      "options": [
-        "All require a medium; none work in vacuum",
-        "Conduction: Yes, No; Convection: Yes, No; Radiation: No, Yes",
-        "Conduction: No, Yes; Convection: No, Yes; Radiation: Yes, No",
-        "All work in vacuum"
-      ],
-      "answer": "Conduction: Yes, No; Convection: Yes, No; Radiation: No, Yes",
-      "points": 10
-    },
-    {
-      "id": 35,
-      "type": "mcq",
-      "problemSet": "TOPIC 4: Comparing the Three Methods",
-      "question": "In which states of matter does each method primarily operate?\n\nConduction: ?\nConvection: ?\nRadiation: ?",
-      "options": [
-        "Conduction: Gases only; Convection: Solids only; Radiation: Liquids only",
-        "Conduction: Mainly solids (also liquids/gases but less effective); Convection: Fluids (liquids and gases); Radiation: All states and vacuum",
-        "All three work equally in all states",
-        "Conduction: Vacuum; Convection: Solids; Radiation: Gases"
-      ],
-      "answer": "Conduction: Mainly solids (also liquids/gases but less effective); Convection: Fluids (liquids and gases); Radiation: All states and vacuum",
-      "points": 10
-    },
-    {
-      "id": 36,
-      "type": "mcq",
-      "problemSet": "TOPIC 4: Comparing the Three Methods",
-      "question": "A metal spoon is placed in a cup of hot tea. Which method(s) transfer heat to your hand holding the spoon?",
-      "options": [
-        "Convection only",
-        "Radiation only",
-        "Conduction through the metal spoon",
-        "Convection and radiation only"
-      ],
-      "answer": "Conduction through the metal spoon",
       "points": 5
-    },
-    {
-      "id": 37,
-      "type": "mcq",
-      "problemSet": "TOPIC 4: Comparing the Three Methods",
-      "question": "When you sit near a campfire, you feel warm on the side facing the fire. Which method of heat transfer is primarily responsible?",
-      "options": [
-        "Conduction through the air",
-        "Convection (warm air rising)",
-        "Radiation (infrared waves travelling directly from fire to you)",
-        "All three equally"
-      ],
-      "answer": "Radiation (infrared waves travelling directly from fire to you)",
-      "points": 5
-    },
-    {
-      "id": 38,
-      "type": "mcq",
-      "problemSet": "TOPIC 4: Comparing the Three Methods ⭐",
-      "question": "In a room with a heater, thermal energy spreads throughout the room. Identify the main method(s) of heat transfer:\n\n(a) From the heater element to the metal casing\n(b) From the heater to the air around it\n(c) The warm air moving around the room\n(d) Heat reaching you across the room directly",
-      "options": [
-        "All are conduction",
-        "(a) Conduction; (b) Conduction/radiation; (c) Convection; (d) Radiation",
-        "All are convection",
-        "All are radiation"
-      ],
-      "answer": "(a) Conduction; (b) Conduction/radiation; (c) Convection; (d) Radiation",
-      "points": 15
     },
     {
       "id": 39,
       "type": "mcq",
-      "problemSet": "TOPIC 5: Applications - Minimising Heat Transfer",
-      "question": "A vacuum flask is designed to keep drinks hot or cold. It has a double-walled glass container with a vacuum between the walls. What does the vacuum prevent?",
+      "problemSet": "PROBLEM SET 8: Radiation - Emission, Absorption and Experiments",
+      "question": "Two metal plates, one shiny and one painted black, are placed equal distances from a radiant heater. A piece of wax is attached to the back of each plate. Which wax melts first and why?",
       "options": [
-        "Only conduction",
-        "Only convection",
-        "Both conduction and convection (no particles to transfer heat)",
-        "Only radiation"
+        "Wax on shiny plate; shiny surfaces absorb more radiation",
+        "Wax on black plate; black surfaces are better absorbers of radiation, so the plate heats up faster",
+        "Both melt at the same time",
+        "Neither melts"
       ],
-      "answer": "Both conduction and convection (no particles to transfer heat)",
-      "points": 10
+      "answer": "Wax on black plate; black surfaces are better absorbers of radiation, so the plate heats up faster",
+      "points": 5
     },
     {
       "id": 40,
       "type": "mcq",
-      "problemSet": "TOPIC 5: Applications - Minimising Heat Transfer",
-      "question": "The inner walls of a vacuum flask are coated with silver. Why?",
+      "problemSet": "PROBLEM SET 8: Radiation - Emission, Absorption and Experiments - Test Question",
+      "question": "Two identical containers, one painted matt black and one painted shiny white, are filled with hot water at the same temperature. Thermometers are placed in each. After 10 minutes, which container shows a lower temperature and why?",
       "options": [
-        "To conduct heat better",
-        "To absorb more radiation",
-        "Shiny silver surfaces are poor emitters and absorbers of radiation, reducing heat loss/gain by radiation",
-        "To make the flask look attractive"
+        "White container; white surfaces emit more radiation",
+        "Black container; dull black surfaces are better emitters of radiation, so it loses heat faster",
+        "Both show the same temperature",
+        "White container; white surfaces absorb more radiation"
       ],
-      "answer": "Shiny silver surfaces are poor emitters and absorbers of radiation, reducing heat loss/gain by radiation",
+      "answer": "Black container; dull black surfaces are better emitters of radiation, so it loses heat faster",
       "points": 10
-    },
-    {
-      "id": 41,
-      "type": "mcq",
-      "problemSet": "TOPIC 5: Applications - Minimising Heat Transfer",
-      "question": "Houses in cold countries have double-glazed windows (two panes of glass with air gap between). How does this reduce heat loss?",
-      "options": [
-        "Glass is a good conductor, keeping heat in",
-        "The air gap between panes is a poor conductor, reducing conduction. The trapped air also cannot circulate freely, reducing convection",
-        "The glass absorbs all radiation",
-        "The windows are painted black"
-      ],
-      "answer": "The air gap between panes is a poor conductor, reducing conduction. The trapped air also cannot circulate freely, reducing convection",
-      "points": 10
-    },
-    {
-      "id": 42,
-      "type": "mcq",
-      "problemSet": "TOPIC 5: Applications - Minimising Heat Transfer",
-      "question": "Cavity wall insulation involves filling the gap between walls with foam or fibre. How does this reduce heat loss?",
-      "options": [
-        "The foam conducts heat quickly so the wall stays warm",
-        "The foam/fibre traps pockets of air (poor conductor), reducing conduction, and prevents air circulation, reducing convection",
-        "The foam absorbs radiation",
-        "The foam makes the wall thinner"
-      ],
-      "answer": "The foam/fibre traps pockets of air (poor conductor), reducing conduction, and prevents air circulation, reducing convection",
-      "points": 10
-    },
-    {
-      "id": 43,
-      "type": "mcq",
-      "problemSet": "TOPIC 5: Applications - Minimising Heat Transfer",
-      "question": "Loft insulation uses materials like fibreglass laid on top of the ceiling. How does this reduce heat loss from a house?",
-      "options": [
-        "Fibreglass is a good conductor",
-        "Fibreglass traps air (poor conductor) and prevents warm air from escaping, reducing conduction and convection",
-        "Fibreglass absorbs all radiation",
-        "Fibreglass makes the ceiling black"
-      ],
-      "answer": "Fibreglass traps air (poor conductor) and prevents warm air from escaping, reducing conduction and convection",
-      "points": 10
-    },
-    {
-      "id": 44,
-      "type": "mcq",
-      "problemSet": "TOPIC 5: Applications - Maximising Heat Transfer",
-      "question": "Car radiators (cooling systems) have many thin metal fins. How does this design help to remove excess heat from the engine?",
-      "options": [
-        "The fins reduce the surface area",
-        "The fins increase the surface area for heat loss by conduction to air, convection, and radiation",
-        "The fins act as insulators",
-        "The fins are painted white to absorb heat"
-      ],
-      "answer": "The fins increase the surface area for heat loss by conduction to air, convection, and radiation",
-      "points": 10
-    },
-    {
-      "id": 45,
-      "type": "mcq",
-      "problemSet": "TOPIC 5: Applications - Maximising Heat Transfer",
-      "question": "Heat sinks on computer processors are made of metal (often aluminium or copper) with many fins and are sometimes painted black. Explain this design.",
-      "options": [
-        "Metal is a poor conductor; fins reduce surface area",
-        "Metal is a good conductor to transfer heat away from processor; fins increase surface area; black colour increases radiation emission",
-        "The metal traps heat inside",
-        "The design is purely aesthetic"
-      ],
-      "answer": "Metal is a good conductor to transfer heat away from processor; fins increase surface area; black colour increases radiation emission",
-      "points": 15
-    },
-    {
-      "id": 46,
-      "type": "mcq",
-      "problemSet": "TOPIC 5: Applications - Everyday Examples",
-      "question": "Cooking pots often have metal (copper or aluminium) bases and plastic handles. Explain this design.",
-      "options": [
-        "Metal bases are cheaper",
-        "Metal bases are good conductors to transfer heat efficiently to food; plastic handles are poor conductors to prevent burning hands",
-        "Both materials conduct heat equally",
-        "Plastic bases would melt"
-      ],
-      "answer": "Metal bases are good conductors to transfer heat efficiently to food; plastic handles are poor conductors to prevent burning hands",
-      "points": 10
-    },
-    {
-      "id": 47,
-      "type": "mcq",
-      "problemSet": "TOPIC 5: Applications - Everyday Examples",
-      "question": "On hot sunny days, people often wear light-coloured clothing. Why?",
-      "options": [
-        "Light colours absorb more radiation, keeping you warm",
-        "Light colours reflect more radiation and absorb less, keeping you cooler",
-        "Light colours conduct heat better",
-        "Light colours have no effect on temperature"
-      ],
-      "answer": "Light colours reflect more radiation and absorb less, keeping you cooler",
-      "points": 5
-    },
-    {
-      "id": 48,
-      "type": "mcq",
-      "problemSet": "TOPIC 5: Applications - Everyday Examples",
-      "question": "Air conditioning units are usually placed high up in a room. Why?",
-      "options": [
-        "To save floor space only",
-        "Cool air from the AC is denser and sinks, creating a convection current that cools the entire room",
-        "Hot air is denser and sinks",
-        "Radiation works better from high positions"
-      ],
-      "answer": "Cool air from the AC is denser and sinks, creating a convection current that cools the entire room",
-      "points": 10
-    },
-    {
-      "id": 49,
-      "type": "mcq",
-      "problemSet": "TOPIC 5: Applications - Everyday Examples",
-      "question": "Heaters are usually placed low in a room (e.g., near the floor). Why?",
-      "options": [
-        "To conduct heat to the floor",
-        "Warm air from the heater is less dense and rises, cooler air moves in to replace it, creating a convection current that heats the entire room",
-        "Cold air rises",
-        "Radiation only works downwards"
-      ],
-      "answer": "Warm air from the heater is less dense and rises, cooler air moves in to replace it, creating a convection current that heats the entire room",
-      "points": 10
-    },
-    {
-      "id": 50,
-      "type": "mcq",
-      "problemSet": "COMPREHENSIVE CHALLENGE: Final Question",
-      "question": "A well-designed vacuum flask minimises heat transfer by all three methods. Match each design feature to the method it reduces:\n\n(a) Vacuum between walls\n(b) Silvered internal surfaces\n(c) Plastic stopper/lid\n(d) Outer plastic casing",
-      "options": [
-        "(a) Radiation; (b) Conduction; (c) Convection; (d) Conduction",
-        "(a) Conduction and convection; (b) Radiation; (c) Conduction and convection; (d) Conduction (and protects from damage)",
-        "(a) Convection only; (b) Convection only; (c) Radiation; (d) Radiation",
-        "All reduce radiation only"
-      ],
-      "answer": "(a) Conduction and convection; (b) Radiation; (c) Conduction and convection; (d) Conduction (and protects from damage)",
-      "points": 15
     }
   ]
 }
