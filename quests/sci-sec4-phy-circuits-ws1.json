@@ -1,0 +1,708 @@
+{
+  "questTitle": "O-Level Physics: Circuits & Electricity Worksheet 1",
+  "subject": "Physics",
+  "difficulty": "Hard",
+  "description": "Master the fundamentals of electricity! This worksheet covers current, potential difference, EMF, resistance, Ohm's Law, and circuit analysis. Pay attention to definitions and how formulas link to concepts. Show all working for calculations!",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Current",
+      "question": "Electric current is defined as the rate of flow of electric charge. Which formula correctly represents this definition?",
+      "options": [
+        "I = Q/t",
+        "I = Qt",
+        "I = t/Q",
+        "I = V/R"
+      ],
+      "answer": "I = Q/t",
+      "points": 5
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Current (continued)",
+      "question": "Based on the definition I = Q/t, what is the SI unit of current?\n\nHint: Charge is measured in coulombs (C) and time in seconds (s).",
+      "options": [
+        "Coulomb (C)",
+        "Ampere (A), which is coulombs per second (C/s)",
+        "Volt (V)",
+        "Ohm (Ω)"
+      ],
+      "answer": "Ampere (A), which is coulombs per second (C/s)",
+      "points": 5
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Potential Difference",
+      "question": "Potential difference (p.d.) is defined as the work done per unit charge in moving charge between two points. Which formula represents this definition?",
+      "options": [
+        "V = W × Q",
+        "V = Q/W",
+        "V = W/Q",
+        "V = IR"
+      ],
+      "answer": "V = W/Q",
+      "points": 5
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Potential Difference (continued)",
+      "question": "From the definition V = W/Q:\n• V = potential difference\n• W = work done (energy transferred)\n• Q = charge\n\nWhat is the SI unit of potential difference?",
+      "options": [
+        "Joule (J)",
+        "Coulomb (C)",
+        "Ampere (A)",
+        "Volt (V), which is joules per coulomb (J/C)"
+      ],
+      "answer": "Volt (V), which is joules per coulomb (J/C)",
+      "points": 5
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: EMF and Resistance",
+      "question": "Electromotive force (e.m.f.) is defined as the energy converted from other forms to electrical energy per unit charge. How does this differ from potential difference?",
+      "options": [
+        "EMF refers to energy supplied by a source, while p.d. refers to energy used by a component",
+        "EMF and p.d. are exactly the same thing",
+        "EMF is measured in amperes, p.d. in volts",
+        "EMF only applies to alternating current"
+      ],
+      "answer": "EMF refers to energy supplied by a source, while p.d. refers to energy used by a component",
+      "points": 5
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Resistance",
+      "question": "Resistance is the opposition to the flow of current in a circuit. According to Ohm's Law, V = IR. Rearranging for R gives:",
+      "options": [
+        "R = VI",
+        "R = V/I",
+        "R = I/V",
+        "R = V + I"
+      ],
+      "answer": "R = V/I",
+      "points": 5
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Current and Charge (Q = It)",
+      "question": "From I = Q/t, we can rearrange to get Q = It.\n\nA current of 2 A flows through a wire for 30 seconds. How much charge flows through the wire?\n\nQ = I × t = 2 × 30",
+      "options": [
+        "15 C",
+        "32 C",
+        "60 C",
+        "0.067 C"
+      ],
+      "answer": "60 C",
+      "points": 5
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Current and Charge (continued)",
+      "question": "A charge of 180 C flows through a circuit in 1 minute. What is the current?\n\nRemember: 1 minute = 60 seconds\nI = Q/t = 180/60",
+      "options": [
+        "180 A",
+        "3 A",
+        "10800 A",
+        "0.33 A"
+      ],
+      "answer": "3 A",
+      "points": 5
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Current and Charge (continued)",
+      "question": "A lamp draws a current of 0.5 A. How long will it take for 150 C of charge to flow through the lamp?\n\nRearrange Q = It to find t:\nt = Q/I = 150/0.5",
+      "options": [
+        "75 s",
+        "150.5 s",
+        "300 s",
+        "0.003 s"
+      ],
+      "answer": "300 s",
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "problemSet": "TOPIC 1: Current and Charge ⭐ MAIN QUESTION",
+      "question": "In a circuit, 2.4 × 10³ C of charge passes through a resistor in 20 minutes. Calculate the current flowing through the resistor.\n\nStep 1: Convert 20 minutes to seconds = 20 × 60 = 1200 s\nStep 2: I = Q/t = 2400/1200",
+      "options": [
+        "120 A",
+        "2 A",
+        "0.5 A",
+        "20 A"
+      ],
+      "answer": "2 A",
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Potential Difference (V = W/Q)",
+      "question": "From the definition V = W/Q:\n\n60 J of energy is used to move 20 C of charge through a resistor. What is the potential difference across the resistor?\n\nV = W/Q = 60/20",
+      "options": [
+        "3 V",
+        "80 V",
+        "40 V",
+        "1200 V"
+      ],
+      "answer": "3 V",
+      "points": 5
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Potential Difference (continued)",
+      "question": "The potential difference across a component is 12 V. If 5 C of charge flows through it, how much energy is transferred?\n\nRearrange V = W/Q to find W:\nW = V × Q = 12 × 5",
+      "options": [
+        "2.4 J",
+        "17 J",
+        "7 J",
+        "60 J"
+      ],
+      "answer": "60 J",
+      "points": 5
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Potential Difference (continued)",
+      "question": "A battery transfers 450 J of energy when 30 C of charge passes through it. What is the e.m.f. of the battery?\n\ne.m.f. = W/Q = 450/30",
+      "options": [
+        "480 V",
+        "420 V",
+        "15 V",
+        "13500 V"
+      ],
+      "answer": "15 V",
+      "points": 10
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Linking Definitions",
+      "question": "We know:\n• Q = It (charge = current × time)\n• V = W/Q (potential difference = work/charge)\n\nSubstituting Q = It into V = W/Q gives:\nV = W/It\n\nRearranging for W:\nW = ?",
+      "options": [
+        "W = VIt",
+        "W = V/It",
+        "W = VI/t",
+        "W = Vt/I"
+      ],
+      "answer": "W = VIt",
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "problemSet": "TOPIC 2: Linking Definitions ⭐ MAIN QUESTION",
+      "question": "A heater operates at 240 V and draws a current of 5 A for 2 minutes. Using W = VIt, calculate the energy transferred.\n\nStep 1: Convert 2 minutes = 120 s\nStep 2: W = V × I × t = 240 × 5 × 120",
+      "options": [
+        "1200 J",
+        "14400 J",
+        "144000 J",
+        "2400 J"
+      ],
+      "answer": "144000 J",
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Ohm's Law (V = IR)",
+      "question": "Ohm's Law states that the current through a conductor is directly proportional to the potential difference across it, provided temperature remains constant.\n\nV = IR\n\nIf V = 12 V and I = 3 A, what is R?",
+      "options": [
+        "4 Ω",
+        "36 Ω",
+        "9 Ω",
+        "15 Ω"
+      ],
+      "answer": "4 Ω",
+      "points": 5
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Ohm's Law (continued)",
+      "question": "A resistor of 6 Ω has a potential difference of 18 V across it. What current flows through it?\n\nI = V/R = 18/6",
+      "options": [
+        "3 A",
+        "108 A",
+        "12 A",
+        "24 A"
+      ],
+      "answer": "3 A",
+      "points": 5
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Ohm's Law (continued)",
+      "question": "A current of 0.4 A flows through a 25 Ω resistor. What is the potential difference across it?\n\nV = I × R = 0.4 × 25",
+      "options": [
+        "62.5 V",
+        "25.4 V",
+        "24.6 V",
+        "10 V"
+      ],
+      "answer": "10 V",
+      "points": 5
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Ohm's Law (continued)",
+      "question": "The graph shows that current is directly proportional to voltage for an ohmic conductor. If the voltage doubles, what happens to the current?",
+      "options": [
+        "Current halves",
+        "Current doubles",
+        "Current stays the same",
+        "Current becomes zero"
+      ],
+      "answer": "Current doubles",
+      "points": 5
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Ohm's Law (continued)",
+      "question": "From V = IR, if the resistance of a circuit doubles while the voltage remains constant, what happens to the current?",
+      "options": [
+        "Current doubles",
+        "Current halves",
+        "Current quadruples",
+        "Current remains unchanged"
+      ],
+      "answer": "Current halves",
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Ohm's Law (continued)",
+      "question": "A 12 V battery is connected to a lamp with resistance 8 Ω. Calculate:\n(a) The current through the lamp\n(b) The charge flowing through the lamp in 1 minute\n\nI = V/R = 12/8 = 1.5 A\nQ = It = 1.5 × 60 = ?",
+      "options": [
+        "0.025 C",
+        "90 C",
+        "1.5 C",
+        "720 C"
+      ],
+      "answer": "90 C",
+      "points": 10
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "problemSet": "TOPIC 3: Ohm's Law ⭐ MAIN QUESTION",
+      "question": "A resistor is connected to a 9 V battery. When 540 C of charge flows through the resistor in 3 minutes, calculate the resistance of the resistor.\n\nStep 1: Find current: I = Q/t = 540/(3×60) = 540/180 = 3 A\nStep 2: Find resistance: R = V/I = 9/3",
+      "options": [
+        "27 Ω",
+        "3 Ω",
+        "60 Ω",
+        "180 Ω"
+      ],
+      "answer": "3 Ω",
+      "points": 15
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Series Circuits - Basics",
+      "question": "In a series circuit, components are connected one after another in a single loop. Which statement about current in a series circuit is TRUE?",
+      "options": [
+        "Current is the same through all components",
+        "Current divides at each component",
+        "Current is greatest at the positive terminal",
+        "Current decreases along the circuit"
+      ],
+      "answer": "Current is the same through all components",
+      "points": 5
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Series Circuits - Basics (continued)",
+      "question": "In a series circuit with a 12 V battery and three bulbs:\n• The current is the same through all bulbs\n\nWhat about the potential difference (voltage)?",
+      "options": [
+        "Voltage is the same across all bulbs",
+        "Total voltage equals the battery voltage, and it divides among the bulbs",
+        "Voltage increases at each bulb",
+        "Voltage has no meaning in series circuits"
+      ],
+      "answer": "Total voltage equals the battery voltage, and it divides among the bulbs",
+      "points": 5
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Series Circuits - Resistance",
+      "question": "For resistors in SERIES, the total resistance is the sum of individual resistances:\n\nR_total = R₁ + R₂ + R₃ + ...\n\nThree resistors of 4 Ω, 6 Ω, and 10 Ω are connected in series. What is the total resistance?",
+      "options": [
+        "1.6 Ω",
+        "20 Ω",
+        "240 Ω",
+        "6.67 Ω"
+      ],
+      "answer": "20 Ω",
+      "points": 5
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Series Circuits - Calculations",
+      "question": "Two resistors of 8 Ω and 4 Ω are connected in series to a 24 V battery.\n\nStep 1: Total resistance = 8 + 4 = 12 Ω\nStep 2: Current = V/R = 24/12 = ?\n\nWhat is the current in the circuit?",
+      "options": [
+        "2 A",
+        "288 A",
+        "3 A",
+        "0.5 A"
+      ],
+      "answer": "2 A",
+      "points": 10
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Series Circuits - Calculations (continued)",
+      "question": "From the previous question: Two resistors (8 Ω and 4 Ω) in series, current = 2 A.\n\nUsing V = IR, what is the potential difference across the 8 Ω resistor?\n\nV = I × R = 2 × 8",
+      "options": [
+        "4 V",
+        "8 V",
+        "16 V",
+        "10 V"
+      ],
+      "answer": "16 V",
+      "points": 10
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Series Circuits - Calculations (continued)",
+      "question": "Continuing: What is the potential difference across the 4 Ω resistor?\n\nV = I × R = 2 × 4",
+      "options": [
+        "2 V",
+        "8 V",
+        "6 V",
+        "4 V"
+      ],
+      "answer": "8 V",
+      "points": 5
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Series Circuits - Verification",
+      "question": "Let's verify: In a series circuit, the sum of p.d. across all components should equal the e.m.f.\n\nP.d. across 8 Ω resistor = 16 V\nP.d. across 4 Ω resistor = 8 V\nSum = 16 + 8 = ?\n\nDoes this equal the battery voltage of 24 V?",
+      "options": [
+        "Yes, 16 + 8 = 24 V ✓",
+        "No, it should be 12 V",
+        "No, it should be 20 V",
+        "Cannot verify"
+      ],
+      "answer": "Yes, 16 + 8 = 24 V ✓",
+      "points": 5
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "problemSet": "TOPIC 4: Series Circuits ⭐ MAIN QUESTION",
+      "question": "Three resistors of 5 Ω, 10 Ω, and 15 Ω are connected in series to a 15 V battery. Calculate the potential difference across the 10 Ω resistor.\n\nStep 1: Total R = 5 + 10 + 15 = 30 Ω\nStep 2: Current I = V/R = 15/30 = 0.5 A\nStep 3: P.d. across 10 Ω = I × R = 0.5 × 10",
+      "options": [
+        "2.5 V",
+        "5 V",
+        "7.5 V",
+        "10 V"
+      ],
+      "answer": "5 V",
+      "points": 15
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Parallel Circuits - Basics",
+      "question": "In a parallel circuit, components are connected in separate branches. Which statement about VOLTAGE in a parallel circuit is TRUE?",
+      "options": [
+        "Voltage divides among the branches",
+        "Voltage is the same across all branches",
+        "Voltage is zero in all branches",
+        "Voltage is greatest in the longest branch"
+      ],
+      "answer": "Voltage is the same across all branches",
+      "points": 5
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Parallel Circuits - Basics (continued)",
+      "question": "In a parallel circuit with a 12 V battery:\n• Voltage is the same (12 V) across all branches\n\nWhat about the current?",
+      "options": [
+        "Current is the same in all branches",
+        "Total current divides among the branches, and the sum of branch currents equals total current",
+        "Current only flows in one branch",
+        "Current is zero"
+      ],
+      "answer": "Total current divides among the branches, and the sum of branch currents equals total current",
+      "points": 5
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Parallel Circuits - Resistance",
+      "question": "For resistors in PARALLEL:\n\n1/R_total = 1/R₁ + 1/R₂ + ...\n\nTwo resistors of 6 Ω each are connected in parallel. What is the total resistance?\n\n1/R = 1/6 + 1/6 = 2/6 = 1/3\nR = 3 Ω",
+      "options": [
+        "12 Ω",
+        "6 Ω",
+        "3 Ω",
+        "0.33 Ω"
+      ],
+      "answer": "3 Ω",
+      "points": 5
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Parallel Circuits - Resistance (continued)",
+      "question": "Important concept: When resistors are connected in parallel, the total resistance is always LESS than the smallest individual resistance.\n\nTwo resistors of 4 Ω and 12 Ω are in parallel.\n1/R = 1/4 + 1/12 = 3/12 + 1/12 = 4/12 = 1/3\nR = 3 Ω\n\nIs 3 Ω less than the smallest resistor (4 Ω)?",
+      "options": [
+        "Yes, 3 Ω < 4 Ω ✓",
+        "No, 3 Ω > 4 Ω",
+        "They are equal",
+        "Cannot compare"
+      ],
+      "answer": "Yes, 3 Ω < 4 Ω ✓",
+      "points": 5
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Parallel Circuits - Calculations",
+      "question": "Two resistors of 10 Ω and 15 Ω are connected in parallel to a 12 V battery.\n\nFirst, find the current through the 10 Ω resistor.\nSince voltage is the same across parallel branches:\nI = V/R = 12/10",
+      "options": [
+        "22 A",
+        "1.2 A",
+        "2 A",
+        "120 A"
+      ],
+      "answer": "1.2 A",
+      "points": 10
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Parallel Circuits - Calculations (continued)",
+      "question": "From the previous question: Two resistors (10 Ω and 15 Ω) in parallel, 12 V supply.\n\nThe current through the 10 Ω resistor is 1.2 A.\nFind the current through the 15 Ω resistor.\n\nI = V/R = 12/15 = 0.8 A\n\nWhat is the TOTAL current from the battery?",
+      "options": [
+        "1.2 A",
+        "0.8 A",
+        "0.4 A",
+        "2 A"
+      ],
+      "answer": "2 A",
+      "points": 10
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Parallel Circuits - Verification",
+      "question": "Let's verify using total resistance:\n\n10 Ω and 15 Ω in parallel:\n1/R = 1/10 + 1/15 = 3/30 + 2/30 = 5/30 = 1/6\nR_total = 6 Ω\n\nTotal current = V/R_total = 12/6 = 2 A\n\nDoes this match our previous calculation (1.2 + 0.8 = 2 A)?",
+      "options": [
+        "Yes, both methods give 2 A ✓",
+        "No, they give different answers",
+        "The methods cannot be compared",
+        "Only one method is correct"
+      ],
+      "answer": "Yes, both methods give 2 A ✓",
+      "points": 5
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "problemSet": "TOPIC 5: Parallel Circuits ⭐ MAIN QUESTION",
+      "question": "Three resistors of 12 Ω, 12 Ω, and 6 Ω are connected in parallel to an 18 V battery. Calculate the total current from the battery.\n\n1/R = 1/12 + 1/12 + 1/6 = 1/12 + 1/12 + 2/12 = 4/12 = 1/3\nR_total = 3 Ω\nI = V/R = 18/3",
+      "options": [
+        "54 A",
+        "6 A",
+        "0.17 A",
+        "3 A"
+      ],
+      "answer": "6 A",
+      "points": 15
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Mixed Circuits",
+      "question": "A mixed circuit contains both series and parallel combinations. To find total resistance, work step by step:\n\nIn this circuit:\n• R₁ (4 Ω) is in series with a parallel combination of R₂ (6 Ω) and R₃ (3 Ω)\n\nFirst, find the equivalent resistance of R₂ and R₃ in parallel:\n1/R = 1/6 + 1/3 = 1/6 + 2/6 = 3/6 = 1/2\nR_parallel = ?",
+      "options": [
+        "9 Ω",
+        "0.5 Ω",
+        "2 Ω",
+        "18 Ω"
+      ],
+      "answer": "2 Ω",
+      "points": 10
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Mixed Circuits (continued)",
+      "question": "From the previous question:\n• R₁ = 4 Ω (in series)\n• R₂ and R₃ in parallel = 2 Ω\n\nNow find the total resistance of the circuit.\nSince 4 Ω is in SERIES with 2 Ω:\nR_total = 4 + 2 = ?",
+      "options": [
+        "2 Ω",
+        "6 Ω",
+        "8 Ω",
+        "1.33 Ω"
+      ],
+      "answer": "6 Ω",
+      "points": 5
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Mixed Circuits (continued)",
+      "question": "The circuit has total resistance 6 Ω connected to a 12 V battery.\n\nWhat is the current flowing from the battery?\nI = V/R = 12/6",
+      "options": [
+        "72 A",
+        "0.5 A",
+        "2 A",
+        "18 A"
+      ],
+      "answer": "2 A",
+      "points": 5
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Mixed Circuits (continued)",
+      "question": "In the circuit:\n• R₁ (4 Ω) is in series\n• R₂ (6 Ω) and R₃ (3 Ω) are in parallel\n• Total current from battery = 2 A\n\nThe current through R₁ is 2 A (series - same current).\n\nWhat is the potential difference across R₁?\nV = IR = 2 × 4",
+      "options": [
+        "2 V",
+        "8 V",
+        "6 V",
+        "0.5 V"
+      ],
+      "answer": "8 V",
+      "points": 10
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Mixed Circuits (continued)",
+      "question": "From the previous question:\n• Battery voltage = 12 V\n• P.d. across R₁ = 8 V\n\nThe remaining voltage appears across the parallel combination (R₂ and R₃).\nP.d. across parallel section = 12 - 8 = 4 V\n\nWhat is the current through R₃ (3 Ω)?\nI = V/R = 4/3",
+      "options": [
+        "1.33 A",
+        "0.75 A",
+        "12 A",
+        "7 A"
+      ],
+      "answer": "1.33 A",
+      "points": 10
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Mixed Circuits (continued)",
+      "question": "Let's verify: The currents through R₂ and R₃ should add up to 2 A (the total current).\n\nCurrent through R₃ = 4/3 ≈ 1.33 A\nCurrent through R₂ = 4/6 ≈ 0.67 A\n\n1.33 + 0.67 = ?",
+      "options": [
+        "1 A",
+        "2 A ✓",
+        "0.66 A",
+        "3 A"
+      ],
+      "answer": "2 A ✓",
+      "points": 5
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "problemSet": "TOPIC 6: Mixed Circuits ⭐ MAIN QUESTION",
+      "question": "A circuit consists of:\n• R₁ (8 Ω) and R₂ (8 Ω) in parallel\n• This parallel combination is in series with R₃ (6 Ω)\n• Connected to a 20 V battery\n\nStep 1: R₁ ∥ R₂ = (8×8)/(8+8) = 64/16 = 4 Ω\nStep 2: Total R = 4 + 6 = 10 Ω\nStep 3: Current = 20/10 = 2 A\n\nWhat is the p.d. across R₃?",
+      "options": [
+        "8 V",
+        "4 V",
+        "12 V",
+        "20 V"
+      ],
+      "answer": "12 V",
+      "points": 15
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Conceptual Understanding",
+      "question": "Two identical bulbs are connected in SERIES to a battery. One bulb blows (breaks). What happens to the other bulb?",
+      "options": [
+        "It becomes brighter",
+        "It continues to glow normally",
+        "It goes out (no current can flow)",
+        "It glows dimmer"
+      ],
+      "answer": "It goes out (no current can flow)",
+      "points": 5
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Conceptual Understanding (continued)",
+      "question": "Two identical bulbs are connected in PARALLEL to a battery. One bulb blows. What happens to the other bulb?",
+      "options": [
+        "It goes out",
+        "It continues to glow normally",
+        "It becomes dimmer",
+        "It also blows"
+      ],
+      "answer": "It continues to glow normally",
+      "points": 5
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Conceptual Understanding (continued)",
+      "question": "A circuit has two resistors in SERIES connected to a fixed voltage supply. An identical third resistor is added in series.\n\nWhat happens to:\n(a) Total resistance - INCREASES\n(b) Total current from the supply - ?",
+      "options": [
+        "Current increases",
+        "Current decreases",
+        "Current stays the same",
+        "Current becomes zero"
+      ],
+      "answer": "Current decreases",
+      "points": 10
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Conceptual Understanding (continued)",
+      "question": "A circuit has two resistors in PARALLEL connected to a fixed voltage supply. An identical third resistor is added in parallel.\n\nWhat happens to:\n(a) Total resistance - DECREASES\n(b) Total current from the supply - ?",
+      "options": [
+        "Current increases",
+        "Current decreases",
+        "Current stays the same",
+        "Current becomes zero"
+      ],
+      "answer": "Current increases",
+      "points": 10
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "problemSet": "TOPIC 7: Conceptual Understanding ⭐ FINAL CHALLENGE",
+      "question": "A circuit contains a 12 V battery connected to two identical bulbs A and B in series. A third identical bulb C is then connected in PARALLEL with bulb B.\n\nCompared to before, what happens to:\n• Bulb A: Gets brighter (more current flows)\n• Bulb B: Gets dimmer (shares current with C)\n\nWhat happens to the TOTAL current from the battery?",
+      "options": [
+        "Total current decreases",
+        "Total current increases",
+        "Total current stays the same",
+        "Total current becomes zero"
+      ],
+      "answer": "Total current increases",
+      "points": 15
+    }
+  ]
+}

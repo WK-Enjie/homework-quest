@@ -1,0 +1,712 @@
+Here is the full corrected JSON:
+
+```json
+{
+  "questTitle": "Primary 6 Science: Forces - Friction, Air Resistance, Elastic Spring Force, Gravitational Force & Magnetic Force",
+  "subject": "Science",
+  "difficulty": "PSLE Standard",
+  "description": "Master the different types of forces! This worksheet covers friction (surface texture and weight), air resistance, elastic spring force, gravitational force, and magnetic force. Read each question carefully and think about how forces affect objects in everyday situations.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Friction - Surface Texture",
+      "question": "Mei Ling rolls a toy car across a smooth wooden floor. The car travels 2 metres before stopping. She then rolls the same car with the same push across a rough carpet. What would you expect to observe?",
+      "options": [
+        "The car travels further than 2 metres on the carpet",
+        "The car travels less than 2 metres on the carpet",
+        "The car travels exactly 2 metres on the carpet",
+        "The car does not move at all on the carpet"
+      ],
+      "answer": "The car travels less than 2 metres on the carpet",
+      "points": 5
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Friction - Surface Texture",
+      "question": "In Q1, friction acts between the wheels of the toy car and the surface it moves on. What can you conclude about the friction between the wheels and the carpet compared to the friction between the wheels and the wooden floor?",
+      "options": [
+        "Friction between the wheels and carpet is less than friction between the wheels and wooden floor",
+        "Friction between the wheels and carpet is greater than friction between the wheels and wooden floor",
+        "Friction is the same on both surfaces",
+        "There is no friction between the wheels and the wooden floor"
+      ],
+      "answer": "Friction between the wheels and carpet is greater than friction between the wheels and wooden floor",
+      "points": 5
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Friction - Surface Texture",
+      "question": "The carpet has a rougher texture than the wooden floor. Based on Q1 and Q2, what is the relationship between surface texture and friction?",
+      "options": [
+        "Rougher surfaces produce less friction",
+        "Rougher surfaces produce more friction",
+        "Surface texture does not affect friction",
+        "Smoother surfaces produce more friction"
+      ],
+      "answer": "Rougher surfaces produce more friction",
+      "points": 5
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Friction - Surface Texture",
+      "question": "The toy car eventually stops moving because friction acts against its motion. Which statement correctly explains why the car stops?",
+      "options": [
+        "The push force overcomes friction, so the car stops",
+        "Friction overcomes the forward motion of the car, causing it to stop",
+        "Gravitational force overcomes the car's motion",
+        "The car stops because there is no friction"
+      ],
+      "answer": "Friction overcomes the forward motion of the car, causing it to stop",
+      "points": 5
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 1: Friction - Surface Texture - Test Question",
+      "question": "Ahmad conducted an experiment by sliding identical wooden blocks across different surfaces. He repeated the experiment 3 times for each surface to obtain consistent results and make his readings more reliable. His average results are shown below:\n\nSurface A (smooth glass): Block travels 90 cm\nSurface B (rough concrete): Block travels 25 cm\nSurface C (polished wood): Block travels 70 cm\n\nWhich of the following correctly arranges the surfaces from LEAST friction to MOST friction between the block and surface?",
+      "options": [
+        "Surface A → Surface C → Surface B",
+        "Surface B → Surface C → Surface A",
+        "Surface C → Surface A → Surface B",
+        "Surface A → Surface B → Surface C"
+      ],
+      "answer": "Surface A → Surface C → Surface B",
+      "points": 10
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Friction - Effect of Weight",
+      "question": "Ravi places a wooden block on a smooth table and gives it a push. The block slides 50 cm before stopping. He then stacks an identical block on top of the first block and gives the same push. What would you expect to observe?",
+      "options": [
+        "The blocks slide further than 50 cm",
+        "The blocks slide less than 50 cm",
+        "The blocks slide exactly 50 cm",
+        "The blocks do not move at all"
+      ],
+      "answer": "The blocks slide less than 50 cm",
+      "points": 5
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Friction - Effect of Weight",
+      "question": "In Q6, friction acts between the bottom of the wooden block and the table surface. What can you conclude about the friction between the block and the table when the blocks are heavier?",
+      "options": [
+        "Friction between the block and table decreases when weight increases",
+        "Friction between the block and table increases when weight increases",
+        "Friction between the block and table is not affected by weight",
+        "Friction between the block and table disappears when weight increases"
+      ],
+      "answer": "Friction between the block and table increases when weight increases",
+      "points": 5
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Friction - Effect of Weight",
+      "question": "A delivery man needs to push a heavy box across the floor. The empty box is easy to push, but when the box is filled with books, it becomes much harder to push. Which statement correctly explains this observation?",
+      "options": [
+        "More force is needed to overcome the increased friction between the filled box and the floor",
+        "The filled box has more air resistance",
+        "The filled box has less friction with the floor",
+        "The floor becomes rougher when the box is heavier"
+      ],
+      "answer": "More force is needed to overcome the increased friction between the filled box and the floor",
+      "points": 5
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Friction - Effect of Weight",
+      "question": "Which TWO factors affect the amount of friction between two surfaces in contact?",
+      "options": [
+        "Colour of the object and size of the surface",
+        "Texture of the surfaces in contact and weight of the object",
+        "Shape of the object and temperature of the surface",
+        "Speed of the object and colour of the surface"
+      ],
+      "answer": "Texture of the surfaces in contact and weight of the object",
+      "points": 5
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 2: Friction - Effect of Weight - Test Question",
+      "question": "Siti conducted an experiment by placing different masses on a wooden block and measuring how far it slides on the same surface with the same push. She repeated each trial 3 times and calculated the average to obtain consistent results.\n\nMass on block: 100g → Average distance: 80 cm\nMass on block: 200g → Average distance: 55 cm\nMass on block: 300g → Average distance: 35 cm\n\nBased on her results, if Siti places 400g on the block and gives the same push, which is the most likely distance the block will travel?",
+      "options": [
+        "About 90 cm",
+        "About 60 cm",
+        "About 20 cm",
+        "About 35 cm"
+      ],
+      "answer": "About 20 cm",
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: Friction - Advanced Application",
+      "question": "Jun Wei pushed two identical boxes across a rough concrete floor. Box A was empty (2 kg) and Box B was filled with heavy books (8 kg). Box A slid 60 cm before stopping, while Box B slid only 15 cm before stopping.\n\nWhich statement correctly explains why Box B travelled a shorter distance?",
+      "options": [
+        "Box B experienced less friction between the box and floor because it was heavier",
+        "Box B experienced greater friction between the box and floor because it was heavier, which overcame its motion more quickly",
+        "The concrete floor became smoother when Box B was pushed",
+        "Box B had more air resistance because it was larger"
+      ],
+      "answer": "Box B experienced greater friction between the box and floor because it was heavier, which overcame its motion more quickly",
+      "points": 10
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: Friction - Advanced Application",
+      "question": "Mei Ling conducted an experiment to investigate how surface texture affects friction. She slid the same wooden block across a smooth tile floor and a rough carpet, using the same push force. She repeated the experiment 5 times for each surface.\n\nSmooth tile: Block travelled 85 cm, 83 cm, 86 cm, 84 cm, 82 cm\nRough carpet: Block travelled 28 cm, 30 cm, 29 cm, 31 cm, 27 cm\n\nWhy did Mei Ling repeat the experiment 5 times for each surface?",
+      "options": [
+        "To make the experiment more fun and interesting",
+        "To use up more time during the science lesson",
+        "To obtain consistent results and make her readings more reliable",
+        "To increase the friction between the block and surface"
+      ],
+      "answer": "To obtain consistent results and make her readings more reliable",
+      "points": 5
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 3: Friction - Advanced Application",
+      "question": "Mei Ling slid the same wooden block across a smooth tile floor and a rough carpet, using the same push force. Her average results are shown below:\n\nSmooth tile: Block travelled 84 cm\nRough carpet: Block travelled 29 cm\n\nWhich statement correctly compares the friction on the two surfaces?",
+      "options": [
+        "Friction between the block and smooth tile is greater because the block travelled further",
+        "Friction between the block and rough carpet is greater because the rougher texture produces more friction, which overcame the block's motion more quickly",
+        "Friction is the same on both surfaces because the same block was used",
+        "Friction between the block and rough carpet is less because the block travelled a shorter distance"
+      ],
+      "answer": "Friction between the block and rough carpet is greater because the rougher texture produces more friction, which overcame the block's motion more quickly",
+      "points": 10
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Air Resistance - Basics",
+      "question": "Two identical balls are dropped from the same height at the same time. Ball A has a small parachute attached to it. Ball B has no parachute. Which ball reaches the ground first?",
+      "options": [
+        "Ball A (with parachute)",
+        "Ball B (without parachute)",
+        "Both balls reach the ground at the same time",
+        "Neither ball will reach the ground"
+      ],
+      "answer": "Ball B (without parachute)",
+      "points": 5
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Air Resistance - Basics",
+      "question": "Based on Q14, Ball A takes longer to reach the ground. What causes Ball A to fall more slowly than Ball B?",
+      "options": [
+        "Ball A is heavier because of the parachute",
+        "Ball A experiences more air resistance because of the larger surface area of the parachute",
+        "Ball A experiences less gravitational force",
+        "Ball A is pushed upward by the parachute"
+      ],
+      "answer": "Ball A experiences more air resistance because of the larger surface area of the parachute",
+      "points": 5
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Air Resistance - Basics",
+      "question": "The parachute increases the surface area in contact with air. Based on Q14 and Q15, how does surface area affect air resistance?",
+      "options": [
+        "Larger surface area results in less air resistance",
+        "Larger surface area results in more air resistance",
+        "Surface area does not affect air resistance",
+        "Smaller surface area results in more air resistance"
+      ],
+      "answer": "Larger surface area results in more air resistance",
+      "points": 5
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Air Resistance - Basics",
+      "question": "Air resistance acts in the opposite direction to the movement of a falling object. When a parachute falls downward, air resistance acts upward. What happens when air resistance is large enough?",
+      "options": [
+        "Air resistance overcomes gravitational force and the object moves upward",
+        "Air resistance partly overcomes gravitational force, causing the object to fall more slowly",
+        "Air resistance has no effect on the falling object",
+        "Gravitational force completely overcomes air resistance"
+      ],
+      "answer": "Air resistance partly overcomes gravitational force, causing the object to fall more slowly",
+      "points": 5
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 4: Air Resistance - Test Question",
+      "question": "Xiao Ming dropped a flat sheet of paper and an identical sheet of paper crumpled into a ball from the same height. He repeated the experiment 3 times to obtain consistent results.\n\nFlat sheet of paper: Average time to reach ground = 2.5 seconds\nCrumpled paper ball: Average time to reach ground = 1.0 second\n\nBoth papers have the same mass. Which statement correctly explains the difference in time?",
+      "options": [
+        "The flat paper is heavier so it falls slower",
+        "The flat paper has a larger surface area in contact with air, so it experiences more air resistance which partly overcomes gravitational force, causing it to fall slower",
+        "The crumpled ball has more air resistance, so it falls faster",
+        "The flat paper has less gravitational force acting on it"
+      ],
+      "answer": "The flat paper has a larger surface area in contact with air, so it experiences more air resistance which partly overcomes gravitational force, causing it to fall slower",
+      "points": 10
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 5: Air Resistance - Advanced Application",
+      "question": "A skydiver jumps from an aeroplane. Before opening her parachute, she falls very quickly. After opening her parachute, she falls much more slowly.\n\nWhich statement correctly explains why the skydiver falls more slowly after opening her parachute?",
+      "options": [
+        "The parachute makes the skydiver heavier, so she falls more slowly",
+        "Opening the parachute increases surface area in contact with air, causing greater air resistance which partly overcomes gravitational force",
+        "The parachute reduces gravitational force acting on the skydiver",
+        "Opening the parachute creates friction between the skydiver and the ground"
+      ],
+      "answer": "Opening the parachute increases surface area in contact with air, causing greater air resistance which partly overcomes gravitational force",
+      "points": 10
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 5: Air Resistance - Advanced Application",
+      "question": "Two skydivers, Ali and Ben, jump from the same aeroplane at the same time. Ali opens a large parachute (surface area 50 m²) while Ben opens a small parachute (surface area 25 m²). Both skydivers have the same body weight.\n\nWhich skydiver will reach the ground first and why?",
+      "options": [
+        "Ali reaches ground first; larger parachute means less air resistance",
+        "Ben reaches ground first; smaller parachute has less surface area in contact with air, so less air resistance acts on him",
+        "Both reach ground at the same time; parachute size does not affect falling speed",
+        "Ali reaches ground first; larger parachute increases gravitational force"
+      ],
+      "answer": "Ben reaches ground first; smaller parachute has less surface area in contact with air, so less air resistance acts on him",
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Elastic Spring Force - Stretching",
+      "question": "Wei Ling hangs a 100g mass on a spring. The spring stretches by 2 cm from its original length. She then hangs a 200g mass on the same spring. What would you expect to observe?",
+      "options": [
+        "The spring stretches by less than 2 cm from its original length",
+        "The spring stretches by exactly 2 cm from its original length",
+        "The spring stretches by more than 2 cm from its original length",
+        "The spring does not stretch at all"
+      ],
+      "answer": "The spring stretches by more than 2 cm from its original length",
+      "points": 5
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Elastic Spring Force - Stretching",
+      "question": "Based on Q21, what is the relationship between the mass hung on a spring and how much it stretches from its original length?",
+      "options": [
+        "A heavier mass causes less stretching",
+        "A heavier mass causes more stretching",
+        "Mass does not affect how much a spring stretches",
+        "A lighter mass causes more stretching"
+      ],
+      "answer": "A heavier mass causes more stretching",
+      "points": 5
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Elastic Spring Force - Stretching",
+      "question": "Wei Ling removes all the masses from the spring. She observes that the spring returns to its original length of 10 cm. What property of the spring allows it to return to its original length?",
+      "options": [
+        "Magnetic property",
+        "Elastic property",
+        "Rigid property",
+        "Gravitational property"
+      ],
+      "answer": "Elastic property",
+      "points": 5
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Elastic Spring Force - Stretching",
+      "question": "When a spring is stretched, it exerts an elastic spring force. In which direction does this elastic spring force act?",
+      "options": [
+        "In the same direction as the stretching",
+        "In the opposite direction to the stretching (trying to return to original length)",
+        "Downward towards the ground",
+        "The elastic spring force has no direction"
+      ],
+      "answer": "In the opposite direction to the stretching (trying to return to original length)",
+      "points": 5
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 6: Elastic Spring Force - Test Question",
+      "question": "Priya investigated a spring with an original length of 5 cm. She repeated each measurement 3 times to obtain consistent results. Her average results are shown below:\n\nMass: 50g → Length of spring: 7 cm (stretched 2 cm from original length)\nMass: 100g → Length of spring: 9 cm (stretched 4 cm from original length)\nMass: 150g → Length of spring: 11 cm (stretched 6 cm from original length)\n\nIf Priya hangs a 200g mass on the same spring, what would be the new length of the spring?",
+      "options": [
+        "12 cm",
+        "13 cm",
+        "14 cm",
+        "15 cm"
+      ],
+      "answer": "13 cm",
+      "points": 10
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 7: Elastic Spring Force - Stiffness",
+      "question": "Jun Wei hangs a 100g mass on Spring X. Spring X stretches by 2 cm from its original length. He hangs the same 100g mass on Spring Y. Spring Y stretches by 5 cm from its original length. Which spring is stiffer?",
+      "options": [
+        "Spring X is stiffer",
+        "Spring Y is stiffer",
+        "Both springs are equally stiff",
+        "Cannot be determined from this information"
+      ],
+      "answer": "Spring X is stiffer",
+      "points": 5
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 7: Elastic Spring Force - Stiffness",
+      "question": "Based on Q26, how can you tell that Spring X is stiffer than Spring Y?",
+      "options": [
+        "Spring X is longer than Spring Y",
+        "Spring X stretches more than Spring Y with the same mass",
+        "Spring X stretches less than Spring Y with the same mass",
+        "Spring X is heavier than Spring Y"
+      ],
+      "answer": "Spring X stretches less than Spring Y with the same mass",
+      "points": 5
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 7: Elastic Spring Force - Stiffness",
+      "question": "A stiff spring is harder to stretch than a less stiff spring. If you want to stretch both springs by the same amount, which statement is correct?",
+      "options": [
+        "Less force is needed to overcome the resistance of the stiffer spring",
+        "More force is needed to overcome the resistance of the stiffer spring",
+        "The same force is needed for both springs",
+        "Neither spring can be stretched"
+      ],
+      "answer": "More force is needed to overcome the resistance of the stiffer spring",
+      "points": 5
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 7: Elastic Spring Force - Stiffness",
+      "question": "A toy designer needs to choose a spring for a toy car. The spring should compress easily when the car is pushed down. Should the designer choose a stiffer spring or a less stiff spring?",
+      "options": [
+        "A stiffer spring because it will compress more easily",
+        "A less stiff spring because it will compress more easily",
+        "A stiffer spring because it will not compress at all",
+        "It does not matter which spring is chosen"
+      ],
+      "answer": "A less stiff spring because it will compress more easily",
+      "points": 5
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 7: Elastic Spring Force - Stiffness - Test Question",
+      "question": "Three springs P, Q, and R all have an original length of 10 cm. The same 100g mass is hung on each spring. The experiment was repeated 3 times to obtain consistent results.\n\nSpring P: Average final length = 12 cm (stretched 2 cm)\nSpring Q: Average final length = 16 cm (stretched 6 cm)\nSpring R: Average final length = 14 cm (stretched 4 cm)\n\nArrange the springs from STIFFEST to LEAST STIFF.",
+      "options": [
+        "P → R → Q",
+        "Q → R → P",
+        "P → Q → R",
+        "R → P → Q"
+      ],
+      "answer": "P → R → Q",
+      "points": 10
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 8: Elastic Spring Force - Advanced Application",
+      "question": "Li Ming compared two springs, Spring A and Spring B. Both springs had an original length of 8 cm. He hung a 50g mass on each spring.\n\nSpring A stretched to 10 cm (stretched 2 cm).\nSpring B stretched to 14 cm (stretched 6 cm).\n\nLi Ming wants to build a weighing scale using one of the springs. He wants the spring to stretch noticeably even when small masses are added. Which spring should he choose and why?",
+      "options": [
+        "Spring A; it is stiffer so it will give more accurate readings",
+        "Spring B; it is less stiff so it stretches more easily, making small mass differences more noticeable",
+        "Spring A; it stretches more with small masses",
+        "Either spring will work equally well for a weighing scale"
+      ],
+      "answer": "Spring B; it is less stiff so it stretches more easily, making small mass differences more noticeable",
+      "points": 10
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 8: Elastic Spring Force - Advanced Application",
+      "question": "Using the same springs from Q31, Li Ming now wants to build a door stopper that requires a strong push to compress. Which spring should he choose and why?",
+      "options": [
+        "Spring A; it is stiffer so more force is needed to overcome its resistance and compress it",
+        "Spring B; it is less stiff so it will compress more easily",
+        "Spring A; it is less stiff so it will provide more resistance",
+        "Spring B; it is stiffer so it will be harder to compress"
+      ],
+      "answer": "Spring A; it is stiffer so more force is needed to overcome its resistance and compress it",
+      "points": 10
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 9: Gravitational Force - Basics",
+      "question": "When you drop a ball, it falls to the ground. What force pulls the ball downward?",
+      "options": [
+        "Magnetic force",
+        "Friction",
+        "Gravitational force",
+        "Elastic spring force"
+      ],
+      "answer": "Gravitational force",
+      "points": 5
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 9: Gravitational Force - Basics",
+      "question": "Gravitational force always pulls objects in which direction?",
+      "options": [
+        "Upward towards the sky",
+        "Downward towards the centre of the Earth",
+        "Sideways towards the nearest object",
+        "In the direction the object is moving"
+      ],
+      "answer": "Downward towards the centre of the Earth",
+      "points": 5
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 9: Gravitational Force - Basics",
+      "question": "Muthu weighs himself on a weighing scale on the ground floor of an HDB flat. The scale shows 40 kg. He then takes the lift to the 20th floor and weighs himself again. What reading would you expect the scale to show?",
+      "options": [
+        "Much less than 40 kg",
+        "Much more than 40 kg",
+        "Approximately 40 kg (about the same)",
+        "Zero kg"
+      ],
+      "answer": "Approximately 40 kg (about the same)",
+      "points": 5
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 9: Gravitational Force - Basics",
+      "question": "Based on Q35, what can you conclude about gravitational force at different heights in Singapore?",
+      "options": [
+        "Gravitational force becomes much weaker at higher floors",
+        "Gravitational force becomes much stronger at higher floors",
+        "Gravitational force is approximately constant anywhere on Earth (the change is negligible)",
+        "Gravitational force disappears at higher floors"
+      ],
+      "answer": "Gravitational force is approximately constant anywhere on Earth (the change is negligible)",
+      "points": 5
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 9: Gravitational Force - Test Question",
+      "question": "Aisha dropped identical balls from a height of 1 metre at three different locations in Singapore. She repeated the experiment 5 times at each location to obtain consistent results and make her readings more reliable.\n\nLocation A (Ground floor, Jurong): Average time = 0.45 seconds\nLocation B (Rooftop, 25th floor, Tampines): Average time = 0.45 seconds\nLocation C (Beach, East Coast): Average time = 0.45 seconds\n\nWhat conclusion can Aisha draw from her experiment?",
+      "options": [
+        "Gravitational force is stronger at the beach",
+        "Gravitational force is weaker at higher floors",
+        "Gravitational force is approximately constant at different locations in Singapore",
+        "Gravitational force changes depending on the location in Singapore"
+      ],
+      "answer": "Gravitational force is approximately constant at different locations in Singapore",
+      "points": 10
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 10: Magnetic Force - Distance",
+      "question": "Kai Wen places a bar magnet 15 cm away from an iron paper clip on a table. The paper clip does not move. He then moves the magnet closer to 3 cm away from the paper clip. The paper clip moves towards the magnet. What does this tell you about the magnetic force at 15 cm compared to 3 cm?",
+      "options": [
+        "Magnetic force is stronger at 15 cm",
+        "Magnetic force is stronger at 3 cm",
+        "Magnetic force is the same at both distances",
+        "There is no magnetic force at either distance"
+      ],
+      "answer": "Magnetic force is stronger at 3 cm",
+      "points": 5
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 10: Magnetic Force - Distance",
+      "question": "Based on Q38, what is the relationship between distance and the strength of magnetic force?",
+      "options": [
+        "The further away the magnet, the stronger the magnetic force",
+        "The closer the magnet, the stronger the magnetic force",
+        "Distance does not affect magnetic force",
+        "Magnetic force only works at exactly 3 cm away"
+      ],
+      "answer": "The closer the magnet, the stronger the magnetic force",
+      "points": 5
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 10: Magnetic Force - Distance",
+      "question": "At 15 cm, the magnetic force on the paper clip was not strong enough to move it. What prevented the paper clip from moving towards the magnet?",
+      "options": [
+        "Air resistance overcame the magnetic force",
+        "Gravitational force overcame the magnetic force",
+        "Friction between the paper clip and table overcame the weak magnetic force",
+        "The paper clip is not made of iron"
+      ],
+      "answer": "Friction between the paper clip and table overcame the weak magnetic force",
+      "points": 5
+    },
+    {
+      "id": 41,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 10: Magnetic Force - Distance",
+      "question": "At 3 cm, the paper clip moved towards the magnet. What does this tell you about the magnetic force at this distance?",
+      "options": [
+        "The magnetic force was too weak to move the paper clip",
+        "The magnetic force was strong enough to overcome the friction between the paper clip and table",
+        "The friction between the paper clip and table increased",
+        "The gravitational force on the paper clip decreased"
+      ],
+      "answer": "The magnetic force was strong enough to overcome the friction between the paper clip and table",
+      "points": 5
+    },
+    {
+      "id": 42,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 10: Magnetic Force - Test Question",
+      "question": "Li Ting investigated how distance affects magnetic force. She placed a bar magnet at different distances from an iron nail on a wooden table and observed whether the nail moved. She repeated the experiment 3 times at each distance to obtain consistent results.\n\nDistance: 20 cm → Nail did not move\nDistance: 10 cm → Nail did not move\nDistance: 5 cm → Nail moved slightly towards magnet\nDistance: 2 cm → Nail moved quickly towards magnet\n\nLi Ting wants to pick up the iron nail from 20 cm away using the magnet, but the nail does not move. What should she do and why?",
+      "options": [
+        "Use a wooden nail instead, because wood is attracted to magnets",
+        "Move the magnet closer to the iron nail, so the magnetic force is strong enough to overcome the friction between the nail and table",
+        "Move the magnet further away from the iron nail, to increase magnetic force",
+        "Use a plastic magnet, because plastic creates stronger magnetic force"
+      ],
+      "answer": "Move the magnet closer to the iron nail, so the magnetic force is strong enough to overcome the friction between the nail and table",
+      "points": 10
+    },
+    {
+      "id": 43,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 11: Magnetic Force - Magnetic Materials",
+      "question": "Kai Wen places the same bar magnet 3 cm away from a wooden block. The wooden block does not move towards the magnet. What can you conclude from this observation?",
+      "options": [
+        "The magnet has lost its magnetism",
+        "Wood is not a magnetic material and is not attracted to magnets",
+        "The wooden block is too heavy to move",
+        "The distance is too far for the magnetic force to work"
+      ],
+      "answer": "Wood is not a magnetic material and is not attracted to magnets",
+      "points": 5
+    },
+    {
+      "id": 44,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 11: Magnetic Force - Magnetic Materials",
+      "question": "Which of the following materials would be attracted to a magnet?",
+      "options": [
+        "Plastic ruler",
+        "Wooden pencil",
+        "Iron nail",
+        "Glass marble"
+      ],
+      "answer": "Iron nail",
+      "points": 5
+    },
+    {
+      "id": 45,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 11: Magnetic Force - Magnetic Materials",
+      "question": "A student tested different objects with a magnet. The results are shown below:\n\nObject A (steel scissors): Attracted to magnet\nObject B (aluminium can): Not attracted to magnet\nObject C (copper wire): Not attracted to magnet\nObject D (iron key): Attracted to magnet\n\nWhat can you conclude about magnetic materials?",
+      "options": [
+        "All metals are magnetic materials",
+        "Only iron and steel are magnetic materials; not all metals are magnetic",
+        "Only non-metals are magnetic materials",
+        "Aluminium and copper are magnetic materials"
+      ],
+      "answer": "Only iron and steel are magnetic materials; not all metals are magnetic",
+      "points": 5
+    },
+    {
+      "id": 46,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 11: Magnetic Force - Test Question",
+      "question": "Ahmad has a mixture of objects: iron nails, aluminium foil pieces, plastic beads, and steel paper clips. He wants to quickly separate the iron nails and steel paper clips from the mixture.\n\nWhich method should he use and why?",
+      "options": [
+        "Use a magnet; the magnet will attract the iron nails and steel paper clips because they are magnetic materials, while the aluminium foil and plastic beads are not magnetic",
+        "Use water; the iron and steel will sink while others float",
+        "Use a magnet; the magnet will attract all the metal objects including aluminium",
+        "Pick them out by hand; magnets do not work on iron or steel"
+      ],
+      "answer": "Use a magnet; the magnet will attract the iron nails and steel paper clips because they are magnetic materials, while the aluminium foil and plastic beads are not magnetic",
+      "points": 10
+    },
+    {
+      "id": 47,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 12: Magnetic Force - Advanced Application",
+      "question": "Mei Ling placed a bar magnet at different distances from an iron paper clip on a smooth glass table. At 8 cm, the paper clip did not move. At 2 cm, the paper clip moved quickly towards the magnet.\n\nShe then repeated the experiment with the same paper clip on a rough sandpaper surface. At 2 cm, the paper clip only moved slightly towards the magnet.\n\nWhich statement correctly explains why the paper clip moved more slowly on sandpaper?",
+      "options": [
+        "The magnetic force is weaker on sandpaper",
+        "The sandpaper blocked the magnetic force from reaching the paper clip",
+        "There is greater friction between the paper clip and rough sandpaper, so the magnetic force had to overcome more friction",
+        "The paper clip became less magnetic on sandpaper"
+      ],
+      "answer": "There is greater friction between the paper clip and rough sandpaper, so the magnetic force had to overcome more friction",
+      "points": 10
+    },
+    {
+      "id": 48,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 12: Magnetic Force - Advanced Application",
+      "question": "A crane operator uses an electromagnet to pick up iron plates from a pile. He notices that the electromagnet can pick up iron plates from 50 cm away when the plates are resting on a smooth metal floor. However, when the plates are resting on a rough concrete floor, the electromagnet needs to be much closer (about 10 cm) to pick them up.\n\nWhich statement correctly explains this observation?",
+      "options": [
+        "The concrete floor weakens the electromagnet",
+        "The rough concrete floor creates more friction between the iron plates and floor, so the magnetic force needs to be stronger (closer distance) to overcome the friction",
+        "The smooth metal floor makes the electromagnet stronger",
+        "Iron plates are not magnetic when placed on concrete"
+      ],
+      "answer": "The rough concrete floor creates more friction between the iron plates and floor, so the magnetic force needs to be stronger (closer distance) to overcome the friction",
+      "points": 10
+    },
+    {
+      "id": 49,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 13: Integrated Forces - Application",
+      "question": "A box is resting on a rough floor. Ali pushes the box but it does not move. Which statement correctly explains this observation?",
+      "options": [
+        "Ali's push force is greater than the friction between the box and floor",
+        "Ali's push force is not strong enough to overcome the friction between the box and floor",
+        "There is no friction between the box and floor",
+        "Gravitational force is pushing the box forward"
+      ],
+      "answer": "Ali's push force is not strong enough to overcome the friction between the box and floor",
+      "points": 5
+    },
+    {
+      "id": 50,
+      "type": "mcq",
+      "problemSet": "PROBLEM SET 13: Integrated Forces - Application",
+      "question": "Xiao Ming designed a simple game. He attached a small magnet to a toy car and placed an iron ball at the end of a track covered with sandpaper. He pushed the toy car towards the iron ball, but the car slowed down before reaching the ball and stopped 12 cm away. The iron ball did not move towards the magnet.\n\nXiao Ming made the following changes to his game:\nChange 1: Replace the sandpaper track with a smooth glass track\nChange 2: Use a stronger magnet on the toy car\n\nWhich statement correctly explains how these changes would help?",
+      "options": [
+        "Change 1 reduces friction between the car wheels and track, so the car travels further; Change 2 increases magnetic force so it can overcome friction between the iron ball and surface from a greater distance",
+        "Change 1 increases friction so the car stops closer to the ball; Change 2 decreases magnetic force",
+        "Change 1 has no effect; Change 2 reduces magnetic force so the ball will not move",
+        "Change 1 increases air resistance; Change 2 has no effect on magnetic force"
+      ],
+      "answer": "Change 1 reduces friction between the car wheels and track, so the car travels further; Change 2 increases magnetic force so it can overcome friction between the iron ball and surface from a greater distance",
+      "points": 10
+    }
+  ]
+}
+```
