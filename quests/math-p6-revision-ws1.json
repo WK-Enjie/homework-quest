@@ -179,7 +179,7 @@
       "id": 20,
       "type": "mcq",
       "problemSet": "PROBLEM SET 4: Fraction of Total - Books - Test Question",
-      "question": "At a library, 3/7 of the books are hardcover and the rest are paperback. 20% of the hardcover books and 50% of the paperback books were borrowed. If 260 books remain unborrowed, how many books were there at first?",
+      "question": "At a library, 3/7 of the books are hardcover and the rest are paperback. 20% of the hardcover books and 50% of the paperback books were borrowed. If 264 books remain unborrowed, how many books were there at first?",
       "options": ["350", "400", "420", "490"],
       "answer": "420",
       "points": 10
@@ -215,9 +215,9 @@
       "id": 24,
       "type": "mcq",
       "problemSet": "PROBLEM SET 5: Money Distribution",
-      "question": "Peter received 2/5, Mary received 2/5. What fraction of the total money did John receive?",
-      "options": ["1/10", "1/5", "2/5", "3/5"],
-      "answer": "1/5",
+      "question": "Peter received 2/5 of the money,Mary received 3/10 of the same money and the rest to John. What fraction of the total money did John receive?",
+      "options": ["1/10", "1/5", "2/5", "3/10"],
+      "answer": "3/10",
       "points": 5
     },
     {
@@ -260,7 +260,7 @@
       "id": 29,
       "type": "mcq",
       "problemSet": "PROBLEM SET 6: Ratio and Percentage Transfer",
-      "question": "After the transfer, Ali has (5 - 1) = 4 parts and Ben has (7 + 1) = 8 parts. What is the new ratio of Ali's stamps to Ben's stamps in simplest form?",
+      "question": "After the transfer, the ratio of Ali's to Ben's money became 4 : 8. What is the new ratio of Ali's stamps to Ben's stamps in simplest form?",
       "options": ["4 : 8", "1 : 2", "2 : 4", "2 : 1"],
       "answer": "1 : 2",
       "points": 5
@@ -269,7 +269,7 @@
       "id": 30,
       "type": "mcq",
       "problemSet": "PROBLEM SET 6: Ratio and Percentage Transfer - Test Question",
-      "question": "The ratio of Chloe's beads to Devi's beads is 3 : 5. Chloe gives 25% of her beads to Devi. Devi then gives 24 beads back to Chloe so that they have the same number of beads. How many beads did Chloe have at first?",
+      "question": "The ratio of Chloe's beads to Devi's beads is 3 : 5. Chloe gives 25% of her beads to Devi. Devi then gives 56 beads back to Chloe so that they have the same number of beads. How many beads did Chloe have at first?",
       "options": ["72 beads", "96 beads", "108 beads", "120 beads"],
       "answer": "96 beads",
       "points": 10
@@ -314,9 +314,9 @@
       "id": 35,
       "type": "mcq",
       "problemSet": "PROBLEM SET 7: Class Composition - Test Question",
-      "question": "80% of the students in a class are present. Of those present, 3/4 are girls. Of those absent, 75% are boys. If there are 15 more girls than boys in the class, how many students are in the class?",
-      "options": ["36", "40", "48", "60"],
-      "answer": "40",
+      "question": "80% of the students in a class are present while the rest are absent. Of those present, 3/4 are girls. Of those absent, 75% are boys and the rest are girls. If there are 30 more girls than boys in the class if all are present, how many students are in the class?",
+      "options": ["50", "40", "120", "100"],
+      "answer": "100",
       "points": 10
     },
     {
