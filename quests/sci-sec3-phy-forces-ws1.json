@@ -1,0 +1,358 @@
+{
+  "questTitle": "O-Level Physics: Density, Forces, Pressure & Motion Worksheet",
+  "subject": "Physics",
+  "difficulty": "Hard",
+  "description": "Master density calculations, pressure concepts (P=F/A), mass-weight relationships, force-motion relationships, and fundamental mechanics through scenario-based questions. All force problems are one-dimensional. Aligned with Singapore O-Level Physics standards. Show clear working for calculations.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Density Definition",
+      "question": "A materials scientist compares two cubes of identical size but made from different substances. One cube feels significantly heavier when lifted. Which physical property explains this difference in heaviness per unit volume?",
+      "options": [
+        "Total mass multiplied by volume",
+        "Mass per unit volume",
+        "Weight per unit area",
+        "Volume occupied per unit mass"
+      ],
+      "answer": "Mass per unit volume",
+      "points": 5
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "problemSet": "CALCULATION: Density",
+      "question": "A laboratory technician measures a solid metal block. It has a mass of 450 g and a measured volume of 50 cm³. What is the density of the metal?",
+      "options": [
+        "90 g/cm³",
+        "4.5 g/cm³",
+        "0.11 g/cm³",
+        "9.0 g/cm³"
+      ],
+      "answer": "9.0 g/cm³",
+      "points": 5
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Floating & Sinking",
+      "question": "Object A has a density of 0.8 g/cm³ and Object B has a density of 1.2 g/cm³. Both are gently released into a tank of water (density 1.0 g/cm³). Which outcome occurs?",
+      "options": [
+        "Both objects float",
+        "A sinks and B floats",
+        "A floats and B sinks",
+        "Both objects sink"
+      ],
+      "answer": "A floats and B sinks",
+      "points": 5
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Mass vs Weight",
+      "question": "An astronaut brings a calibration mass from Earth to a lunar base where the gravitational field strength is much lower. How do the mass and weight of the object change upon arrival?",
+      "options": [
+        "Mass increases while weight decreases",
+        "Mass remains unchanged while weight decreases",
+        "Both mass and weight decrease",
+        "Mass decreases while weight remains unchanged"
+      ],
+      "answer": "Mass remains unchanged while weight decreases",
+      "points": 5
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "problemSet": "CALCULATION: Weight",
+      "question": "A shipping container has a mass of 15 kg. Taking the gravitational field strength as 9.8 N/kg, what is the gravitational force pulling it downwards?",
+      "options": [
+        "147 kg",
+        "24.8 N",
+        "147 N",
+        "1.53 N"
+      ],
+      "answer": "147 N",
+      "points": 5
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Pressure Definition",
+      "question": "Which statement correctly defines pressure in physics?",
+      "options": [
+        "Force multiplied by area",
+        "Force per unit area acting perpendicular to a surface",
+        "Mass per unit volume",
+        "Weight divided by gravitational field strength"
+      ],
+      "answer": "Force per unit area acting perpendicular to a surface",
+      "points": 5
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "problemSet": "CALCULATION: Basic Pressure",
+      "question": "A rectangular block exerts a force of 120 N on a horizontal surface. The contact area is 0.03 m². What pressure does the block exert on the surface?",
+      "options": [
+        "4000 Pa",
+        "3.6 Pa",
+        "400 Pa",
+        "3600 Pa"
+      ],
+      "answer": "4000 Pa",
+      "points": 10
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Pressure from Multiple Tyres",
+      "question": "A car rests on four identical tyres. The pressure exerted by the ground on one tyre is measured to be 20 kPa. What is the total pressure exerted by the ground on all four tyres combined?",
+      "options": [
+        "80 kPa",
+        "20 kPa",
+        "5 kPa",
+        "40 kPa"
+      ],
+      "answer": "20 kPa",
+      "points": 10
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "problemSet": "CALCULATION: Pressure & Dimension Change",
+      "question": "A solid cube of uniform material exerts a pressure P on a horizontal surface. If an identical cube is made from the same material but with each side length tripled, what pressure does the larger cube exert on the surface?",
+      "options": [
+        "P",
+        "9P",
+        "3P",
+        "27P"
+      ],
+      "answer": "3P",
+      "points": 15
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Pressure & Contact Area",
+      "question": "A person wearing stiletto heels stands on soft ground. The same person wearing flat shoes stands on the same ground. Why do the stiletto heels sink deeper?",
+      "options": [
+        "The person's weight is greater when wearing heels",
+        "The contact area is smaller, resulting in greater pressure for the same force",
+        "The ground becomes softer under the heels",
+        "The force exerted by the heels is larger"
+      ],
+      "answer": "The contact area is smaller, resulting in greater pressure for the same force",
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Inertia & Motion",
+      "question": "A spacecraft coasts through deep space with all thrusters switched off. It continues moving in a straight line at a constant speed indefinitely. What explains this sustained motion?",
+      "options": [
+        "Its velocity naturally increases without force",
+        "Space exerts a forward pushing force",
+        "No resultant external force is acting on it",
+        "Its engines are still producing minimal thrust"
+      ],
+      "answer": "No resultant external force is acting on it",
+      "points": 5
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "problemSet": "SCENARIO: Force & Acceleration Relationship",
+      "question": "Engineers test two identical conveyor carts on a straight track. Cart X is subjected to a net horizontal force exactly three times the magnitude of the net force applied to Cart Y. How does Cart X's acceleration compare to Cart Y's?",
+      "options": [
+        "It is the same as Cart Y's",
+        "It is one-third as large as Cart Y's",
+        "It is three times as large as Cart Y's",
+        "It is nine times as large as Cart Y's"
+      ],
+      "answer": "It is three times as large as Cart Y's",
+      "points": 5
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "problemSet": "CALCULATION: Acceleration from Net Force",
+      "question": "A 9 kg laboratory trolley is pushed along a frictionless track by a net horizontal force of 36 N. What is the magnitude of its acceleration?",
+      "options": [
+        "324 m/s²",
+        "0.25 m/s²",
+        "4.0 m/s²",
+        "27 m/s²"
+      ],
+      "answer": "4.0 m/s²",
+      "points": 10
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "problemSet": "SCENARIO: Action-Reaction Interaction",
+      "question": "When a sprinter pushes forcefully backward against their starting blocks at the beginning of a race, they accelerate forward. Which physical interaction is responsible for the forward acceleration?",
+      "options": [
+        "The sprinter's momentum transfers directly to the ground",
+        "Gravity pulls the sprinter forward along the track",
+        "The blocks exert an equal forward force on the sprinter's feet",
+        "Air resistance pushes the sprinter in the direction of motion"
+      ],
+      "answer": "The blocks exert an equal forward force on the sprinter's feet",
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "problemSet": "CALCULATION: Resultant Force & Motion",
+      "question": "A worker pulls a 5 kg crate horizontally to the right with a force of 40 N. Friction opposes the motion with a force of 15 N to the left. What is the crate's acceleration?",
+      "options": [
+        "8.0 m/s²",
+        "25.0 m/s²",
+        "5.0 m/s²",
+        "11.0 m/s²"
+      ],
+      "answer": "5.0 m/s²",
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "problemSet": "CALCULATION: Lift Cable Tension",
+      "question": "An elevator car with a total mass of 600 kg accelerates vertically upwards at 2.0 m/s². Taking g = 10 m/s², what is the tension in the supporting steel cable during this upward acceleration?",
+      "options": [
+        "4800 N",
+        "7200 N",
+        "6000 N",
+        "1200 N"
+      ],
+      "answer": "7200 N",
+      "points": 15
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "problemSet": "SCENARIO: Falling Object Equilibrium",
+      "question": "A parachutist jumps from an aircraft. After falling for a while, their downward speed stops increasing and remains constant. What physical condition has been reached at this stage?",
+      "options": [
+        "Upward air resistance has become zero",
+        "Upward air resistance equals downward weight, giving zero resultant force",
+        "Downward weight exceeds upward air resistance, causing constant acceleration",
+        "Upward air resistance exceeds downward weight, causing upward acceleration"
+      ],
+      "answer": "Upward air resistance equals downward weight, giving zero resultant force",
+      "points": 10
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "problemSet": "SCENARIO: Vacuum Chamber Drop",
+      "question": "In a vacuum chamber, a 5 kg steel ball and a 50 g feather are dropped simultaneously from the same height. With air resistance eliminated, what observation matches the expected outcome?",
+      "options": [
+        "Both accelerate at the same rate but the heavier object lands first",
+        "The feather accelerates faster due to lower inertia",
+        "The steel ball accelerates faster and lands first due to greater weight",
+        "Both accelerate at the same rate and reach the floor simultaneously"
+      ],
+      "answer": "Both accelerate at the same rate and reach the floor simultaneously",
+      "points": 10
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "problemSet": "CALCULATION: Planetary Weight Comparison",
+      "question": "A scientific probe weighs 80 N on Earth (where g = 10 N/kg). It lands on Mars, where the gravitational field strength is 4 N/kg. What is the probe's mass, and what is its weight on Mars?",
+      "options": [
+        "Mass 8 kg, Weight 80 N",
+        "Mass 80 kg, Weight 320 N",
+        "Mass 8 kg, Weight 32 N",
+        "Mass 20 kg, Weight 80 N"
+      ],
+      "answer": "Mass 8 kg, Weight 32 N",
+      "points": 10
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Force Pair Identification",
+      "question": "A textbook rests motionless on a horizontal table. The Earth pulls the book downwards (weight), and the table pushes the book upwards (normal force). Despite being equal and opposite, why are these two forces NOT considered an action-reaction pair?",
+      "options": [
+        "They act in the same direction",
+        "They are not equal in magnitude",
+        "They act on different objects",
+        "They both act on the same object (the book)"
+      ],
+      "answer": "They both act on the same object (the book)",
+      "points": 10
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "problemSet": "PRACTICAL: Measuring Pressure Experiment",
+      "question": "A student wants to measure the pressure exerted by a rectangular block on a table. Which measurements are essential to calculate this pressure?",
+      "options": [
+        "Mass of block and height of block only",
+        "Weight of block and area of contact surface only",
+        "Volume of block and density of material only",
+        "Length, width, and height of block only"
+      ],
+      "answer": "Weight of block and area of contact surface only",
+      "points": 10
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "problemSet": "CALCULATION: Pressure & Area Change",
+      "question": "A brick exerts a pressure of 2500 Pa on the ground when resting on its largest face. If the same brick is turned to rest on its smallest face, which has one-fifth the area of the largest face, what pressure does it now exert?",
+      "options": [
+        "2500 Pa",
+        "500 Pa",
+        "12500 Pa",
+        "1250 Pa"
+      ],
+      "answer": "12500 Pa",
+      "points": 10
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "problemSet": "PRACTICAL: Experimental Accuracy",
+      "question": "A group is determining the density of a small metal cube. Which of the following equipment changes would DECREASE the accuracy of their final result?",
+      "options": [
+        "Repeating the mass measurement three times and averaging",
+        "Using a digital balance with 0.01 g precision instead of 1 g",
+        "Replacing a standard ruler with vernier calipers",
+        "Using a plastic ruler marked only in centimetres instead of millimetres"
+      ],
+      "answer": "Using a plastic ruler marked only in centimetres instead of millimetres",
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "problemSet": "CALCULATION: Vertical Thrust",
+      "question": "A model rocket has a total mass of 2.0 kg. At launch, its engine produces an upward thrust of 30 N. Taking g = 10 m/s² and ignoring air resistance, what is the rocket's initial upward acceleration?",
+      "options": [
+        "20.0 m/s²",
+        "10.0 m/s²",
+        "5.0 m/s²",
+        "15.0 m/s²"
+      ],
+      "answer": "5.0 m/s²",
+      "points": 15
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "problemSet": "FINAL CHALLENGE: Algebraic Force Expression",
+      "question": "A wooden crate of mass m is pulled horizontally across a rough floor by an applied force F. A constant frictional force f opposes the motion. Which algebraic expression correctly gives the crate's horizontal acceleration a?",
+      "options": [
+        "a = (m - F) / f",
+        "a = (F + f) / m",
+        "a = F / m - f",
+        "a = (F - f) / m"
+      ],
+      "answer": "a = (F - f) / m",
+      "points": 15
+    }
+  ]
+}
