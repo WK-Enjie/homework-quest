@@ -497,91 +497,104 @@ body {
         grid-template-columns: repeat(2, 1fr);
     }
 }
-/* Problem Set Label */
-.problem-set-label {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    color: white;
-    padding: 10px 15px;
-    border-radius: 10px;
-    margin-bottom: 15px;
-    font-weight: 600;
-    font-size: 0.95em;
-}
 
-/* Question Hint (optional, if you want to use hints) */
-.question-hint {
-    background: #fff3cd;
-    border-left: 4px solid #ffc107;
-    padding: 10px 15px;
-    margin: 10px 0;
-    border-radius: 5px;
-    color: #856404;
-    font-size: 0.9em;
-}
-/* ==========================================
-   FRACTION FORMATTING STYLES
-   ========================================== */
+/* ============================================
+   ENHANCED FRACTION FORMATTING STYLES
+   ============================================ */
 
-/* Inline fraction style (3/4 using sup/sub) */
+/* Diagonal fraction style (sup/sub) */
 .fraction {
     display: inline-block;
     white-space: nowrap;
+    position: relative;
+    vertical-align: middle;
+    margin: 0 0.1em;
 }
 
 .fraction sup {
-    font-size: 0.75em;
     vertical-align: super;
+    font-size: 0.7em;
     line-height: 0;
 }
 
 .fraction sub {
-    font-size: 0.75em;
     vertical-align: sub;
+    font-size: 0.7em;
     line-height: 0;
 }
 
-/* Stacked fraction style (vertical layout) */
+/* Stacked fraction style (horizontal bar) */
 .fraction-stacked {
-    display: inline-block;
+    display: inline-flex;
+    flex-direction: column;
     vertical-align: middle;
     text-align: center;
-    margin: 0 0.2em;
+    font-size: 1em;
+    margin: 0 0.25em;
+    line-height: 1;
 }
 
 .frac-top {
-    display: block;
-    font-size: 0.85em;
-    line-height: 1;
-    padding-bottom: 1px;
-}
-
-.frac-line {
-    display: block;
-    border-top: 1px solid currentColor;
-    margin: 0 0.1em;
+    padding: 0.15em 0.35em 0.08em 0.35em;
+    border-bottom: 1.5px solid currentColor;
+    line-height: 1.3;
+    min-width: 1.2em;
 }
 
 .frac-bottom {
-    display: block;
-    font-size: 0.85em;
-    line-height: 1;
-    padding-top: 1px;
+    padding: 0.08em 0.35em 0.15em 0.35em;
+    line-height: 1.3;
+    min-width: 1.2em;
 }
 
-/* Make fractions look good in different contexts */
-.question-text .fraction,
-.question-text .fraction-stacked {
-    font-weight: 600;
-    color: #667eea;
+.frac-line {
+    display: none; /* Border is on .frac-top */
 }
 
-.option-btn .fraction,
+/* Context-specific adjustments */
+.question-text .fraction-stacked,
 .option-btn .fraction-stacked {
-    font-weight: 500;
+    font-size: 1.05em;
+    margin: 0 0.3em;
 }
 
-/* Larger fractions in results */
-.result-question .fraction,
-.result-question .fraction-stacked {
-    font-size: 1.1em;
+.result-item .fraction-stacked {
+    font-size: 1em;
+}
+
+/* Ensure fractions in buttons are vertically centered */
+.option-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 50px;
+    padding: 12px 20px;
+}
+
+/* For longer algebraic expressions in fractions */
+.fraction-stacked .frac-top,
+.fraction-stacked .frac-bottom {
+    max-width: 250px;
+    word-wrap: break-word;
+}
+
+/* Prevent fractions from breaking across lines */
+.question-text,
+.option-btn,
+.result-item {
+    overflow-wrap: break-word;
+}
+
+/* Print-friendly */
+@media print {
+    .fraction-stacked {
+        page-break-inside: avoid;
+    }
+}
+
+/* Dark mode support (optional) */
+@media (prefers-color-scheme: dark) {
+    .frac-top {
+        border-bottom-color: rgba(255, 255, 255, 0.8);
+    }
 }
