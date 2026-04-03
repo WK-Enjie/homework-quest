@@ -1,0 +1,288 @@
+{
+  "questTitle": "O-Level Physics: DC Circuits & Variable Resistors Worksheet 2",
+  "subject": "Physics",
+  "difficulty": "Hard",
+  "description": "Advanced DC circuit analysis focusing on series/parallel networks, potential dividers, variable resistors, switch operations, and meter placements. Aligned with Singapore O-Level Physics standards. Questions require multi-step reasoning and precise application of Ohm's Law and circuit rules. Show all working for calculations.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Series Circuits",
+      "question": "Three identical resistors, each of resistance 2 Ω, are connected in series across a constant voltage supply. Which statement accurately describes the circuit?",
+      "options": [
+        "Total resistance is 4 Ω, and voltage increases along the chain",
+        "Total resistance is 0.67 Ω, and voltage divides equally",
+        "Total resistance is 6 Ω, and current is identical through each resistor",
+        "Total resistance is 2 Ω, and current splits at each junction"
+      ],
+      "answer": "Total resistance is 6 Ω, and current is identical through each resistor",
+      "points": 5
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Parallel Circuits",
+      "question": "Three identical resistors, each of resistance 2 Ω, are connected in parallel across a constant voltage supply. What is the equivalent resistance of the combination?",
+      "options": [
+        "1 Ω",
+        "0.67 Ω",
+        "6 Ω",
+        "2 Ω"
+      ],
+      "answer": "0.67 Ω",
+      "points": 5
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "problemSet": "CHALLENGE: Impossible Resistance",
+      "question": "You are given three identical resistors, each rated at 2.0 Ω. Using any valid combination of series and parallel connections, which of the following equivalent resistances cannot be achieved?",
+      "options": [
+        "0.67 Ω",
+        "3.0 Ω",
+        "1.5 Ω",
+        "6.0 Ω"
+      ],
+      "answer": "1.5 Ω",
+      "points": 10
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "problemSet": "CALCULATION: Mixed Configuration",
+      "question": "Three 2.0 Ω resistors are arranged such that two are connected in series, and this series pair is then connected in parallel with the third resistor. Determine the total equivalent resistance of the arrangement.",
+      "options": [
+        "6.0 Ω",
+        "2.0 Ω",
+        "4.0 Ω",
+        "1.33 Ω"
+      ],
+      "answer": "1.33 Ω",
+      "points": 10
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "problemSet": "CALCULATION: Potential Divider",
+      "question": "A 12.0 V DC supply is connected across two resistors in series: R₁ = 4.0 Ω and R₂ = 8.0 Ω. A high-resistance voltmeter is connected across R₂. What reading does the voltmeter display?",
+      "options": [
+        "12.0 V",
+        "6.0 V",
+        "4.0 V",
+        "8.0 V"
+      ],
+      "answer": "8.0 V",
+      "points": 10
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Variable Resistor in Series",
+      "question": "A lamp is connected in series with a rheostat across a constant voltage supply. If the resistance of the rheostat is gradually increased, what happens to the current in the circuit and the brightness of the lamp?",
+      "options": [
+        "Current decreases, brightness decreases",
+        "Current stays constant, brightness decreases",
+        "Current decreases, brightness stays constant",
+        "Current increases, brightness increases"
+      ],
+      "answer": "Current decreases, brightness decreases",
+      "points": 10
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "problemSet": "CALCULATION: Variable Resistor Potential Divider",
+      "question": "A 15.0 V battery is connected across a fixed 50 Ω resistor in series with a variable resistor set to 25 Ω. The output voltage is measured across the variable resistor. What is the reading on the voltmeter?",
+      "options": [
+        "15.0 V",
+        "7.5 V",
+        "10.0 V",
+        "5.0 V"
+      ],
+      "answer": "5.0 V",
+      "points": 10
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "problemSet": "CHALLENGE: Advanced Impossible Resistance",
+      "question": "Given three resistors of 4.0 Ω, 6.0 Ω, and 12.0 Ω, which of the following equivalent resistances is impossible to achieve using any series-parallel combination?",
+      "options": [
+        "5.0 Ω",
+        "22.0 Ω",
+        "2.0 Ω",
+        "8.0 Ω"
+      ],
+      "answer": "5.0 Ω",
+      "points": 15
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "problemSet": "CALCULATION: Mixed Circuit I",
+      "question": "A circuit consists of a 20.0 V supply, a 4.0 Ω resistor in series, and a parallel combination of a 12.0 Ω resistor and a 6.0 Ω resistor. Calculate the total equivalent resistance of the circuit.",
+      "options": [
+        "6.0 Ω",
+        "10.0 Ω",
+        "8.0 Ω",
+        "22.0 Ω"
+      ],
+      "answer": "8.0 Ω",
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "problemSet": "CALCULATION: Mixed Circuit II",
+      "question": "Using the circuit described in the previous question, calculate the total current drawn from the 20.0 V supply.",
+      "options": [
+        "3.3 A",
+        "5.0 A",
+        "1.6 A",
+        "2.5 A"
+      ],
+      "answer": "2.5 A",
+      "points": 5
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "problemSet": "CALCULATION: Mixed Circuit III",
+      "question": "For the same circuit, determine the potential difference across the parallel combination of the 12.0 Ω and 6.0 Ω resistors.",
+      "options": [
+        "20.0 V",
+        "10.0 V",
+        "6.0 V",
+        "14.0 V"
+      ],
+      "answer": "10.0 V",
+      "points": 10
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "problemSet": "CALCULATION: Branch Current",
+      "question": "If the potential difference across a parallel branch is 10.0 V, what current flows through the 6.0 Ω resistor within that branch?",
+      "options": [
+        "0.6 A",
+        "1.67 A",
+        "3.0 A",
+        "60.0 A"
+      ],
+      "answer": "1.67 A",
+      "points": 10
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Potential Divider Behaviour",
+      "question": "A potential divider consists of a fixed resistor R₁ and a variable resistor R₂ connected in series to a constant voltage supply. The output voltage is taken across R₂. If the resistance of R₂ is decreased, what happens to the output voltage and the total current in the circuit?",
+      "options": [
+        "Output voltage decreases, current decreases",
+        "Output voltage increases, current increases",
+        "Output voltage decreases, current increases",
+        "Output voltage increases, current decreases"
+      ],
+      "answer": "Output voltage decreases, current increases",
+      "points": 10
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "problemSet": "CALCULATION: Finding Unknown Resistance",
+      "question": "A 10.0 V battery is connected to a 5.0 Ω resistor in series with a parallel combination of a 10.0 Ω resistor and an unknown resistor R. The total current drawn from the battery is 1.5 A. What is the value of R?",
+      "options": [
+        "5.0 Ω",
+        "20.0 Ω",
+        "10.0 Ω",
+        "2.0 Ω"
+      ],
+      "answer": "2.0 Ω",
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Circuit Modification",
+      "question": "Two 4.0 Ω resistors are connected in series to a constant voltage source. If a third 4.0 Ω resistor is connected in parallel with one of the original resistors, how does the total circuit resistance change?",
+      "options": [
+        "It increases",
+        "It drops to zero",
+        "It remains unchanged",
+        "It decreases"
+      ],
+      "answer": "It decreases",
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "problemSet": "CALCULATION: Variable Resistor Limits",
+      "question": "A variable resistor (0–20 Ω) is connected in series with a 10 Ω fixed resistor across a 15 V supply. What is the minimum current that can flow in this circuit?",
+      "options": [
+        "1.0 A",
+        "0.75 A",
+        "0.5 A",
+        "1.5 A"
+      ],
+      "answer": "0.5 A",
+      "points": 10
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Switch Operation",
+      "question": "A 12 V battery is connected in series with a 3 Ω resistor and a 9 Ω resistor. A switch is wired in parallel across the 9 Ω resistor. When the switch is closed, what happens to the current supplied by the battery?",
+      "options": [
+        "It remains unchanged",
+        "It becomes zero",
+        "It increases",
+        "It decreases"
+      ],
+      "answer": "It increases",
+      "points": 10
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Potential Divider Adjustment",
+      "question": "In a potential divider circuit with a fixed supply voltage, R₁ and R₂ are in series, and the output is taken across R₂. If the resistance of R₁ is reduced while R₂ remains constant, how does the output voltage change?",
+      "options": [
+        "It increases",
+        "It decreases",
+        "It fluctuates unpredictably",
+        "It remains constant"
+      ],
+      "answer": "It increases",
+      "points": 10
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "problemSet": "CALCULATION: Mixed Circuit Current Division",
+      "question": "A 12.0 V supply powers a circuit where a 4.0 Ω resistor is in series with a parallel combination of a 12.0 Ω resistor and a 6.0 Ω resistor. What is the current flowing specifically through the 12.0 Ω resistor?",
+      "options": [
+        "1.5 A",
+        "2.0 A",
+        "0.5 A",
+        "1.0 A"
+      ],
+      "answer": "0.5 A",
+      "points": 15
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "problemSet": "FINAL CHALLENGE: Circuit Design Logic",
+      "question": "A 24.0 V battery is connected in series with three components: a 3.0 Ω fixed resistor, a variable resistor R, and an 4.0 Ω fixed resistor. A high-resistance voltmeter is connected across the variable resistor R. At what setting of R will the voltmeter read exactly 10.0 V?",
+      "options": [
+        "10.0 Ω",
+        "4.0 Ω",
+        "5.0 Ω",
+        "6.0 Ω"
+      ],
+      "answer": "5.0 Ω",
+      "points": 15
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "questTitle": "O-Level Physics: DC Circuits & Components Worksheet 2",
+  "subject": "Physics",
+  "difficulty": "Hard",
+  "description": "Advanced DC circuit analysis focusing on series/parallel networks, potential dividers, LDRs, NTC thermistors, variable resistors, switch operations, and meter placements. Aligned with Singapore O-Level Physics standards. Questions require multi-step reasoning and precise application of Ohm's Law and circuit rules. Show all working for calculations.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: LDR Circuit Behaviour",
+      "question": "An LDR is connected in series with a fixed resistor to a constant voltage supply. As the light intensity falling on the LDR increases, which of the following correctly describes the change in circuit current and the potential difference across the fixed resistor?",
+      "options": [
+        "Current increases, p.d. stays constant",
+        "Current stays constant, p.d. decreases",
+        "Current increases, p.d. increases",
+        "Current decreases, p.d. decreases"
+      ],
+      "answer": "Current increases, p.d. increases",
+      "points": 5
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Thermistor Circuit Behaviour",
+      "question": "A negative temperature coefficient (NTC) thermistor is used in a potential divider circuit to monitor temperature. The voltmeter is connected across the thermistor. As the engine temperature rises significantly, what happens to the voltmeter reading?",
+      "options": [
+        "It fluctuates randomly",
+        "It increases",
+        "It remains unchanged",
+        "It decreases"
+      ],
+      "answer": "It decreases",
+      "points": 5
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "problemSet": "CHALLENGE: Equivalent Resistance Limits",
+      "question": "Three identical resistors, each of resistance 2.0 Ω, are available. Which of the following equivalent resistances CANNOT be obtained by arranging them in any valid series-parallel combination?",
+      "options": [
+        "3.0 Ω",
+        "0.67 Ω",
+        "6.0 Ω",
+        "1.5 Ω"
+      ],
+      "answer": "1.5 Ω",
+      "points": 10
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "problemSet": "CALCULATION: Mixed Network Analysis",
+      "question": "A circuit contains a 12.0 V battery connected to a 4.0 Ω resistor in series with a parallel combination of a 6.0 Ω resistor and a 3.0 Ω resistor. What is the current flowing specifically through the 3.0 Ω resistor?",
+      "options": [
+        "2.0 A",
+        "1.33 A",
+        "0.67 A",
+        "4.0 A"
+      ],
+      "answer": "1.33 A",
+      "points": 10
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "problemSet": "CALCULATION: Potential Divider Ratio",
+      "question": "In a potential divider circuit consisting of two resistors P and Q connected in series across a 20.0 V supply, the output voltage is measured across resistor Q. If the resistance of P is exactly twice that of Q, what is the output voltage?",
+      "options": [
+        "10.0 V",
+        "6.67 V",
+        "4.67 V",
+        "13.33 V"
+      ],
+      "answer": "6.67 V",
+      "points": 10
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: LDR & Voltmeter Placement",
+      "question": "An LDR and a 5.0 kΩ fixed resistor are connected in series to a 9.0 V battery. A high-resistance voltmeter is connected across the fixed resistor. If the circuit is moved from a well-lit room to a completely dark environment, how does the voltmeter reading change?",
+      "options": [
+        "It increases to 9.0 V",
+        "It remains unchanged",
+        "It becomes zero",
+        "It decreases"
+      ],
+      "answer": "It decreases",
+      "points": 10
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Thermistor in Parallel Branch",
+      "question": "A thermistor (NTC) is connected in parallel with a fixed 10 Ω resistor. This combination is then connected in series with a 5 Ω resistor to a constant voltage supply. An ammeter measures the total current from the supply. When the thermistor is heated, what happens to the ammeter reading?",
+      "options": [
+        "It first increases then drops to zero",
+        "It increases",
+        "It remains constant",
+        "It decreases"
+      ],
+      "answer": "It increases",
+      "points": 10
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Switch Shorting",
+      "question": "A 15.0 V battery is connected in series with two identical lamps, X and Y. A switch is connected in parallel with lamp X only. Initially, the switch is open. When the switch is closed, which statement correctly describes the changes?",
+      "options": [
+        "Both lamps go out, current drops to zero",
+        "Lamp X goes out, lamp Y becomes brighter, total current increases",
+        "Lamp X dims slightly, lamp Y stays at same brightness",
+        "Lamp X goes out, lamp Y dims, total current decreases"
+      ],
+      "answer": "Lamp X goes out, lamp Y becomes brighter, total current increases",
+      "points": 10
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "problemSet": "CALCULATION: Circuit Modification Ratio",
+      "question": "A 12.0 V battery with negligible internal resistance is connected in series with a 6.0 Ω resistor and a 3.0 Ω resistor. A switch is wired in parallel across the 3.0 Ω resistor. Let I_open be the current when the switch is open, and I_closed be the current when the switch is closed. What is the ratio I_closed / I_open?",
+      "options": [
+        "1.5",
+        "0.67",
+        "2.0",
+        "3.0"
+      ],
+      "answer": "1.5",
+      "points": 10
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "problemSet": "CALCULATION: Thermistor Resistance Determination",
+      "question": "An NTC thermistor is connected in series with a 2.0 kΩ fixed resistor across a 10.0 V supply. A high-resistance voltmeter connected across the fixed resistor reads 4.0 V at a specific operating temperature. What is the resistance of the thermistor at this temperature?",
+      "options": [
+        "3.0 kΩ",
+        "2.0 kΩ",
+        "5.0 kΩ",
+        "1.33 kΩ"
+      ],
+      "answer": "3.0 kΩ",
+      "points": 10
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "problemSet": "CALCULATION: Variable Resistor Setting",
+      "question": "A 24.0 V battery is connected across a fixed 12.0 Ω resistor and a variable resistor in series. The output voltage is taken across the fixed resistor. At what resistance setting of the variable resistor will the output voltage be exactly 8.0 V?",
+      "options": [
+        "24.0 Ω",
+        "12.0 Ω",
+        "6.0 Ω",
+        "18.0 Ω"
+      ],
+      "answer": "24.0 Ω",
+      "points": 10
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Component Comparison",
+      "question": "Two separate potential divider circuits are set up identically. Circuit A contains an LDR, and Circuit B contains an NTC thermistor. In both circuits, the voltmeter measures the potential difference across the variable component. Which environmental change will cause the voltmeter reading to DECREASE in BOTH circuits?",
+      "options": [
+        "Decreasing light intensity and decreasing temperature",
+        "Increasing light intensity and increasing temperature",
+        "Decreasing light intensity and increasing temperature",
+        "Increasing light intensity and decreasing temperature"
+      ],
+      "answer": "Increasing light intensity and increasing temperature",
+      "points": 10
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "problemSet": "CALCULATION: Mixed Circuit Main Current",
+      "question": "A 12.0 V supply powers a circuit where a 4.0 Ω resistor is in series with a parallel combination of a 12.0 Ω resistor and a 6.0 Ω resistor. An ammeter is placed in the main branch before the parallel junction. What is the ammeter reading?",
+      "options": [
+        "1.5 A",
+        "2.0 A",
+        "3.0 A",
+        "0.5 A"
+      ],
+      "answer": "1.5 A",
+      "points": 10
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Meter Placement Error",
+      "question": "A student measures the resistance of a filament lamp using a voltmeter and an ammeter. The ammeter is placed in series with the lamp, and the voltmeter is connected directly across the lamp. If the student moves the voltmeter connection so it now measures the voltage across both the lamp AND the ammeter, how will the calculated resistance (R = V/I) compare to the actual resistance of the lamp?",
+      "options": [
+        "It will read zero",
+        "It will be lower than the actual resistance",
+        "It will be exactly the same",
+        "It will be higher than the actual resistance"
+      ],
+      "answer": "It will be higher than the actual resistance",
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "problemSet": "CHALLENGE: Resistance Combinations",
+      "question": "Using three resistors with values of 3.0 Ω, 6.0 Ω, and 9.0 Ω, which of the following total resistances is IMPOSSIBLE to achieve through any series-parallel arrangement?",
+      "options": [
+        "5.0 Ω",
+        "18.0 Ω",
+        "11.0 Ω",
+        "2.0 Ω"
+      ],
+      "answer": "2.0 Ω",
+      "points": 10
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "problemSet": "CALCULATION: Internal Resistance",
+      "question": "A battery has an e.m.f. of 12.0 V and an internal resistance of 2.0 Ω. It is connected to an external load resistor of 4.0 Ω. What is the potential difference measured across the terminals of the battery when the circuit is operating?",
+      "options": [
+        "10.0 V",
+        "6.0 V",
+        "8.0 V",
+        "12.0 V"
+      ],
+      "answer": "8.0 V",
+      "points": 10
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "problemSet": "CALCULATION: Sensor Threshold Design",
+      "question": "In a temperature sensing circuit, an NTC thermistor and a fixed resistor are connected in series to a 6.0 V supply. The alarm is triggered when the voltage across the fixed resistor exceeds 4.0 V. If the thermistor's resistance is 4.0 kΩ at room temperature, what must be the minimum resistance of the fixed resistor to trigger the alarm at this temperature?",
+      "options": [
+        "8.0 kΩ",
+        "2.0 kΩ",
+        "4.0 kΩ",
+        "6.0 kΩ"
+      ],
+      "answer": "8.0 kΩ",
+      "points": 10
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "problemSet": "CALCULATION: LDR Voltage Change",
+      "question": "An LDR and a fixed 10 kΩ resistor are connected in series to a 12.0 V supply. Initially, the LDR resistance is 20 kΩ. As light intensity increases, the LDR resistance drops to 5.0 kΩ. Calculate the change in potential difference across the fixed resistor.",
+      "options": [
+        "Increases by 8.0 V",
+        "Decreases by 4.0 V",
+        "Increases by 2.0 V",
+        "Increases by 4.0 V"
+      ],
+      "answer": "Increases by 4.0 V",
+      "points": 10
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "problemSet": "CONCEPT CHECK: Switch & Voltmeter Logic",
+      "question": "Two resistors, R1 and R2, are in series across a constant voltage source. A voltmeter with very high resistance measures the voltage across R1. If a low-resistance switch is connected in parallel with R2 and then closed, what happens to the voltmeter reading across R1?",
+      "options": [
+        "It remains unchanged",
+        "It becomes zero",
+        "It increases",
+        "It decreases"
+      ],
+      "answer": "It increases",
+      "points": 10
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "problemSet": "FINAL CHALLENGE: Reverse Engineering Resistance",
+      "question": "A circuit is powered by a 30.0 V supply. It contains a 15.0 Ω resistor (R1) in series with a parallel network of a 20.0 Ω resistor (R2) and an unknown resistor (R3). The total current drawn from the supply is 1.0 A. Determine the resistance of R3.",
+      "options": [
+        "30.0 Ω",
+        "20.0 Ω",
+        "60.0 Ω",
+        "15.0 Ω"
+      ],
+      "answer": "60.0 Ω",
+      "points": 15
+    }
+  ]
+}
