@@ -131,7 +131,7 @@
       "id": 13,
       "type": "mcq",
       "problemSet": "C: Energy Transfer (10% Rule)",
-      "question": "A lake has 50,000 kJ in tiny floating algae. Tiny animals eat the algae, and small fish eat the tiny animals. If the tiny animals keep only 20% of the energy they eat, and small fish keep 15% of what they eat, how much energy is available to the small fish?",
+      "question": "A lake has 50,000 kJ of energy stored in tiny floating algae (this is the energy left after the algae have used some for their own life processes). Tiny animals eat the algae and keep only 20% of the energy they eat. Small fish eat the tiny animals and keep 15% of the energy they eat. How much energy is available to the small fish?",
       "options": ["10,000 kJ", "7,500 kJ", "1,500 kJ", "1,000 kJ"],
       "answer": "1,500 kJ",
       "points": 10
