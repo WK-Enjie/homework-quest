@@ -391,18 +391,18 @@
   "points": 10
     },
     {
-      "id": 35,
-      "type": "mcq",
-      "problemSet": "I: Advanced Application",
-      "question": "In a pond, there are 1,000 kg of floating algae. The tiny animals that eat the algae have a total weight of 150 kg. The small fish that eat the tiny animals have a total weight of 15 kg. The large fish that eat the small fish have a total weight of 1.5 kg. What does this pattern show?",
-      "options": [
-        "Energy is created at each level",
-        "Weight (biomass) decreases at each level because energy is lost",
-        "Producers have the least weight",
-        "Top predators have the most weight"
-      ],
-      "answer": "Weight (biomass) decreases at each level because energy is lost",
-      "points": 10
+     "id": 35,
+  "type": "mcq",
+  "problemSet": "I: Advanced Application",
+  "question": "In a pond, there are millions of tiny floating algae. There are fewer tiny animals that eat the algae. There are even fewer small fish that eat the tiny animals. And very few large fish that eat the small fish. What does this pattern show?",
+  "options": [
+    "Energy is created at each level",
+    "The number of organisms decreases at each level because energy is lost",
+    "Producers have the smallest number",
+    "Top predators have the largest number"
+  ],
+  "answer": "The number of organisms decreases at each level because energy is lost",
+  "points": 10
     },
     {
       "id": 36,
