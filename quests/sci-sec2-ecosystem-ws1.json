@@ -1,0 +1,473 @@
+{
+  "questTitle": "Ecosystems: Summary Review Worksheet",
+  "subject": "Biology",
+  "difficulty": "Medium-Hard",
+  "description": "Complete review of ecosystems: basic terms, producers & consumers, energy transfer (10% rule), food chains & webs, relationships (mutualism, parasitism, predator-prey), decomposers, and behavioural/structural adaptations. Read each passage and question carefully.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "mcq",
+      "problemSet": "A: Ecosystem Terms",
+      "question": "All the different populations of plants, animals, and other organisms living and interacting in a forest make up the:",
+      "options": ["Ecosystem", "Population", "Community", "Habitat"],
+      "answer": "Community",
+      "points": 5
+    },
+    {
+      "id": 2,
+      "type": "mcq",
+      "problemSet": "A: Ecosystem Terms",
+      "question": "The place where a specific organism lives, which provides food, water, shelter, and the right conditions, is its:",
+      "options": ["Niche", "Ecosystem", "Habitat", "Biome"],
+      "answer": "Habitat",
+      "points": 5
+    },
+    {
+      "id": 3,
+      "type": "mcq",
+      "problemSet": "A: Ecosystem Terms",
+      "question": "A group of the same species of frogs living together in a pond is a:",
+      "options": ["Community", "Population", "Ecosystem", "Family"],
+      "answer": "Population",
+      "points": 5
+    },
+    {
+      "id": 4,
+      "type": "mcq",
+      "problemSet": "A: Ecosystem Terms",
+      "question": "Which includes both living (biotic) and non‑living (abiotic) components interacting together?",
+      "options": ["Population", "Community", "Ecosystem", "Habitat"],
+      "answer": "Ecosystem",
+      "points": 5
+    },
+    {
+      "id": 5,
+      "type": "mcq",
+      "problemSet": "B: Producers, Consumers & Decomposers",
+      "question": "Which of the following is a primary producer?",
+      "options": ["Rabbit", "Grass", "Fox", "Mushroom"],
+      "answer": "Grass",
+      "points": 5
+    },
+    {
+      "id": 6,
+      "type": "mcq",
+      "problemSet": "B: Producers, Consumers & Decomposers",
+      "question": "In the food chain grass → grasshopper → frog → snake, the frog is a:",
+      "options": ["Primary consumer", "Secondary consumer", "Tertiary consumer", "Decomposer"],
+      "answer": "Secondary consumer",
+      "points": 5
+    },
+    {
+      "id": 7,
+      "type": "mcq",
+      "problemSet": "B: Producers, Consumers & Decomposers",
+      "question": "Which organism is a primary consumer?",
+      "options": ["Eagle", "Snake", "Grasshopper", "Oak tree"],
+      "answer": "Grasshopper",
+      "points": 5
+    },
+    {
+      "id": 8,
+      "type": "mcq",
+      "problemSet": "B: Producers, Consumers & Decomposers",
+      "question": "A snake that eats a frog (which eats grasshoppers) is a:",
+      "options": ["Primary consumer", "Secondary consumer", "Tertiary consumer", "Producer"],
+      "answer": "Tertiary consumer",
+      "points": 5
+    },
+    {
+      "id": 9,
+      "type": "mcq",
+      "problemSet": "B: Producers, Consumers & Decomposers",
+      "question": "Which best describes decomposers (e.g., bacteria and fungi)?",
+      "options": [
+        "They make their own food using sunlight",
+        "They eat only plants",
+        "They break down dead organisms and waste, returning nutrients to the soil",
+        "They are always top predators"
+      ],
+      "answer": "They break down dead organisms and waste, returning nutrients to the soil",
+      "points": 5
+    },
+    {
+      "id": 10,
+      "type": "mcq",
+      "problemSet": "B: Producers, Consumers & Decomposers",
+      "question": "Without decomposers, which would happen?",
+      "options": [
+        "Plants would grow faster",
+        "Dead organisms would pile up and nutrients would become trapped",
+        "Energy flow would increase",
+        "Predators would have no food"
+      ],
+      "answer": "Dead organisms would pile up and nutrients would become trapped",
+      "points": 5
+    },
+    {
+      "id": 11,
+      "type": "mcq",
+      "problemSet": "C: Energy Transfer (10% Rule)",
+      "question": "In a grassland, grass stores 20,000 kJ of energy. A rabbit eats the grass, and a fox eats the rabbit. Approximately how much energy reaches the fox? (Assume 10% passes to the next eater)",
+      "options": ["20,000 kJ", "2,000 kJ", "200 kJ", "20 kJ"],
+      "answer": "200 kJ",
+      "points": 5
+    },
+    {
+      "id": 12,
+      "type": "mcq",
+      "problemSet": "C: Energy Transfer (10% Rule)",
+      "question": "Why is only about 10% of energy passed from one level in a food chain to the next?",
+      "options": [
+        "Higher‑level animals eat less food",
+        "Most energy is lost as heat through respiration, and some is not eaten or is lost in waste",
+        "The sun's energy is weak",
+        "Predators are cold‑blooded"
+      ],
+      "answer": "Most energy is lost as heat through respiration, and some is not eaten or is lost in waste",
+      "points": 5
+    },
+    {
+      "id": 13,
+      "type": "mcq",
+      "problemSet": "C: Energy Transfer (10% Rule)",
+      "question": "A lake has 50,000 kJ in tiny floating algae. Tiny animals eat the algae, and small fish eat the tiny animals. If the tiny animals keep only 20% of the energy they eat, and small fish keep 15% of what they eat, how much energy is available to the small fish?",
+      "options": ["10,000 kJ", "7,500 kJ", "1,500 kJ", "1,000 kJ"],
+      "answer": "1,500 kJ",
+      "points": 10
+    },
+    {
+      "id": 14,
+      "type": "mcq",
+      "problemSet": "C: Energy Transfer (10% Rule)",
+      "question": "A food chain is: grass (20,000 kJ) → vole → snake → hawk. Each level loses 90% of its energy to living processes and waste. How much energy reaches the hawk?",
+      "options": ["20 kJ", "200 kJ", "2,000 kJ", "18,000 kJ"],
+      "answer": "20 kJ",
+      "points": 10
+    },
+    {
+      "id": 15,
+      "type": "mcq",
+      "problemSet": "D: Food Chains, Webs & Population Changes",
+      "question": "Which statement about food webs is true?",
+      "options": [
+        "Food webs show only one path of energy flow",
+        "Food webs are more realistic because organisms often eat many types of prey",
+        "Food chains always have at least five levels",
+        "Food webs do not include decomposers"
+      ],
+      "answer": "Food webs are more realistic because organisms often eat many types of prey",
+      "points": 5
+    },
+    {
+      "id": 16,
+      "type": "mcq",
+      "problemSet": "D: Food Chains, Webs & Population Changes",
+      "question": "A food chain: grass → grasshopper → frog → snake → eagle. If the frog population drops sharply due to disease, what is the most likely short‑term result?",
+      "options": [
+        "Grasshoppers increase, snakes decrease",
+        "Grass increases, eagles increase",
+        "All populations decrease",
+        "Grasshoppers decrease, snakes increase"
+      ],
+      "answer": "Grasshoppers increase, snakes decrease",
+      "points": 5
+    },
+    {
+      "id": 17,
+      "type": "mcq",
+      "problemSet": "D: Food Chains, Webs & Population Changes",
+      "question": "Removing a top predator from a food web often leads to:",
+      "options": [
+        "Immediate collapse of all plants",
+        "Too many plant‑eaters, leading to overgrazing",
+        "No effect because other predators take over",
+        "Increase in decomposers"
+      ],
+      "answer": "Too many plant‑eaters, leading to overgrazing",
+      "points": 5
+    },
+    {
+      "id": 18,
+      "type": "mcq",
+      "problemSet": "D: Food Chains, Webs & Population Changes",
+      "question": "A chemical that does not break down and dissolves in fat is sprayed on crops. Which organisms end up with the highest concentration after several months?",
+      "options": [
+        "Crop plants",
+        "Insects that eat the crops",
+        "Birds that eat many insects",
+        "Soil bacteria"
+      ],
+      "answer": "Birds that eat many insects",
+      "points": 10
+    },
+    {
+      "id": 19,
+      "type": "mcq",
+      "problemSet": "E: Relationships (Mutualism, Parasitism, Predator-Prey)",
+      "question": "Which pair best represents mutualism?",
+      "options": [
+        "Tick and dog",
+        "Bee and flower (pollination)",
+        "Lion and zebra",
+        "Mistletoe and oak tree"
+      ],
+      "answer": "Bee and flower (pollination)",
+      "points": 5
+    },
+    {
+      "id": 20,
+      "type": "mcq",
+      "problemSet": "E: Relationships (Mutualism, Parasitism, Predator-Prey)",
+      "question": "A tapeworm living in a human's intestine and absorbing nutrients is an example of:",
+      "options": ["Mutualism", "Commensalism", "Parasitism", "Predation"],
+      "answer": "Parasitism",
+      "points": 5
+    },
+    {
+      "id": 21,
+      "type": "mcq",
+      "problemSet": "E: Relationships (Mutualism, Parasitism, Predator-Prey)",
+      "question": "In a predator‑prey relationship, which pattern is usually seen over time?",
+      "options": [
+        "Predator population always stays higher than prey",
+        "Prey population peaks just after predator peaks",
+        "Both populations cycle, with prey peak followed by predator peak",
+        "Both populations stay constant"
+      ],
+      "answer": "Both populations cycle, with prey peak followed by predator peak",
+      "points": 5
+    },
+    {
+      "id": 22,
+      "type": "mcq",
+      "problemSet": "E: Passage Question – Relationships",
+      "question": "Read the passage:\n\n'A small fish called the clownfish lives among the stinging tentacles of a sea anemone. The clownfish is protected from predators by the anemone's stings. The clownfish cleans the anemone and eats leftover food scraps that would otherwise rot near it.'\n\nWhat type of relationship is this?",
+      "options": ["Parasitism", "Mutualism", "Predator-prey", "Commensalism"],
+      "answer": "Mutualism",
+      "points": 10
+    },
+    {
+      "id": 23,
+      "type": "mcq",
+      "problemSet": "E: Passage Question – Relationships",
+      "question": "Read the passage:\n\n'A cuckoo bird lays its egg in the nest of a warbler. The warbler incubates the egg and feeds the cuckoo chick as if it were its own. The cuckoo chick often pushes the warbler's own eggs out of the nest.'\n\nWhat type of relationship is this?",
+      "options": ["Mutualism", "Commensalism", "Parasitism", "Predation"],
+      "answer": "Parasitism",
+      "points": 10
+    },
+    {
+      "id": 24,
+      "type": "mcq",
+      "problemSet": "F: Adaptations (Behavioural & Structural)",
+      "question": "Which of the following is a behavioural adaptation for avoiding predators?",
+      "options": ["Camouflage (colouring)", "Playing dead", "Sharp spines", "Thick fur"],
+      "answer": "Playing dead",
+      "points": 5
+    },
+    {
+      "id": 25,
+      "type": "mcq",
+      "problemSet": "F: Adaptations (Behavioural & Structural)",
+      "question": "Cacti have spines instead of leaves. This structural adaptation helps them:",
+      "options": [
+        "Stop animals from eating them",
+        "Reduce water loss and deter herbivores",
+        "Make food more efficiently",
+        "Store more water"
+      ],
+      "answer": "Reduce water loss and deter herbivores",
+      "points": 5
+    },
+    {
+      "id": 26,
+      "type": "mcq",
+      "problemSet": "F: Adaptations (Behavioural & Structural)",
+      "question": "A fish living in a dark cave has lost its eyes but has very sensitive taste buds and touch sensors. This is a:",
+      "options": ["Behavioural adaptation", "Structural adaptation", "Learned behaviour", "Mistake of evolution"],
+      "answer": "Structural adaptation",
+      "points": 5
+    },
+    {
+      "id": 27,
+      "type": "mcq",
+      "problemSet": "F: Passage Question – Adaptations",
+      "question": "Read the passage:\n\n'In winter, some squirrels collect and store nuts in many hidden places. In summer, they use their sharp memory to find the nuts.'\n\nWhich type of adaptation is described?",
+      "options": ["Structural adaptation", "Behavioural adaptation", "Physiological adaptation", "Camouflage"],
+      "answer": "Behavioural adaptation",
+      "points": 10
+    },
+    {
+      "id": 28,
+      "type": "mcq",
+      "problemSet": "F: Passage Question – Adaptations",
+      "question": "Read the passage:\n\n'A rattlesnake has heat‑sensing pits on its face that allow it to detect warm‑blooded prey even in complete darkness.'\n\nWhich type of adaptation is this?",
+      "options": ["Structural adaptation", "Behavioural adaptation", "Camouflage", "Migration"],
+      "answer": "Structural adaptation",
+      "points": 10
+    },
+    {
+      "id": 29,
+      "type": "mcq",
+      "problemSet": "G: Nutrient Flow & Decomposers",
+      "question": "What is the main role of decomposers in an ecosystem?",
+      "options": [
+        "To produce oxygen",
+        "To break down dead matter and recycle nutrients",
+        "To eat plants",
+        "To hunt other animals"
+      ],
+      "answer": "To break down dead matter and recycle nutrients",
+      "points": 5
+    },
+    {
+      "id": 30,
+      "type": "mcq",
+      "problemSet": "G: Nutrient Flow & Decomposers",
+      "question": "If all decomposers suddenly disappeared, what would happen?",
+      "options": [
+        "Plants would grow more quickly",
+        "Dead organisms and waste would pile up, and nutrients would not return to the soil",
+        "Energy flow would stop completely",
+        "Predators would become herbivores"
+      ],
+      "answer": "Dead organisms and waste would pile up, and nutrients would not return to the soil",
+      "points": 5
+    },
+    {
+      "id": 31,
+      "type": "mcq",
+      "problemSet": "G: Nutrient Flow & Decomposers",
+      "question": "Match each organism to its role:\n(a) Earthworm eating dead leaves\n(b) Oak tree\n(c) Fox eating a rabbit\n(d) Mushroom breaking down a dead log",
+      "options": [
+        "(a) Feeds on dead matter; (b) Producer; (c) Eats plant‑eaters; (d) Breaks down dead matter",
+        "(a) Breaks down dead matter; (b) Producer; (c) Eats plant‑eaters; (d) Feeds on dead matter",
+        "(a) Eats plants; (b) Producer; (c) Eats plant‑eaters; (d) Breaks down dead matter",
+        "(a) Feeds on dead matter; (b) Producer; (c) Eats plants; (d) Eats plant‑eaters"
+      ],
+      "answer": "(a) Feeds on dead matter; (b) Producer; (c) Eats plant‑eaters; (d) Breaks down dead matter",
+      "points": 10
+    },
+    {
+      "id": 32,
+      "type": "mcq",
+      "problemSet": "H: Mixed Revision",
+      "question": "Which statement about energy flow in a food chain is correct?",
+      "options": [
+        "Energy is recycled like matter",
+        "Most energy is passed from one level to the next",
+        "Only about 10% of energy is passed on; the rest is lost as heat",
+        "Top predators have the most energy"
+      ],
+      "answer": "Only about 10% of energy is passed on; the rest is lost as heat",
+      "points": 5
+    },
+    {
+      "id": 33,
+      "type": "mcq",
+      "problemSet": "H: Mixed Revision",
+      "question": "In a healthy ecosystem, the total energy entering the food chain (from the sun through plants) is approximately equal to:",
+      "options": [
+        "The energy lost as heat from all living things",
+        "The energy stored in all living matter plus energy lost as heat",
+        "The total energy eaten by plant‑eaters",
+        "The weight of top predators"
+      ],
+      "answer": "The energy stored in all living matter plus energy lost as heat",
+      "points": 5
+    },
+    {
+      "id": 34,
+      "type": "mcq",
+      "problemSet": "H: Mixed Revision",
+      "question": "A farmer sprays a chemical that does not break down and dissolves in fat. Which organisms will have the highest concentration after several months?",
+      "options": [
+        "Crop plants",
+        "Insects that eat the crops",
+        "Birds that eat many insects",
+        "Soil bacteria"
+      ],
+      "answer": "Birds that eat many insects",
+      "points": 10
+    },
+    {
+      "id": 35,
+      "type": "mcq",
+      "problemSet": "I: Advanced Application",
+      "question": "In a pond, there are 1,000 kg of floating algae. The tiny animals that eat the algae have a total weight of 150 kg. The small fish that eat the tiny animals have a total weight of 15 kg. The large fish that eat the small fish have a total weight of 1.5 kg. What does this pattern show?",
+      "options": [
+        "Energy is created at each level",
+        "Weight (biomass) decreases at each level because energy is lost",
+        "Producers have the least weight",
+        "Top predators have the most weight"
+      ],
+      "answer": "Weight (biomass) decreases at each level because energy is lost",
+      "points": 10
+    },
+    {
+      "id": 36,
+      "type": "mcq",
+      "problemSet": "I: Advanced Application",
+      "question": "Which of the following is an example of a structural adaptation?",
+      "options": [
+        "Birds migrating south for winter",
+        "A rabbit freezing when it sees a predator",
+        "A cactus storing water in its thick stem",
+        "A dog barking at strangers"
+      ],
+      "answer": "A cactus storing water in its thick stem",
+      "points": 5
+    },
+    {
+      "id": 37,
+      "type": "mcq",
+      "problemSet": "I: Advanced Application",
+      "question": "Read the scenario:\n\n'In a forest, wolves hunt deer. When the wolf population increases, the deer population decreases. Later, with fewer deer, the wolf population drops. Then the deer population can rise again.'\n\nThis is an example of:",
+      "options": [
+        "A predator-prey cycle",
+        "A mutualistic relationship",
+        "Parasitism",
+        "Competition"
+      ],
+      "answer": "A predator-prey cycle",
+      "points": 10
+    },
+    {
+      "id": 38,
+      "type": "mcq",
+      "problemSet": "I: Advanced Application",
+      "question": "Read the passage:\n\n'A lichen is made of a fungus and an alga living together. The fungus provides shelter and water, and the alga makes food by photosynthesis.'\n\nWhat type of relationship is this?",
+      "options": ["Parasitism", "Predation", "Mutualism", "Commensalism"],
+      "answer": "Mutualism",
+      "points": 10
+    },
+    {
+      "id": 39,
+      "type": "mcq",
+      "problemSet": "I: Advanced Application",
+      "question": "Which of the following is a behavioural adaptation?",
+      "options": [
+        "A polar bear's thick fur",
+        "A chameleon's long tongue",
+        "Bats hibernating during winter",
+        "A cactus having spines"
+      ],
+      "answer": "Bats hibernating during winter",
+      "points": 5
+    },
+    {
+      "id": 40,
+      "type": "mcq",
+      "problemSet": "I: Advanced Application - Final",
+      "question": "A food web is more stable than a simple food chain because:",
+      "options": [
+        "It has fewer organisms",
+        "If one species is lost, predators can often eat other prey instead of starving",
+        "Energy transfer is 100% efficient",
+        "Decomposers are not needed"
+      ],
+      "answer": "If one species is lost, predators can often eat other prey instead of starving",
+      "points": 10
+    }
+  ]
+}
